@@ -28,3 +28,13 @@ jobs:
         echo "Starting script..."
         python mergeclean.py
         echo "Script finished."
+
+    - name: Commit and push updated playlist
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add out/MergedCleanPlaylist.m3u8
+        git commit -m "🔄 Auto-update playlist from GitHub Actions" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
