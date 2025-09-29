@@ -236,13 +236,7 @@ def write_merged_playlist(final_channels_to_write):
     sortable_channels = []
 
     for extinf, headers, url in final_channels_to_write:
-        # --- 核心修正 ---
-        # 因为 parse_playlist 已确保 group-title 存在，所以我们可以直接、安全地提取它。
-        # 1. 使用 re.search 查找匹配对象。
         group_match = re.search(r'group-title="([^"]+)"', extinf)
-        
-        # 2. 从匹配对象中提取分组名称字符串。
-        #    这里我们不再需要 if/else 判断，因为我们确信它总是能找到。
         group = group_match.group(1)
 
         try:
@@ -329,6 +323,7 @@ if __name__ == "__main__":
     print(f"\n✨ Merging complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.")
 
     print(f"⏱️ Total execution time: {end_time - start_time:.2f} seconds.")
+
 
 
 
