@@ -17,11 +17,14 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'  # 根据你的脚本需要调整版本
+        python-version: '3.10'
 
     - name: Install dependencies
       run: |
         pip install -r requirements.txt || echo "No requirements.txt found"
 
-    - name: Run mergeclean.py
-      run: python mergeclean.py
+    - name: Run mergeclean.py with debug
+      run: |
+        echo "Starting script..."
+        python mergeclean.py
+        echo "Script finished."
