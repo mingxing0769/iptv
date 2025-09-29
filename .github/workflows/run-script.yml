@@ -1,0 +1,27 @@
+# .github/workflows/run-script.yml
+name: Run IPTV Script Every 4 Hours
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # 每4小时触发一次
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'  # 根据你的脚本需要调整版本
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt || echo "No requirements.txt found"
+
+    - name: Run mergeclean.py
+      run: python mergeclean.py
