@@ -38,6 +38,10 @@ EPG_URL = "http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
 # 输出文件名
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
 
+output_dir = os.path.dirname(OUTPUT_FILE)
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
 # --- 功能开关 ---
 # 是否开启 URL 可用性检测 (会显著增加运行时间)
 CHECK_URLS = True
@@ -313,4 +317,5 @@ if __name__ == "__main__":
 
     end_time = time.time()
     print(f"\n✨ Merging complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.")
+
     print(f"⏱️ Total execution time: {end_time - start_time:.2f} seconds.")
