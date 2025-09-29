@@ -98,7 +98,7 @@ def parse_playlist(lines, source_url="Unknown"):
             extinf = line
             headers = []  # 重置头部信息
 
-        elif line.startswith('#') and extinf:
+        elif line.startswith('#') and extinf and not line.startswith('#EXTINF:'):
             # 3. 遇到其他头部信息（如 #EXTVLCOPT），且我们正处于一个频道块中
             headers.append(line)
 
@@ -110,8 +110,8 @@ def parse_playlist(lines, source_url="Unknown"):
             group_title_match = re.search(r'group-title="([^"]+)"', extinf)
 
             if not group_title_match:
-                # 如果 #EXTINF 中没有 group-title，使用我们从 #EXTGRP 追踪的当前分组
-                # 尝试在最后一个引号后注入，这是一个比较稳妥的位置
+                # 如果 #EXTINF 中没有 group-title，使用从 #EXTGRP 追踪的当前分组
+                # 尝试在最后一个引号后注入，
                 new_extinf, count = re.subn(r'(")(?!.*")', rf'\1 group-title="{current_group}"', extinf,
                                             count=1)
                 if count == 0:  # 如果没有找到引号，就直接追加
@@ -239,7 +239,7 @@ def write_merged_playlist(final_channels_to_write):
         group_match = re.search(r'group-title="([^"]+)"', extinf)
         group = group_match.group(1) if group_match else "Other"
         try:
-            # 使用我们已经标准化过的名称进行排序
+            # 使用已经标准化过的名称进行排序
             title = extinf.rsplit(',', 1)[-1].strip()
         except IndexError:
             title = "Unknown Title"
@@ -317,6 +317,7 @@ if __name__ == "__main__":
     print(f"\n✨ Merging complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.")
 
     print(f"⏱️ Total execution time: {end_time - start_time:.2f} seconds.")
+
 
 
 
