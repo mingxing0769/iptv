@@ -98,8 +98,8 @@ def parse_playlist(lines, source_url="Unknown"):
             extinf = line
             headers = []  # 重置头部信息
 
-        elif line.startswith('#') and extinf and not line.startswith('#EXTINF:'):
-            # 3. 遇到其他头部信息（如 #EXTVLCOPT），且我们正处于一个频道块中
+        elif line.startswith('#') and extinf:
+            # 3. 遇到其他头部信息（如 #EXTVLCOPT），处于一个频道块中
             headers.append(line)
 
         elif extinf and not line.startswith('#'):
@@ -233,11 +233,11 @@ def check_channel_urls(channels_to_check):
 def write_merged_playlist(final_channels_to_write):
     """将最终的频道列表排序并写入文件"""
     lines = [f'#EXTM3U url-tvg="{EPG_URL}"', ""]
+    
     sortable_channels = []
 
     for extinf, headers, url in final_channels_to_write:
-        group_match = re.search(r'group-title="([^"]+)"', extinf)
-        group = group_match.group(1) if group_match else "Other"
+        group = re.search(r'group-title="([^"]+)"', extinf)
         try:
             # 使用已经标准化过的名称进行排序
             title = extinf.rsplit(',', 1)[-1].strip()
@@ -246,19 +246,9 @@ def write_merged_playlist(final_channels_to_write):
         sortable_channels.append((group.lower(), title.lower(), extinf, headers, url))
 
     sorted_channels = sorted(sortable_channels)
-    current_group = None
     total_channels_written = 0
 
     for _, _, extinf, headers, url in sorted_channels:
-        group_match = re.search(r'group-title="([^"]+)"', extinf)
-        actual_group_name = group_match.group(1) if group_match else "Other"
-
-        if actual_group_name != current_group:
-            if current_group is not None:
-                lines.append("")
-            lines.append(f'#EXTGRP:{actual_group_name}')
-            current_group = actual_group_name
-
         lines.append(extinf)
         lines.extend(headers)
         lines.append(url)
@@ -317,7 +307,6 @@ if __name__ == "__main__":
     print(f"\n✨ Merging complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.")
 
     print(f"⏱️ Total execution time: {end_time - start_time:.2f} seconds.")
-
 
 
 
