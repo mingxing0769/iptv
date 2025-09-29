@@ -233,22 +233,45 @@ def check_channel_urls(channels_to_check):
 def write_merged_playlist(final_channels_to_write):
     """将最终的频道列表排序并写入文件"""
     lines = [f'#EXTM3U url-tvg="{EPG_URL}"', ""]
-    
     sortable_channels = []
 
     for extinf, headers, url in final_channels_to_write:
-        group = re.search(r'group-title="([^"]+)"', extinf)
+        # --- 核心修正 ---
+        # 因为 parse_playlist 已确保 group-title 存在，所以我们可以直接、安全地提取它。
+        # 1. 使用 re.search 查找匹配对象。
+        group_match = re.search(r'group-title="([^"]+)"', extinf)
+        
+        # 2. 从匹配对象中提取分组名称字符串。
+        #    这里我们不再需要 if/else 判断，因为我们确信它总是能找到。
+        group = group_match.group(1)
+
         try:
-            # 使用已经标准化过的名称进行排序
+            # 提取频道标题用于排序
             title = extinf.rsplit(',', 1)[-1].strip()
         except IndexError:
             title = "Unknown Title"
+            
+        # 3. 现在可以安全地对 group 字符串调用 .lower()
         sortable_channels.append((group.lower(), title.lower(), extinf, headers, url))
 
+    # 按分组名、再按频道名排序
     sorted_channels = sorted(sortable_channels)
+    
+    current_group = None
     total_channels_written = 0
 
-    for _, _, extinf, headers, url in sorted_channels:
+    for group_lower, _, extinf, headers, url in sorted_channels:
+        # 再次提取实际的分组名（这次是为了写入 #EXTGRP 标签）
+        group_match = re.search(r'group-title="([^"]+)"', extinf)
+        actual_group_name = group_match.group(1)
+
+        # 如果分组名与上一个不同，则写入新的分组标签
+        if actual_group_name != current_group:
+            if current_group is not None:
+                lines.append("") # 在不同分组间添加一个空行，更美观
+            lines.append(f'#EXTGRP:{actual_group_name}')
+            current_group = actual_group_name
+
         lines.append(extinf)
         lines.extend(headers)
         lines.append(url)
@@ -265,7 +288,6 @@ def write_merged_playlist(final_channels_to_write):
     print(f"\n✅ Merged playlist written to {OUTPUT_FILE}.")
     print(f"📊 Total channels written: {total_channels_written}.")
     print(f"📝 Total lines in output file: {len(final_output_string.splitlines())}.")
-
 
 if __name__ == "__main__":
     start_time = time.time()
@@ -307,6 +329,7 @@ if __name__ == "__main__":
     print(f"\n✨ Merging complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.")
 
     print(f"⏱️ Total execution time: {end_time - start_time:.2f} seconds.")
+
 
 
 
