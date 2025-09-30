@@ -131,64 +131,6 @@ def parse_playlist(lines, source_url="Unknown"):
     return channels
 
 
-def normalize_title(title):
-    """
-    移除频道名称中的清晰度、来源等标识，实现同名化。
-    例如: 'ESPN HD' -> 'ESPN', 'Fox Sports 501 FHD' -> 'Fox Sports 501'
-    """
-    # 定义要移除的关键词列表，\b确保匹配的是完整单词
-    indicators = [
-        r'\bFHD\b', r'\bHD\b', r'\bSD\b', r'\bUHD\b', r'\b4K\b', r'\b2K\b', r'\b8K\b',
-
-    ]
-
-    normalized = title
-    for indicator in indicators:
-        normalized = re.sub(indicator, '', normalized, flags=re.IGNORECASE)
-
-    # 清理可能留下的多余空格、末尾的连字符或括号
-    normalized = re.sub(r'[\s\-_|(\[\]]+$', '', normalized).strip()
-    # 将多个连续空格合并为一个
-    normalized = ' '.join(normalized.split())
-
-    return normalized if normalized else title
-
-
-def process_and_normalize_channels(all_channels_list):
-    """
-    核心处理函数：
-    1. 基于URL进行精确去重。
-    2. 对频道名称进行标准化处理。
-    """
-    print("\n🔍 Starting normalization and de-duplication process...")
-
-    processed_urls = set()
-    final_channels = []
-
-    for extinf, headers, url in tqdm(all_channels_list, desc="Processing Channels"):
-        # 1. URL去重：如果这个流地址已经处理过，就跳过
-        if url in processed_urls:
-            continue
-        processed_urls.add(url)
-
-        # 2. 名称标准化
-        try:
-            info_part, original_title = extinf.rsplit(',', 1)
-            original_title = original_title.strip()
-        except ValueError:
-            # 跳过格式不正确的 #EXTINF 行
-            continue
-
-        normalized_display_title = normalize_title(original_title)
-
-        # 重新构建 #EXTINF 行，只更新末尾的显示名称
-        new_extinf = f"{info_part},{normalized_display_title}"
-
-        final_channels.append((new_extinf, headers, url))
-
-    print(f"✅ Kept {len(final_channels)} unique channels after processing.")
-    return final_channels
-
 
 def is_nsfw(extinf, headers, url):
     """检查频道条目是否包含NSFW关键词"""
@@ -244,13 +186,12 @@ def write_merged_playlist(final_channels_to_write):
             title = extinf.rsplit(',', 1)[-1].strip()
         except IndexError:
             title = "Unknown Title"
-            
-        # 3. 现在可以安全地对 group 字符串调用 .lower()
+       
         sortable_channels.append((group.lower(), title.lower(), extinf, headers, url))
 
     # 按分组名、再按频道名排序
     sorted_channels = sorted(sortable_channels)
-    
+
     current_group = None
     total_channels_written = 0
 
@@ -262,7 +203,7 @@ def write_merged_playlist(final_channels_to_write):
         # 如果分组名与上一个不同，则写入新的分组标签
         if actual_group_name != current_group:
             if current_group is not None:
-                lines.append("") # 在不同分组间添加一个空行，更美观
+                lines.append("")  # 在不同分组间添加一个空行，更美观
             lines.append(f'#EXTGRP:{actual_group_name}')
             current_group = actual_group_name
 
@@ -283,11 +224,12 @@ def write_merged_playlist(final_channels_to_write):
     print(f"📊 Total channels written: {total_channels_written}.")
     print(f"📝 Total lines in output file: {len(final_output_string.splitlines())}.")
 
+
 if __name__ == "__main__":
     start_time = time.time()
     print(f"🚀 Starting playlist merge at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}...")
 
-    # 1. 获取所有源的原始频道数据
+    #  获取所有源的原始频道数据
     raw_channels_list = []
     for url in playlist_urls:
         lines = fetch_playlist(url)
@@ -295,12 +237,9 @@ if __name__ == "__main__":
             parsed_channels = parse_playlist(lines, source_url=url)
             raw_channels_list.extend(parsed_channels)
 
-    # 2. 统一处理：URL去重和名称标准化
-    processed_channels = process_and_normalize_channels(raw_channels_list)
-
-    # 3. 过滤NSFW内容
-    non_nsfw_channels = [entry for entry in processed_channels if not is_nsfw(*entry)]
-    removed_nsfw_count = len(processed_channels) - len(non_nsfw_channels)
+    #  过滤NSFW内容
+    non_nsfw_channels = [entry for entry in raw_channels_list if not is_nsfw(*entry)]
+    removed_nsfw_count = len(raw_channels_list) - len(non_nsfw_channels)
     if removed_nsfw_count > 0:
         print(f"🗑️ Filtered out {removed_nsfw_count} NSFW channels.")
 
@@ -323,6 +262,7 @@ if __name__ == "__main__":
     print(f"\n✨ Merging complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.")
 
     print(f"⏱️ Total execution time: {end_time - start_time:.2f} seconds.")
+
 
 
 
