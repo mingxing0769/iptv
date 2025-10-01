@@ -149,7 +149,7 @@ def is_url_accessible(channel_data):
     """
     extinf, headers, url = channel_data
     try:
-        response = requests.head(url, timeout=URL_TIMEOUT, allow_redirects=True, headers={"User-Agent": "Mozilla/5.0"})
+        response = requests.head(url, timeout=URL_TIMEOUT, allow_redirects=True, headers={"User-Agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"})
         if 200 <= response.status_code < 400:
             return channel_data
     except (requests.exceptions.Timeout, requests.exceptions.RequestException):
@@ -262,6 +262,7 @@ if __name__ == "__main__":
     print(f"\n✨ Merging complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.")
 
     print(f"⏱️ Total execution time: {end_time - start_time:.2f} seconds.")
+
 
 
 
