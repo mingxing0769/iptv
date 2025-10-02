@@ -3,7 +3,7 @@ import gzip
 import requests
 import xml.etree.ElementTree as ET
 
-EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive2.xml.gz"
+EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive2.xml.gz"
 TMP_PATH = "out/DrewLive2_tmp.xml.gz"
 SAVE_PATH = "out/DrewLive2.xml.gz"
 PLAYLIST_PATH = "out/MergedCleanPlaylist.m3u8"
