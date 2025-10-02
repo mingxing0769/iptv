@@ -1,99 +1,132 @@
-import os
+# utils/epg.py
 import gzip
-import requests
+import os
 import xml.etree.ElementTree as ET
-from xml.dom import minidom
-from datetime import datetime
 
-EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
-TMP_PATH = "out/DrewLive2_tmp.xml.gz"
-XML_PATH = "out/DrewLive2_clean.xml"
-SAVE_PATH = "out/DrewLive2.xml.gz"
-PLAYLIST_PATH = "out/MergedCleanPlaylist.m3u8"
+import requests
+
+# --- 路径配置 ---
+# 自动计算项目根目录，让路径在任何地方运行都正确
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+OUT_DIR = os.path.join(PROJECT_ROOT, "out")
+
+# EPG 源地址
+EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive2.xml.gz"
+
+# 定义输入和输出文件路径
+PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
+TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml.gz")
+FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive2.xml.gz")
+
 
 def download_epg():
-    print("📥 下载 EPG 文件中...")
+    """下载 EPG 文件到临时位置。"""
+    print(f"📥  Downloading EPG from {EPG_URL}...")
     try:
-        response = requests.get(EPG_URL, timeout=30)
+        response = requests.get(EPG_URL, timeout=60)
         response.raise_for_status()
-        with open(TMP_PATH, "wb") as f:
+
+        # 确保输出目录存在
+        os.makedirs(OUT_DIR, exist_ok=True)
+
+        with open(TMP_EPG_PATH, "wb") as f:
             f.write(response.content)
-        print("✅ 下载成功")
+        print("✅ EPG downloaded successfully.")
         return True
-    except Exception as e:
-        print(f"❌ 下载失败：{e}")
+    except requests.exceptions.RequestException as e:
+        print(f"❌ EPG download failed: {e}")
         return False
 
-def extract_valid_ids():
-    ids = set()
+
+def extract_valid_ids_from_playlist():
+    """从合并后的播放列表中提取所有有效的 tvg-id。"""
+    valid_ids = set()
     try:
         with open(PLAYLIST_PATH, "r", encoding="utf-8") as f:
             for line in f:
-                if "tvg-id=" in line:
-                    start = line.find('tvg-id="') + 8
+                if 'tvg-id="' in line:
+                    # 使用更稳健的方式提取 ID
+                    start = line.find('tvg-id="') + len('tvg-id="')
                     end = line.find('"', start)
-                    ids.add(line[start:end])
-        print(f"🔍 提取频道 ID 共 {len(ids)} 个")
+                    if end != -1:
+                        channel_id = line[start:end].strip()
+                        if channel_id:
+                            valid_ids.add(channel_id)
+        print(f"🔍 Found {len(valid_ids)} unique channel IDs in the playlist.")
+    except FileNotFoundError:
+        print(f"❌ Playlist file not found at: {PLAYLIST_PATH}")
     except Exception as e:
-        print(f"❌ 无法读取频道列表：{e}")
-    return ids
+        print(f"❌ Error reading playlist file: {e}")
+    return valid_ids
 
 
-def clean_epg():
-    print("🧹 清理 EPG 内容中...")
+def clean_and_compress_epg():
+    """
+    清理 EPG 内容，只保留有效频道的节目单，并直接生成最终的压缩文件。
+    """
+    valid_ids = extract_valid_ids_from_playlist()
+    if not valid_ids:
+        print("⚠️ No valid channel IDs found. Aborting EPG cleaning.")
+        return
+
+    print("🧹 Cleaning EPG content...")
     try:
-        with gzip.open(TMP_PATH, "rb") as f:
+        with gzip.open(TMP_EPG_PATH, "rb") as f:
             xml_data = f.read()
-        root = ET.fromstring(xml_data)
-        valid_ids = extract_valid_ids()
 
-        new_root = ET.Element("tv", attrib={"date": datetime.now().strftime("%Y%m%d%H%M%S +0800")})
+        original_root = ET.fromstring(xml_data)
 
-        # 保留频道定义
-        for channel in root.findall("channel"):
-            cid = channel.attrib.get("id")
-            if cid in valid_ids:
-                ch_elem = ET.SubElement(new_root, "channel", {"id": cid})
-                name = channel.find("display-name")
-                if name is not None:
-                    name_elem = ET.SubElement(ch_elem, "display-name", {"lang": "en"})
-                    name_elem.text = name.text
+        # 创建一个新的 XML 根元素
+        new_root = ET.Element("tv")
 
-        # 保留节目内容
-        for prog in root.findall("programme"):
-            cid = prog.attrib.get("channel")
-            if cid in valid_ids:                
-                new_prog = ET.Element("programme", prog.attrib)
-                title = prog.find("title")
-                desc = prog.find("desc")
-                if title is not None:
-                    ET.SubElement(new_prog, "title", {"lang": "en"}).text = title.text
-                if desc is not None:
-                    ET.SubElement(new_prog, "desc", {"lang": "en"}).text = desc.text
-                new_root.append(new_prog)
+        # 复制原始 EPG 的 date 属性（如果存在）
+        if 'date' in original_root.attrib:
+            new_root.set('date', original_root.get('date'))
 
-        # 美化并保存 XML
-        xml_str = ET.tostring(new_root, encoding="utf-8")
-        pretty_xml = minidom.parseString(xml_str).toprettyxml(indent="  ", newl="\n")
-        with open(XML_PATH, "w", encoding="utf-8") as f:
-            f.write(pretty_xml)
+        # 1. 保留有效的频道定义 <channel>
+        for channel_node in original_root.findall("channel"):
+            if channel_node.get("id") in valid_ids:
+                new_root.append(channel_node)
 
-        # 压缩为 .gz
-        with open(XML_PATH, "rb") as f_in, gzip.open(SAVE_PATH, "wb") as f_out:
-            f_out.write(f_in.read())
+        # 2. 保留有效频道的节目单 <programme>
+        for programme_node in original_root.findall("programme"):
+            if programme_node.get("channel") in valid_ids:
+                new_root.append(programme_node)
 
-        print("✅ 清理完成，已保存压缩版 EPG")
+        # 3. 在内存中生成 XML 字符串，并直接压缩
+        # xml_declaration=True 会自动添加 <?xml version='1.0' encoding='utf-8'?>
+        xml_str_in_memory = ET.tostring(new_root, encoding="utf-8", xml_declaration=True)
+
+        with gzip.open(FINAL_EPG_PATH, "wb") as f_out:
+            f_out.write(xml_str_in_memory)
+
+        print(f"✅ EPG cleaning complete. Saved to {FINAL_EPG_PATH}")
+
+    except FileNotFoundError:
+        print(f"❌ Temporary EPG file not found: {TMP_EPG_PATH}. Was the download successful?")
+    except ET.ParseError as e:
+        print(f"❌ Failed to parse XML from EPG file: {e}")
     except Exception as e:
-        print(f"❌ 清理失败：{e}")
+        print(f"❌ An unexpected error occurred during EPG cleaning: {e}")
+
 
 def main():
-    print("🚀 启动 epg_getcher")
-    if download_epg():
-        clean_epg()
-        os.remove(TMP_PATH)
-        os.remove(XML_PATH)
-    else:
-        print("⚠️ 跳过清理，因下载失败")
+    print("🚀 Starting EPG processing...")
+
+    # 步骤 1: 下载 EPG 文件
+    if not download_epg():
+        print("⚠️ Skipping cleaning process due to download failure.")
+        return
+
+    # 步骤 2: 清理并生成最终文件
+    try:
+        clean_and_compress_epg()
+    finally:
+        # 步骤 3: 无论成功与否，都清理临时文件
+        if os.path.exists(TMP_EPG_PATH):
+            os.remove(TMP_EPG_PATH)
+            print(f"🗑️ Temporary file {TMP_EPG_PATH} deleted.")
 
 if __name__ == "__main__":
     main()
