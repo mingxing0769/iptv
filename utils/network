@@ -1,0 +1,20 @@
+# utils/network.py
+import requests
+import time
+
+def fetch_playlist_content(url, retries=3, timeout=15):
+    """获取并返回播放列表内容（文本）"""
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+}
+    for attempt in range(1, retries + 1):
+        try:
+            print(f"Attempting to fetch {url} (try {attempt})...")
+            res = requests.get(url, timeout=timeout, headers=headers)
+            res.raise_for_status()
+            print(f"✅ Successfully fetched {url}")
+            return res.text
+        except Exception as e:
+            print(f"❌ Attempt {attempt} failed for {url}: {e}")
+            time.sleep(2)
+    print(f"⚠️ Skipping {url} after {retries} failed attempts.")
+    return ""
