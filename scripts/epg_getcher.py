@@ -87,8 +87,7 @@ def main():
     print("🚀 启动 epg_getcher")
     if download_epg():
         clean_epg()
-        os.remove(TMP_PATH)
-        os.remove(XML_PATH)
+        os.remove(TMP_PATH)        
     else:
         print("⚠️ 跳过清理，因下载失败")
 
