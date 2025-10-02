@@ -21,7 +21,7 @@ OUT_DIR = os.path.join(PROJECT_ROOT, "out")
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
 TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml.gz")
-FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive2.xml.gz")
+FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive3.xml.gz")
 
 def download_epg():
     """下载 EPG 文件到临时位置。"""
