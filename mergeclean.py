@@ -1,273 +1,170 @@
-import requests
-import re
-import time
-from datetime import datetime
-import concurrent.futures
-from tqdm import tqdm
+# merge_playlists.py
 import os
+import re
+from datetime import datetime
+
+from tqdm import tqdm
+
+import config.filter_keywords
+from config.sources_urls import playlist_urls
+from utils.network import fetch_playlist_content
+from utils.m3u_parse import parse_m3u
+
 
 # --- 配置区 ---
-# 播放列表源
-playlist_urls = [
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DaddyLive.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DaddyLiveEvents.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DrewAll.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/JapanTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/PlexTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/PlutoTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/TubiTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DrewLiveVOD.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/TVPass.m3u",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/Radio.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/Roku.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/TheTVApp.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/LGTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/AriaPlus.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/LocalNowTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PPVLand.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/SamsungTVPlus.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/Xumo.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/FSTV24.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/MoveOnJoy.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/A1x.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/StreamedSU.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/SportsWebcast.m3u8"
-]
-
-# EPG 电子节目单地址
 EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive2.xml.gz"
-
-# 输出文件名
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
-os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-
-# --- 功能开关 ---
-# 是否开启 URL 可用性检测 (会显著增加运行时间)
-CHECK_URLS = True
-# 检测时的超时时间 (秒)
-URL_TIMEOUT = 5
-# 检测时使用的最大线程数
-MAX_WORKERS = 20
 
 
-def fetch_playlist(url, retries=3, timeout=15):
-    """获取并返回播放列表内容"""
-    headers = {"User-Agent": "Mozilla/5.0"}
-    for attempt in range(1, retries + 1):
-        try:
-            print(f"Attempting to fetch {url} (try {attempt})...")
-            res = requests.get(url, timeout=timeout, headers=headers)
-            res.raise_for_status()
-            print(f"✅ Successfully fetched {url}")
-            return res.text.strip().splitlines()
-        except Exception as e:
-            print(f"❌ Attempt {attempt} failed for {url}: {e}")
-            time.sleep(2)
-    print(f"⚠️ Skipping {url} after {retries} failed attempts.")
-    return []
+
+def is_nsfw(group_title, title):
+    """检查频道的 group-title 或 title 是否包含 NSFW 关键词。"""
+    # 从配置文件导入 nsfw_keywords
+    nsfw_keywords = nsfw_keywords = ['nsfw', 'xxx', 'porn', 'adult']
+    # 将分组和标题合并为一个字符串，并转为小写，方便不区分大小写地搜索
+    text_to_check = f"{group_title} {title}".lower()
+    return any(keyword in text_to_check for keyword in nsfw_keywords)
 
 
-def parse_playlist(lines, source_url="Unknown"):
+def normalize_title(title):
     """
-    一个健壮的M3U解析器，使用状态机模型处理频道和分组。
-    - 正确处理 #EXTGRP 上下文。
-    - 只有当一个频道同时拥有 #EXTINF 和 URL 时才被视为有效。
-    - 自动为缺少 group-title 的频道补充分组信息。
+    精确匹配替换
+    :param title: 文本
+    :return: 文本
     """
-    channels = []
-    current_group = "Other"  # 默认分组
+    indicators = config.filter_keywords.indicators
+    normalized = title
+    for indicator in indicators:
+        normalized = re.sub(indicator, '', normalized, flags=re.IGNORECASE)
+    normalized = re.sub(r'[\s\-_|(\[\]]+$', '', normalized).strip()
+    normalized = ' '.join(normalized.split())
+    return normalized if normalized else title
 
-    # 临时存储当前正在解析的频道信息
-    extinf = None
-    headers = []
 
-    for line in lines:
-        line = line.strip()
-        if not line:
+def process_and_normalize_channels(all_channels_list):
+    """
+    对频道列表进行规范化、去重和统一化处理。
+    1. 过滤掉 NSFW 内容。
+    2. 过滤掉 (url, group_title) 完全重复的条目。
+    3. 对频道标题进行规范化 (例如，移除 HD, FHD 等)。
+    4. 对于同一分组内规范化后标题相同的频道，统一其 tvg-id, tvg-name, tvg-logo。
+       这有助于后续 EPG 的匹配。
+    """
+    print("\n🔍 Starting normalization, de-duplication, and unification process...")
+
+    processed_urls = set()
+    # 用于存储每个 (group, normalized_title) 组合的“主”TVG信息
+    master_tvg_info = {}
+    final_channels = []
+    nsfw_count = 0
+
+    for tvg_name, tvg_id, tvg_logo, group_title, title, headers, url in tqdm(all_channels_list,
+                                                                             desc="Processing & Unifying"):
+        # 步骤 1: 检查是否为 NSFW 内容，如果是则跳过
+        if is_nsfw(group_title, title):
+            nsfw_count += 1
             continue
 
-        if line.startswith('#EXTGRP:'):
-            # 1. 遇到新的分组定义
-            current_group = line.split(':', 1)[-1].strip()
-            # 一个新的分组开始，意味着上一个不完整的频道（如果有的话）应该被丢弃
-            extinf = None
-            headers = []
+        # 步骤 2: 过滤掉 (url, group_title) 完全重复的条目
+        if (url, group_title) in processed_urls:
+            continue
+        processed_urls.add((url, group_title))
 
-        elif line.startswith('#EXTINF:'):
-            # 2. 遇到新的频道信息行
-            # 如果之前有一个待处理的频道但没有URL，它将被这个新的#EXTINF覆盖（即丢弃）
-            extinf = line
-            headers = []  # 重置头部信息
+        # 步骤 3: 规范化标题
+        normalized_title = normalize_title(title.strip())
+        key = (group_title, normalized_title)
 
-        elif line.startswith('#') and extinf:
-            # 3. 遇到其他头部信息（如 #EXTVLCOPT），处于一个频道块中
-            headers.append(line)
+        # 步骤 4: 检查并统一 TVG 信息
+        if key not in master_tvg_info:
+            # 如果是第一次遇到这个 (分组, 标题) 组合，
+            # 就将它的 TVG 信息存为“主”信息。
+            master_tvg_info[key] = (tvg_name, tvg_id, tvg_logo)
 
-        elif extinf and not line.startswith('#'):
-            # 4. 遇到一个非'#'开头的行，这应该是URL
-            url_line = line
+        # 获取该组合的“主”TVG信息
+        master_tvg_name, master_tvg_id, master_tvg_logo = master_tvg_info[key]
 
-            # 检查 #EXTINF 行是否已有 group-title
-            group_title_match = re.search(r'group-title="([^"]+)"', extinf)
+        # 步骤 5: 使用统一后的信息构建最终的频道数据
+        unified_channel = (
+            master_tvg_name,
+            master_tvg_id,
+            master_tvg_logo,
+            group_title,
+            normalized_title,
+            headers,
+            url
+        )
+        final_channels.append(unified_channel)
 
-            if not group_title_match:
-                # 如果 #EXTINF 中没有 group-title，使用从 #EXTGRP 追踪的当前分组
-                # 尝试在最后一个引号后注入，
-                new_extinf, count = re.subn(r'(")(?!.*")', rf'\1 group-title="{current_group}"', extinf,
-                                            count=1)
-                if count == 0:  # 如果没有找到引号，就直接追加
-                    new_extinf = f'{extinf} group-title="{current_group}"'
-            else:
-                # 如果 #EXTINF 中已有 group-title，则使用它自己的
-                new_extinf = extinf
-
-            # 添加完整频道记录
-            channels.append((new_extinf, tuple(headers), url_line))
-
-            # 重置状态，准备解析下一个频道
-            extinf = None
-            headers = []
-
-    print(f"✅ Parsed {len(channels)} valid channel entries from {source_url}.")
-    return channels
-
-
-
-def is_nsfw(extinf, headers, url):
-    """检查频道条目是否包含NSFW关键词"""
-    nsfw_keywords = ['nsfw', 'xxx', 'porn', 'adult']
-    combined_text = f"{extinf.lower()} {' '.join(headers).lower()} {url.lower()}"
-    group_match = re.search(r'group-title="([^"]+)"', extinf.lower())
-    if group_match and any(k in group_match.group(1) for k in nsfw_keywords):
-        return True
-    return any(k in combined_text for k in nsfw_keywords)
-
-
-def is_url_accessible(channel_data):
-    """
-    检查单个URL是否可访问。
-    如果可访问，返回原始频道数据；否则返回None。
-    """
-    extinf, headers, url = channel_data
-    try:
-        response = requests.head(url, timeout=URL_TIMEOUT, allow_redirects=True, headers={"User-Agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"})
-        if 200 <= response.status_code < 400:
-            return channel_data
-    except (requests.exceptions.Timeout, requests.exceptions.RequestException):
-        pass
-    return None
-
-
-def check_channel_urls(channels_to_check):
-    """使用多线程并行检查所有频道的URL可用性。"""
-    accessible_channels = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_url = {executor.submit(is_url_accessible, data): data for data in channels_to_check}
-
-        for future in tqdm(concurrent.futures.as_completed(future_to_url), total=len(channels_to_check),
-                           desc="Checking URLs"):
-            result = future.result()
-            if result:
-                accessible_channels.append(result)
-
-    return accessible_channels
+    if nsfw_count > 0:
+        print(f"🚫 Filtered out {nsfw_count} NSFW channels.")
+    print(f"✅ Kept {len(final_channels)} channels after processing and unification.")
+    return final_channels
 
 
 def write_merged_playlist(final_channels_to_write):
-    """将最终的频道列表排序并写入文件"""
+
     lines = [f'#EXTM3U url-tvg="{EPG_URL}"', ""]
-    sortable_channels = []
-
-    for extinf, headers, url in final_channels_to_write:
-        group_match = re.search(r'group-title="([^"]+)"', extinf)
-        group = group_match.group(1)
-
-        try:
-            # 提取频道标题用于排序
-            title = extinf.rsplit(',', 1)[-1].strip()
-        except IndexError:
-            title = "Unknown Title"
-       
-        sortable_channels.append((group.lower(), title.lower(), extinf, headers, url))
-
-    # 按分组名、再按频道名排序
-    sorted_channels = sorted(sortable_channels)
+    sorted_channels = sorted(
+        final_channels_to_write,
+        key=lambda channel: (str(channel[3]).lower(), str(channel[4]).lower())
+    )
 
     current_group = None
-    total_channels_written = 0
+    for channel_data in sorted_channels:
+        # 解包元组以获取所需数据
+        tvg_name, tvg_id, tvg_logo, group, title, headers, url = channel_data
 
-    for group_lower, _, extinf, headers, url in sorted_channels:
-        # 再次提取实际的分组名（这次是为了写入 #EXTGRP 标签）
-        group_match = re.search(r'group-title="([^"]+)"', extinf)
-        actual_group_name = group_match.group(1)
-
-        # 如果分组名与上一个不同，则写入新的分组标签
-        if actual_group_name != current_group:
+        # --- 修正：使用原始的 group 名称，而不是小写版本 ---
+        if group != current_group:
             if current_group is not None:
-                lines.append("")  # 在不同分组间添加一个空行，更美观
-            lines.append(f'#EXTGRP:{actual_group_name}')
-            current_group = actual_group_name
+                lines.append("")
+            lines.append(f'#EXTGRP:{group}')
+            current_group = group
 
-        lines.append(extinf)
+        # --- 修正：构建正确的 #EXTINF 行 ---
+        # 1. 处理可能为空的属性
+        # 2. 确保逗号在引号外部
+        extinf_parts = ['#EXTINF:-1']
+        if tvg_id: extinf_parts.append(f'tvg-id="{tvg_id}"')
+        if tvg_name: extinf_parts.append(f'tvg-name="{tvg_name}"')
+        if tvg_logo: extinf_parts.append(f'tvg-logo="{tvg_logo}"')
+        if group: extinf_parts.append(f'group-title="{group}"')
+
+        # 将属性部分用空格连接，然后加上逗号和标题
+        extinf_line = ' '.join(extinf_parts) + f',{title}'
+
+        lines.append(extinf_line)
         lines.extend(headers)
         lines.append(url)
-        total_channels_written += 1
-
-    if lines and lines[-1] == "":
-        lines.pop()
 
     final_output_string = '\n'.join(lines) + '\n'
-
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(final_output_string)
-
     print(f"\n✅ Merged playlist written to {OUTPUT_FILE}.")
-    print(f"📊 Total channels written: {total_channels_written}.")
-    print(f"📝 Total lines in output file: {len(final_output_string.splitlines())}.")
+    print(f"📊 Total channels written: {len(final_channels_to_write)}.")
+
+
+def main():
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    start_time = datetime.now()
+    print(f"🚀 Starting playlist merge at {start_time.strftime('%Y-%m-%d %H:%M:%S')}...")
+
+    channel_data = []
+    for url in playlist_urls:
+        content = fetch_playlist_content(url)
+        if content:
+            parsed_channels = parse_m3u(content)
+            print(f"✅ Parsed {len(parsed_channels)} valid channel entries from {url}.")
+            channel_data.extend(parsed_channels)
+
+    processed_channels = process_and_normalize_channels(channel_data)
+    write_merged_playlist(processed_channels)
+
+    end_time = datetime.now()
+    print(f"\n✨ Merging complete at {end_time.strftime('%Y-%m-%d %H:%M:%S')}.")
+    print(f"⏱️ Total execution time: {(end_time - start_time).total_seconds():.2f} seconds.")
 
 
 if __name__ == "__main__":
-    start_time = time.time()
-    print(f"🚀 Starting playlist merge at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}...")
-
-    #  获取所有源的原始频道数据
-    raw_channels_list = []
-    for url in playlist_urls:
-        lines = fetch_playlist(url)
-        if lines:
-            parsed_channels = parse_playlist(lines, source_url=url)
-            raw_channels_list.extend(parsed_channels)
-
-    #  过滤NSFW内容
-    non_nsfw_channels = [entry for entry in raw_channels_list if not is_nsfw(*entry)]
-    removed_nsfw_count = len(raw_channels_list) - len(non_nsfw_channels)
-    if removed_nsfw_count > 0:
-        print(f"🗑️ Filtered out {removed_nsfw_count} NSFW channels.")
-
-    # 4. 可选的URL可用性检测
-    if CHECK_URLS:
-        print("\n🌐 Starting URL accessibility check (this may take a while)...")
-        final_list_to_write = check_channel_urls(non_nsfw_channels)
-        inaccessible_count = len(non_nsfw_channels) - len(final_list_to_write)
-        print(f"\n👍 Found {len(final_list_to_write)} accessible channels.")
-        if inaccessible_count > 0:
-            print(f"🗑️ Removed {inaccessible_count} inaccessible or timed-out channels.")
-    else:
-        print("\n⚠️ URL accessibility check is disabled. Skipping.")
-        final_list_to_write = non_nsfw_channels
-
-    # 5. 写入最终文件
-    write_merged_playlist(final_list_to_write)
-
-    end_time = time.time()
-    print(f"\n✨ Merging complete at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.")
-
-    print(f"⏱️ Total execution time: {end_time - start_time:.2f} seconds.")
-
-
-
-
-
-
-
-
+    # 对config/sources_urls 中的源进行合并操作
+    main()
