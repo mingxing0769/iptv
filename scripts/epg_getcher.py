@@ -2,9 +2,9 @@ import os
 import hashlib
 import requests
 
-EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
-SAVE_PATH = "out/DrewLive3.xml.gz"
-TMP_PATH = "out/DrewLive3.tmp.gz"
+EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive2.xml.gz"
+SAVE_PATH = "out/DrewLive2.xml.gz"
+TMP_PATH = "out/DrewLive2.tmp.gz"
 
 def file_hash(path):
     if not os.path.exists(path):
@@ -13,8 +13,8 @@ def file_hash(path):
         return hashlib.md5(f.read()).hexdigest()
 
 def download_epg():
-    try:
-        print("尝试下载 EPG 文件...")
+    print("尝试下载 EPG 文件...")
+    try:        
         response = requests.get(EPG_URL, timeout=30)
         if response.status_code == 200:
             with open(TMP_PATH, "wb") as f:
