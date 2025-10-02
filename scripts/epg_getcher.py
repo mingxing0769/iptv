@@ -12,11 +12,16 @@ import requests
 # EPG 源地址
 EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
 
-# 定义输入和输出文件路径
-PLAYLIST_PATH = "out/MergedCleanPlaylist.m3u8"
-TMP_EPG_PATH = "out/epg_temp.xml.gz"
-FINAL_EPG_PATH = "out/DrewLive2.xml.gz"
+# --- 路径配置 ---
+# 自动计算项目根目录，让路径在任何地方运行都正确
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+OUT_DIR = os.path.join(PROJECT_ROOT, "out")
 
+# 定义输入和输出文件路径
+PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
+TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml.gz")
+FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive2.xml.gz")
 
 def download_epg():
     """下载 EPG 文件到临时位置。"""
