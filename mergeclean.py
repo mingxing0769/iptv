@@ -2,26 +2,26 @@
 import os
 import re
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from tqdm import tqdm
 
-from utils.filter_keywords import Indicators_key,Category_Key,Nsfw_Key
+from utils.filter_keywords import Indicators_key, Category_Key, Nsfw_Key
 from config.sources_urls import playlist_urls
 from utils.network import fetch_playlist_content, is_url_accessible
 from utils.m3u_parse import parse_m3u
-
-
 
 # --- 配置区 ---
 EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive2.xml.gz"
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
 CategoryFilter = True
+# 并发检查URL时的最大线程数，可以根据你的网络和CPU情况调整
+MAX_WORKERS_URL_CHECK = 100
+
 
 def is_nsfw(group_title, title):
     """检查频道的 group-title 或 title 是否包含 NSFW 关键词。"""
-    # 从配置文件导入 Nsfw_Key
     nsfw_keywords = Nsfw_Key
-    # 将分组和标题合并为一个字符串，并转为小写，方便不区分大小写地搜索
     text_to_check = f"{group_title} {title}".lower()
     return any(keyword in text_to_check for keyword in nsfw_keywords)
 
@@ -41,81 +41,104 @@ def normalize_title(title):
     return normalized if normalized else title
 
 
-def process_and_normalize_channels(all_channels_list):
+def check_urls_concurrently(channels_to_check):
+    """
+    使用多线程并发检查频道URL的可访问性。
+
+    Args:
+        channels_to_check (list): 待检查的频道列表。
+
+    Returns:
+        list: 包含所有可访问频道的列表。
+    """
+    print(
+        f"\n🚀 Starting concurrent URL accessibility check for {len(channels_to_check)} channels (up to {MAX_WORKERS_URL_CHECK} workers)...")
+    accessible_channels = []
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS_URL_CHECK) as executor:
+        # 创建 future 到 channel_data 的映射
+        future_to_channel = {executor.submit(is_url_accessible, channel[-1], 15): channel for channel in
+                             channels_to_check}
+
+        # 使用 tqdm 显示进度
+        for future in tqdm(as_completed(future_to_channel), total=len(channels_to_check), desc="Checking URLs"):
+            channel_data = future_to_channel[future]
+            try:
+                if future.result():
+                    accessible_channels.append(channel_data)
+            except Exception:
+                # 发生任何异常（如超时）都认为URL不可访问
+                pass
+
+    inaccessible_count = len(channels_to_check) - len(accessible_channels)
+    print(f"✓ Accessible channels: {len(accessible_channels)}")
+    if inaccessible_count > 0:
+        print(f"✗ Inaccessible or timed-out channels: {inaccessible_count}")
+    return accessible_channels
+
+
+def process_and_normalize_channels(accessible_channels):
     """
     对频道列表进行规范化、去重和统一化处理。
-    1. 过滤掉 NSFW 内容。
-    2. 过滤掉 (url, group_title) 完全重复的条目。
-    3. 对频道标题进行规范化 (例如，移除 HD, FHD 等)。
-    4. 对于同一分组内规范化后标题相同的频道，统一其 tvg-id, tvg-name, tvg-logo。
-       这有助于后续 EPG 的匹配。
+    - 过滤 NSFW 内容和非指定分类。
+    - 过滤 (url, group_title) 完全重复的条目。
+    - 规范化频道标题。
+    - 统一同一分组内同名频道的 TVG 信息。
     """
-    print("\n🔍 Starting normalization, de-duplication, and unification process...")
+    print("\n🔍 Starting data normalization, de-duplication, and unification...")
 
     processed_urls = set()
-    # 用于存储每个 (group, normalized_title) 组合的“主”TVG信息
     master_tvg_info = {}
     final_channels = []
-    filtered = 0
+    filtered_count = 0
 
-    for tvg_name, tvg_id, tvg_logo, group_title, title, headers, url in tqdm(all_channels_list,
+    for tvg_name, tvg_id, tvg_logo, group_title, title, headers, url in tqdm(accessible_channels,
                                                                              desc="Processing & Unifying"):
-        # 检查是否为 NSFW 内容，如果是则跳过
+        # 检查是否为 NSFW 内容
         if is_nsfw(group_title, title):
-            filtered += 1
-            continue
-        
-        # 检查url里否通畅   
-        if not is_url_accessible(url, timeout=20):
-            filtered += 1
+            filtered_count += 1
             continue
 
-        # 只留下体育 新闻类节目
+        # 分类过滤
         if CategoryFilter:
             lower_keywords = [k.lower() for k in Category_Key]
             searchable_text = f'{tvg_name}, {group_title}, {title}'.lower()
             if not any(keyword in searchable_text for keyword in lower_keywords):
-                filtered += 1
+                filtered_count += 1
                 continue
 
-        # 步骤 2: 过滤掉 (url, group_title) 完全重复的条目
+        # 过滤 (url, group_title) 完全重复的条目
         if (url, group_title) in processed_urls:
             continue
         processed_urls.add((url, group_title))
 
-        # 步骤 3: 规范化标题
+        # 规范化标题
         normalized_title = normalize_title(title.strip())
         key = (group_title, normalized_title)
 
-        # 步骤 4: 检查并统一 TVG 信息
+        # 检查并统一 TVG 信息
         if key not in master_tvg_info:
-            # 如果是第一次遇到这个 (分组, 标题) 组合，
-            # 就将它的 TVG 信息存为“主”信息。
             master_tvg_info[key] = (tvg_name, tvg_id, tvg_logo)
 
-        # 获取该组合的“主”TVG信息
         master_tvg_name, master_tvg_id, master_tvg_logo = master_tvg_info[key]
 
-        # 步骤 5: 使用统一后的信息构建最终的频道数据
+        # 使用统一后的信息构建最终的频道数据
         unified_channel = (
-            master_tvg_name,
-            master_tvg_id,
-            master_tvg_logo,
-            group_title,
-            normalized_title,
-            headers,
-            url
+            master_tvg_name, master_tvg_id, master_tvg_logo,
+            group_title, normalized_title, headers, url
         )
         final_channels.append(unified_channel)
 
-    if filtered > 0:
-        print(f"🚫 Filtered out {filtered} channels.")
-    print(f"✅ Kept {len(final_channels)} channels after processing and unification.")
+    if filtered_count > 0:
+        print(f"🚫 Filtered out {filtered_count} channels based on keywords.")
+    print(f"✅ Kept {len(final_channels)} channels after processing.")
     return final_channels
 
 
 def write_merged_playlist(final_channels_to_write):
+    """将最终的频道列表写入 M3U 文件。"""
     lines = [f'#EXTM3U url-tvg="{EPG_URL}"', ""]
+    # 按 group-title 和 title 排序
     sorted_channels = sorted(
         final_channels_to_write,
         key=lambda channel: (str(channel[3]).lower(), str(channel[4]).lower())
@@ -123,28 +146,21 @@ def write_merged_playlist(final_channels_to_write):
 
     current_group = None
     for channel_data in sorted_channels:
-        # 解包元组以获取所需数据
         tvg_name, tvg_id, tvg_logo, group, title, headers, url = channel_data
 
-        # --- 修正：使用原始的 group 名称，而不是小写版本 ---
         if group != current_group:
             if current_group is not None:
                 lines.append("")
             lines.append(f'#EXTGRP:{group}')
             current_group = group
 
-        # --- 修正：构建正确的 #EXTINF 行 ---
-        # 1. 处理可能为空的属性
-        # 2. 确保逗号在引号外部
         extinf_parts = ['#EXTINF:-1']
         if tvg_id: extinf_parts.append(f'tvg-id="{tvg_id}"')
         if tvg_name: extinf_parts.append(f'tvg-name="{tvg_name}"')
         if tvg_logo: extinf_parts.append(f'tvg-logo="{tvg_logo}"')
         if group: extinf_parts.append(f'group-title="{group}"')
 
-        # 将属性部分用空格连接，然后加上逗号和标题
         extinf_line = ' '.join(extinf_parts) + f',{title}'
-
         lines.append(extinf_line)
         lines.extend(headers)
         lines.append(url)
@@ -161,15 +177,19 @@ def main():
     start_time = datetime.now()
     print(f"🚀 Starting playlist merge at {start_time.strftime('%Y-%m-%d %H:%M:%S')}...")
 
-    channel_data = []
+    all_channels = []
     for url in playlist_urls:
         content = fetch_playlist_content(url)
         if content:
             parsed_channels = parse_m3u(content)
             print(f"✅ Parsed {len(parsed_channels)} valid channel entries from {url}.")
-            channel_data.extend(parsed_channels)
+            all_channels.extend(parsed_channels)
 
-    processed_channels = process_and_normalize_channels(channel_data)
+    # --- 优化步骤：并发检查URL有效性 ---
+    accessible_channels = check_urls_concurrently(all_channels)
+
+    # --- 优化步骤：只处理可访问的频道 ---
+    processed_channels = process_and_normalize_channels(accessible_channels)
     write_merged_playlist(processed_channels)
 
     end_time = datetime.now()
@@ -178,5 +198,4 @@ def main():
 
 
 if __name__ == "__main__":
-    # 对config/sources_urls 中的源进行合并操作
     main()
