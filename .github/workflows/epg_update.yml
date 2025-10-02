@@ -19,10 +19,13 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: pip install requests
+      run: |
+        pip install requests
 
     - name: Run EPG fetcher
-      run: python scripts/epg_fetcher.py
+      run: |
+        ls -R
+        python scripts/epg_fetcher.py
 
     - name: Commit updated EPG file
       run: |
