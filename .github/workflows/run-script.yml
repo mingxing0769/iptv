@@ -1,10 +1,10 @@
 # .github/workflows/run-script.yml
-name: Run IPTV Script Every 4 Hours
+name: IPTV Script
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # 每4小时触发一次
-  workflow_dispatch:       # 允许手动触发
+    - cron: '0 */1 * * *'    #m h d M w 为：分钟 小时 日 月 周
+  workflow_dispatch:      
 
 jobs:
   run-script:
