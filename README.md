@@ -15,6 +15,9 @@
 通过 GitHub Actions 自动运行并更新结果。
 订阅链接：
 https://raw.githubusercontent.com/mingxing0769/iptv/main/out/MergedCleanPlaylist.m3u8
+节目单链接：
+https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive2.xml.gz
+
 
 ## 所有源来自:
 
