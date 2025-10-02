@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from datetime import datetime
 
-EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive2.xml.gz"
+EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
 TMP_PATH = "out/DrewLive2_tmp.xml.gz"
 XML_PATH = "out/DrewLive2_clean.xml"
 SAVE_PATH = "out/DrewLive2.xml.gz"
