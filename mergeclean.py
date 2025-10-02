@@ -5,22 +5,22 @@ from datetime import datetime
 
 from tqdm import tqdm
 
-import config.filter_keywords
+from utils.filter_keywords import Indicators_key,Category_Key,Nsfw_Key
 from config.sources_urls import playlist_urls
 from utils.network import fetch_playlist_content
 from utils.m3u_parse import parse_m3u
 
 
+
 # --- 配置区 ---
 EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive2.xml.gz"
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
-
-
+CategoryFilter = True
 
 def is_nsfw(group_title, title):
     """检查频道的 group-title 或 title 是否包含 NSFW 关键词。"""
     # 从配置文件导入 nsfw_keywords
-    nsfw_keywords = nsfw_keywords = ['nsfw', 'xxx', 'porn', 'adult']
+    nsfw_keywords = Nsfw_Key
     # 将分组和标题合并为一个字符串，并转为小写，方便不区分大小写地搜索
     text_to_check = f"{group_title} {title}".lower()
     return any(keyword in text_to_check for keyword in nsfw_keywords)
@@ -32,7 +32,7 @@ def normalize_title(title):
     :param title: 文本
     :return: 文本
     """
-    indicators = config.filter_keywords.indicators
+    indicators = Indicators_key
     normalized = title
     for indicator in indicators:
         normalized = re.sub(indicator, '', normalized, flags=re.IGNORECASE)
@@ -64,6 +64,13 @@ def process_and_normalize_channels(all_channels_list):
         if is_nsfw(group_title, title):
             nsfw_count += 1
             continue
+
+        # 只留下体育 新闻类节目
+        if CategoryFilter:
+            lower_keywords = [k.lower() for k in Category_Key]
+            searchable_text = f'{tvg_name}, {group_title}, {title}'.lower()
+            if not any(keyword in searchable_text for keyword in lower_keywords):
+                continue
 
         # 步骤 2: 过滤掉 (url, group_title) 完全重复的条目
         if (url, group_title) in processed_urls:
