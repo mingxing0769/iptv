@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/mingxing0769/iptv/main/out/MergedCleanPlaylist
 
 
 节目单链接：
-https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive2.xml.gz
+https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml.gz
 
 
 ## 所有源来自:
