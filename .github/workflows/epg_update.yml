@@ -25,7 +25,7 @@ jobs:
     - name: Run EPG fetcher
       run: |
         ls -R
-        python scripts/epg_fetcher.py
+        python scripts/epg_getcher.py
 
     - name: Commit updated EPG file
       run: |
