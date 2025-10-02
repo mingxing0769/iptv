@@ -1,0 +1,33 @@
+name: EPG Auto Fetch
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # 每4小时运行一次
+  workflow_dispatch:      # 手动触发支持
+
+jobs:
+  fetch_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run EPG fetcher
+      run: python epg_fetcher.py
+
+    - name: Commit updated EPG file
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@users.noreply.github.com"
+        git add out/DrewLive3.xml.gz
+        git diff --cached --quiet || git commit -m "🔄 Update DrewLive3.xml.gz"
+        git push
