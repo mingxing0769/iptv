@@ -22,7 +22,7 @@ jobs:
       run: pip install requests
 
     - name: Run EPG fetcher
-      run: python epg_fetcher.py
+      run: python scripts/cepg_fetcher.py
 
     - name: Commit updated EPG file
       run: |
