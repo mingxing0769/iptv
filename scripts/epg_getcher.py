@@ -38,6 +38,11 @@ def extract_valid_ids():
         print(f"❌ 无法读取频道列表：{e}")
     return ids
 
+def adjust_timezone(prog):
+    for attr in ["start", "stop"]:
+        if attr in prog.attrib:
+            prog.attrib[attr] = prog.attrib[attr].replace("+0000", "+0800")
+
 def clean_epg():
     print("🧹 清理 EPG 内容中...")
     try:
@@ -48,25 +53,28 @@ def clean_epg():
 
         new_root = ET.Element("tv", attrib={"date": datetime.now().strftime("%Y%m%d%H%M%S +0800")})
 
+        # 保留频道定义
         for channel in root.findall("channel"):
             cid = channel.attrib.get("id")
             if cid in valid_ids:
                 ch_elem = ET.SubElement(new_root, "channel", {"id": cid})
                 name = channel.find("display-name")
                 if name is not None:
-                    name_elem = ET.SubElement(ch_elem, "display-name")
+                    name_elem = ET.SubElement(ch_elem, "display-name", {"lang": "en"})
                     name_elem.text = name.text
 
+        # 保留节目内容
         for prog in root.findall("programme"):
             cid = prog.attrib.get("channel")
             if cid in valid_ids:
+                adjust_timezone(prog)
                 new_prog = ET.Element("programme", prog.attrib)
                 title = prog.find("title")
                 desc = prog.find("desc")
                 if title is not None:
-                    ET.SubElement(new_prog, "title").text = title.text
+                    ET.SubElement(new_prog, "title", {"lang": "en"}).text = title.text
                 if desc is not None:
-                    ET.SubElement(new_prog, "desc").text = desc.text
+                    ET.SubElement(new_prog, "desc", {"lang": "en"}).text = desc.text
                 new_root.append(new_prog)
 
         # 美化并保存 XML
@@ -87,7 +95,8 @@ def main():
     print("🚀 启动 epg_getcher")
     if download_epg():
         clean_epg()
-        os.remove(TMP_PATH)        
+        os.remove(TMP_PATH)
+        os.remove(XML_PATH)
     else:
         print("⚠️ 跳过清理，因下载失败")
 
