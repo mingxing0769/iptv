@@ -1,3 +1,4 @@
+
 name: EPG Auto Fetch
 
 on:
@@ -19,21 +20,15 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: |
-        pip install requests
+      run: pip install requests
 
     - name: Run EPG fetcher
-      run: |
-        python scripts/epg_getcher.py
+      run: python epg_fetcher.py
 
     - name: Commit updated EPG file
       run: |
         git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-        git fetch origin
-        git reset --hard origin/main
-        git add out/DrewLive2.xml.gz
-        git commit -m "🔄 Update DrewLive2.xml.gz" || echo "No changes to commit"
-        git push origin main
-
-
+        git config --global user.email "github-actions@users.noreply.github.com"
+        git add out/DrewLive3.xml.gz
+        git diff --cached --quiet || git commit -m "🔄 Update DrewLive3.xml.gz"
+        git push
