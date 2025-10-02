@@ -4,8 +4,9 @@ import time
 
 def fetch_playlist_content(url, retries=3, timeout=15):
     """获取并返回播放列表内容（文本）"""
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    }
     for attempt in range(1, retries + 1):
         try:
             print(f"Attempting to fetch {url} (try {attempt})...")
@@ -23,6 +24,7 @@ def fetch_playlist_content(url, retries=3, timeout=15):
 def is_url_accessible(url, timeout=5):
     """
     通过发送 HEAD 请求快速检查 URL 是否可访问并返回状态码 200。
+
     Args:
         url (str): 要检查的 URL。
         timeout (int, optional): 请求超时时间（秒）。默认为 5。
@@ -39,14 +41,8 @@ def is_url_accessible(url, timeout=5):
         response = requests.head(url, timeout=timeout, headers=headers, allow_redirects=True)
 
         # 检查最终的响应状态码是否为 200 (OK)
-        if response.status_code == 200:
-            return True
-        else:
-            print(f"⚠️ URL {url} returned status code: {response.status_code}")
-            return False
-    except requests.exceptions.RequestException as e:
-        # 捕获所有 requests 相关的异常 (如超时, 连接错误等)
-        print(f"❌ URL check failed for {url}: {e}")
+        return response.status_code == 200
+        
+    except requests.exceptions.RequestException:
+        # 捕获所有 requests 相关的异常 (如超时, 连接错误等)，静默处理
         return False
-    
-    
