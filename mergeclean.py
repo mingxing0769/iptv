@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 from utils.filter_keywords import Indicators_key,Category_Key,Nsfw_Key
 from config.sources_urls import playlist_urls
-from utils.network import fetch_playlist_content
+from utils.network import fetch_playlist_content, is_url_accessible
 from utils.m3u_parse import parse_m3u
 
 
@@ -19,7 +19,7 @@ CategoryFilter = True
 
 def is_nsfw(group_title, title):
     """检查频道的 group-title 或 title 是否包含 NSFW 关键词。"""
-    # 从配置文件导入 nsfw_keywords
+    # 从配置文件导入 Nsfw_Key
     nsfw_keywords = Nsfw_Key
     # 将分组和标题合并为一个字符串，并转为小写，方便不区分大小写地搜索
     text_to_check = f"{group_title} {title}".lower()
@@ -56,13 +56,18 @@ def process_and_normalize_channels(all_channels_list):
     # 用于存储每个 (group, normalized_title) 组合的“主”TVG信息
     master_tvg_info = {}
     final_channels = []
-    nsfw_count = 0
+    filtered = 0
 
     for tvg_name, tvg_id, tvg_logo, group_title, title, headers, url in tqdm(all_channels_list,
                                                                              desc="Processing & Unifying"):
-        # 步骤 1: 检查是否为 NSFW 内容，如果是则跳过
+        # 检查是否为 NSFW 内容，如果是则跳过
         if is_nsfw(group_title, title):
-            nsfw_count += 1
+            filtered += 1
+            continue
+        
+        # 检查url里否通畅   
+        if not is_url_accessible(url, timeout=20):
+            filtered += 1
             continue
 
         # 只留下体育 新闻类节目
@@ -70,6 +75,7 @@ def process_and_normalize_channels(all_channels_list):
             lower_keywords = [k.lower() for k in Category_Key]
             searchable_text = f'{tvg_name}, {group_title}, {title}'.lower()
             if not any(keyword in searchable_text for keyword in lower_keywords):
+                filtered += 1
                 continue
 
         # 步骤 2: 过滤掉 (url, group_title) 完全重复的条目
@@ -102,14 +108,13 @@ def process_and_normalize_channels(all_channels_list):
         )
         final_channels.append(unified_channel)
 
-    if nsfw_count > 0:
-        print(f"🚫 Filtered out {nsfw_count} NSFW channels.")
+    if filtered > 0:
+        print(f"🚫 Filtered out {filtered} channels.")
     print(f"✅ Kept {len(final_channels)} channels after processing and unification.")
     return final_channels
 
 
 def write_merged_playlist(final_channels_to_write):
-
     lines = [f'#EXTM3U url-tvg="{EPG_URL}"', ""]
     sorted_channels = sorted(
         final_channels_to_write,
