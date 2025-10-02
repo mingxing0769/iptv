@@ -18,10 +18,10 @@ def download_epg():
             print("✅ 下载成功")
             return True
         else:
-            print("❌ 下载失败，状态码：", response.status_code)
+            print(f"❌ 下载失败，状态码：{response.status_code}")
             return False
     except Exception as e:
-        print("❌ 下载异常：", e)
+        print(f"❌ 下载异常：{e}")
         return False
 
 def extract_valid_ids():
@@ -35,7 +35,7 @@ def extract_valid_ids():
                     ids.add(line[start:end])
         print(f"🔍 提取频道 ID 共 {len(ids)} 个")
     except Exception as e:
-        print("❌ 无法读取频道列表：", e)
+        print(f"❌ 无法读取频道列表：{e}")
     return ids
 
 def clean_epg():
@@ -74,14 +74,14 @@ def clean_epg():
                 new_root.append(new_prog)
 
         # 保存压缩后的新文件
-        tree = ET.ElementTree(new_root)
         with gzip.open(SAVE_PATH, "wb") as f:
             f.write(b"<?xml version='1.0' encoding='UTF-8'?>\n")
+            tree = ET.ElementTree(new_root)
             tree.write(f, encoding="utf-8")
 
         print("✅ 清理完成，已保存精简版 EPG")
     except Exception as e:
-        print("❌ 清理失败：", e)
+        print(f"❌ 清理失败：{e}")
 
 def main():
     print("🚀 启动 epg_getcher")
