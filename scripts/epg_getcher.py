@@ -38,10 +38,6 @@ def extract_valid_ids():
         print(f"❌ 无法读取频道列表：{e}")
     return ids
 
-def adjust_timezone(prog):
-    for attr in ["start", "stop"]:
-        if attr in prog.attrib:
-            prog.attrib[attr] = prog.attrib[attr].replace("+0000", "+0800")
 
 def clean_epg():
     print("🧹 清理 EPG 内容中...")
@@ -66,8 +62,7 @@ def clean_epg():
         # 保留节目内容
         for prog in root.findall("programme"):
             cid = prog.attrib.get("channel")
-            if cid in valid_ids:
-                adjust_timezone(prog)
+            if cid in valid_ids:                
                 new_prog = ET.Element("programme", prog.attrib)
                 title = prog.find("title")
                 desc = prog.find("desc")
