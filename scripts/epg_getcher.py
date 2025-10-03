@@ -3,7 +3,8 @@ import gzip
 import os
 import sys
 import xml.etree.ElementTree as ET
-import copy
+# 导入 minidom 库用于美化 XML 输出
+from xml.dom import minidom
 
 import requests
 # 导入我们需要的 m3u 解析工具
@@ -76,7 +77,7 @@ def get_channel_data_from_playlist():
 
 def clean_and_compress_epg():
     """
-    【核心优化】使用流式解析，并仅提取必要节目信息，以大幅减小文件体积。
+    【核心优化】使用流式解析，并根据要求生成一个极度精简的 EPG 文件。
     """
     id_to_title_map = get_channel_data_from_playlist()
     if not id_to_title_map:
@@ -84,7 +85,7 @@ def clean_and_compress_epg():
         return False
 
     valid_ids = set(id_to_title_map.keys())
-    print("🧹 Cleaning EPG content and stripping non-essential data...")
+    print("🧹 Cleaning EPG content and stripping to absolute minimum...")
 
     # 创建一个新的 XML 根元素，用于存放清理后的数据
     new_root = ET.Element("tv")
@@ -98,52 +99,66 @@ def clean_and_compress_epg():
             context = ET.iterparse(f, events=('end',))
 
             for event, elem in context:
-                # --- 处理 <channel> 节点 ---
+                # --- 【精简版】处理 <channel> 节点 ---
                 if elem.tag == 'channel':
                     channel_id = elem.get('id')
                     if channel_id in valid_ids:
-                        display_name_node = elem.find("display-name")
-                        display_name_node.text = id_to_title_map[channel_id]   #使用MergedCleanPlaylist.m3u8中的频道名(title)
+                        # 1. 创建一个全新的、精简的 <channel> 元素
+                        new_channel = ET.Element('channel', {'id': channel_id})
 
-                        # 依然完整复制 channel 节点，因为它体积小且包含 icon 等有用信息
-                        new_root.append(copy.deepcopy(elem))
+                        # 2. 创建并附加 <display-name>，使用播放列表中的名称
+                        display_name = ET.SubElement(new_channel, 'display-name', {'lang': 'en'})
+                        display_name.text = id_to_title_map[channel_id]
+
+                        # 3. 将这个精简后的新元素附加到根节点
+                        new_root.append(new_channel)
                         channel_count += 1
+
+                    # 4. 清理原始元素以释放内存
                     elem.clear()
 
-                # --- 【核心修改】处理 <programme> 节点，仅保留必要信息 ---
+                # --- 【精简版】处理 <programme> 节点 ---
                 elif elem.tag == 'programme':
                     if elem.get('channel') in valid_ids:
-                        # 1. 创建一个新的、干净的 <programme> 元素，并复制所有属性 (start, stop, channel)
+                        # 1. 创建一个新的 <programme> 元素，并复制所有属性 (start, stop, channel)
                         new_programme = ET.Element('programme', attrib=elem.attrib)
 
-
-                        # 2. 只查找并复制 <title> 和 <desc> 子元素 (使用 findall 保留多语言支持)
-                        for title_node in elem.findall('title'):
-                            new_programme.append(copy.deepcopy(title_node))
-
-                        for desc_node in elem.findall('desc'):
-                            new_programme.append(copy.deepcopy(desc_node))
+                        # 2. 只查找并复制第一个 <title> 的文本内容
+                        title_node = elem.find('title')
+                        if title_node is not None and title_node.text:
+                            # 创建一个新的 title 元素，确保 lang="en"
+                            ET.SubElement(new_programme, 'title', {'lang': 'en'}).text = title_node.text
 
                         # 3. 将这个精简后的新元素附加到根节点
                         new_root.append(new_programme)
                         programme_count += 1
 
-                    # 4. 清理原始的、包含所有数据的元素以释放内存
+                    # 4. 清理原始元素以释放内存
                     elem.clear()
 
                 # --- 处理根 <tv> 节点 ---
                 elif elem.tag == 'tv':
+                    # 复制 'date' 属性
                     if 'date' in elem.attrib:
                         new_root.set('date', elem.get('date'))
                     elem.clear()
 
-        print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (with minimal data).")
+        print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (minimal structure).")
 
-        # 在内存中生成 XML 字符串，并直接压缩
-        xml_str_in_memory = ET.tostring(new_root, encoding="utf-8", xml_declaration=True)
+        # --- 【新增】美化 XML 输出 ---
+        # 1. 先用 ElementTree 生成一个紧凑的字节串
+        rough_string = ET.tostring(new_root, 'utf-8')
 
+        # 2. 使用 minidom 重新解析这个字节串
+        reparsed = minidom.parseString(rough_string)
+
+        # 3. 使用 toprettyxml 生成带缩进和换行的、美化后的字符串，并指定编码
+        pretty_xml_as_bytes = reparsed.toprettyxml(indent="  ", encoding='utf-8')
+
+        # --- 修改写入部分 ---
+        # 将美化后的字节串写入 Gzip 文件
         with gzip.open(FINAL_EPG_PATH, "wb") as f_out:
-            f_out.write(xml_str_in_memory)
+            f_out.write(pretty_xml_as_bytes)
 
         print(f"✅ EPG cleaning complete. Saved to {FINAL_EPG_PATH}")
         return True
