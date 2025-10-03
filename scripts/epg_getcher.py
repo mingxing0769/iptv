@@ -4,7 +4,6 @@ import os
 import xml.etree.ElementTree as ET
 
 import requests
-
 # 导入我们需要的 m3u 解析工具
 from utils.m3u_parse import parse_m3u
 
@@ -24,7 +23,11 @@ FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive2.xml.gz")
 
 
 def download_epg():
-    """下载 EPG 文件到临时位置。"""
+    """
+    下载 EPG 文件到临时位置。
+    如果下载成功，会覆盖旧的临时文件。
+    如果下载失败，会保留旧的临时文件（如果存在）。
+    """
     print(f"📥  Downloading EPG from {EPG_URL}...")
     try:
         response = requests.get(EPG_URL, timeout=60)
@@ -123,7 +126,7 @@ def clean_and_compress_epg():
         with gzip.open(FINAL_EPG_PATH, "wb") as f_out:
             f_out.write(xml_str_in_memory)
 
-        print(f"✅ EPG cleaning complete. Display names updated. Saved to {FINAL_EPG_PATH}")
+        print(f"✅ EPG cleaning complete. Saved to {FINAL_EPG_PATH}")
 
     except FileNotFoundError:
         print(f"❌ Temporary EPG file not found: {TMP_EPG_PATH}. Was the download successful?")
@@ -134,21 +137,27 @@ def clean_and_compress_epg():
 
 
 def main():
+    """主执行函数"""
     print("🚀 Starting EPG processing...")
 
-    # 步骤 1: 下载 EPG 文件
-    if not download_epg():
-        print("⚠️ Skipping cleaning process due to download failure.")
+    # 步骤 1: 尝试下载新的 EPG 文件
+    download_successful = download_epg()
+
+    if not download_successful:
+        print(f"⚠️ EPG download failed. Will try to use the last downloaded version at {TMP_EPG_PATH}")
+
+    # 步骤 2: 检查是否存在可用的 EPG 文件（无论是新的还是旧的）
+    if not os.path.exists(TMP_EPG_PATH):
+        print(f"❌ No EPG file found at {TMP_EPG_PATH}. Cannot proceed with cleaning.")
         return
 
-    # 步骤 2: 清理并生成最终文件
-    try:
-        clean_and_compress_epg()
-    finally:
-        # 步骤 3: 无论成功与否，都清理临时文件
-        if os.path.exists(TMP_EPG_PATH):
-            os.remove(TMP_EPG_PATH)
-            print(f"🗑️ Temporary file {TMP_EPG_PATH} deleted.")
+    # 步骤 3: 清理并生成最终文件
+    # 只要有临时文件（新的或旧的），就执行清理
+    clean_and_compress_epg()
+
+    # 步骤 4: 脚本结束，保留临时文件作为备份
+    print(f"✅ EPG processing finished. Temporary file {TMP_EPG_PATH} is kept as a fallback for the next run.")
+
 
 if __name__ == "__main__":
     main()
