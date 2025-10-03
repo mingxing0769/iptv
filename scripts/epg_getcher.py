@@ -3,6 +3,7 @@ import gzip
 import os
 import sys
 import xml.etree.ElementTree as ET
+import copy
 
 import requests
 # 导入我们需要的 m3u 解析工具
@@ -20,7 +21,7 @@ EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
 TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml.gz")
-FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive3.xml.gz")  
+FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive3.xml.gz")
 
 
 def download_epg():
@@ -94,8 +95,6 @@ def clean_and_compress_epg():
     try:
         # 直接以二进制模式打开 .gz 文件进行流式解压和解析
         with gzip.open(TMP_EPG_PATH, 'rb') as f:
-            # iterparse 逐个元素地读取，而不是一次性加载整个文件
-            # events=('end',) 表示我们只在元素的结束标签被解析后处理它
             context = ET.iterparse(f, events=('end',))
 
             for event, elem in context:
@@ -103,13 +102,12 @@ def clean_and_compress_epg():
                 if elem.tag == 'channel':
                     channel_id = elem.get('id')
                     if channel_id in valid_ids:
-                        # 找到 display-name 元素并更新
                         display_name_node = elem.find("display-name")
                         if display_name_node is not None:
                             display_name_node.text = id_to_title_map[channel_id]
 
-                        # 将符合条件的节点附加到新的 XML 树中
-                        new_root.append(elem)
+                        # 【关键修复】将元素的深拷贝附加到新树中，而不是引用
+                        new_root.append(copy.deepcopy(elem))
                         channel_count += 1
 
                     # 清理已处理的元素以释放内存
@@ -118,15 +116,14 @@ def clean_and_compress_epg():
                 # --- 处理 <programme> 节点 ---
                 elif elem.tag == 'programme':
                     if elem.get('channel') in valid_ids:
-                        # 将符合条件的节点附加到新的 XML 树中
-                        new_root.append(elem)
+                        # 【关键修复】将元素的深拷贝附加到新树中，而不是引用
+                        new_root.append(copy.deepcopy(elem))
                         programme_count += 1
 
                     # 清理已处理的元素以释放内存
                     elem.clear()
 
                 # --- 处理根 <tv> 节点 ---
-                # 复制其属性（如 date）到我们的新根节点
                 elif elem.tag == 'tv':
                     if 'date' in elem.attrib:
                         new_root.set('date', elem.get('date'))
