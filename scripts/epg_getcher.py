@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 import requests
 
 # 导入我们需要的 m3u 解析工具
-from utils.m3u_parse import parse_m3u
+from ..utils.m3u_parse import parse_m3u
 
 # --- 路径配置 ---
 # 自动计算项目根目录，让路径在任何地方运行都正确
