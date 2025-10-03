@@ -5,12 +5,8 @@ import xml.etree.ElementTree as ET
 
 import requests
 
-# --- 路径配置 ---
-# 自动计算项目根目录，让路径在任何地方运行都正确
-
-
-# EPG 源地址
-EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
+# 导入我们需要的 m3u 解析工具
+from utils.m3u_parse import parse_m3u
 
 # --- 路径配置 ---
 # 自动计算项目根目录，让路径在任何地方运行都正确
@@ -18,10 +14,14 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OUT_DIR = os.path.join(PROJECT_ROOT, "out")
 
+# EPG 源地址
+EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
+
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
 TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml.gz")
-FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive3.xml.gz")
+FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive2.xml.gz")
+
 
 def download_epg():
     """下载 EPG 文件到临时位置。"""
@@ -42,38 +42,50 @@ def download_epg():
         return False
 
 
-def extract_valid_ids_from_playlist():
-    """从合并后的播放列表中提取所有有效的 tvg-id。"""
-    valid_ids = set()
+def get_channel_data_from_playlist():
+    """
+    从合并后的播放列表中提取 tvg-id 到 title 的映射。
+    Returns:
+        dict: 一个从 tvg-id 映射到其规范化 title 的字典。
+              例如: {'id1.us': 'Channel One', 'id2.ca': 'Channel Two'}
+    """
+    id_to_title_map = {}
     try:
         with open(PLAYLIST_PATH, "r", encoding="utf-8") as f:
-            for line in f:
-                if 'tvg-id="' in line:
-                    # 使用更稳健的方式提取 ID
-                    start = line.find('tvg-id="') + len('tvg-id="')
-                    end = line.find('"', start)
-                    if end != -1:
-                        channel_id = line[start:end].strip()
-                        if channel_id:
-                            valid_ids.add(channel_id)
-        print(f"🔍 Found {len(valid_ids)} unique channel IDs in the playlist.")
+            playlist_content = f.read()
+
+        # 使用 parse_m3u 函数获取详细的频道数据
+        channels = parse_m3u(playlist_content)
+
+        for channel_data in channels:
+            # channel_data 是一个元组: (tvg_name, tvg_id, tvg_logo, group_title, title, headers, url)
+            tvg_id = channel_data[1]
+            title = channel_data[4]
+
+            if tvg_id and title:
+                # 我们只关心 tvg-id 到最终 title 的映射
+                id_to_title_map[tvg_id] = title
+
+        print(f"🔍 Found {len(id_to_title_map)} unique channel ID-to-title mappings in the playlist.")
     except FileNotFoundError:
         print(f"❌ Playlist file not found at: {PLAYLIST_PATH}")
     except Exception as e:
         print(f"❌ Error reading playlist file: {e}")
-    return valid_ids
+    return id_to_title_map
 
 
 def clean_and_compress_epg():
     """
-    清理 EPG 内容，只保留有效频道的节目单，并直接生成最终的压缩文件。
+    清理 EPG 内容，只保留有效频道的节目单，更新 display-name, 并直接生成最终的压缩文件。
     """
-    valid_ids = extract_valid_ids_from_playlist()
-    if not valid_ids:
-        print("⚠️ No valid channel IDs found. Aborting EPG cleaning.")
+    id_to_title_map = get_channel_data_from_playlist()
+    if not id_to_title_map:
+        print("⚠️ No valid channel data found. Aborting EPG cleaning.")
         return
 
-    print("🧹 Cleaning EPG content...")
+    # 有效的 ID 集合就是我们 map 的键
+    valid_ids = set(id_to_title_map.keys())
+    print("🧹 Cleaning EPG content and updating display names...")
     try:
         with gzip.open(TMP_EPG_PATH, "rb") as f:
             xml_data = f.read()
@@ -87,9 +99,17 @@ def clean_and_compress_epg():
         if 'date' in original_root.attrib:
             new_root.set('date', original_root.get('date'))
 
-        # 1. 保留有效的频道定义 <channel>
+        # 1. 保留并更新有效的频道定义 <channel>
         for channel_node in original_root.findall("channel"):
-            if channel_node.get("id") in valid_ids:
+            channel_id = channel_node.get("id")
+            if channel_id in valid_ids:
+                # 找到 display-name 元素
+                display_name_node = channel_node.find("display-name")
+                if display_name_node is not None:
+                    # 用我们从播放列表里读到的规范化 title 来更新它的文本
+                    display_name_node.text = id_to_title_map[channel_id]
+
+                # 将修改后的节点附加到新的 XML 树中
                 new_root.append(channel_node)
 
         # 2. 保留有效频道的节目单 <programme>
@@ -98,13 +118,12 @@ def clean_and_compress_epg():
                 new_root.append(programme_node)
 
         # 3. 在内存中生成 XML 字符串，并直接压缩
-        # xml_declaration=True 会自动添加 <?xml version='1.0' encoding='utf-8'?>
         xml_str_in_memory = ET.tostring(new_root, encoding="utf-8", xml_declaration=True)
 
         with gzip.open(FINAL_EPG_PATH, "wb") as f_out:
             f_out.write(xml_str_in_memory)
 
-        print(f"✅ EPG cleaning complete. Saved to {FINAL_EPG_PATH}")
+        print(f"✅ EPG cleaning complete. Display names updated. Saved to {FINAL_EPG_PATH}")
 
     except FileNotFoundError:
         print(f"❌ Temporary EPG file not found: {TMP_EPG_PATH}. Was the download successful?")
