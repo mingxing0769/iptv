@@ -125,7 +125,7 @@ def process_and_normalize_channels(accessible_channels):
 
         # 规范化标题
         normalized_title = normalize_title(title.strip())
-        key = (group_title, normalized_title)
+        key = normalized_title
 
         # 检查并统一 TVG 信息
         if key not in master_tvg_info:
@@ -210,3 +210,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
