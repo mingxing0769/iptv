@@ -16,12 +16,12 @@ PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OUT_DIR = os.path.join(PROJECT_ROOT, "out")
 
 # EPG 源地址
-EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive2.xml.gz"
+EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
 
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
 TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml.gz")
-FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive2.xml.gz")
+FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive3.xml.gz")
 
 
 def download_epg():
@@ -76,7 +76,7 @@ def get_channel_data_from_playlist():
 
 def clean_and_compress_epg():
     """
-    【核心优化】使用流式解析（iterparse）清理 EPG，以处理大文件并避免内存溢出。
+    【核心优化】使用流式解析，并仅提取必要节目信息，以大幅减小文件体积。
     """
     id_to_title_map = get_channel_data_from_playlist()
     if not id_to_title_map:
@@ -84,7 +84,7 @@ def clean_and_compress_epg():
         return False
 
     valid_ids = set(id_to_title_map.keys())
-    print("🧹 Cleaning EPG content using memory-efficient streaming parser...")
+    print("🧹 Cleaning EPG content and stripping non-essential data...")
 
     # 创建一个新的 XML 根元素，用于存放清理后的数据
     new_root = ET.Element("tv")
@@ -106,21 +106,30 @@ def clean_and_compress_epg():
                         if display_name_node is not None:
                             display_name_node.text = id_to_title_map[channel_id]
 
-                        # 【关键修复】将元素的深拷贝附加到新树中，而不是引用
+                        # 依然完整复制 channel 节点，因为它体积小且包含 icon 等有用信息
                         new_root.append(copy.deepcopy(elem))
                         channel_count += 1
 
-                    # 清理已处理的元素以释放内存
                     elem.clear()
 
-                # --- 处理 <programme> 节点 ---
+                # --- 【核心修改】处理 <programme> 节点，仅保留必要信息 ---
                 elif elem.tag == 'programme':
                     if elem.get('channel') in valid_ids:
-                        # 【关键修复】将元素的深拷贝附加到新树中，而不是引用
-                        new_root.append(copy.deepcopy(elem))
+                        # 1. 创建一个新的、干净的 <programme> 元素，并复制所有属性 (start, stop, channel)
+                        new_programme = ET.Element('programme', attrib=elem.attrib)
+
+                        # 2. 只查找并复制 <title> 和 <desc> 子元素 (使用 findall 保留多语言支持)
+                        for title_node in elem.findall('title'):
+                            new_programme.append(copy.deepcopy(title_node))
+
+                        for desc_node in elem.findall('desc'):
+                            new_programme.append(copy.deepcopy(desc_node))
+
+                        # 3. 将这个精简后的新元素附加到根节点
+                        new_root.append(new_programme)
                         programme_count += 1
 
-                    # 清理已处理的元素以释放内存
+                    # 4. 清理原始的、包含所有数据的元素以释放内存
                     elem.clear()
 
                 # --- 处理根 <tv> 节点 ---
@@ -129,7 +138,7 @@ def clean_and_compress_epg():
                         new_root.set('date', elem.get('date'))
                     elem.clear()
 
-        print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes.")
+        print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (with minimal data).")
 
         # 在内存中生成 XML 字符串，并直接压缩
         xml_str_in_memory = ET.tostring(new_root, encoding="utf-8", xml_declaration=True)
