@@ -14,6 +14,8 @@ from utils.m3u_parse import parse_m3u
 # --- 配置区 ---
 EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml.gz"
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
+
+# 是否对频道进行筛选, 根据utils.filter_keywords.Category_Key
 CategoryFilter = True
 # 并发检查URL时的最大线程数，可以根据你的网络和CPU情况调整
 MAX_WORKERS_URL_CHECK = 100
@@ -88,6 +90,7 @@ def process_and_normalize_channels(accessible_channels):
     print("\n🔍 Starting data normalization, de-duplication, and unification...")
 
     processed_urls = set()
+    processed_tvg_id = set()
     master_tvg_info = {}
     final_channels = []
     filtered_count = 0
@@ -107,10 +110,18 @@ def process_and_normalize_channels(accessible_channels):
                 filtered_count += 1
                 continue
 
-        # 过滤 url 重复的条目
+        # 过滤url完全重复的条目
         if url in processed_urls:
+            filtered_count += 1
             continue
         processed_urls.add(url)
+        
+        # 过滤相同tvg-id
+        if tvg_id in processed_tvg_id:
+            filtered_count += 1
+            continue
+        processed_tvg_id.add(tvg_id)
+
 
         # 规范化标题
         normalized_title = normalize_title(title.strip())
@@ -118,13 +129,13 @@ def process_and_normalize_channels(accessible_channels):
 
         # 检查并统一 TVG 信息
         if key not in master_tvg_info:
-            master_tvg_info[key] = (tvg_name, tvg_id, tvg_logo)
+            master_tvg_info[key] = (tvg_name, tvg_logo)
 
-        master_tvg_name, master_tvg_id, master_tvg_logo = master_tvg_info[key]
+        master_tvg_name, master_tvg_logo = master_tvg_info[key]
 
         # 使用统一后的信息构建最终的频道数据
         unified_channel = (
-            master_tvg_name, master_tvg_id, master_tvg_logo,
+            master_tvg_name, tvg_id, master_tvg_logo,
             group_title, normalized_title, headers, url
         )
         final_channels.append(unified_channel)
@@ -199,7 +210,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
