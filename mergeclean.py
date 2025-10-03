@@ -116,18 +116,18 @@ def process_and_normalize_channels(accessible_channels):
         processed_urls.add(url)
 
         # 规范化标题
-        normalized_title = normalize_title(title.strip())
-        key = normalized_title
+        # normalized_title = normalize_title(title.strip())
+        key = title
 
         # 检查并统一 TVG 信息
         if key not in master_tvg_info:
-            master_tvg_info[key] = (tvg_name, tvg_logo, group_title, headers)
+            master_tvg_info[key] = (tvg_name, tvg_id, tvg_logo, group_title, headers)
 
-        master_tvg_name, master_tvg_logo, master_group_title, master_headers = master_tvg_info[key]
+        master_tvg_name, master_tvg_id, master_tvg_logo, master_group_title, master_headers = master_tvg_info[key]
 
         # 使用统一后的信息构建最终的频道数据
         unified_channel = (
-            master_tvg_name, tvg_id,  master_tvg_logo, master_group_title, normalized_title, master_headers, url
+            master_tvg_name, master_tvg_id,  master_tvg_logo, master_group_title, title, master_headers, url
         )
         final_channels.append(unified_channel)
 
