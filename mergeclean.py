@@ -107,10 +107,10 @@ def process_and_normalize_channels(accessible_channels):
                 filtered_count += 1
                 continue
 
-        # 过滤 (url, group_title) 完全重复的条目
-        if (url, group_title) in processed_urls:
+        # 过滤 url 重复的条目
+        if url in processed_urls:
             continue
-        processed_urls.add((url, group_title))
+        processed_urls.add(url)
 
         # 规范化标题
         normalized_title = normalize_title(title.strip())
@@ -199,4 +199,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
