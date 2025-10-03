@@ -12,7 +12,7 @@ from utils.network import fetch_playlist_content, is_url_accessible
 from utils.m3u_parse import parse_m3u
 
 # --- 配置区 ---
-EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml.gz"
+EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive2.xml.gz"
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
 CategoryFilter = True
 # 并发检查URL时的最大线程数，可以根据你的网络和CPU情况调整
@@ -199,5 +199,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
