@@ -16,7 +16,7 @@ PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OUT_DIR = os.path.join(PROJECT_ROOT, "out")
 
 # EPG 源地址
-EPG_URL = "http://drewlive24.duckdns.org/DrewLive3.xml.gz"
+EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
 
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
@@ -103,13 +103,11 @@ def clean_and_compress_epg():
                     channel_id = elem.get('id')
                     if channel_id in valid_ids:
                         display_name_node = elem.find("display-name")
-                        if display_name_node is not None:
-                            display_name_node.text = id_to_title_map[channel_id]
+                        display_name_node.text = id_to_title_map[channel_id]   #使用MergedCleanPlaylist.m3u8中的频道名(title)
 
                         # 依然完整复制 channel 节点，因为它体积小且包含 icon 等有用信息
                         new_root.append(copy.deepcopy(elem))
                         channel_count += 1
-
                     elem.clear()
 
                 # --- 【核心修改】处理 <programme> 节点，仅保留必要信息 ---
@@ -117,6 +115,7 @@ def clean_and_compress_epg():
                     if elem.get('channel') in valid_ids:
                         # 1. 创建一个新的、干净的 <programme> 元素，并复制所有属性 (start, stop, channel)
                         new_programme = ET.Element('programme', attrib=elem.attrib)
+
 
                         # 2. 只查找并复制 <title> 和 <desc> 子元素 (使用 findall 保留多语言支持)
                         for title_node in elem.findall('title'):
