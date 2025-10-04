@@ -120,15 +120,15 @@ def process_and_normalize_channels(accessible_channels):
         # normalized_title = normalize_title(title.strip())
         key = title.lower()
 
-        # 检查并统一 TVG 信息 tvg-name = title
+        # 检查并统一 TVG 信息  将tvg_name = title 以符合节目单显示逻辑  保留tvg_id 以对节目单进行筛选
         if key not in master_tvg_info:
-            master_tvg_info[key] = (tvg_id, tvg_logo, group_title, headers)
+            master_tvg_info[key] = (tvg_logo, group_title)
 
-        master_tvg_id, master_tvg_logo, master_group_title, master_headers = master_tvg_info[key]
+        master_tvg_logo, master_group_title= master_tvg_info[key]
 
         # 使用统一后的信息构建最终的频道数据
         unified_channel = (
-            title, master_tvg_id,  master_tvg_logo, master_group_title, title, master_headers, url
+           title, tvg_id, master_tvg_logo, master_group_title, title, headers, url
         )
         final_channels.append(unified_channel)
 
@@ -189,10 +189,10 @@ def main():
             all_channels.extend(parsed_channels)
 
     # --- 优化步骤：并发检查URL有效性 ---
-    accessible_channels = check_urls_concurrently(all_channels)
+    all_channels = check_urls_concurrently(all_channels)
 
     # --- 优化步骤：只处理可访问的频道 ---
-    processed_channels = process_and_normalize_channels(accessible_channels)
+    processed_channels = process_and_normalize_channels(all_channels)
     write_merged_playlist(processed_channels)
 
     end_time = datetime.now()
@@ -202,6 +202,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
