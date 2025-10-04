@@ -31,7 +31,7 @@ def download_epg():
     """
     print(f"📥  Downloading EPG from {EPG_URL}...")
     try:
-        response = requests.get(EPG_URL, timeout=120)
+        response = requests.get(EPG_URL, timeout=20)
         response.raise_for_status()
         os.makedirs(OUT_DIR, exist_ok=True)
         with open(TMP_EPG_PATH, "wb") as f:
