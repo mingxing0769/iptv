@@ -9,7 +9,14 @@
 
 1. 克隆项目
 2. 安装依赖：`pip install -r requirements.txt`
-3. 运行脚本：`python mergeclean.py`
+3. 更新播放列表 运行脚本：`python mergeclean.py`
+
+   可对 mergeclean.py 脚本中的分类过滤进行开启与关闭CategoryFilter = True
+   
+   或修改过滤内容：utils/filter_keywords.py
+   
+4. 更新节目单 运行脚本：`python scripts/epg_getcher.py`
+
 
 
 
