@@ -122,9 +122,9 @@ def process_and_normalize_channels(accessible_channels):
 
         # 检查并统一 TVG 信息 tvg-name = title
         if key not in master_tvg_info:
-            master_tvg_info[key] = (title, tvg_id, tvg_logo, group_title, headers)
+            master_tvg_info[key] = (tvg_id, tvg_logo, group_title, headers)
 
-        master_tvg_name, master_tvg_id, master_tvg_logo, master_group_title, master_headers = master_tvg_info[key]
+        master_tvg_id, master_tvg_logo, master_group_title, master_headers = master_tvg_info[key]
 
         # 使用统一后的信息构建最终的频道数据
         unified_channel = (
@@ -202,5 +202,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
