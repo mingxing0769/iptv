@@ -2,6 +2,7 @@
 import gzip
 import os
 import sys
+import traceback
 import xml.etree.ElementTree as ET
 # 导入 minidom 库用于美化 XML 输出
 from xml.dom import minidom
@@ -17,7 +18,7 @@ PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OUT_DIR = os.path.join(PROJECT_ROOT, "out")
 
 # EPG 源地址
-EPG_URL = "http://drewlive24.duckdns.org/DrewLive3.xml.gz"
+EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
 
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
@@ -42,15 +43,16 @@ def download_epg():
         print(f"❌ EPG download failed: {e}")
         return False
 
-
 def get_channel_data_from_playlist():
     """
-    从合并后的播放列表中提取 tvg-id 到 title 的映射。
-    这是实现转换逻辑的关键数据。
+    从合并后的播放列表中提取映射关系。
     Returns:
-        dict: 一个从 tvg-id 映射到其规范化 title 的字典。
+        (dict, dict): 返回两个字典
+                      1. tvg-id -> title
+                      2. title -> tvg-id (用于备用匹配)
     """
-    id_to_title_map = {}
+    playlist_id_to_title = {}
+    playlist_title_to_id = {}
     try:
         with open(PLAYLIST_PATH, "r", encoding="utf-8") as f:
             playlist_content = f.read()
@@ -61,103 +63,119 @@ def get_channel_data_from_playlist():
             tvg_id = channel_data[1]
             title = channel_data[4]
             if tvg_id and title:
-                # 我们需要的是 tvg-id -> title 的映射关系
-                id_to_title_map[tvg_id] = title
+                playlist_id_to_title[tvg_id] = title
+                playlist_title_to_id[title] = tvg_id
 
-        print(f"🔍 Found {len(id_to_title_map)} unique channel ID-to-title mappings in the playlist.")
+        print(f"🔍 Found {len(playlist_id_to_title)} unique channel ID-to-title mappings in the playlist.")
     except FileNotFoundError:
         print(f"❌ Playlist file not found at: {PLAYLIST_PATH}")
     except Exception as e:
         print(f"❌ Error reading playlist file: {e}")
-    return id_to_title_map
 
+    return playlist_id_to_title, playlist_title_to_id
 
 def clean_and_compress_epg():
     """
-    【核心变更】使用流式解析，并将 EPG 中的 id 和 channel 属性从 tvg-id 替换为频道名 title。
+    【核心重构】使用两步处理法，健壮地筛选并简化 EPG。
+    1. 快速扫描 EPG 源文件，建立 `epg_id -> epg_name` 的完整地图。
+    2. 根据播放列表和 EPG 地图，建立一个 `epg_id -> final_title` 的主映射。
+    3. 再次扫描 EPG 源文件，使用主映射来生成高度简化的新 EPG。
     """
-    id_to_title_map = get_channel_data_from_playlist()
-    if not id_to_title_map:
+    playlist_id_to_title, playlist_title_to_id = get_channel_data_from_playlist()
+    if not playlist_id_to_title:
         print("⚠️ No valid channel data found. Aborting EPG cleaning.")
         return False
 
-    # valid_ids 集合现在存储的是所有需要处理的 tvg-id
-    valid_ids = set(id_to_title_map.keys())
-    print("🧹 Cleaning EPG content and remapping IDs to channel titles...")
+    valid_playlist_ids = set(playlist_id_to_title.keys())
+    valid_playlist_titles = set(playlist_title_to_id.keys())
 
-    new_root = ET.Element("tv")
-
-    # 为了防止重复创建相同的 <channel> 标签，我们需要一个集合来跟踪已经添加的 title
-    added_channel_titles = set()
-
-    channel_count = 0
-    programme_count = 0
-
+    # --- Pass 1: 快速扫描 EPG，建立原始频道地图 ---
+    print("🔍 Pass 1: Scanning EPG to map original channel IDs to names...")
+    epg_id_to_name_map = {}
     try:
         with gzip.open(TMP_EPG_PATH, 'rb') as f:
-            context = ET.iterparse(f, events=('end',))
-
-            for event, elem in context:
-                # --- 【变更】处理 <channel> 节点 ---
+            for _, elem in ET.iterparse(f, events=('end',)):
                 if elem.tag == 'channel':
-                    original_id = elem.get('id')
-                    # 检查原始ID是否在我们的有效 tvg-id 列表中
-                    if original_id in valid_ids:
-                        # 获取我们想要替换成的目标 title
-                        target_title = id_to_title_map[original_id]
-
-                        # 只有当这个 title 对应的 <channel> 还没被添加过时，才创建它
-                        if target_title.lower() not in added_channel_titles:
-                            # 1. 创建一个全新的 <channel> 元素，其 id 就是频道名
-                            new_channel = ET.Element('channel', {'id': target_title})
-
-                            # 2. 创建并附加 <display-name>，内容也是频道名
-                            display_name = ET.SubElement(new_channel, 'display-name', {'lang': 'en'})
-                            display_name.text = target_title
-
-                            # 3. 将新元素附加到根节点
-                            new_root.append(new_channel)
-                            added_channel_titles.add(target_title.lower())
-                            channel_count += 1
-
-                    # 无论如何都要清理内存
+                    channel_id = elem.get('id')
+                    display_name_node = elem.find('display-name')
+                    if channel_id and display_name_node is not None and display_name_node.text:
+                        epg_id_to_name_map[channel_id] = display_name_node.text
+                    # 清理元素以释放内存，
                     elem.clear()
 
-                # --- 【变更】处理 <programme> 节点 ---
-                elif elem.tag == 'programme':
+    except Exception as e:
+        print(f"❌ An error occurred during Pass 1 (EPG scan): {e}")
+        traceback.print_exc()
+        return False
+    print(f"ℹ️ Found {len(epg_id_to_name_map)} channels in the source EPG.")
+
+    # --- 建立主映射关系 (epg_id -> final_title) ---
+    print("🗺️  Building master mapping from EPG to playlist...")
+    master_map = {}
+    for epg_id, epg_name in epg_id_to_name_map.items():
+        # 优先策略：通过 tvg-id 匹配
+        if epg_id in valid_playlist_ids:
+            master_map[epg_id] = playlist_id_to_title[epg_id]
+        # 备用策略：通过频道名匹配
+        elif epg_name in valid_playlist_titles:
+            master_map[epg_id] = epg_name
+
+    if not master_map:
+        print("⚠️ No matching channels found between playlist and EPG. Aborting.")
+        return False
+
+    print(f"✅ Master mapping created. {len(master_map)} EPG channels will be kept.")
+
+    # --- Pass 2: 构建简化的新 EPG ---
+    print("🧹 Pass 2: Cleaning, simplifying, and remapping EPG content...")
+    new_root = ET.Element("tv")
+
+    # 1. 添加 <channel> 节点
+    # 使用 master_map 的值创建唯一的频道列表
+    final_channel_titles = sorted(list(set(master_map.values())))
+    for title in final_channel_titles:
+        new_channel = ET.Element('channel', {'id': title})
+        display_name = ET.SubElement(new_channel, 'display-name', {'lang': 'en'})
+        display_name.text = title
+        new_root.append(new_channel)
+    channel_count = len(final_channel_titles)
+
+    # 2. 添加 <programme> 节点
+    programme_count = 0
+    try:
+        with gzip.open(TMP_EPG_PATH, 'rb') as f:
+            for _, elem in ET.iterparse(f, events=('end',)):
+                if elem.tag == 'programme':
                     original_channel_id = elem.get('channel')
-                    # 检查原始 channel 属性是否在我们的有效 tvg-id 列表中
-                    if original_channel_id in valid_ids:
-                        # 获取我们想要替换成的目标 title
-                        target_title = id_to_title_map[original_channel_id]
+                    # 如果节目对应的频道在我们的主映射中
+                    if original_channel_id in master_map:
+                        target_title = master_map[original_channel_id]
 
-                        # 1. 复制原始属性
-                        new_attrib = elem.attrib.copy()
-                        # 2. 【关键】将 'channel' 属性的值修改为频道名
-                        new_attrib['channel'] = target_title
-
-                        # 3. 创建一个新的 <programme> 元素
+                        # 创建简化的 programme 节点
+                        new_attrib = {
+                            'channel': target_title,
+                            'start': elem.get('start', ''),
+                            'stop': elem.get('stop', ''),
+                        }
                         new_programme = ET.Element('programme', attrib=new_attrib)
 
-                        # 4. 复制 <title> 子节点
+                        # 只复制 title 子节点
                         title_node = elem.find('title')
                         if title_node is not None and title_node.text:
                             ET.SubElement(new_programme, 'title', {'lang': 'en'}).text = title_node.text
 
-                        # 5. 将新元素附加到根节点
                         new_root.append(new_programme)
                         programme_count += 1
-
-                    # 无论如何都要清理内存
-                    elem.clear()
-
-                # --- 处理根 <tv> 节点 ---
+                    elem.clear()  # 关键！释放内存
+                # 复制根节点的属性
                 elif elem.tag == 'tv':
                     if 'date' in elem.attrib:
                         new_root.set('date', elem.get('date'))
-                    elem.clear()
+                    elem.clear()  # 关键！释放内存
 
-        print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (remapped to title).")
+                elem.clear()  # 关键！释放内存
+
+        print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (simplified and remapped).")
 
         # --- 美化并写入文件 ---
         rough_string = ET.tostring(new_root, 'utf-8', xml_declaration=True)
@@ -167,7 +185,7 @@ def clean_and_compress_epg():
         with gzip.open(FINAL_EPG_PATH, "wb") as f_out:
             f_out.write(pretty_xml_as_bytes)
 
-        print(f"✅ EPG cleaning complete. Saved to {FINAL_EPG_PATH}")
+        print(f"✅ EPG cleaning and simplification complete. Saved to {FINAL_EPG_PATH}")
         return True
 
     except FileNotFoundError:
@@ -178,9 +196,8 @@ def clean_and_compress_epg():
         return False
     except Exception as e:
         print(f"❌ An unexpected error occurred during EPG cleaning: {e}")
+        traceback.print_exc()
         return False
-
-
 def main():
     """主执行函数"""
     print("🚀 Starting EPG processing...")
