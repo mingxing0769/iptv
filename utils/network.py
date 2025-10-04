@@ -21,13 +21,13 @@ def fetch_playlist_content(url, retries=3, timeout=15):
     return ""
 
 
-def is_url_accessible(url, timeout=5):
+def is_url_accessible(url, timeout=30):
     """
     通过发送 HEAD 请求快速检查 URL 是否可访问并返回状态码 200。
 
     Args:
         url (str): 要检查的 URL。
-        timeout (int, optional): 请求超时时间（秒）。默认为 5。
+        timeout (int, optional): 请求超时时间（秒）。默认为 30。
 
     Returns:
         bool: 如果 URL 可访问且状态码为 200，则返回 True，否则返回 False。
