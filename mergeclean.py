@@ -83,9 +83,10 @@ def process_and_normalize_channels(accessible_channels):
     """
     对频道列表进行规范化、去重和统一化处理。
     - 过滤 NSFW 内容和非指定分类。
-    - 过滤 (url, group_title) 完全重复的条目。
+    - 根据关键字 进行分类过滤
+    - 过滤 url 完全重复的条目。
     - 规范化频道标题。
-    - 统一同一分组内同名频道的 TVG 信息。
+    - 统一同名频道的 TVG 信息。
     """
     print("\n🔍 Starting data normalization, de-duplication, and unification...")
 
@@ -201,4 +202,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
