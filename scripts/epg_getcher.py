@@ -107,7 +107,7 @@ def clean_and_compress_epg():
                         target_title = id_to_title_map[original_id]
 
                         # 只有当这个 title 对应的 <channel> 还没被添加过时，才创建它
-                        if target_title not in added_channel_titles:
+                        if target_title.lower() not in added_channel_titles:
                             # 1. 创建一个全新的 <channel> 元素，其 id 就是频道名
                             new_channel = ET.Element('channel', {'id': target_title})
 
@@ -117,7 +117,7 @@ def clean_and_compress_epg():
 
                             # 3. 将新元素附加到根节点
                             new_root.append(new_channel)
-                            added_channel_titles.add(target_title)
+                            added_channel_titles.add(target_title.lower())
                             channel_count += 1
 
                     # 无论如何都要清理内存
