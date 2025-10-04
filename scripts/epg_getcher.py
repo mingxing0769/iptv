@@ -4,11 +4,15 @@ import os
 import sys
 import traceback
 import xml.etree.ElementTree as ET
+# 导入 minidom 库用于美化 XML 输出
 from xml.dom import minidom
+
 import requests
+# 导入我们需要的 m3u 解析工具
 from utils.m3u_parse import parse_m3u
 
 # --- 路径配置 ---
+# 自动计算项目根目录，让路径在任何地方运行都正确
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OUT_DIR = os.path.join(PROJECT_ROOT, "out")
@@ -55,14 +59,13 @@ def get_channel_data_from_playlist():
 
         channels = parse_m3u(playlist_content)
 
-        for channel_data in channels:
-            tvg_id = channel_data[1]
-            title = channel_data[4]
-            if tvg_id and title:
+        for tvg_name, tvg_id, tvg_logo, group_title, title, headers, url in channels:
+            if tvg_id:
                 playlist_id_to_title[tvg_id] = title
-                playlist_title_to_id[title] = tvg_id
+            playlist_title_to_id[title] = tvg_id
 
         print(f"🔍 Found {len(playlist_id_to_title)} unique channel ID-to-title mappings in the playlist.")
+        print(f"🔍 Found {len(playlist_title_to_id)} unique channel title_to_id mappings in the playlist.")
     except FileNotFoundError:
         print(f"❌ Playlist file not found at: {PLAYLIST_PATH}")
     except Exception as e:
@@ -72,7 +75,7 @@ def get_channel_data_from_playlist():
 
 def clean_and_compress_epg():
     """
-    使用两步处理法，健壮地筛选并简化 EPG。
+    【核心重构】使用两步处理法，健壮地筛选并简化 EPG。
     1. 快速扫描 EPG 源文件，建立 `epg_id -> epg_name` 的完整地图。
     2. 根据播放列表和 EPG 地图，建立一个 `epg_id -> final_title` 的主映射。
     3. 再次扫描 EPG 源文件，使用主映射来生成高度简化的新 EPG。
@@ -108,15 +111,14 @@ def clean_and_compress_epg():
     # --- 建立主映射关系 (epg_id -> final_title) ---
     print("🗺️  Building master mapping from EPG to playlist...")
     master_map = {}
-    epg_name_set = set()
+   
     for epg_id, epg_name in epg_id_to_name_map.items():
         # 优先策略：通过 tvg-id 匹配
         if epg_id in valid_playlist_ids:
             master_map[epg_id] = playlist_id_to_title[epg_id]
         # 备用策略：通过频道名匹配
-        elif epg_name in valid_playlist_titles and epg_name not in epg_name_set:
+        elif epg_name in valid_playlist_titles:
             master_map[epg_id] = epg_name
-            epg_name_set.add(epg_name)
 
     if not master_map:
         print("⚠️ No matching channels found between playlist and EPG. Aborting.")
@@ -140,16 +142,18 @@ def clean_and_compress_epg():
 
     # 2. 添加 <programme> 节点
     programme_count = 0
+    master_map_set = set()
     try:
         with gzip.open(TMP_EPG_PATH, 'rb') as f:
             for _, elem in ET.iterparse(f, events=('end',)):
                 if elem.tag == 'programme':
                     original_channel_id = elem.get('channel')
-                    # 如果节目对应的频道在主映射中
-                    if original_channel_id in master_map:
+                    # 如果节目对应的频道在我们的主映射中 不同id 可能对应同一 频道名
+                    if original_channel_id in master_map and master_map[original_channel_id] not in master_map_set:
                         target_title = master_map[original_channel_id]
+                        master_map_set.add(target_title)
 
-                        # 创建 programme 节点
+                        # 创建简化的 programme 节点
                         new_attrib = {
                             'channel': target_title,
                             'start': elem.get('start', ''),
@@ -164,12 +168,14 @@ def clean_and_compress_epg():
 
                         new_root.append(new_programme)
                         programme_count += 1
-                    elem.clear()  # 释放内存
+                    elem.clear()  # 关键！释放内存
                 # 复制根节点的属性
                 elif elem.tag == 'tv':
                     if 'date' in elem.attrib:
                         new_root.set('date', elem.get('date'))
-                    elem.clear()  # 释放内存                
+                    elem.clear()  # 关键！释放内存
+
+                elem.clear()  # 关键！释放内存
 
         print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (simplified and remapped).")
 
