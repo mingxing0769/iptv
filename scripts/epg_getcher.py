@@ -171,9 +171,7 @@ def clean_and_compress_epg():
                 elif elem.tag == 'tv':
                     if 'date' in elem.attrib:
                         new_root.set('date', elem.get('date'))
-                    elem.clear()  # 关键！释放内存
-
-                elem.clear()  # 关键！释放内存
+                    elem.clear()  # 关键！释放内存                
 
         print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (simplified and remapped).")
 
