@@ -128,7 +128,7 @@ def process_and_normalize_channels(accessible_channels):
 
         # 使用统一后的信息构建最终的频道数据
         unified_channel = (
-            master_tvg_name, master_tvg_id,  master_tvg_logo, master_group_title, title, master_headers, url
+            title, master_tvg_id,  master_tvg_logo, master_group_title, title, master_headers, url
         )
         final_channels.append(unified_channel)
 
@@ -202,4 +202,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
