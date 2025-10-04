@@ -108,13 +108,15 @@ def clean_and_compress_epg():
     # --- 建立主映射关系 (epg_id -> final_title) ---
     print("🗺️  Building master mapping from EPG to playlist...")
     master_map = {}
+    epg_name_set = set()
     for epg_id, epg_name in epg_id_to_name_map.items():
         # 优先策略：通过 tvg-id 匹配
         if epg_id in valid_playlist_ids:
             master_map[epg_id] = playlist_id_to_title[epg_id]
         # 备用策略：通过频道名匹配
-        elif epg_name in valid_playlist_titles:
+        elif epg_name in valid_playlist_titles and epg_name not in epg_name_set:
             master_map[epg_id] = epg_name
+            epg_name_set.add(epg_name)
 
     if not master_map:
         print("⚠️ No matching channels found between playlist and EPG. Aborting.")
