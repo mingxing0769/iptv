@@ -59,8 +59,12 @@ def check_urls_concurrently(channels_to_check):
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS_URL_CHECK) as executor:
         # 创建 future 到 channel_data 的映射
-        future_to_channel = {executor.submit(is_url_accessible, channel[-1], 15): channel for channel in
-                             channels_to_check}
+        # channel 元组结构: (..., headers, url)
+        # headers 在倒数第2个位置 (channel[-2]), url 在最后 (channel[-1])
+        future_to_channel = {
+            executor.submit(is_url_accessible, channel[-1], channel[-2], 15): channel
+            for channel in channels_to_check
+        }
 
         # 使用 tqdm 显示进度
         for future in tqdm(as_completed(future_to_channel), total=len(channels_to_check), desc="Checking URLs"):
@@ -189,7 +193,7 @@ def main(URL_CHECK = True):
             all_channels.extend(parsed_channels)
 
     # --- 优化步骤：并发检查URL有效性 ---
-    if URL_CHECK > 0:
+    if URL_CHECK:
         all_channels = check_urls_concurrently(all_channels)
 
     # --- 优化步骤：只处理可访问的频道 ---
