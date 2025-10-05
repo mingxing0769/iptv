@@ -60,7 +60,7 @@ def get_attr(pattern, text):
     :return:
     """
     match = re.search(pattern, text)
-    return match.group(1) if match else None
+    return match.group(1) if match else 'None'
 
 def parse_simple(m3u_text):
     """
@@ -97,3 +97,47 @@ def parse_simple(m3u_text):
             break
 
     return header, records
+
+def _parse_m3u_headers(m3u_headers):
+    """
+    解析M3U中的头部信息行 (如 #EXTVLCOPT) 并转换为requests库可用的字典。
+
+    Args:
+        m3u_headers (tuple): 包含原始头部字符串的元组。
+        e.g., ('#EXTVLCOPT:http-referrer=https://mlbwebcast.com/',)
+
+    Returns:
+        dict: 可用于requests的headers字典。
+        e.g., {'Referer': 'https://mlbwebcast.com/'}
+    """
+    if not m3u_headers:
+        return {}
+
+    headers_dict = {}
+    # 匹配 #EXTVLCOPT 或 #EXTHTTP 后面的内容
+    pattern = re.compile(r'#(?:EXTVLCOPT|EXTHTTP):(.*)')
+
+    for header_line in m3u_headers:
+        match = pattern.match(header_line.strip())
+        if not match:
+            continue
+
+        content = match.group(1).strip()
+        try:
+            # 按第一个等号分割键值
+            key, value = content.split('=', 1)
+            key = key.strip().lower()
+            value = value.strip()
+
+            # 将M3U中的键名映射为标准的HTTP头名称
+            if key == 'http-referrer':
+                headers_dict['Referer'] = value
+            elif key == 'http-user-agent':
+                headers_dict['User-Agent'] = value
+            elif key == 'http-origin':
+                headers_dict['Origin'] = value
+            # 你可以在这里添加更多的映射规则
+        except ValueError:
+            # 如果行中不包含'='，则忽略
+            pass
+    return headers_dict
