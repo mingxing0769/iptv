@@ -1,9 +1,9 @@
 name: Unified IPTV Workflow
 
-on:
-  workflow_dispatch:
+on:  
   schedule:
-    - cron: '*/30 * * * *'  # 每30分钟触发一次
+    - cron: '*/30 * * * *' 
+  workflow_dispatch:
 
 jobs:
   iptv-process:
