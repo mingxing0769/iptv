@@ -24,46 +24,46 @@ jobs:
         run: |
           pip install -r requirements.txt || echo "No requirements.txt found"
 
-      - name: Install dependencies & Playwright
-        run: |
-          python -m pip install --upgrade pip
-          pip install playwright
-          playwright install firefox # 🌐 Installs the Playwright Firefox browser binary
-          playwright install-deps # 🔧 This is the crucial step to install all necessary system dependencies
+      # - name: Install dependencies & Playwright
+      #   run: |
+      #     python -m pip install --upgrade pip
+      #     pip install playwright
+      #     playwright install firefox # 🌐 Installs the Playwright Firefox browser binary
+      #     playwright install-deps # 🔧 This is the crucial step to install all necessary system dependencies
 
-      - name: 🚀 Run fstv.py
-        run: |
-          echo "Running fstv.py..."
-          python fstv.py || { echo "❌ fstv.py failed"; exit 1; }
-          echo "✅ fstv.py completed."
+      # - name: 🚀 Run fstv.py
+      #   run: |
+      #     echo "Running fstv.py..."
+      #     python fstv.py || { echo "❌ fstv.py failed"; exit 1; }
+      #     echo "✅ fstv.py completed."
 
-      - name: 💾 Commit & Push after fstv.py
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add out/FSTV.m3u8
-          if git diff --cached --quiet; then echo "✅ No changes to commit"; exit 0; fi
-          git commit -m "🔄  Update FSTV playlist"
-          git pull origin main --rebase || exit 1
-          git push origin main || exit 1
+      # - name: 💾 Commit & Push after fstv.py
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   run: |
+      #     git config user.name "github-actions[bot]"
+      #     git config user.email "github-actions@users.noreply.github.com"
+      #     git add out/FSTV.m3u8
+      #     if git diff --cached --quiet; then echo "✅ No changes to commit"; exit 0; fi
+      #     git commit -m "🔄  Update FSTV playlist"
+      #     git pull origin main --rebase || exit 1
+      #     git push origin main || exit 1
 
-      - name: 🧹 Run mergeclean.py
-        run: |
-          echo "Running mergeclean.py..."
-          python mergeclean.py || { echo "❌ mergeclean.py failed"; exit 1; }
-          echo "✅ mergeclean.py completed."
+      # - name: 🧹 Run mergeclean.py
+      #   run: |
+      #     echo "Running mergeclean.py..."
+      #     python mergeclean.py || { echo "❌ mergeclean.py failed"; exit 1; }
+      #     echo "✅ mergeclean.py completed."
 
-      - name: 💾 Commit & Push after mergeclean.py
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git add out/MergedCleanPlaylist.m3u8
-          if git diff --cached --quiet; then echo "✅ No changes to commit"; exit 0; fi
-          git commit -m "🔄 Update merged playlist"
-          git pull origin main --rebase || exit 1
-          git push origin main || exit 1
+      # - name: 💾 Commit & Push after mergeclean.py
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   run: |
+      #     git add out/MergedCleanPlaylist.m3u8
+      #     if git diff --cached --quiet; then echo "✅ No changes to commit"; exit 0; fi
+      #     git commit -m "🔄 Update merged playlist"
+      #     git pull origin main --rebase || exit 1
+      #     git push origin main || exit 1
 
       - name: 📅 Run epg_getcher.py
         working-directory: .
@@ -83,7 +83,8 @@ jobs:
             git add out/DrewLive3.xml.gz
             git commit -m "🔄 Update DrewLive3.xml.gz"
           else
-            echo "✅
+            echo "✅ DrewLive3.xml.gz is unchanged, skipping commit."
+          fi
       
           # 如果文件不存在，跳过提交
           if [ ! -f out/epg_temp.xml.gz ]; then
