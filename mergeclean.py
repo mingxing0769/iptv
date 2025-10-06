@@ -165,7 +165,7 @@ def write_merged_playlist(final_channels_to_write):
         if tvg_id: extinf_parts.append(f'tvg-id="{tvg_id}"')
             
         if tvg_name: 
-            extinf_parts.append(f'tvg-name="{tvg-name}"')
+            extinf_parts.append(f'tvg-name="{tvg_name}"')
         else:
             extinf_parts.append(f'tvg-name="{title}"')
             
@@ -212,5 +212,6 @@ def main(URL_CHECK = True):
 
 if __name__ == "__main__":
     main()
+
 
 
