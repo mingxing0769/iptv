@@ -67,6 +67,7 @@ jobs:
           git push origin main || exit 1
 
       - name: 📅 Run epg_getcher.py
+        working-directory: .
         run: |
           echo "Running scripts/epg_getcher.py..."
           python scripts/epg_getcher.py || { echo "❌ epg_getcher.py failed"; exit 1; }
