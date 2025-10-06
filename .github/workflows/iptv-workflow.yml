@@ -2,7 +2,7 @@ name: Unified IPTV Workflow
 
 on:
   schedule:
-    - cron: '/30 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
