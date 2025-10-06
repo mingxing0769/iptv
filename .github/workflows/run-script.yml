@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r scripts/requirements.txt || echo "No requirements.txt found"
+          pip install -r requirements.txt || echo "No requirements.txt found"
 
       - name: Run mergeclean.py with debug
         working-directory: .
