@@ -163,7 +163,7 @@ def write_merged_playlist(final_channels_to_write):
 
         extinf_parts = ['#EXTINF:-1']
         if tvg_id: extinf_parts.append(f'tvg-id="{tvg_id}"')
-        if tvg_name: extinf_parts.append(f'tvg-name="{tvg_name}"')
+        extinf_parts.append(f'tvg-name="{title}"')
         if tvg_logo: extinf_parts.append(f'tvg-logo="{tvg_logo}"')
         if group: extinf_parts.append(f'group-title="{group}"')
 
@@ -207,3 +207,4 @@ def main(URL_CHECK = True):
 
 if __name__ == "__main__":
     main()
+
