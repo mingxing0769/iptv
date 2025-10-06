@@ -45,7 +45,7 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add out/FSTV.m3u8
           if git diff --cached --quiet; then echo "✅ No changes to commit"; exit 0; fi
-          git commit -m "📡 Update FSTV playlist $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "🔄  Update FSTV playlist"
           git pull origin main --rebase || exit 1
           git push origin main || exit 1
 
@@ -61,7 +61,7 @@ jobs:
         run: |
           git add out/MergedCleanPlaylist.m3u8
           if git diff --cached --quiet; then echo "✅ No changes to commit"; exit 0; fi
-          git commit -m "🧼 Update merged playlist $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "🔄 Update merged playlist"
           git pull origin main --rebase || exit 1
           git push origin main || exit 1
 
