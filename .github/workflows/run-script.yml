@@ -22,7 +22,7 @@ jobs:
           pip install -r scripts/requirements.txt || echo "No requirements.txt found"
 
       - name: Run mergeclean.py with debug
-        working-directory: ./scripts
+        working-directory: .
         run: |
           echo "Starting script..."
           python mergeclean.py || { echo "❌ Script failed"; exit 1; }
