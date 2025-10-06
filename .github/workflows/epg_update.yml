@@ -25,6 +25,7 @@ jobs:
       run: pip install requests
 
     - name: Run EPG fetcher
+      working-directory: .
       run: python scripts/epg_getcher.py
 
     - name: Commit updated EPG file
