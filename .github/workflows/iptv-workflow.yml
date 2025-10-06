@@ -8,6 +8,8 @@ on:
 jobs:
   iptv-process:
     runs-on: ubuntu-latest   
+    env:
+      PYTHONPATH: ${{ github.workspace }}
 
     steps:
       - name: 📦 Checkout repository
