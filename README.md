@@ -2,7 +2,7 @@
 
 本项目用于定期检测并清理国外 IPTV 源，每小时更新一次。
 
-节目单每6小时更新一次  仅包含订阅播放列表(MergedCleanPlaylist.m3u8)中对应频道的节目. 
+节目单 仅包含订阅播放列表(MergedCleanPlaylist.m3u8)中对应频道的节目。
 
 
 ## 使用方式
