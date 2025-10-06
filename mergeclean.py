@@ -184,7 +184,7 @@ def write_merged_playlist(final_channels_to_write):
     print(f"📊 Total channels written: {len(final_channels_to_write)}.")
 
 
-def main(URL_CHECK = True):
+def main(URL_CHECK = False):
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     start_time = datetime.now()
     print(f"🚀 Starting playlist merge at {start_time.strftime('%Y-%m-%d %H:%M:%S')}...")
@@ -212,6 +212,7 @@ def main(URL_CHECK = True):
 
 if __name__ == "__main__":
     main()
+
 
 
 
