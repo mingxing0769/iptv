@@ -244,9 +244,10 @@ def build_playlist(channels_data):
     lines = ["#EXTM3U\n"]
     for ch in channels_data:
         tvg_id = f' tvg-id="{ch["tv_id"]}"' if ch["tv_id"] else ""
+        tvg_name = f' tvg-name="{ch["name"]}"'
         logo = f' tvg-logo="{ch["logo"]}"' if ch["logo"] else ""
         group = f' group-title="{ch["group"]}"'
-        lines.append(f'#EXTINF:-1{tvg_id}{logo}{group},{ch["name"]}\n')
+        lines.append(f'#EXTINF:-1{tvg_id}{tvg_name}{logo}{group},{ch["name"]}\n')
         lines.append(
             '#EXTVLCOPT:http-origin=https://fstv.space/\n'
             '#EXTVLCOPT:http-referrer=https://fstv.space/\n'
