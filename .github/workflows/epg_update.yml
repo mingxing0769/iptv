@@ -28,12 +28,33 @@ jobs:
       working-directory: .
       run: python scripts/epg_getcher.py
 
-    - name: Commit updated EPG file
+    - name: Commit updated EPG file only if changed
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@users.noreply.github.com"
-        git add out/DrewLive3.xml.gz
-        git diff --cached --quiet || git commit -m "🔄 Update DrewLive3.xml.gz"
-        git add out/epg_temp.xml.gz
-        git diff --cached --quiet || git commit -m "🔄 Update epg_temp.xml.gz"
-        git push
+    
+        # 比较 DrewLive3.xml.gz 是否有变更
+        if ! cmp -s out/DrewLive3.xml.gz $(git ls-tree origin/main -r --name-only | grep out/DrewLive3.xml.gz | xargs -I{} git show origin/main:{} > /tmp/old_drew.xml.gz); then
+          echo "🔄 DrewLive3.xml.gz has changed, committing..."
+          git add out/DrewLive3.xml.gz
+          git commit -m "🔄 Update DrewLive3.xml.gz"
+        else
+          echo "✅ DrewLive3.xml.gz is unchanged, skipping commit."
+        fi
+    
+        # 比较 epg_temp.xml.gz 是否有变更
+        if ! cmp -s out/epg_temp.xml.gz $(git ls-tree origin/main -r --name-only | grep out/epg_temp.xml.gz | xargs -I{} git show origin/main:{} > /tmp/old_epg.xml.gz); then
+          echo "🔄 epg_temp.xml.gz has changed, committing..."
+          git add out/epg_temp.xml.gz
+          git commit -m "🔄 Update epg_temp.xml.gz"
+        else
+          echo "✅ epg_temp.xml.gz is unchanged, skipping commit."
+        fi
+    
+        # 如果有提交则推送
+        if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+          git pull origin main --rebase
+          git push
+        else
+          echo "🚫 No changes to push."
+        fi
