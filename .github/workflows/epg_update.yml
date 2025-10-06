@@ -2,8 +2,8 @@ name: EPG Auto Fetch
 
 on:
   schedule:
-    - cron: '10 */1 * * *'  # 每1小时运行一次
-  workflow_dispatch:      # 手动触发支持
+    - cron: '15 * * * *'  
+  workflow_dispatch:      
 
 jobs:
   fetch_epg:
