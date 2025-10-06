@@ -18,7 +18,7 @@ PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OUT_DIR = os.path.join(PROJECT_ROOT, "out")
 
 # EPG 源地址
-EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive3.xml.gz"
+EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
 
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
