@@ -137,7 +137,7 @@ def clean_and_compress_epg():
     final_channel_titles = sorted(list(set(master_map.values())))
     for title in final_channel_titles:
         new_channel = ET.Element('channel', {'id': title})
-        display_name = ET.SubElement(new_channel, 'display-name', {'lang': 'eng'})
+        display_name = ET.SubElement(new_channel, 'display-name')
         display_name.text = title
         new_root.append(new_channel)
     channel_count = len(final_channel_titles)
