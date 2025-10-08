@@ -137,7 +137,7 @@ def clean_and_compress_epg():
     final_channel_titles = sorted(list(set(master_map.values())))
     for title in final_channel_titles:
         new_channel = ET.Element('channel', {'id': title})
-        display_name = ET.SubElement(new_channel, 'display-name', {'lang': 'zh'})
+        display_name = ET.SubElement(new_channel, 'display-name', {'lang': 'en'})
         display_name.text = title
         new_root.append(new_channel)
     channel_count = len(final_channel_titles)
@@ -165,7 +165,7 @@ def clean_and_compress_epg():
                         # 只复制 title 子节点
                         title_node = elem.find('title')
                         if title_node is not None and title_node.text:
-                            ET.SubElement(new_programme, 'title', {'lang': 'zh'}).text = title_node.text
+                            ET.SubElement(new_programme, 'title', {'lang': 'en'}).text = title_node.text
 
                         new_root.append(new_programme)
                         programme_count += 1
