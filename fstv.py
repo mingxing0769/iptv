@@ -242,7 +242,7 @@ async def fetch_fstv_channels():
         raise Exception("❌ All mirrors failed")
 
 def build_playlist(channels_data):    
-    lines = [f'#EXTM3U url-tvg="{EPG_URL}"', ""]
+    lines = [f'#EXTM3U url-tvg="{EPG_URL}"\n']
     for ch in channels_data:
         tvg_id = f' tvg-id="{ch["tv_id"]}"' if ch["tv_id"] else ""
         tvg_name = f' tvg-name="{ch["name"]}"'
