@@ -1,0 +1,830 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml.gz"
+
+#EXTGRP:A1xmedia AU Sports
+#EXTINF:-1 tvg-name="Optus Sports 1" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png" group-title="A1xmedia AU Sports",Optus Sports 1
+https://a1xs.vip/700010
+#EXTINF:-1 tvg-name="Optus Sports 2" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png" group-title="A1xmedia AU Sports",Optus Sports 2
+https://a1xs.vip/700011
+
+#EXTGRP:A1xmedia CA Channels
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-news-ca.png?raw=true" group-title="A1xmedia CA Channels",Global News
+https://a1xs.vip/610005
+
+#EXTGRP:A1xmedia CA Sports
+#EXTINF:-1 tvg-name="Sportsnet 360 FHD" tvg-logo="https://i.imgur.com/8YNVKqC.png" group-title="A1xmedia CA Sports",Sportsnet 360 FHD
+https://a1xs.vip/6000014
+#EXTINF:-1 tvg-name="Sportsnet One FHD" tvg-logo="https://i.imgur.com/SxBnZN0.png" group-title="A1xmedia CA Sports",Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1 tvg-name="Sportsnet Ontario FHD" tvg-logo="https://i.imgur.com/o6Ct6Ce.png" group-title="A1xmedia CA Sports",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1 tvg-name="Sportsnet World FHD" tvg-logo="https://i.imgur.com/EJy8K7F.png" group-title="A1xmedia CA Sports",Sportsnet World FHD
+https://a1xs.vip/6000013
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="A1xmedia CA Sports",TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="https://i.imgur.com/iTSoxQW.png" group-title="A1xmedia CA Sports",TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1 tvg-name="TSN3" tvg-logo="https://i.imgur.com/dPMY5Kc.png" group-title="A1xmedia CA Sports",TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://i.imgur.com/9EInDNq.png" group-title="A1xmedia CA Sports",TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="https://i.imgur.com/houBcHX.png" group-title="A1xmedia CA Sports",TSN5
+https://a1xs.vip/6000005
+
+#EXTGRP:A1xmedia EPL
+#EXTINF:-1 tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="A1xmedia EPL",MY: Astro Sports UHD
+https://a1xs.vip/9000001
+#EXTINF:-1 tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="A1xmedia EPL",Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+#EXTINF:-1 tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="A1xmedia EPL",Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+#EXTINF:-1 tvg-name="Sky Sport PL NZ" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="A1xmedia EPL",Sky Sport PL NZ
+https://a1xs.vip/700008
+
+#EXTGRP:A1xmedia EU Sports
+#EXTINF:-1 tvg-name="AL: Super Sport 1 FHD" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports",AL: Super Sport 1 FHD
+https://a1xs.vip/130001
+#EXTINF:-1 tvg-name="AL: Super Sport 2 FHD" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports",AL: Super Sport 2 FHD
+https://a1xs.vip/130002
+#EXTINF:-1 tvg-name="AL: Super Sport 3 FHD" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports",AL: Super Sport 3 FHD
+https://a1xs.vip/130003
+#EXTINF:-1 tvg-name="DE: Sky Sport Bundesliga FHD" tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="A1xmedia EU Sports",DE: Sky Sport Bundesliga FHD
+https://a1xs.vip/120002
+#EXTINF:-1 tvg-name="DE: Sky Sport Top Event FHD" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="A1xmedia EU Sports",DE: Sky Sport Top Event FHD
+https://a1xs.vip/120003
+#EXTINF:-1 tvg-name="DE: Sportdigital Fussball FHD" tvg-logo="https://i.imgur.com/8KiZkJF.png" group-title="A1xmedia EU Sports",DE: Sportdigital Fussball FHD
+https://a1xs.vip/120001
+#EXTINF:-1 tvg-name="IRE: Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="A1xmedia EU Sports",IRE: Premier Sports 1 FHD
+https://a1xs.vip/8000021
+#EXTINF:-1 tvg-name="IRE: Premier Sports 2 FHD" tvg-logo="https://i.imgur.com/mLYkn9p.png" group-title="A1xmedia EU Sports",IRE: Premier Sports 2 FHD
+https://a1xs.vip/8000022
+#EXTINF:-1 tvg-name="NL: Ziggo Sport 2 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="A1xmedia EU Sports",NL: Ziggo Sport 2 FHD
+https://a1xs.vip/140002
+#EXTINF:-1 tvg-name="NL: Ziggo Sport 3 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="A1xmedia EU Sports",NL: Ziggo Sport 3 FHD
+https://a1xs.vip/140003
+#EXTINF:-1 tvg-name="NL: Ziggo Sport 4 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="A1xmedia EU Sports",NL: Ziggo Sport 4 FHD
+https://a1xs.vip/140004
+#EXTINF:-1 tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="A1xmedia EU Sports",NL: Ziggo Sport FHD
+https://a1xs.vip/140001
+
+#EXTGRP:A1xmedia NZ Sports
+#EXTINF:-1 tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.imgur.com/AznJTOJ.png" group-title="A1xmedia NZ Sports",SKY Sport 7 NZ
+https://a1xs.vip/700037
+
+#EXTGRP:A1xmedia UHD | 4K
+#EXTINF:-1 tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
+https://a1xs.vip/14001
+#EXTINF:-1 tvg-name="HK: Now Sports 1 4k" tvg-logo="https://i.imgur.com/mj9zJUc.png" group-title="A1xmedia UHD | 4K",HK: Now Sports 1 4k
+https://a1xs.vip/9000011
+#EXTINF:-1 tvg-name="SE: V Sport Ultra HD" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="A1xmedia UHD | 4K",SE: V Sport Ultra HD
+https://a1xs.vip/9000013
+
+#EXTGRP:A1xmedia UK Channels
+#EXTINF:-1 tvg-name="BBC News FHD" tvg-logo="https://i.imgur.com/wZcplCT.png" group-title="A1xmedia UK Channels",BBC News FHD
+https://a1xs.vip/1000015
+#EXTINF:-1 tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="A1xmedia UK Channels",BBC One FHD
+https://a1xs.vip/1000001
+#EXTINF:-1 tvg-name="BBC Three / CBBC FHD" tvg-logo="https://i.ibb.co/n8t4rCh/BBC-Three.png" group-title="A1xmedia UK Channels",BBC Three / CBBC FHD
+https://a1xs.vip/1000003
+#EXTINF:-1 tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="A1xmedia UK Channels",BBC Two FHD
+https://a1xs.vip/1000002
+#EXTINF:-1 tvg-name="CNN UK FHD" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="A1xmedia UK Channels",CNN UK FHD
+https://a1xs.vip/1000016
+#EXTINF:-1 tvg-name="GB News FHD" tvg-logo="https://i.imgur.com/0OLwnMR.png" group-title="A1xmedia UK Channels",GB News FHD
+https://a1xs.vip/1000017
+#EXTINF:-1 tvg-name="Sky News FHD" tvg-logo="https://i.imgur.com/OrPaXvv.png" group-title="A1xmedia UK Channels",Sky News FHD
+https://a1xs.vip/1000018
+
+#EXTGRP:A1xmedia US Channels
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/L2BWgSl.png" group-title="A1xmedia US Channels",ABC News Live
+https://a1xs.vip/300016
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://i.imgur.com/1gRfE1V.png" group-title="A1xmedia US Channels",CBS
+https://a1xs.vip/300010
+#EXTINF:-1 tvg-name="FOX" tvg-logo="https://i.imgur.com/atBCo5C.png" group-title="A1xmedia US Channels",FOX
+https://a1xs.vip/300014
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/zRGFEyD.png" group-title="A1xmedia US Channels",NBC News NOW
+https://a1xs.vip/300013
+#EXTINF:-1 tvg-name="NewsMax" tvg-logo="https://i.imgur.com/iOjk0wy.png" group-title="A1xmedia US Channels",NewsMax
+https://a1xs.vip/300012
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="A1xmedia US Channels",TNT FHD
+https://a1xs.vip/300001
+
+#EXTGRP:A1xmedia US Sports
+#EXTINF:-1 tvg-name="ACC Network HD" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="A1xmedia US Sports",ACC Network HD
+https://a1xs.vip/40000016
+#EXTINF:-1 tvg-name="Altitude Sports" tvg-logo="https://pixvid.org/images/2025/02/20/altitude-sports.png" group-title="A1xmedia US Sports",Altitude Sports
+https://a1xs.vip/40000048
+#EXTINF:-1 tvg-name="Big Ten Network" tvg-logo="https://pixvid.org/images/2025/02/12/big-ten.png" group-title="A1xmedia US Sports",Big Ten Network
+https://a1xs.vip/40000047
+#EXTINF:-1 tvg-name="CBS Sports Golazo Network" tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" group-title="A1xmedia US Sports",CBS Sports Golazo Network
+https://a1xs.vip/4000009
+#EXTINF:-1 tvg-name="CBS Sports HQ FHD" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" group-title="A1xmedia US Sports",CBS Sports HQ FHD
+https://a1xs.vip/4000007
+#EXTINF:-1 tvg-name="Chicago Sports Network" tvg-logo="https://i.imgur.com/wJvwsKH.png" group-title="A1xmedia US Sports",Chicago Sports Network
+https://a1xs.vip/4000049
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="A1xmedia US Sports",ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:-1 tvg-name="ESPN News HD" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="A1xmedia US Sports",ESPN News HD
+https://a1xs.vip/40000014
+#EXTINF:-1 tvg-name="ESPN2 HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="A1xmedia US Sports",ESPN2 HD
+https://a1xs.vip/40000012
+#EXTINF:-1 tvg-name="ESPNU HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="A1xmedia US Sports",ESPNU HD
+https://a1xs.vip/40000013
+#EXTINF:-1 tvg-name="FanDuel Sports Florida" tvg-logo="https://pixvid.org/images/2025/02/08/FanDuel_Florida.png" group-title="A1xmedia US Sports",FanDuel Sports Florida
+https://a1xs.vip/4000050
+#EXTINF:-1 tvg-name="FanDuel Sports Great Lakes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-great-lakes-us.png?raw=true" group-title="A1xmedia US Sports",FanDuel Sports Great Lakes
+https://a1xs.vip/4000055
+#EXTINF:-1 tvg-name="FanDuel Sports Midwest" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Midwest.png" group-title="A1xmedia US Sports",FanDuel Sports Midwest
+https://a1xs.vip/4000054
+#EXTINF:-1 tvg-name="FanDuel Sports North" tvg-logo="https://pixvid.org/images/2025/02/13/FanDuel_North.png" group-title="A1xmedia US Sports",FanDuel Sports North
+https://a1xs.vip/4000057
+#EXTINF:-1 tvg-name="FanDuel Sports South" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_South.png" group-title="A1xmedia US Sports",FanDuel Sports South
+https://a1xs.vip/4000053
+#EXTINF:-1 tvg-name="FanDuel Sports Sun" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Sun.png" group-title="A1xmedia US Sports",FanDuel Sports Sun
+https://a1xs.vip/4000051
+#EXTINF:-1 tvg-name="FanDuel Sports West" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_West.png" group-title="A1xmedia US Sports",FanDuel Sports West
+https://a1xs.vip/4000052
+#EXTINF:-1 tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel-Wisconsin.png" group-title="A1xmedia US Sports",FanDuel Sports Wisconsin
+https://a1xs.vip/4000056
+#EXTINF:-1 tvg-name="FanDuel TV" tvg-logo="https://pixvid.org/images/2025/02/07/fanduel_tv.png" group-title="A1xmedia US Sports",FanDuel TV
+https://a1xs.vip/40000046
+#EXTINF:-1 tvg-name="FS1 HD" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="A1xmedia US Sports",FS1 HD
+https://a1xs.vip/40000021
+#EXTINF:-1 tvg-name="FS2 HD" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="A1xmedia US Sports",FS2 HD
+https://a1xs.vip/40000022
+#EXTINF:-1 tvg-name="Golf Channel USA FHD" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="A1xmedia US Sports",Golf Channel USA FHD
+https://a1xs.vip/40000060
+#EXTINF:-1 tvg-name="MSG FHD" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="A1xmedia US Sports",MSG FHD
+https://a1xs.vip/4000001
+#EXTINF:-1 tvg-name="MSG_PLUS FHD" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="A1xmedia US Sports",MSG_PLUS FHD
+https://a1xs.vip/4000002
+#EXTINF:-1 tvg-name="NBC Sports Bay Area" tvg-logo="https://i.imgur.com/lxdcjBQ.png" group-title="A1xmedia US Sports",NBC Sports Bay Area
+https://a1xs.vip/400050
+#EXTINF:-1 tvg-name="NBC Sports Philadelphia" tvg-logo="https://i.imgur.com/ClsPpm6.png" group-title="A1xmedia US Sports",NBC Sports Philadelphia
+https://a1xs.vip/400051
+#EXTINF:-1 tvg-name="NESN FHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="A1xmedia US Sports",NESN FHD
+https://a1xs.vip/4000004
+#EXTINF:-1 tvg-name="NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="A1xmedia US Sports",NESN UHD
+https://a1xs.vip/4000080
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-nw.png" group-title="A1xmedia US Sports",NFL Network
+https://a1xs.vip/40000032
+#EXTINF:-1 tvg-name="NFL RedZone" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" group-title="A1xmedia US Sports",NFL RedZone
+https://a1xs.vip/40000033
+#EXTINF:-1 tvg-name="SEC Network HD" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="A1xmedia US Sports",SEC Network HD
+https://a1xs.vip/40000015
+#EXTINF:-1 tvg-name="Spectrum Sportsnet FHD" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="A1xmedia US Sports",Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
+#EXTINF:-1 tvg-name="Spectrum Sportsnet LA Dodgers" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="A1xmedia US Sports",Spectrum Sportsnet LA Dodgers
+https://a1xs.vip/400052
+#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="A1xmedia US Sports",Spectrum Sportsnet Lakers
+https://a1xs.vip/400053
+#EXTINF:-1 tvg-name="SportsNet NY FHD" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="A1xmedia US Sports",SportsNet NY FHD
+https://a1xs.vip/40000045
+#EXTINF:-1 tvg-name="Tennis Channel FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="A1xmedia US Sports",Tennis Channel FHD
+https://a1xs.vip/40000040
+#EXTINF:-1 tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="A1xmedia US Sports",Tennis Channel Plus FHD
+https://a1xs.vip/40000041
+#EXTINF:-1 tvg-name="Willow Cricket FHD" tvg-logo="https://pixvid.org/images/2025/02/04/willow.png" group-title="A1xmedia US Sports",Willow Cricket FHD
+https://a1xs.vip/40000042
+#EXTINF:-1 tvg-name="Willow Cricket Xtra" tvg-logo="https://pixvid.org/images/2025/02/04/willow-xtra.png" group-title="A1xmedia US Sports",Willow Cricket Xtra
+https://a1xs.vip/40000043
+
+#EXTGRP:A1xmedia World Sports
+#EXTINF:-1 tvg-name="Star Sports Select 1 FHD" tvg-logo="https://i.imgur.com/VFyADIN.png" group-title="A1xmedia World Sports",Star Sports Select 1 FHD
+https://a1xs.vip/8000011
+#EXTINF:-1 tvg-name="Star Sports Select 2 FHD" tvg-logo="https://i.imgur.com/6u2iOjA.png" group-title="A1xmedia World Sports",Star Sports Select 2 FHD
+https://a1xs.vip/8000012
+
+#EXTGRP:AriaPlus - Australia
+#EXTINF:-1 tvg-name="ABC Entertains" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="AriaPlus - Australia",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-name="ABC Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png" group-title="AriaPlus - Australia",ABC Family
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 tvg-name="ABC Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="AriaPlus - Australia",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png" group-title="AriaPlus - Australia",ABC News
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png" group-title="AriaPlus - Australia",ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="AriaPlus - Australia",ESPN
+http://groundhogday.in/live/Jok123/Jok123/1003707.ts
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn2-us.png" group-title="AriaPlus - Australia",ESPN 2
+http://groundhogday.in/live/Jok123/Jok123/1003706.ts
+#EXTINF:-1 tvg-name="Fox Sports 501" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="AriaPlus - Australia",Fox Sports 501
+https://a1xs.vip/700001
+#EXTINF:-1 tvg-name="Fox Sports 502" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="AriaPlus - Australia",Fox Sports 502
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-name="Fox Sports 503" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="AriaPlus - Australia",Fox Sports 503
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-name="Fox Sports 504" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="AriaPlus - Australia",Fox Sports 504
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-name="Fox Sports 505" tvg-logo="https://i.imgur.com/angJkah.png" group-title="AriaPlus - Australia",Fox Sports 505
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-name="Fox Sports 506" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="AriaPlus - Australia",Fox Sports 506
+https://a1xs.vip/700006
+#EXTINF:-1 tvg-name="Fox Sports 507" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="AriaPlus - Australia",Fox Sports 507
+https://a1xs.vip/700007
+#EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/racing-com-au.png" group-title="AriaPlus - Australia",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+
+#EXTGRP:AriaPlus - Canada
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/bbc-earth-ca.png" group-title="AriaPlus - Canada",BBC Earth
+http://user.scalecdn.co:8080/live/26725074/92867131/88022.ts
+#EXTINF:-1 tvg-name="BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/BBC_First_Foxtel_logo.svg" group-title="AriaPlus - Canada",BBC First
+http://user.scalecdn.co:8080/live/26725074/92867131/698467.ts
+#EXTINF:-1 tvg-name="beIN Sports Canada" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BeINSports2017.png/revision/latest?cb=20170102171935" group-title="AriaPlus - Canada",beIN Sports Canada
+http://speccy.pw:8080/live/111111/111111/316900.ts
+#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png" group-title="AriaPlus - Canada",CBC News Network
+http://38.143.48.212:9981/stream/channelid/1944859004?profile=pass
+#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png" group-title="AriaPlus - Canada",CBC News Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40760.ts
+#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png" group-title="AriaPlus - Canada",CBC News Network
+https://a1xs.vip/610004
+#EXTINF:-1 tvg-name="CTV News" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="AriaPlus - Canada",CTV News
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40735.ts
+#EXTINF:-1 tvg-name="CTV News" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="AriaPlus - Canada",CTV News
+https://a1xs.vip/610002
+#EXTINF:-1 tvg-name="CTV News Channel" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="AriaPlus - Canada",CTV News Channel
+http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="AriaPlus - Canada",Fight Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40711.ts
+#EXTINF:-1 tvg-name="Fox Sports Racing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/fox-sports-racing-ca.png" group-title="AriaPlus - Canada",Fox Sports Racing
+http://speccy.pw:8080/live/111111/111111/316980.ts
+#EXTINF:-1 tvg-name="Global BC (CHAN-DT)" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global BC (CHAN-DT)
+http://speccy.pw:8080/live/111111/111111/316989.ts
+#EXTINF:-1 tvg-name="Global Maritimes (CIHF-DT)" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global Maritimes (CIHF-DT)
+http://user.scalecdn.co:8080/live/26725074/92867131/88027.ts
+#EXTINF:-1 tvg-name="Global News BC1" tvg-logo="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320" group-title="AriaPlus - Canada",Global News BC1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112775.ts
+#EXTINF:-1 tvg-name="Global Toronto (CIII)" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
+http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
+#EXTINF:-1 tvg-name="Global Toronto (CIII-DT)" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global Toronto (CIII-DT)
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40703.ts
+#EXTINF:-1 tvg-name="NBA TV Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/nba-tv-ca.png" group-title="AriaPlus - Canada",NBA TV Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107514.ts
+#EXTINF:-1 tvg-name="One Soccer" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/one-soccer-ca.png" group-title="AriaPlus - Canada",One Soccer
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/123909.ts
+#EXTINF:-1 tvg-name="Sportsman Channel" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png" group-title="AriaPlus - Canada",Sportsman Channel
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112866.ts
+#EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="AriaPlus - Canada",Sportsnet 360
+http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
+#EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="AriaPlus - Canada",Sportsnet 360
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
+#EXTINF:-1 tvg-name="Sportsnet East" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png" group-title="AriaPlus - Canada",Sportsnet East
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
+#EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
+http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
+#EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
+#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png" group-title="AriaPlus - Canada",Sportsnet Ontario
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
+#EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
+http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
+#EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="AriaPlus - Canada",Sportsnet West
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="AriaPlus - Canada",Sportsnet West
+https://a1xs.vip/6000015
+#EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="AriaPlus - Canada",TSN 1
+http://38.143.48.212:9981/stream/channelid/1102959901?profile=pass
+#EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="AriaPlus - Canada",TSN 1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/es-tsn1.m3u8?auth_key=1759982355-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-ec991798fb3a33c4caef3a587fc98d91
+#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="AriaPlus - Canada",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="AriaPlus - Canada",TSN 2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/es-tsn2.m3u8?auth_key=1759982357-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-4f3ae1c601f92fecf8e5ef4d17c2b4db
+#EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="AriaPlus - Canada",TSN 3
+http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
+#EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="AriaPlus - Canada",TSN 3
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/es-tsn3.m3u8?auth_key=1759982360-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-836865e9729a7d290b06b164c38f28c9
+#EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="AriaPlus - Canada",TSN 4
+http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
+#EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="AriaPlus - Canada",TSN 4
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/es-tsn4.m3u8?auth_key=1759982363-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-3904cffd5add4bcd4266892572238095
+#EXTINF:-1 tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="AriaPlus - Canada",TSN 5
+http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
+#EXTINF:-1 tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="AriaPlus - Canada",TSN 5
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/es-tsn5.m3u8?auth_key=1759982365-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-6adf2bd129499bd3b54dbcea39d3ea54
+#EXTINF:-1 tvg-name="TVA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-ca.png" group-title="AriaPlus - Canada",TVA
+http://38.143.48.212:9981/stream/channelid/351521489?profile=pass
+#EXTINF:-1 tvg-name="TVA Sport" tvg-logo="https://media.starlite.best/tva.sports.ca.png" group-title="AriaPlus - Canada",TVA Sport
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40645.ts
+#EXTINF:-1 tvg-name="TVA Sport 2" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png" group-title="AriaPlus - Canada",TVA Sport 2
+http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265220.ts
+#EXTINF:-1 tvg-name="TVA West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-ca.png" group-title="AriaPlus - Canada",TVA West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112931.ts
+
+#EXTGRP:AriaPlus - New Zealand
+#EXTINF:-1 tvg-name="Sky Open" tvg-logo="https://tv.wyatts-server.com/imagecache/6814" group-title="AriaPlus - New Zealand",Sky Open
+https://tv.wyatts-server.com/stream/channelid/1977627680?profile=pass
+#EXTINF:-1 tvg-name="Sky Sport 1" tvg-logo="None" group-title="AriaPlus - New Zealand",Sky Sport 1
+https://a1xs.vip/700031
+#EXTINF:-1 tvg-name="Sky Sport 2" tvg-logo="None" group-title="AriaPlus - New Zealand",Sky Sport 2
+https://a1xs.vip/700032
+#EXTINF:-1 tvg-name="Sky Sport 3" tvg-logo="None" group-title="AriaPlus - New Zealand",Sky Sport 3
+https://a1xs.vip/700033
+#EXTINF:-1 tvg-name="Sky Sport 4" tvg-logo="None" group-title="AriaPlus - New Zealand",Sky Sport 4
+https://a1xs.vip/700034
+#EXTINF:-1 tvg-name="Sky Sport 5" tvg-logo="None" group-title="AriaPlus - New Zealand",Sky Sport 5
+https://a1xs.vip/700035
+#EXTINF:-1 tvg-name="Sky Sport 6" tvg-logo="None" group-title="AriaPlus - New Zealand",Sky Sport 6
+https://a1xs.vip/700036
+
+#EXTGRP:AriaPlus - United Kingdom
+#EXTINF:-1 tvg-name="BBC Alba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" group-title="AriaPlus - United Kingdom",BBC Alba
+http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
+#EXTINF:-1 tvg-name="BBC Four" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="AriaPlus - United Kingdom",BBC Four
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="AriaPlus - United Kingdom",BBC News
+http://86.180.115.121:1990/stream/channelid/396948315?profile=pass
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="AriaPlus - United Kingdom",BBC One
+http://86.180.115.121:1990/stream/channelid/2113595444?profile=pass
+#EXTINF:-1 tvg-name="BBC Scotland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-scotland-uk.png" group-title="AriaPlus - United Kingdom",BBC Scotland
+http://185.99.136.50:9981/stream/channelid/1801269588?profile=pass
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="AriaPlus - United Kingdom",BBC Three
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="AriaPlus - United Kingdom",BBC Two
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" group-title="AriaPlus - United Kingdom",GB News
+http://86.180.115.121:1990/stream/channelid/1566175602?profile=pass
+#EXTINF:-1 tvg-name="Sky Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="AriaPlus - United Kingdom",Sky Arts
+http://86.180.115.121:1990/stream/channelid/99503184?profile=pass
+#EXTINF:-1 tvg-name="Sky Atlantic" tvg-logo="https://pixvid.org/images/2025/02/10/sky-atlantic.png" group-title="AriaPlus - United Kingdom",Sky Atlantic
+https://a1xs.vip/210001
+#EXTINF:-1 tvg-name="Sky Cinema Action" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-action.png" group-title="AriaPlus - United Kingdom",Sky Cinema Action
+https://a1xs.vip/210006
+#EXTINF:-1 tvg-name="Sky Cinema Comedy" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-comedy.png" group-title="AriaPlus - United Kingdom",Sky Cinema Comedy
+https://a1xs.vip/210005
+#EXTINF:-1 tvg-name="Sky Cinema Family" tvg-logo="https://pixvid.org/images/2025/02/11/sky-family.png" group-title="AriaPlus - United Kingdom",Sky Cinema Family
+https://a1xs.vip/210007
+#EXTINF:-1 tvg-name="Sky Cinema Hits" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-hits.png" group-title="AriaPlus - United Kingdom",Sky Cinema Hits
+https://a1xs.vip/210002
+#EXTINF:-1 tvg-name="Sky Cinema Premiere" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-premiere.png" group-title="AriaPlus - United Kingdom",Sky Cinema Premiere
+https://a1xs.vip/210003
+#EXTINF:-1 tvg-name="Sky Cinema Select" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-select.png" group-title="AriaPlus - United Kingdom",Sky Cinema Select
+https://a1xs.vip/210004
+#EXTINF:-1 tvg-name="Sky Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png" group-title="AriaPlus - United Kingdom",Sky Mix
+http://86.180.115.121:1990/stream/channelid/914757818?profile=pass
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="AriaPlus - United Kingdom",Sky News
+http://86.180.115.121:1990/stream/channelid/47242596?profile=pass
+#EXTINF:-1 tvg-name="Sky Sports Action/Sky Sports NFL" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="AriaPlus - United Kingdom",Sky Sports Action/Sky Sports NFL
+https://a1xs.vip/2000011
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="AriaPlus - United Kingdom",Sky Sports Cricket
+https://a1xs.vip/2000006
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="AriaPlus - United Kingdom",Sky Sports F1
+https://a1xs.vip/2000005
+#EXTINF:-1 tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="AriaPlus - United Kingdom",Sky Sports F1 UHD
+https://a1xs.vip/2000016
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="AriaPlus - United Kingdom",Sky Sports Football
+https://a1xs.vip/2000003
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="AriaPlus - United Kingdom",Sky Sports Golf
+https://a1xs.vip/2000009
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="AriaPlus - United Kingdom",Sky Sports Main Event
+https://a1xs.vip/2000001
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="AriaPlus - United Kingdom",Sky Sports Main Event
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-skysportmain.m3u8?auth_key=1759982158-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-2d528aa1601d6a104eb6d1f9622f946a
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="AriaPlus - United Kingdom",Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="AriaPlus - United Kingdom",Sky Sports Mix
+https://a1xs.vip/2000008
+#EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="AriaPlus - United Kingdom",Sky Sports News
+https://a1xs.vip/2000004
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="AriaPlus - United Kingdom",Sky Sports Premier League
+https://a1xs.vip/2000002
+#EXTINF:-1 tvg-name="Sky Sports Racing" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="AriaPlus - United Kingdom",Sky Sports Racing
+https://a1xs.vip/2000010
+#EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="AriaPlus - United Kingdom",Sky Sports Tennis
+https://a1xs.vip/2000013
+#EXTINF:-1 tvg-name="Sky Sports+" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="AriaPlus - United Kingdom",Sky Sports+
+https://a1xs.vip/2000012
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="AriaPlus - United Kingdom",TNT Sports 1
+https://a1xs.vip/2000021
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="AriaPlus - United Kingdom",TNT Sports 1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-tntsport1.m3u8?auth_key=1759982110-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-204069cab202524e819dc7d837730839
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="AriaPlus - United Kingdom",TNT Sports 2
+https://a1xs.vip/2000022
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="AriaPlus - United Kingdom",TNT Sports 2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-tntsport2.m3u8?auth_key=1759982113-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-a887078c0e37e55276248f4ab1c70770
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="AriaPlus - United Kingdom",TNT Sports 3
+https://a1xs.vip/2000023
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="AriaPlus - United Kingdom",TNT Sports 3
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-tntsport3.m3u8?auth_key=1759982117-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-58389141da04a8a09d4156eb847f6be3
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="AriaPlus - United Kingdom",TNT Sports 4
+https://a1xs.vip/2000024
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="AriaPlus - United Kingdom",TNT Sports 4
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-tntsport4.m3u8?auth_key=1759982121-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-620913cd21a0852dda22fc6507d439fb
+#EXTINF:-1 tvg-name="TNT Sports Ultimate" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="AriaPlus - United Kingdom",TNT Sports Ultimate
+https://a1xs.vip/2000031
+
+#EXTGRP:AriaPlus - United States
+#EXTINF:-1 tvg-name="ABC (WABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC (WABC)
+http://108.14.66.42:5004/auto/v7.1
+#EXTINF:-1 tvg-name="ABC (WFTS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC (WFTS)
+https://fl7.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="ABC West (KABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC West (KABC)
+http://kstv.us:8080/live/Purn3542/38791114838/48784.ts
+#EXTINF:-1 tvg-name="CBS (WPEC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="AriaPlus - United States",CBS (WPEC)
+https://fl25.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="AriaPlus - United States",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="AriaPlus - United States",CNN
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-cnn.m3u8?auth_key=1759982269-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-c9b854c543fdc58bd69ace5ddd7549da
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="AriaPlus - United States",CNN
+https://a1xs.vip/300007
+#EXTINF:-1 tvg-name="FOX (WFLX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="AriaPlus - United States",FOX (WFLX)
+https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-name="FOX (WNYW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="AriaPlus - United States",FOX (WNYW)
+http://108.14.66.42:5004/auto/v5.1
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="AriaPlus - United States",Fox News
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="AriaPlus - United States",Fox News
+https://a1xs.vip/300011
+#EXTINF:-1 tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="AriaPlus - United States",FOX Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-name="FOX West (KTTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="AriaPlus - United States",FOX West (KTTV)
+http://kstv.us:8080/live/Purn3542/38791114838/48788.ts
+#EXTINF:-1 tvg-name="MSNBC (Soon to be MSNOW)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png" group-title="AriaPlus - United States",MSNBC (Soon to be MSNOW)
+https://tvpass.org/live/MSNBC/hd
+#EXTINF:-1 tvg-name="NBC (WNBC)" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="AriaPlus - United States",NBC (WNBC)
+http://108.14.66.42:5004/auto/v4.1
+#EXTINF:-1 tvg-name="NBC (WVGN)" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="AriaPlus - United States",NBC (WVGN)
+https://fl7.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="NBC West (KNBC)" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="AriaPlus - United States",NBC West (KNBC)
+http://kstv.us:8080/live/Purn3542/38791114838/48790.ts
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="AriaPlus - United States",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="AriaPlus - United States",TNT
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/us-tnt.m3u8?auth_key=1759982287-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-377c5a82009b65b0a186093c1a1e1d52
+#EXTINF:-1 tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="AriaPlus - United States",TNT West
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTGRP:FSTV
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="FSTV",ABC
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/us-abc.m3u8?auth_key=1759982237-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-49d9a7e189c20fbeea6ef544fde1bb00
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="FSTV",ABC
+https://a1xs.vip/300003
+#EXTINF:-1 tvg-name="BBC News UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="FSTV",BBC News UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-bbcnews.m3u8?auth_key=1759982306-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-811fbd61b615b1ed472a2f6253735d02
+#EXTINF:-1 tvg-name="BBC One UK" tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png" group-title="FSTV",BBC One UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-bbcone.m3u8?auth_key=1759982301-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-105692a8b682184969d8d74c23bc6593
+#EXTINF:-1 tvg-name="BBC Two UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="FSTV",BBC Two UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-bbctwo.m3u8?auth_key=1759982303-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-2c5ff49edd98ed9c56ce0a0e571a4d65
+#EXTINF:-1 tvg-name="BeIN Sports Español" tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="FSTV",BeIN Sports Español
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/usa-beinlaliga.m3u8?auth_key=1759982195-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-41362a014460fe20bce6ed4d3b390cf9
+#EXTINF:-1 tvg-name="BeIN Sports Español Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="FSTV",BeIN Sports Español Xtra
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/us-beinespamolxtra.m3u8?auth_key=1759982199-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-06852bd9ec21c455877448fa3daf5eac
+#EXTINF:-1 tvg-name="BeIN Sports USA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",BeIN Sports USA
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/usa-beinsport.m3u8?auth_key=1759982190-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-a4a1482706a16296a9d890eaa02de5f3
+#EXTINF:-1 tvg-name="BeIN Sports Xtra USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="FSTV",BeIN Sports Xtra USA
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/us-beinxtra.m3u8?auth_key=1759982192-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-318ec1b6937085320dbf95199679622e
+#EXTINF:-1 tvg-name="CBS Los Angeles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS.png" group-title="FSTV",CBS Los Angeles
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/us-cbslosangeles.m3u8?auth_key=1759982049-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-432906d0141cf2f555e007bb5295c73a
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="FSTV",CBS Sports Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/usa-cbssport.m3u8?auth_key=1759982045-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-ad9b1c511abbd56c927d8e1635b76fa5
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="FSTV",CBS Sports Network
+https://a1xs.vip/4000008
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="FSTV",CNBC
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-cnbc.m3u8?auth_key=1759982107-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-8ec42d9a77434ab94bcdc07058446132
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="FSTV",CNBC
+https://a1xs.vip/300009
+#EXTINF:-1 tvg-name="DAZN 1 Germany" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="FSTV",DAZN 1 Germany
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.store/de-dazn1.m3u8?auth_key=1759982314-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-167aeabfa11444de68330d6bb48ef240
+#EXTINF:-1 tvg-name="DAZN 2 Germany" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn2-de.png?raw=true" group-title="FSTV",DAZN 2 Germany
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.store/de-dazn2.m3u8?auth_key=1759982322-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-796b299822d5d8568b15bebb3dfa7ade
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" group-title="FSTV",ESPN Deportes
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-espndeportes.m3u8?auth_key=1759982075-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-1634dfc2a34917304835224d5bc2954b
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="FSTV",ESPN2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-espn2.m3u8?auth_key=1759982063-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-59c23aab586e65abec9110e8c8b508ec
+#EXTINF:-1 tvg-name="ESPNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="FSTV",ESPNews
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-espnnews.m3u8?auth_key=1759982068-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-34ed191305a86b454b37c1f64657d404
+#EXTINF:-1 tvg-name="ESPNU" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",ESPNU
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-uespn.m3u8?auth_key=1759982072-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-5497fed82e9d1505e4e58f5ef21efb9a
+#EXTINF:-1 tvg-name="Eurosport 1 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="FSTV",Eurosport 1 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-eurosport1.m3u8?auth_key=1759982123-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-82e10eb2145ddaf8410d0085334f03f7
+#EXTINF:-1 tvg-name="Eurosport 2 UK" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="FSTV",Eurosport 2 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-eurosport2.m3u8?auth_key=1759982130-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-d29ebc8418213a8e18f8fe1cf7d2a41b
+#EXTINF:-1 tvg-name="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="FSTV",Fox Deportes
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-foxdeportes.m3u8?auth_key=1759982308-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-7725a3480701f67b90a547bbccbf5d55
+#EXTINF:-1 tvg-name="Fox Los Angeles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FOX.png" group-title="FSTV",Fox Los Angeles
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/us-foxchanel.m3u8?auth_key=1759982244-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-bef1d96a87a0e210a30f21081d4119fb
+#EXTINF:-1 tvg-name="Fox Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png" group-title="FSTV",Fox Soccer Plus
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/usa-foxsoccerplus.m3u8?auth_key=1759982222-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-ef0abd942a9d31c8be269cbf07254e73
+#EXTINF:-1 tvg-name="Fox Sports 502 AU" tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg" group-title="FSTV",Fox Sports 502 AU
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.store/pre31.m3u8?auth_key=1759982337-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-4ebab60bedd1cb7561bb3e57b7dec4c6
+#EXTINF:-1 tvg-name="FoxNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="FSTV",FoxNews
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-foxnews.m3u8?auth_key=1759982279-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-6b6aea7fa7dcdb53f37bffce388dc692
+#EXTINF:-1 tvg-name="Fubo Sports USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" group-title="FSTV",Fubo Sports USA
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/usa-fubosport.m3u8?auth_key=1759982217-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-7e52c608d44d871e10e57c71819f2209
+#EXTINF:-1 tvg-name="Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="FSTV",Golf Channel
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-golf.m3u8?auth_key=1759982088-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-bdb0cd2fa9aadc2d287180c8ac012d1e
+#EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" group-title="FSTV",Marquee Sports Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-marquee.m3u8?auth_key=1759982230-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-1760893ff18ada8212311fb8175f76c3
+#EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" group-title="FSTV",Marquee Sports Network
+https://a1xs.vip/4000010
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="FSTV",MLB Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-mlbnetwork.m3u8?auth_key=1759982267-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-7c8e77474f62977bfee0854ff2c6ffef
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="FSTV",MLB Network
+https://a1xs.vip/40000030
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" group-title="FSTV",MSNBC
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-msn.m3u8?auth_key=1759982104-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-df108f127ebcea683bbbfb7a3514f56b
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" group-title="FSTV",MSNBC
+https://a1xs.vip/300008
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="FSTV",NBA TV
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-nbatv.m3u8?auth_key=1759982264-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-2772101b724031a4f694bf7830fb4e01
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="FSTV",NBA TV
+https://a1xs.vip/40000031
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="FSTV",NBC
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-nbc.m3u8?auth_key=1759982102-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-75f5eefa55c895389fd26fb8013152de
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="FSTV",NBC
+https://a1xs.vip/300015
+#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true" group-title="FSTV",NBC News
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-viaplayxtra.m3u8?auth_key=1759982084-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-174a0702da512bf7e816227e6b5b18e6
+#EXTINF:-1 tvg-name="NBC Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="FSTV",NBC Universo
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/us-universo.m3u8?auth_key=1759982098-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-1d5ad20966a037957d424a9879da45ea
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="FSTV",NHL Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-nhlnetwork.m3u8?auth_key=1759982256-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-414d418846b2d60d1cfbf649bb3da4b7
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="FSTV",NHL Network
+https://a1xs.vip/40000034
+#EXTINF:-1 tvg-name="OneSoccer Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/one-soccer-ca.png?raw=true" group-title="FSTV",OneSoccer Canada
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/ca-soccerone.m3u8?auth_key=1759982311-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-ee128024ed0ba0aaf69874dabd9d38b1
+#EXTINF:-1 tvg-name="Ori2Deskyde Top Ent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="FSTV",Ori2Deskyde Top Ent
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/de-skytopevent.m3u8?auth_key=1759982320-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-e653f465fff355bc78975ef44c82257c
+#EXTINF:-1 tvg-name="Premier Sports 1 UK" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="FSTV",Premier Sports 1 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-premiersport1.m3u8?auth_key=1759982164-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-25a9d78dc51569c1cc2b23aee4fb6b14
+#EXTINF:-1 tvg-name="Premier Sports 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="FSTV",Premier Sports 2 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-premiersport2.m3u8?auth_key=1759982166-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-88e930c6f69bc741ff91dddc0d783355
+#EXTINF:-1 tvg-name="Racing TV UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="FSTV",Racing TV UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-racingtv.m3u8?auth_key=1759982169-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-d53d120bcf5cbdebe61962d78feaed6f
+#EXTINF:-1 tvg-name="Sky Mix DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-mix-uk.png?raw=true" group-title="FSTV",Sky Mix DE
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/de-skymix.m3u8?auth_key=1759982331-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-e8fb3487eb62b95d7168af20f53c9567
+#EXTINF:-1 tvg-name="Sky Sport Arena UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="FSTV",Sky Sport Arena UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.store/uk-skysportarena.m3u8?auth_key=1759982178-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-5f95a858e07c57b7a0680a11cfa37037
+#EXTINF:-1 tvg-name="Sky Sport Cricket UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="FSTV",Sky Sport Cricket UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-skysportcricket.m3u8?auth_key=1759982181-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-c993e446e9aea1ba142ee7839759987f
+#EXTINF:-1 tvg-name="Sky Sport Darts UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVQ1cCp2JyCeuTWBoSi-Te_YD_29p4ZEUJQ&s" group-title="FSTV",Sky Sport Darts UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-skydart.m3u8?auth_key=1759982187-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-c59acfb8f508fe56cc11a06cbcf63b69
+#EXTINF:-1 tvg-name="Sky Sport F1 UK" tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="FSTV",Sky Sport F1 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-skysportf1.m3u8?auth_key=1759982175-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-04036940e0968d553b4a8c82701d44bf
+#EXTINF:-1 tvg-name="Sky Sport Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="FSTV",Sky Sport Football
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-skysportfootball.m3u8?auth_key=1759982149-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-a5dc4f3f4a0f047fb59b0c61047cc49d
+#EXTINF:-1 tvg-name="Sky Sport Golf UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="FSTV",Sky Sport Golf UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-skysportgolf.m3u8?auth_key=1759982133-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-046e434e26c85df59617ed1796fbbafc
+#EXTINF:-1 tvg-name="Sky Sport Mix UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="FSTV",Sky Sport Mix UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-skysportmix.m3u8?auth_key=1759982155-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-ed29d809a2fd0822477276b15ebce00e
+#EXTINF:-1 tvg-name="Sky Sport News DE" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="FSTV",Sky Sport News DE
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/de-skynews.m3u8?auth_key=1759982329-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-7ddb1fe431c1af47cb8495e8a8c71a28
+#EXTINF:-1 tvg-name="Sky Sport News UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="FSTV",Sky Sport News UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-skysportnews.m3u8?auth_key=1759982184-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-0a282850ac3deac64a8ba975b02eead8
+#EXTINF:-1 tvg-name="Sky Sport Plus UK" tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png" group-title="FSTV",Sky Sport Plus UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-skyplus.m3u8?auth_key=1759982146-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-02577336784509329f1d560c3cda543b
+#EXTINF:-1 tvg-name="Sky Sport Premier League DE" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="FSTV",Sky Sport Premier League DE
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/de-skypremierleagaue.m3u8?auth_key=1759982317-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-f418f66c2783c3fb8b42d92ec7973575
+#EXTINF:-1 tvg-name="Sky Sport Premier League UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="FSTV",Sky Sport Premier League UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-skysportpremierleague.m3u8?auth_key=1759982151-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-360cdc4569d63234bed4ffca0f4e76ec
+#EXTINF:-1 tvg-name="Sky Sport Racing UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="FSTV",Sky Sport Racing UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-skysportracing.m3u8?auth_key=1759982161-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-9cac23342dc60f38c878e6a802ff48f4
+#EXTINF:-1 tvg-name="Sky Sport Tennis UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="FSTV",Sky Sport Tennis UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-skysporttenis.m3u8?auth_key=1759982142-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-a889cb77d7ff54ee4bb22eb0793369c8
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" group-title="FSTV",Sky Sports Action UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/uk-skysportaction.m3u8?auth_key=1759982173-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-d1fcd6001c7145649e250e4c048083fb
+#EXTINF:-1 tvg-name="Sport TV1 Portugal" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="FSTV",Sport TV1 Portugal
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.store/pt-sporttv1.m3u8?auth_key=1759982371-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-2f19b7e3da5ed3d0bd8cac3e99fda3c5
+#EXTINF:-1 tvg-name="SportDigital Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="FSTV",SportDigital Germany
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/de-sportdigital.m3u8?auth_key=1759982326-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-dcecaa45ee36e01344ab8546a32489ee
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="FSTV",Tennis Channel
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-tennistv.m3u8?auth_key=1759982090-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-9acf695c8ab577cd8c9b0d1a31077051
+#EXTINF:-1 tvg-name="Tennis Channel 2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="FSTV",Tennis Channel 2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/us-tennistv2.m3u8?auth_key=1759982094-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-ec3e9a904df38059cf827fd22c8320cf
+#EXTINF:-1 tvg-name="The Fight Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fight-network-us.png?raw=true" group-title="FSTV",The Fight Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-fightnetwork.m3u8?auth_key=1759982284-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-db15db3aae1dce4123b900c4a888ce66
+#EXTINF:-1 tvg-name="TNT Sports 5" tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="FSTV",TNT Sports 5
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/uk-tntsport5.m3u8?auth_key=1759982127-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-da8c1890c0294b270230332bb0777672
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true" group-title="FSTV",TyC Sports
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.store/usa-tycsport.m3u8?auth_key=1759982226-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-0dc58ca06abc035ab9f5b05f98c3afc0
+#EXTINF:-1 tvg-name="Willow Cricket HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="FSTV",Willow Cricket HD
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.store/us-willowhd.m3u8?auth_key=1759982254-6e62d1bede2fcfe03faef231d2ea2a9f-00000000000000000000000000000000-b112bf942858f3b4613e65827eb23930
