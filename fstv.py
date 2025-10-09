@@ -4,6 +4,7 @@ import asyncio
 import random
 from playwright.async_api import async_playwright
 
+EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml.gz"
 CHANNEL_MAPPING = {
     "usanetwork": {"name": "USA Network", "tv_id": "USA.Network.HD.us2", "group": "USA", "keywords": ["usanetwork"]},
     "cbsla": {"name": "CBS Los Angeles", "tv_id": "KCBS-DT.us_locals1", "logo": "http://drewlive24.duckdns.org:9000/Logos/CBS.png", "group": "USA", "keywords": ["cbslosangeles"]},
@@ -240,8 +241,8 @@ async def fetch_fstv_channels():
         await browser.close()
         raise Exception("❌ All mirrors failed")
 
-def build_playlist(channels_data):
-    lines = ["#EXTM3U url-tvg="https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml.gz""]
+def build_playlist(channels_data):    
+    lines = [f'#EXTM3U url-tvg="{EPG_URL}"', ""]
     for ch in channels_data:
         tvg_id = f' tvg-id="{ch["tv_id"]}"' if ch["tv_id"] else ""
         tvg_name = f' tvg-name="{ch["name"]}"'
