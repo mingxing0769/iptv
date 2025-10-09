@@ -73,6 +73,22 @@ jobs:
           git pull origin main --rebase || exit 1
           git push origin main || exit 1
 
+      - name: 🧹 Run del_tvg_id.py
+        run: |
+          echo "Running mergeclean.py..."
+          python del_tvg_id.py || { echo "❌ del_tvg_id.py failed"; exit 1; }
+          echo "✅ del_tvg_id.py completed."
+
+      - name: 💾 Commit & Push after del_tvg_id.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add out/MergedCleanPlaylist_no_tvg_id.m3u8
+          if git diff --cached --quiet; then echo "✅ No changes to commit"; exit 0; fi
+          git commit -m "🔄 Update MergedCleanPlaylist_no_tvg_id"
+          git pull origin main --rebase || exit 1
+          git push origin main || exit 1
+
       - name: 📅 Run epg_getcher.py
         working-directory: .
         run: |
