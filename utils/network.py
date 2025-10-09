@@ -9,13 +9,13 @@ from utils.m3u_parse import _parse_m3u_headers
 
 def fetch_playlist_content(url, retries=3, timeout=15):
     """获取并返回播放列表内容（文本）"""
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-    }
+    # headers = {
+    #     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    # } , headers=headers
     for attempt in range(1, retries + 1):
         try:
             print(f"Attempting to fetch {url} (try {attempt})...")
-            res = requests.get(url, timeout=timeout, headers=headers)
+            res = requests.get(url, timeout=timeout)
             res.raise_for_status()
             print(f"✅ Successfully fetched {url}")
             return res.text
