@@ -40,12 +40,15 @@ jobs:
           playwright install-deps
 
       - name: 🚀 Run fstv.py
+        id: run_fstv
         run: |
           echo "Running fstv.py..."
-          python fstv.py || { echo "❌ fstv.py failed"; exit 1; }
+          python fstv.py 
           echo "✅ fstv.py completed."
-
+        continue-on-error: true
+      
       - name: 💾 Commit & Push after fstv.py
+        if: steps.run_fstv.outcome == 'success'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
