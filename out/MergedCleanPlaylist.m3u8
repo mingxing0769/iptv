@@ -1001,3 +1001,37 @@ https://tvpass.org/live/tsn4/sd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
 https://tvpass.org/live/tsn5/sd
+
+#EXTGRP:TVPass - NCAAF
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Usc Trojans @ Notre Dame Fighting Irish (10/18 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Usc Trojans @ Notre Dame Fighting Irish (10/18 7:30 Pm Et)
+https://tvpass.org/live/NCAAF17/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Boston Bruins @ Colorado Avalanche (10/18 9:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Boston Bruins @ Colorado Avalanche (10/18 9:10 Pm Et)
+https://tvpass.org/live/NHL13/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames @ Vegas Golden Knights (10/18 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Calgary Flames @ Vegas Golden Knights (10/18 10:10 Pm Et)
+https://tvpass.org/live/NHL28/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes @ Los Angeles Kings (10/18 9:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Carolina Hurricanes @ Los Angeles Kings (10/18 9:10 Pm Et)
+https://tvpass.org/live/NHL29/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dallas Stars @ St Louis Blues (10/18 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Dallas Stars @ St Louis Blues (10/18 7:10 Pm Et)
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Edmonton Oilers @ New Jersey Devils (10/18 3:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Edmonton Oilers @ New Jersey Devils (10/18 3:40 Pm Et)
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Florida Panthers @ Buffalo Sabres (10/18 1:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Florida Panthers @ Buffalo Sabres (10/18 1:10 Pm Et)
+https://tvpass.org/live/NHL17/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Minnesota Wild @ Philadelphia Flyers (10/18 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Minnesota Wild @ Philadelphia Flyers (10/18 7:10 Pm Et)
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators @ Winnipeg Jets (10/18 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Nashville Predators @ Winnipeg Jets (10/18 7:10 Pm Et)
+https://tvpass.org/live/NHL01/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders @ Ottawa Senators (10/18 3:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Islanders @ Ottawa Senators (10/18 3:10 Pm Et)
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers @ Montréal Canadiens (10/18 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Rangers @ Montréal Canadiens (10/18 7:10 Pm Et)
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins @ San Jose Sharks (10/18 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Pittsburgh Penguins @ San Jose Sharks (10/18 10:10 Pm Et)
+https://tvpass.org/live/NHL14/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Tampa Bay Lightning @ Columbus Blue Jackets (10/18 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Tampa Bay Lightning @ Columbus Blue Jackets (10/18 7:10 Pm Et)
+https://tvpass.org/live/NHL20/sd
+
+#EXTGRP:TVPass - PPV
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ufc Fight Night: Reinier De Ridder V Brendan Allen (10/18 5:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="TVPass - PPV",Ufc Fight Night: Reinier De Ridder V Brendan Allen (10/18 5:10 Pm Et)
+https://tvpass.org/live/tnt-sports-1/sd
