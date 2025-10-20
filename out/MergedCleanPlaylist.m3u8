@@ -1250,3 +1250,13 @@ https://tvpass.org/live/tsn4/sd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
 https://tvpass.org/live/tsn5/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres @ Montréal Canadiens (10/20 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Buffalo Sabres @ Montréal Canadiens (10/20 7:30 Pm Et)
+https://tvpass.org/live/NHL17/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes @ Vegas Golden Knights (10/20 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Carolina Hurricanes @ Vegas Golden Knights (10/20 10:00 Pm Et)
+https://tvpass.org/live/NHL28/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Seattle Kraken @ Philadelphia Flyers (10/20 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Seattle Kraken @ Philadelphia Flyers (10/20 7:00 Pm Et)
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Winnipeg Jets @ Calgary Flames (10/20 9:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Winnipeg Jets @ Calgary Flames (10/20 9:30 Pm Et)
+https://tvpass.org/live/NHL02/sd
