@@ -143,7 +143,7 @@ async def fetch_fstv_channels():
     async with async_playwright() as p:
         browser = await p.firefox.launch(headless=True)
         context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
         )
         await context.set_extra_http_headers({
             "origin": "https://fstv.space",
@@ -252,7 +252,7 @@ def build_playlist(channels_data):
         lines.append(
             '#EXTVLCOPT:http-origin=https://fstv.space/\n'
             '#EXTVLCOPT:http-referrer=https://fstv.space/\n'
-            '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0\n'
+            '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0\n'
         )
         lines.append(ch["url"] + "\n")
     return lines
