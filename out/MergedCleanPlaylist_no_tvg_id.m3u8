@@ -883,3 +883,49 @@ https://tvpass.org/live/tsn4/sd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-name="TSN5 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
 https://tvpass.org/live/tsn5/sd
+
+#EXTGRP:TVPass - MLB
+#EXTINF:-1 tvg-name="Los Angeles Dodgers @ Toronto Blue Jays (10/25 8:01 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Dodgers @ Toronto Blue Jays (10/25 8:01 Pm Et)
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTGRP:TVPass - NBA
+#EXTINF:-1 tvg-name="Charlotte Hornets @ Philadelphia 76Ers (10/25 7:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Charlotte Hornets @ Philadelphia 76Ers (10/25 7:40 Pm Et)
+https://tvpass.org/live/NBA13/sd
+#EXTINF:-1 tvg-name="Chicago Bulls @ Orlando Magic (10/25 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Chicago Bulls @ Orlando Magic (10/25 7:00 Pm Et)
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-name="Indiana Pacers @ Memphis Grizzlies (10/25 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Indiana Pacers @ Memphis Grizzlies (10/25 8:10 Pm Et)
+https://tvpass.org/live/NBA23/sd
+#EXTINF:-1 tvg-name="Oklahoma City Thunder @ Atlanta Hawks (10/25 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Oklahoma City Thunder @ Atlanta Hawks (10/25 7:30 Pm Et)
+https://tvpass.org/live/NBA22/sd
+#EXTINF:-1 tvg-name="Phoenix Suns @ Denver Nuggets (10/25 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Phoenix Suns @ Denver Nuggets (10/25 10:00 Pm Et)
+https://tvpass.org/live/NBA18/sd
+
+#EXTGRP:TVPass - NCAAF
+#EXTINF:-1 tvg-name="Illinois Fighting Illini @ Washington Huskies (10/25 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Illinois Fighting Illini @ Washington Huskies (10/25 3:30 Pm Et)
+https://tvpass.org/live/BTN/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-name="Anaheim Ducks @ Tampa Bay Lightning (10/25 5:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Anaheim Ducks @ Tampa Bay Lightning (10/25 5:00 Pm Et)
+https://tvpass.org/live/NHL24/sd
+#EXTINF:-1 tvg-name="Buffalo Sabres @ Toronto Maple Leafs (10/25 5:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Buffalo Sabres @ Toronto Maple Leafs (10/25 5:00 Pm Et)
+https://tvpass.org/live/NHL17/sd
+#EXTINF:-1 tvg-name="Carolina Hurricanes @ Dallas Stars (10/25 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Carolina Hurricanes @ Dallas Stars (10/25 8:00 Pm Et)
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-name="Colorado Avalanche @ Boston Bruins (10/25 3:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Colorado Avalanche @ Boston Bruins (10/25 3:00 Pm Et)
+https://tvpass.org/live/NHL13/sd
+#EXTINF:-1 tvg-name="Columbus Blue Jackets @ Pittsburgh Penguins (10/25 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Columbus Blue Jackets @ Pittsburgh Penguins (10/25 7:00 Pm Et)
+https://tvpass.org/live/NHL20/sd
+#EXTINF:-1 tvg-name="Edmonton Oilers @ Seattle Kraken (10/25 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Edmonton Oilers @ Seattle Kraken (10/25 10:00 Pm Et)
+https://tvpass.org/live/NHL15/sd
+#EXTINF:-1 tvg-name="Los Angeles Kings @ Nashville Predators (10/25 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Los Angeles Kings @ Nashville Predators (10/25 8:00 Pm Et)
+https://tvpass.org/live/NHL29/sd
+#EXTINF:-1 tvg-name="New York Islanders @ Philadelphia Flyers (10/25 12:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Islanders @ Philadelphia Flyers (10/25 12:30 Pm Et)
+https://tvpass.org/live/NHL09/sd
+#EXTINF:-1 tvg-name="Ottawa Senators @ Washington Capitals (10/25 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Ottawa Senators @ Washington Capitals (10/25 7:00 Pm Et)
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-name="St Louis Blues @ Detroit Red Wings (10/25 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",St Louis Blues @ Detroit Red Wings (10/25 7:00 Pm Et)
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-name="Utah Mammoth @ Minnesota Wild (10/25 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Utah Mammoth @ Minnesota Wild (10/25 6:00 Pm Et)
+https://tvpass.org/live/NHL25/sd
+#EXTINF:-1 tvg-name="Vegas Golden Knights @ Florida Panthers (10/25 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vegas Golden Knights @ Florida Panthers (10/25 6:00 Pm Et)
+https://tvpass.org/live/NHL28/sd
