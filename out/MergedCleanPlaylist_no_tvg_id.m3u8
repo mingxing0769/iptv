@@ -439,6 +439,8 @@ http://kstv.us:8080/live/Purn3542/38791114838/48784.ts
 https://fl.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-name="CBS (WPEC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WPEC_CBS12_solid_calls.svg/640px-WPEC_CBS12_solid_calls.svg.png" group-title="AriaPlus - United States",CBS (WPEC)
 https://fl25.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-name="CBS 4 Miami" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/2958/801339-168626/4a47a0db6e60853dedfcfdf08a5ca249.png" group-title="AriaPlus - United States",CBS 4 Miami
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183438
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="AriaPlus - United States",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="AriaPlus - United States",CNN
@@ -457,6 +459,8 @@ https://247wlive.foxweather.com/stream/index.m3u8
 http://kstv.us:8080/live/Purn3542/38791114838/48788.ts
 #EXTINF:-1 tvg-name="NBC (WVGN)" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="AriaPlus - United States",NBC (WVGN)
 https://fl7.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="NBC 6 Miami" tvg-logo="https://pictures.grabien.com/profiles/large/0045/45223.jpg" group-title="AriaPlus - United States",NBC 6 Miami
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183244
 #EXTINF:-1 tvg-name="NBC East (WNBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/640px-WNBC_2023.svg.png" group-title="AriaPlus - United States",NBC East (WNBC)
 http://108.14.66.42:5004/auto/v4.1
 #EXTINF:-1 tvg-name="NBC VI (WVGN)" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/eq0qFTi.png" group-title="AriaPlus - United States",NBC VI (WVGN)
@@ -935,53 +939,3 @@ https://tvpass.org/live/tsn4/sd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-name="TSN5 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
 https://tvpass.org/live/tsn5/sd
-
-#EXTGRP:TVPass - MLB
-#EXTINF:-1 tvg-name="Toronto Blue Jays @ Los Angeles Dodgers (10/28 8:08 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Toronto Blue Jays @ Los Angeles Dodgers (10/28 8:08 Pm Et)
-https://tvpass.org/live/WNYWDT1/sd
-
-#EXTGRP:TVPass - NBA
-#EXTINF:-1 tvg-name="Charlotte Hornets @ Miami Heat (10/28 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Charlotte Hornets @ Miami Heat (10/28 7:30 Pm Et)
-https://tvpass.org/live/NBA13/sd
-#EXTINF:-1 tvg-name="Los Angeles Clippers @ Golden State Warriors (10/28 11:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Los Angeles Clippers @ Golden State Warriors (10/28 11:00 Pm Et)
-https://tvpass.org/live/NBA11/sd
-#EXTINF:-1 tvg-name="New York Knicks @ Milwaukee Bucks (10/28 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",New York Knicks @ Milwaukee Bucks (10/28 8:00 Pm Et)
-https://tvpass.org/live/NBA08/sd
-#EXTINF:-1 tvg-name="Philadelphia 76Ers @ Washington Wizards (10/28 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Philadelphia 76Ers @ Washington Wizards (10/28 7:10 Pm Et)
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-name="Sacramento Kings @ Oklahoma City Thunder (10/28 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Sacramento Kings @ Oklahoma City Thunder (10/28 8:10 Pm Et)
-https://tvpass.org/live/NBA22/sd
-
-#EXTGRP:TVPass - NHL
-#EXTINF:-1 tvg-name="Anaheim Ducks @ Florida Panthers (10/28 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Anaheim Ducks @ Florida Panthers (10/28 7:00 Pm Et)
-https://tvpass.org/live/NHL07/sd
-#EXTINF:-1 tvg-name="Calgary Flames @ Toronto Maple Leafs (10/28 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Calgary Flames @ Toronto Maple Leafs (10/28 6:00 Pm Et)
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-name="Columbus Blue Jackets @ Buffalo Sabres (10/28 6:45 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Columbus Blue Jackets @ Buffalo Sabres (10/28 6:45 Pm Et)
-https://tvpass.org/live/NHL17/sd
-#EXTINF:-1 tvg-name="Detroit Red Wings @ St Louis Blues (10/28 8:15 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Detroit Red Wings @ St Louis Blues (10/28 8:15 Pm Et)
-https://tvpass.org/live/NHL06/sd
-#EXTINF:-1 tvg-name="Los Angeles Kings @ San Jose Sharks (10/28 11:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Los Angeles Kings @ San Jose Sharks (10/28 11:00 Pm Et)
-https://tvpass.org/live/NHL29/sd
-#EXTINF:-1 tvg-name="Montréal Canadiens @ Seattle Kraken (10/28 10:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Montréal Canadiens @ Seattle Kraken (10/28 10:30 Pm Et)
-https://tvpass.org/live/NHL16/sd
-#EXTINF:-1 tvg-name="New Jersey Devils @ Colorado Avalanche (10/28 9:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New Jersey Devils @ Colorado Avalanche (10/28 9:00 Pm Et)
-https://tvpass.org/live/NHL26/sd
-#EXTINF:-1 tvg-name="New York Islanders @ Boston Bruins (10/28 7:15 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Islanders @ Boston Bruins (10/28 7:15 Pm Et)
-https://tvpass.org/live/NHL09/sd
-#EXTINF:-1 tvg-name="New York Rangers @ Vancouver Canucks (10/28 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Rangers @ Vancouver Canucks (10/28 10:00 Pm Et)
-https://tvpass.org/live/NHL23/sd
-#EXTINF:-1 tvg-name="Ottawa Senators @ Chicago Blackhawks (10/28 8:45 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Ottawa Senators @ Chicago Blackhawks (10/28 8:45 Pm Et)
-https://tvpass.org/live/NHL05/sd
-#EXTINF:-1 tvg-name="Pittsburgh Penguins @ Philadelphia Flyers (10/28 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Pittsburgh Penguins @ Philadelphia Flyers (10/28 6:00 Pm Et)
-https://tvpass.org/live/NHL10/sd
-#EXTINF:-1 tvg-name="Tampa Bay Lightning @ Nashville Predators (10/28 7:55 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Tampa Bay Lightning @ Nashville Predators (10/28 7:55 Pm Et)
-https://tvpass.org/live/NHL08/sd
-#EXTINF:-1 tvg-name="Utah Mammoth @ Edmonton Oilers (10/28 9:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Utah Mammoth @ Edmonton Oilers (10/28 9:30 Pm Et)
-https://tvpass.org/live/NHL15/sd
-#EXTINF:-1 tvg-name="Vegas Golden Knights @ Carolina Hurricanes (10/28 6:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vegas Golden Knights @ Carolina Hurricanes (10/28 6:30 Pm Et)
-https://tvpass.org/live/NHL04/sd
-#EXTINF:-1 tvg-name="Washington Capitals @ Dallas Stars (10/28 8:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Washington Capitals @ Dallas Stars (10/28 8:30 Pm Et)
-https://tvpass.org/live/NHL30/sd
-#EXTINF:-1 tvg-name="Winnipeg Jets @ Minnesota Wild (10/28 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Winnipeg Jets @ Minnesota Wild (10/28 8:00 Pm Et)
-https://tvpass.org/live/NHL11/sd
