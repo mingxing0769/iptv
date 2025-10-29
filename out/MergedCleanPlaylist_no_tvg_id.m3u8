@@ -433,6 +433,8 @@ https://fl.moveonjoy.com/ABC_EAST/index.m3u8
 https://fl7.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-name="ABC East (WABC)" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/gmLofqo.png" group-title="AriaPlus - United States",ABC East (WABC)
 http://108.14.66.42:5004/auto/v7.1
+#EXTINF:-1 tvg-name="ABC Miami" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/62/WPLG_Local_10_ABC.png/revision/latest?cb=20200209020430" group-title="AriaPlus - United States",ABC Miami
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183385
 #EXTINF:-1 tvg-name="ABC West (KABC)" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/04LXZd6.png" group-title="AriaPlus - United States",ABC West (KABC)
 http://kstv.us:8080/live/Purn3542/38791114838/48784.ts
 #EXTINF:-1 tvg-name="CBS (WPEC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WPEC_CBS12_solid_calls.svg/640px-WPEC_CBS12_solid_calls.svg.png" group-title="AriaPlus - United States",CBS (WPEC)
@@ -451,6 +453,8 @@ https://fl.moveonjoy.com/FOX_EAST/index.m3u8
 https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-name="FOX 11 Plus (KCOP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Fox_11_Plus_logo_2023.png" group-title="AriaPlus - United States",FOX 11 Plus (KCOP)
 http://kstv.us:8080/live/Purn3542/38791114838/48789.ts
+#EXTINF:-1 tvg-name="Fox 7 Miami" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/4/48/IMG_3530.png/revision/latest?cb=20250605211505" group-title="AriaPlus - United States",Fox 7 Miami
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183507
 #EXTINF:-1 tvg-name="FOX East (WNYW)" tvg-logo="https://inelda.org/wp-content/uploads/2022/10/Fox_5_NY_New_York_Logo.png" group-title="AriaPlus - United States",FOX East (WNYW)
 http://108.14.66.42:5004/auto/v5.1
 #EXTINF:-1 tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="AriaPlus - United States",FOX Weather
