@@ -919,3 +919,57 @@ https://tvpass.org/live/tsn4/sd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-name="TSN5 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
 https://tvpass.org/live/tsn5/sd
+
+#EXTGRP:TVPass - MLB
+#EXTINF:-1 tvg-name="Los Angeles Dodgers @ Toronto Blue Jays (11/01 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Dodgers @ Toronto Blue Jays (11/01 7:00 Pm Et)
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTGRP:TVPass - NBA
+#EXTINF:-1 tvg-name="Dallas Mavericks @ Detroit Pistons (11/01 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Dallas Mavericks @ Detroit Pistons (11/01 10:10 Pm Et)
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-name="Golden State Warriors @ Indiana Pacers (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Golden State Warriors @ Indiana Pacers (11/01 7:10 Pm Et)
+https://tvpass.org/live/NBA23/sd
+#EXTINF:-1 tvg-name="Houston Rockets @ Boston Celtics (11/01 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Houston Rockets @ Boston Celtics (11/01 8:10 Pm Et)
+https://tvpass.org/live/NBA25/sd
+#EXTINF:-1 tvg-name="Minnesota Timberwolves @ Charlotte Hornets (11/01 6:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Minnesota Timberwolves @ Charlotte Hornets (11/01 6:10 Pm Et)
+https://tvpass.org/live/NBA21/sd
+#EXTINF:-1 tvg-name="Orlando Magic @ Washington Wizards (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Orlando Magic @ Washington Wizards (11/01 7:10 Pm Et)
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-name="Sacramento Kings @ Milwaukee Bucks (11/01 5:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Sacramento Kings @ Milwaukee Bucks (11/01 5:10 Pm Et)
+https://tvpass.org/live/NBA16/sd
+
+#EXTGRP:TVPass - NCAAF
+#EXTINF:-1 tvg-name="Rutgers Scarlet Knights @ Illinois Fighting Illini (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Rutgers Scarlet Knights @ Illinois Fighting Illini (11/01 12:00 Pm Et)
+https://tvpass.org/live/NCAAF02/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-name="Calgary Flames @ Nashville Predators (11/01 3:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Calgary Flames @ Nashville Predators (11/01 3:40 Pm Et)
+https://tvpass.org/live/NHL02/sd
+#EXTINF:-1 tvg-name="Carolina Hurricanes @ Boston Bruins (11/01 1:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Carolina Hurricanes @ Boston Bruins (11/01 1:10 Pm Et)
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-name="Chicago Blackhawks @ Edmonton Oilers (11/01 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Chicago Blackhawks @ Edmonton Oilers (11/01 10:10 Pm Et)
+https://tvpass.org/live/NHL05/sd
+#EXTINF:-1 tvg-name="Colorado Avalanche @ San Jose Sharks (11/01 4:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Colorado Avalanche @ San Jose Sharks (11/01 4:10 Pm Et)
+https://tvpass.org/live/NHL13/sd
+#EXTINF:-1 tvg-name="Dallas Stars @ Florida Panthers (11/01 6:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Dallas Stars @ Florida Panthers (11/01 6:10 Pm Et)
+https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-name="New Jersey Devils @ Los Angeles Kings (11/01 9:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New Jersey Devils @ Los Angeles Kings (11/01 9:10 Pm Et)
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-name="New York Rangers @ Seattle Kraken (11/01 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Rangers @ Seattle Kraken (11/01 10:10 Pm Et)
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-name="Ottawa Senators @ Montréal Canadiens (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Ottawa Senators @ Montréal Canadiens (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-name="Pittsburgh Penguins @ Winnipeg Jets (11/01 3:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Pittsburgh Penguins @ Winnipeg Jets (11/01 3:10 Pm Et)
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-name="St Louis Blues @ Columbus Blue Jackets (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",St Louis Blues @ Columbus Blue Jackets (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-name="Toronto Maple Leafs @ Philadelphia Flyers (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Toronto Maple Leafs @ Philadelphia Flyers (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL19/sd
+#EXTINF:-1 tvg-name="Vancouver Canucks @ Minnesota Wild (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vancouver Canucks @ Minnesota Wild (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL31/sd
+#EXTINF:-1 tvg-name="Washington Capitals @ Buffalo Sabres (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Washington Capitals @ Buffalo Sabres (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL30/sd
+
+#EXTGRP:TVPass - PPV
+#EXTINF:-1 tvg-name="Ufc Fight Night: Garcia Vs. Onama (11/01 4:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="TVPass - PPV",Ufc Fight Night: Garcia Vs. Onama (11/01 4:10 Pm Et)
+https://tvpass.org/live/PPV01/sd
