@@ -979,3 +979,55 @@ https://tvpass.org/live/tsn4/sd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-name="TSN5 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
 https://tvpass.org/live/tsn5/sd
+
+#EXTGRP:TVPass - NBA
+#EXTINF:-1 tvg-name="Atlanta Hawks @ Cleveland Cavaliers (11/02 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Atlanta Hawks @ Cleveland Cavaliers (11/02 6:00 Pm Et)
+https://tvpass.org/live/NBA19/sd
+#EXTINF:-1 tvg-name="Chicago Bulls @ New York Knicks (11/02 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Chicago Bulls @ New York Knicks (11/02 7:00 Pm Et)
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-name="Memphis Grizzlies @ Toronto Raptors (11/02 6:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Memphis Grizzlies @ Toronto Raptors (11/02 6:10 Pm Et)
+https://tvpass.org/live/NBA06/sd
+#EXTINF:-1 tvg-name="Miami Heat @ Los Angeles Lakers (11/02 9:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Miami Heat @ Los Angeles Lakers (11/02 9:30 Pm Et)
+https://tvpass.org/live/NBA12/sd
+#EXTINF:-1 tvg-name="New Orleans Pelicans @ Oklahoma City Thunder (11/02 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",New Orleans Pelicans @ Oklahoma City Thunder (11/02 3:30 Pm Et)
+https://tvpass.org/live/NBA27/sd
+#EXTINF:-1 tvg-name="Philadelphia 76Ers @ Brooklyn Nets (11/02 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Philadelphia 76Ers @ Brooklyn Nets (11/02 6:00 Pm Et)
+https://tvpass.org/live/NBA24/sd
+#EXTINF:-1 tvg-name="San Antonio Spurs @ Phoenix Suns (11/02 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",San Antonio Spurs @ Phoenix Suns (11/02 8:00 Pm Et)
+https://tvpass.org/live/NBA09/sd
+#EXTINF:-1 tvg-name="Utah Jazz @ Charlotte Hornets (11/02 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Utah Jazz @ Charlotte Hornets (11/02 6:00 Pm Et)
+https://tvpass.org/live/NBA05/sd
+
+#EXTGRP:TVPass - NFL
+#EXTINF:-1 tvg-name="Atlanta Falcons @ New England Patriots (11/02 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Atlanta Falcons @ New England Patriots (11/02 1:00 Pm Et)
+https://tvpass.org/live/NFL01/sd
+#EXTINF:-1 tvg-name="Carolina Panthers @ Green Bay Packers (11/02 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Carolina Panthers @ Green Bay Packers (11/02 1:00 Pm Et)
+https://tvpass.org/live/NFL25/sd
+#EXTINF:-1 tvg-name="Chicago Bears @ Cincinnati Bengals (11/02 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Chicago Bears @ Cincinnati Bengals (11/02 1:00 Pm Et)
+https://tvpass.org/live/NFL11/sd
+#EXTINF:-1 tvg-name="Denver Broncos @ Houston Texans (11/02 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Denver Broncos @ Houston Texans (11/02 1:00 Pm Et)
+https://tvpass.org/live/NFL22/sd
+#EXTINF:-1 tvg-name="Indianapolis Colts @ Pittsburgh Steelers (11/02 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Indianapolis Colts @ Pittsburgh Steelers (11/02 1:00 Pm Et)
+https://tvpass.org/live/NFL17/sd
+#EXTINF:-1 tvg-name="Jacksonville Jaguars @ Las Vegas Raiders (11/02 4:05 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Jacksonville Jaguars @ Las Vegas Raiders (11/02 4:05 Pm Et)
+https://tvpass.org/live/NFL06/sd
+#EXTINF:-1 tvg-name="Kansas City Chiefs @ Buffalo Bills (11/02 4:25 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Kansas City Chiefs @ Buffalo Bills (11/02 4:25 Pm Et)
+https://tvpass.org/live/NFL28/sd
+#EXTINF:-1 tvg-name="Los Angeles Chargers @ Tennessee Titans (11/02 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Los Angeles Chargers @ Tennessee Titans (11/02 1:00 Pm Et)
+https://tvpass.org/live/NFL12/sd
+#EXTINF:-1 tvg-name="Minnesota Vikings @ Detroit Lions (11/02 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Minnesota Vikings @ Detroit Lions (11/02 1:00 Pm Et)
+https://tvpass.org/live/NFL04/sd
+#EXTINF:-1 tvg-name="New Orleans Saints @ Los Angeles Rams (11/02 4:05 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",New Orleans Saints @ Los Angeles Rams (11/02 4:05 Pm Et)
+https://tvpass.org/live/NFL23/sd
+#EXTINF:-1 tvg-name="San Francisco 49Ers @ New York Giants (11/02 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",San Francisco 49Ers @ New York Giants (11/02 1:00 Pm Et)
+https://tvpass.org/live/NFL10/sd
+#EXTINF:-1 tvg-name="Seattle Seahawks @ Washington Commanders (11/02 8:20 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Seattle Seahawks @ Washington Commanders (11/02 8:20 Pm Et)
+https://tvpass.org/live/NFL13/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-name="Columbus Blue Jackets @ New York Islanders (11/02 5:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Columbus Blue Jackets @ New York Islanders (11/02 5:10 Pm Et)
+https://tvpass.org/live/NHL20/sd
+#EXTINF:-1 tvg-name="Detroit Red Wings @ San Jose Sharks (11/02 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Detroit Red Wings @ San Jose Sharks (11/02 8:10 Pm Et)
+https://tvpass.org/live/NHL06/sd
+#EXTINF:-1 tvg-name="New Jersey Devils @ Anaheim Ducks (11/02 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New Jersey Devils @ Anaheim Ducks (11/02 8:10 Pm Et)
+https://tvpass.org/live/NHL26/sd
