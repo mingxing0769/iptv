@@ -917,3 +917,33 @@ https://tvpass.org/live/tsn4/sd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-name="TSN5 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
 https://tvpass.org/live/tsn5/sd
+
+#EXTGRP:TVPass - NBA
+#EXTINF:-1 tvg-name="Dallas Mavericks @ Houston Rockets (11/03 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Dallas Mavericks @ Houston Rockets (11/03 8:10 Pm Et)
+https://tvpass.org/live/NBA25/sd
+#EXTINF:-1 tvg-name="Detroit Pistons @ Memphis Grizzlies (11/03 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Detroit Pistons @ Memphis Grizzlies (11/03 8:10 Pm Et)
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-name="Los Angeles Lakers @ Portland Trail Blazers (11/03 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Los Angeles Lakers @ Portland Trail Blazers (11/03 10:10 Pm Et)
+https://tvpass.org/live/NBA12/sd
+#EXTINF:-1 tvg-name="Miami Heat @ Los Angeles Clippers (11/03 10:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Miami Heat @ Los Angeles Clippers (11/03 10:40 Pm Et)
+https://tvpass.org/live/NBA10/sd
+#EXTINF:-1 tvg-name="Milwaukee Bucks @ Indiana Pacers (11/03 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Milwaukee Bucks @ Indiana Pacers (11/03 7:00 Pm Et)
+https://tvpass.org/live/NBA16/sd
+#EXTINF:-1 tvg-name="Minnesota Timberwolves @ Brooklyn Nets (11/03 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Minnesota Timberwolves @ Brooklyn Nets (11/03 7:10 Pm Et)
+https://tvpass.org/live/NBA21/sd
+#EXTINF:-1 tvg-name="Sacramento Kings @ Denver Nuggets (11/03 9:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Sacramento Kings @ Denver Nuggets (11/03 9:00 Pm Et)
+https://tvpass.org/live/NBA26/sd
+#EXTINF:-1 tvg-name="Utah Jazz @ Boston Celtics (11/03 7:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Utah Jazz @ Boston Celtics (11/03 7:40 Pm Et)
+https://tvpass.org/live/NBA05/sd
+#EXTINF:-1 tvg-name="Washington Wizards @ New York Knicks (11/03 7:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Washington Wizards @ New York Knicks (11/03 7:40 Pm Et)
+https://tvpass.org/live/NBA20/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-name="Chicago Blackhawks @ Seattle Kraken (11/03 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Chicago Blackhawks @ Seattle Kraken (11/03 10:00 Pm Et)
+https://tvpass.org/live/NHL05/sd
+#EXTINF:-1 tvg-name="Edmonton Oilers @ St Louis Blues (11/03 8:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Edmonton Oilers @ St Louis Blues (11/03 8:30 Pm Et)
+https://tvpass.org/live/NHL15/sd
+#EXTINF:-1 tvg-name="Pittsburgh Penguins @ Toronto Maple Leafs (11/03 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Pittsburgh Penguins @ Toronto Maple Leafs (11/03 7:30 Pm Et)
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-name="Vancouver Canucks @ Nashville Predators (11/03 8:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vancouver Canucks @ Nashville Predators (11/03 8:30 Pm Et)
+https://tvpass.org/live/NHL31/sd
