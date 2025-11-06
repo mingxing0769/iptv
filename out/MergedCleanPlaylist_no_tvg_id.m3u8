@@ -775,3 +775,23 @@ https://tvpass.org/live/tsn4/sd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-name="TSN5 SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
 https://tvpass.org/live/tsn5/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-name="Anaheim Ducks @ Dallas Stars (11/06 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Anaheim Ducks @ Dallas Stars (11/06 8:00 Pm Et)
+https://tvpass.org/live/NHL24/sd
+#EXTINF:-1 tvg-name="Florida Panthers @ Los Angeles Kings (11/06 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Florida Panthers @ Los Angeles Kings (11/06 10:00 Pm Et)
+https://tvpass.org/live/NHL07/sd
+#EXTINF:-1 tvg-name="Minnesota Wild @ Carolina Hurricanes (11/06 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Minnesota Wild @ Carolina Hurricanes (11/06 7:00 Pm Et)
+https://tvpass.org/live/NHL11/sd
+#EXTINF:-1 tvg-name="Montréal Canadiens @ New Jersey Devils (11/06 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Montréal Canadiens @ New Jersey Devils (11/06 7:00 Pm Et)
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-name="Ottawa Senators @ Boston Bruins (11/06 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Ottawa Senators @ Boston Bruins (11/06 7:00 Pm Et)
+https://tvpass.org/live/NHL03/sd
+#EXTINF:-1 tvg-name="Philadelphia Flyers @ Nashville Predators (11/06 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Philadelphia Flyers @ Nashville Predators (11/06 8:00 Pm Et)
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-name="St Louis Blues @ Buffalo Sabres (11/06 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",St Louis Blues @ Buffalo Sabres (11/06 7:00 Pm Et)
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-name="Tampa Bay Lightning @ Vegas Golden Knights (11/06 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Tampa Bay Lightning @ Vegas Golden Knights (11/06 10:00 Pm Et)
+https://tvpass.org/live/NHL08/sd
+#EXTINF:-1 tvg-name="Washington Capitals @ Pittsburgh Penguins (11/06 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Washington Capitals @ Pittsburgh Penguins (11/06 7:30 Pm Et)
+https://tvpass.org/live/NHL30/sd
