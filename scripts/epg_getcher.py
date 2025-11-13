@@ -1,5 +1,5 @@
 # utils/epg.py
-import gzip
+
 import os
 import sys
 import traceback
@@ -94,7 +94,7 @@ def clean_and_compress_epg():
     print("🔍 Pass 1: Scanning EPG to map original channel IDs to names...")
     epg_id_to_name_map = {}
     try:
-        with gzip.open(TMP_EPG_PATH, 'rb') as f:
+        with open(TMP_EPG_PATH, 'rb') as f:
             for _, elem in ET.iterparse(f, events=('end',)):
                 if elem.tag == 'channel':
                     channel_id = elem.get('id')
