@@ -1,11 +1,5 @@
 #EXTM3U url-tvg="https://tvpass.org/epg.xml"
 
-#EXTGRP:Albania
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Albania",Euronews
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
-#EXTINF:-1 tvg-name="SuperSport 2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif" group-title="Albania",SuperSport 2
-https://digitalb-catchup.morescreens.com/DAL_1_066/sample_aes_playlist.m3u8?id=DAL_1_066&video_id=758172&token=eae91e39a0437e1e85fb63d577a88b60eed0d5bc&authority_instance_id=spectar-prd-digitalb&profile_id=349114&application_installation_id=1873605&uuid=64f5082c5bfc72-33094254&subscriber_id=349135&application_id=mobile_ios_v2&detected_delivery_method=hls&playlist_template=nginx&ps=f028a26199ba903fe19cf8e8fadddac2b04257d3daf5a61fdaf81f4e6c8334bdd31726d05d2e4a8d45c92d4cc34ba86a7aea7814e303e7583590ead935d1ffe4&vh=80b81e72b61fb785ab71aefde811a8cb5c8f05d97923052fb5fc23fd83f3b2c0254467327c4ec49db3db0a9d20fb0fea199733cca67af04dbdb96ecb4bb909a0
-
 #EXTGRP:Armenia
 #EXTINF:-1 tvg-name="First Channel News" tvg-logo="https://i.ibb.co/hRQwSwnr/1000024588-removebg-preview.png" group-title="Armenia",First Channel News
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
@@ -35,8 +29,6 @@ https://a1xs.vip/700005
 https://a1xs.vip/700006
 #EXTINF:-1 tvg-name="Fox Sports 507" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Australia",Fox Sports 507
 https://a1xs.vip/700007
-#EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/racing-com-au.png" group-title="Australia",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 #EXTGRP:Austria
 #EXTINF:-1 tvg-name="ORF Sport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ORF_Sport_%2B_Logo_2024.svg/2560px-ORF_Sport_%2B_Logo_2024.svg.png" group-title="Austria",ORF Sport+
@@ -51,20 +43,12 @@ http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="Canada",Sportsnet 360
 http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
-#EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="Canada",Sportsnet 360
-https://tvpass.org/live/sportsnet-360/sd
 #EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada",Sportsnet One
 http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
-#EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada",Sportsnet One
-https://tvpass.org/live/sportsnet-one/sd
 #EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada",Sportsnet Pacific
 http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
-#EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada",Sportsnet Pacific
-https://tvpass.org/live/sportsnet-pacific/sd
 #EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="Canada",TSN 1
 http://38.143.48.212:9981/stream/channelid/1102959901?profile=pass
-#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="Canada",TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="Canada",TSN 3
 http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
 #EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="Canada",TSN 4
@@ -77,46 +61,16 @@ http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 
 #EXTGRP:Czechia
-#EXTINF:-1 tvg-name="AUTOMOTORSPORT HD" tvg-logo="None" group-title="Czechia",AUTOMOTORSPORT HD
-http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass
-#EXTINF:-1 tvg-name="CANAL+ SPORT" tvg-logo="None" group-title="Czechia",CANAL+ SPORT
-http://185.236.230.212:9981/play/a0bu
 #EXTINF:-1 tvg-name="CNN Prima News" tvg-logo="None" group-title="Czechia",CNN Prima News
 http://90.178.86.156:9981/stream/channelid/1443888704?ticket=B2AC43F9C197099EE2A723A8B5D26A8402094755&profile=pass
-#EXTINF:-1 tvg-name="CNN PRIMA NEWS HD" tvg-logo="None" group-title="Czechia",CNN PRIMA NEWS HD
-http://185.236.230.212:9981/play/a0bf
-#EXTINF:-1 tvg-name="NOVA SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia",NOVA SPORT 2 HD
-http://185.236.230.212:9981/play/a0bh
 #EXTINF:-1 tvg-name="ČT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="Czechia",ČT Sport
 http://90.178.86.156:9981/stream/channelid/1745304008?ticket=ACF82485DC378262BD28880929F9F185FB17865F&profile=pass
-
-#EXTGRP:Denmark
-#EXTINF:-1 tvg-name="BBC Nordic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Nordic_2023.svg/1200px-BBC_Nordic_2023.svg.png" group-title="Denmark",BBC Nordic
-http://86.52.58.131:9981/stream/channelid/982754499?profile=pass
-#EXTINF:-1 tvg-name="TV2 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-news-dk.png" group-title="Denmark",TV2 News
-http://185.233.253.71:9981/stream/channelid/931172941?ticket=49AFCD397616AE72DE88BCC2EA95E825780800B9&profile=pass
-
-#EXTGRP:France
-#EXTINF:-1 tvg-name="CNEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France",CNEWS
-http://90.40.83.122:9981/stream/channelid/841001636?profile=matroska
-#EXTINF:-1 tvg-name="TF1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France",TF1
-http://90.40.83.122:9981/stream/channelid/893223062?profile=matroska
-#EXTINF:-1 tvg-name="TF1 Séries Film" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-series-film-fr.png" group-title="France",TF1 Séries Film
-http://90.40.83.122:9981/stream/channelid/700225656?profile=matroska
 
 #EXTGRP:Germany
 #EXTINF:-1 tvg-name="Eurosport Deutschland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="Germany",Eurosport Deutschland
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 tvg-name="Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Sport1_2023.svg" group-title="Germany",Sport 1
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
-
-#EXTGRP:Greece
-#EXTINF:-1 tvg-name="ERT News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854" group-title="Greece",ERT News
-http://77.49.52.36:666/stream/channelid/602121040?ticket=B2DE76115C49D7DCFBF5DCD98AF9410AA402F192&profile=pass
-
-#EXTGRP:Hungary
-#EXTINF:-1 tvg-name="M4 Sport+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/M4plus-logo-red-2025.svg/revision/latest?cb=20250726053334" group-title="Hungary",M4 Sport+
-http://84.236.39.108:9981/stream/channelid/473690653?profile=pass
 
 #EXTGRP:International
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp" group-title="International",BBC World News
@@ -125,12 +79,8 @@ http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTGRP:Iran
-#EXTINF:-1 tvg-name="4Sports" tvg-logo="None" group-title="Iran",4Sports
-https://orangehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="BBC Persian" tvg-logo="None" group-title="Iran",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="Persiana Sports" tvg-logo="None" group-title="Iran",Persiana Sports
-https://stream2.removie.raha.af/live/smil:persiasptv.smil/chunklist_w1529468251_b1500000.m3u8
 #EXTINF:-1 tvg-name="Pro Sport International" tvg-logo="None" group-title="Iran",Pro Sport International
 https://proshls.wns.live/hls/stream.m3u8
 
@@ -145,186 +95,20 @@ https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-name="ABC (KABC) Los Angeles" tvg-logo="None" group-title="Live",ABC (KABC) Los Angeles
-https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1 tvg-name="Altitude Sports Denver" tvg-logo="None" group-title="Live",Altitude Sports Denver
-https://tvpass.org/live/altitude-sports-denver/sd
-#EXTINF:-1 tvg-name="BBC America East" tvg-logo="None" group-title="Live",BBC America East
-https://tvpass.org/live/BBCAmericaEast/sd
-#EXTINF:-1 tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
-https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
-#EXTINF:-1 tvg-name="CBS (KCBS) Los Angeles" tvg-logo="None" group-title="Live",CBS (KCBS) Los Angeles
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-name="CBS Sports Network USA" tvg-logo="None" group-title="Live",CBS Sports Network USA
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-name="Chicago Sports Network" tvg-logo="None" group-title="Live",Chicago Sports Network
-https://tvpass.org/live/chicago-sports-network/sd
-#EXTINF:-1 tvg-name="CNBC USA" tvg-logo="None" group-title="Live",CNBC USA
-https://tvpass.org/live/CNBC/sd
-#EXTINF:-1 tvg-name="CNN US" tvg-logo="None" group-title="Live",CNN US
-https://tvpass.org/live/CNN/sd
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="None" group-title="Live",ESPN
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-name="ESPN News" tvg-logo="None" group-title="Live",ESPN News
-https://tvpass.org/live/ESPNews/sd
-#EXTINF:-1 tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
-https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-name="ESPN2" tvg-logo="None" group-title="Live",ESPN2
-https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Indiana" tvg-logo="None" group-title="Live",Fanduel Sports Indiana
-https://tvpass.org/live/fanduel-sports-indiana/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network Detroit" tvg-logo="None" group-title="Live",Fanduel Sports Network Detroit
-https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network Florida" tvg-logo="None" group-title="Live",Fanduel Sports Network Florida
-https://tvpass.org/live/fanduel-sports-network-florida/sd
 #EXTINF:-1 tvg-name="Fanduel Sports Network Great Lakes" tvg-logo="None" group-title="Live",Fanduel Sports Network Great Lakes
 https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network North" tvg-logo="None" group-title="Live",Fanduel Sports Network North
-https://tvpass.org/live/fanduel-sports-network-north/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network Ohio Cleveland" tvg-logo="None" group-title="Live",Fanduel Sports Network Ohio Cleveland
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network Oklahoma" tvg-logo="None" group-title="Live",Fanduel Sports Network Oklahoma
-https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network San Diego" tvg-logo="None" group-title="Live",Fanduel Sports Network San Diego
-https://tvpass.org/live/fanduel-sports-network-san-diego/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network Socal" tvg-logo="None" group-title="Live",Fanduel Sports Network Socal
-https://tvpass.org/live/fanduel-sports-network-socal/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network South Carolinas" tvg-logo="None" group-title="Live",Fanduel Sports Network South Carolinas
-https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network South Tennessee" tvg-logo="None" group-title="Live",Fanduel Sports Network South Tennessee
-https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network West" tvg-logo="None" group-title="Live",Fanduel Sports Network West
-https://tvpass.org/live/fanduel-sports-network-west/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Network Wisconsin" tvg-logo="None" group-title="Live",Fanduel Sports Network Wisconsin
-https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Southeast Georgia" tvg-logo="None" group-title="Live",Fanduel Sports Southeast Georgia
-https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Southeast North Carolina" tvg-logo="None" group-title="Live",Fanduel Sports Southeast North Carolina
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Southeast South Carolina" tvg-logo="None" group-title="Live",Fanduel Sports Southeast South Carolina
-https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Southeast Tennessee Nashville" tvg-logo="None" group-title="Live",Fanduel Sports Southeast Tennessee Nashville
-https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Sun" tvg-logo="None" group-title="Live",Fanduel Sports Sun
-https://tvpass.org/live/fanduel-sports-sun/sd
-#EXTINF:-1 tvg-name="Fanduel Sports Tennessee East" tvg-logo="None" group-title="Live",Fanduel Sports Tennessee East
-https://tvpass.org/live/fanduel-sports-tennessee-east/sd
-#EXTINF:-1 tvg-name="FOX (KTTV) Los Angeles" tvg-logo="None" group-title="Live",FOX (KTTV) Los Angeles
-https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
-#EXTINF:-1 tvg-name="Fox Business" tvg-logo="None" group-title="Live",Fox Business
-https://tvpass.org/live/FoxBusiness/sd
-#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="None" group-title="Live",Fox Sports 2
-https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 tvg-name="Golf Channel USA" tvg-logo="None" group-title="Live",Golf Channel USA
-https://tvpass.org/live/GolfChannel/sd
-#EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="None" group-title="Live",Marquee Sports Network
-https://tvpass.org/live/marquee-sports-network/sd
-#EXTINF:-1 tvg-name="Midatlantic Sports Network" tvg-logo="None" group-title="Live",Midatlantic Sports Network
-https://tvpass.org/live/midatlantic-sports-network/sd
-#EXTINF:-1 tvg-name="MLB Network" tvg-logo="None" group-title="Live",MLB Network
-https://tvpass.org/live/MLBNetwork/sd
-#EXTINF:-1 tvg-name="Monumental Sports Network" tvg-logo="None" group-title="Live",Monumental Sports Network
-https://tvpass.org/live/monumental-sports-network/sd
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-name="MSNBC USA" tvg-logo="None" group-title="Live",MSNBC USA
 https://tvpass.org/live/MSNBC/sd
-#EXTINF:-1 tvg-name="NBA TV USA" tvg-logo="None" group-title="Live",NBA TV USA
-https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-name="NBC (KNBC) Los Angeles" tvg-logo="None" group-title="Live",NBC (KNBC) Los Angeles
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-#EXTINF:-1 tvg-name="NBC Sports Bay Area" tvg-logo="None" group-title="Live",NBC Sports Bay Area
-https://tvpass.org/live/nbc-sports-bay-area/sd
-#EXTINF:-1 tvg-name="NBC Sports Boston" tvg-logo="None" group-title="Live",NBC Sports Boston
-https://tvpass.org/live/nbc-sports-boston/sd
-#EXTINF:-1 tvg-name="NBC Sports California" tvg-logo="None" group-title="Live",NBC Sports California
-https://tvpass.org/live/nbc-sports-california/sd
-#EXTINF:-1 tvg-name="NBC Sports Philadelphia" tvg-logo="None" group-title="Live",NBC Sports Philadelphia
-https://tvpass.org/live/nbc-sports-philadelphia/sd
-#EXTINF:-1 tvg-name="New England Sports Network" tvg-logo="None" group-title="Live",New England Sports Network
-https://tvpass.org/live/new-england-sports-network/sd
-#EXTINF:-1 tvg-name="NewsMax TV" tvg-logo="None" group-title="Live",NewsMax TV
-https://tvpass.org/live/NewsmaxTV/sd
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="None" group-title="Live",NFL Network
-https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-name="NFL RedZone" tvg-logo="None" group-title="Live",NFL RedZone
-https://tvpass.org/live/NFLRedZone/sd
-#EXTINF:-1 tvg-name="NHL Network USA" tvg-logo="None" group-title="Live",NHL Network USA
-https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-name="NY" tvg-logo="None" group-title="Live",NY
-https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-name="NY" tvg-logo="None" group-title="Live",NY
-https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1 tvg-name="NY" tvg-logo="None" group-title="Live",NY
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-name="NY" tvg-logo="None" group-title="Live",NY
-https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-name="SNY Sportsnet New York Comcast" tvg-logo="None" group-title="Live",SNY Sportsnet New York Comcast
-https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-#EXTINF:-1 tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/sd
-#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
-https://tvpass.org/live/spectrum-sportsnet/sd
-#EXTINF:-1 tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
-https://tvpass.org/live/sportsnet-east/sd
-#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="None" group-title="Live",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/sd
-#EXTINF:-1 tvg-name="Sportsnet Pittsburgh" tvg-logo="None" group-title="Live",Sportsnet Pittsburgh
-https://tvpass.org/live/sportsnet-pittsburgh/sd
-#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="None" group-title="Live",Sportsnet West
-https://tvpass.org/live/sportsnet-west/sd
-#EXTINF:-1 tvg-name="The Tennis Channel" tvg-logo="None" group-title="Live",The Tennis Channel
-https://tvpass.org/live/TennisChannel/sd
-#EXTINF:-1 tvg-name="TNT Eastern Feed" tvg-logo="None" group-title="Live",TNT Eastern Feed
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
-https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
-https://tvpass.org/live/tsn2/sd
-#EXTINF:-1 tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
-https://tvpass.org/live/tsn3/sd
-#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
-https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
-https://tvpass.org/live/tsn5/sd
-
-#EXTGRP:NBA
-#EXTINF:-1 tvg-name="Atlanta Hawks @ Sacramento Kings (11/12 10:10 PM ET)" tvg-logo="None" group-title="NBA",Atlanta Hawks @ Sacramento Kings (11/12 10:10 PM ET)
-https://tvpass.org/live/NBA28/sd
-#EXTINF:-1 tvg-name="Chicago Bulls @ Detroit Pistons (11/12 7:10 PM ET)" tvg-logo="None" group-title="NBA",Chicago Bulls @ Detroit Pistons (11/12 7:10 PM ET)
-https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-name="Cleveland Cavaliers @ Miami Heat (11/12 7:40 PM ET)" tvg-logo="None" group-title="NBA",Cleveland Cavaliers @ Miami Heat (11/12 7:40 PM ET)
-https://tvpass.org/live/NBA19/sd
-#EXTINF:-1 tvg-name="Denver Nuggets @ Los Angeles Clippers (11/12 10:40 PM ET)" tvg-logo="None" group-title="NBA",Denver Nuggets @ Los Angeles Clippers (11/12 10:40 PM ET)
-https://tvpass.org/live/NBA26/sd
-#EXTINF:-1 tvg-name="Golden State Warriors @ San Antonio Spurs (11/12 8:10 PM ET)" tvg-logo="None" group-title="NBA",Golden State Warriors @ San Antonio Spurs (11/12 8:10 PM ET)
-https://tvpass.org/live/NBA11/sd
-#EXTINF:-1 tvg-name="Memphis Grizzlies @ Boston Celtics (11/12 7:40 PM ET)" tvg-logo="None" group-title="NBA",Memphis Grizzlies @ Boston Celtics (11/12 7:40 PM ET)
-https://tvpass.org/live/NBA15/sd
-#EXTINF:-1 tvg-name="Milwaukee Bucks @ Charlotte Hornets (11/12 7:10 PM ET)" tvg-logo="None" group-title="NBA",Milwaukee Bucks @ Charlotte Hornets (11/12 7:10 PM ET)
-https://tvpass.org/live/NBA16/sd
-#EXTINF:-1 tvg-name="Phoenix Suns @ Dallas Mavericks (11/12 8:40 PM ET)" tvg-logo="None" group-title="NBA",Phoenix Suns @ Dallas Mavericks (11/12 8:40 PM ET)
-https://tvpass.org/live/NBA18/sd
-#EXTINF:-1 tvg-name="Portland Trail Blazers @ New Orleans Pelicans (11/12 8:10 PM ET)" tvg-logo="None" group-title="NBA",Portland Trail Blazers @ New Orleans Pelicans (11/12 8:10 PM ET)
-https://tvpass.org/live/NBA17/sd
-#EXTINF:-1 tvg-name="Washington Wizards @ Houston Rockets (11/12 8:10 PM ET)" tvg-logo="None" group-title="NBA",Washington Wizards @ Houston Rockets (11/12 8:10 PM ET)
-https://tvpass.org/live/NBA20/sd
 
 #EXTGRP:Netherlands
-#EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
-https://a1xs.vip/140001
 #EXTINF:-1 tvg-name="Ziggo Sport 2" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 2
 https://a1xs.vip/140002
-#EXTINF:-1 tvg-name="Ziggo Sport 3" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 3
-https://a1xs.vip/140003
 #EXTINF:-1 tvg-name="Ziggo Sport 4" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 4
 https://a1xs.vip/140004
 
 #EXTGRP:New Zealand
-#EXTINF:-1 tvg-name="Sky Open" tvg-logo="https://tv.wyatts-server.com/imagecache/6814" group-title="New Zealand",Sky Open
-https://tv.wyatts-server.com/stream/channelid/1977627680?profile=pass
 #EXTINF:-1 tvg-name="Sky Sport 1" tvg-logo="None" group-title="New Zealand",Sky Sport 1
 https://a1xs.vip/700031
 #EXTINF:-1 tvg-name="Sky Sport 2" tvg-logo="None" group-title="New Zealand",Sky Sport 2
@@ -339,50 +123,24 @@ https://a1xs.vip/700035
 https://a1xs.vip/700036
 
 #EXTGRP:NHL
-#EXTINF:-1 tvg-name="Buffalo Sabres @ Utah Mammoth (11/12 9:10 PM ET)" tvg-logo="None" group-title="NHL",Buffalo Sabres @ Utah Mammoth (11/12 9:10 PM ET)
-https://tvpass.org/live/NHL17/sd
-#EXTINF:-1 tvg-name="Edmonton Oilers @ Philadelphia Flyers (11/12 7:40 PM ET)" tvg-logo="None" group-title="NHL",Edmonton Oilers @ Philadelphia Flyers (11/12 7:40 PM ET)
-https://tvpass.org/live/NHL15/sd
-
-#EXTGRP:Poland
-#EXTINF:-1 tvg-name="Polsat News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-news-pl.png" group-title="Poland",Polsat News
-https://tvh.cyn.cz/stream/channelid/867587422?profile=pass
-#EXTINF:-1 tvg-name="TVP ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-abc-pl.png" group-title="Poland",TVP ABC
-https://tvh.cyn.cz/stream/channelid/1516372603?profile=pass
-#EXTINF:-1 tvg-name="TVP Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="Poland",TVP Sport
-https://tvh.cyn.cz/stream/channelid/682431392?profile=pass
-
-#EXTGRP:Romania
-#EXTINF:-1 tvg-name="TVR Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TVR_Sport.svg/revision/latest?cb=20230421162631" group-title="Romania",TVR Sport
-http://188.24.11.82:9981/stream/channelid/1206848800?ticket=93622025758FC86EE283733C29D9C99B8AFF14AB&profile=pass
-
-#EXTGRP:Spain
-#EXTINF:-1 tvg-name="Esport3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/esport3-es.png" group-title="Spain",Esport3
-http://213.97.163.175:4022/udp/239.10.20.103:1234
+#EXTINF:-1 tvg-name="New York Rangers @ Tampa Bay Lightning (11/12 7:10 PM ET)" tvg-logo="None" group-title="NHL",New York Rangers @ Tampa Bay Lightning (11/12 7:10 PM ET)
+https://tvpass.org/live/TNTEast/sd
 
 #EXTGRP:Türkyie
 #EXTINF:-1 tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie",CNBC-e
 https://theariatv.github.io/channeldead.mp4
-#EXTINF:-1 tvg-name="CNN Türk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png" group-title="Türkyie",CNN Türk
-http://212.252.72.103:7070/play/a012
 
 #EXTGRP:United Kingdom
 #EXTINF:-1 tvg-name="BBC Four/CBeebies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="United Kingdom",BBC Four/CBeebies
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="United Kingdom",BBC News
 https://a1xs.vip/1000015
-#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="United Kingdom",BBC One
-http://81.78.159.220:7000/stream/channelid/1770799995?ticket=3364C2CFA85C6C7C993218102184D61C0313A863&profile=pass
 #EXTINF:-1 tvg-name="BBC Three/CBBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="United Kingdom",BBC Three/CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="United Kingdom",BBC Two
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 tvg-name="DAZN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/dazn-uk.png" group-title="United Kingdom",DAZN
-https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6534548-1/chuncklist.m3u8
 #EXTINF:-1 tvg-name="GB News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" group-title="United Kingdom",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="United Kingdom",Sky Arts
-http://31.121.110.30:4000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-name="Sky Atlantic" tvg-logo="https://pixvid.org/images/2025/02/10/sky-atlantic.png" group-title="United Kingdom",Sky Atlantic
 https://a1xs.vip/210001
 #EXTINF:-1 tvg-name="Sky Cinema Action" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-action.png" group-title="United Kingdom",Sky Cinema Action
@@ -397,28 +155,12 @@ https://a1xs.vip/210002
 https://a1xs.vip/210003
 #EXTINF:-1 tvg-name="Sky Cinema Select" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-select.png" group-title="United Kingdom",Sky Cinema Select
 https://a1xs.vip/210004
-#EXTINF:-1 tvg-name="Sky Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png" group-title="United Kingdom",Sky Mix
-http://81.78.159.220:7000/stream/channelid/1449116447?ticket=6E6E720E443DCEC40A02BC28D301A1A7FC752F48&profile=pass
 
 #EXTGRP:United States
-#EXTINF:-1 tvg-name="ABC (WABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="United States",ABC (WABC)
-http://108.14.66.42:5004/auto/v7.1
-#EXTINF:-1 tvg-name="CBS (WCBS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="United States",CBS (WCBS)
-http://108.14.66.42:5004/auto/v2.1
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="United States",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="FOX (WNYW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="United States",FOX (WNYW)
-http://108.14.66.42:5004/auto/v5.1
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States",Fox News
-https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="United States",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-name="MSNBC (Soon to be MSNOW)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png" group-title="United States",MSNBC (Soon to be MSNOW)
-https://tvpass.org/live/MSNBC/hd
-#EXTINF:-1 tvg-name="NBC (WNBC)" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="United States",NBC (WNBC)
-http://108.14.66.42:5004/auto/v4.1
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT West
