@@ -198,7 +198,7 @@ def main():
             all_channels.extend(parsed_channels)
 
     # --- 优化步骤：并发检查URL有效性 ---
-    URL_CHECK = True
+    URL_CHECK = False
     if URL_CHECK:
         all_channels = check_urls_concurrently(all_channels)
 
@@ -213,6 +213,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
