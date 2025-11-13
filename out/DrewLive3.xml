@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Fanduel Sports Network Great Lakes">
-    <display-name>Fanduel Sports Network Great Lakes</display-name>
+  <channel id="Altitude Sports Denver">
+    <display-name>Altitude Sports Denver</display-name>
   </channel>
-  <channel id="Fox News">
-    <display-name>Fox News</display-name>
+  <channel id="NBC Sports Boston">
+    <display-name>NBC Sports Boston</display-name>
   </channel>
-  <channel id="MSNBC USA">
-    <display-name>MSNBC USA</display-name>
+  <channel id="Sportsnet (East)">
+    <display-name>Sportsnet (East)</display-name>
   </channel>
   <channel id="Sportsnet 360">
     <display-name>Sportsnet 360</display-name>
@@ -18,161 +18,236 @@
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
   </channel>
-  <programme channel="Fanduel Sports Network Great Lakes" start="20251112190000 +0000" stop="20251112230000 +0000">
-    <title lang="eng">Channel No Longer Available</title>
+  <channel id="Sportsnet West">
+    <display-name>Sportsnet West</display-name>
+  </channel>
+  <programme channel="Altitude Sports Denver" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Moser, Lombardi &amp; Kane on Altitude Radio 92.5</title>
   </programme>
-  <programme channel="Fanduel Sports Network Great Lakes" start="20251112230000 +0000" stop="20251113030000 +0000">
-    <title lang="eng">Channel No Longer Available</title>
+  <programme channel="Altitude Sports Denver" start="20251112170000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="Fanduel Sports Network Great Lakes" start="20251113030000 +0000" stop="20251113070000 +0000">
-    <title lang="eng">Channel No Longer Available</title>
+  <programme channel="Altitude Sports Denver" start="20251112193000 +0000" stop="20251112201500 +0000">
+    <title lang="eng">Nuggets Postgame Live</title>
   </programme>
-  <programme channel="Fanduel Sports Network Great Lakes" start="20251113070000 +0000" stop="20251113110000 +0000">
-    <title lang="eng">Channel No Longer Available</title>
+  <programme channel="Altitude Sports Denver" start="20251112201500 +0000" stop="20251112204500 +0000">
+    <title lang="eng">Altitude Extra</title>
   </programme>
-  <programme channel="Fanduel Sports Network Great Lakes" start="20251113110000 +0000" stop="20251113150000 +0000">
-    <title lang="eng">Channel No Longer Available</title>
+  <programme channel="Altitude Sports Denver" start="20251112204500 +0000" stop="20251112210000 +0000">
+    <title lang="eng">Altitude Extra</title>
   </programme>
-  <programme channel="Fanduel Sports Network Great Lakes" start="20251113110000 +0000" stop="20251113150000 +0000">
-    <title lang="eng">Channel No Longer Available</title>
+  <programme channel="Altitude Sports Denver" start="20251112210000 +0000" stop="20251112213000 +0000">
+    <title lang="eng">Invincible</title>
   </programme>
-  <programme channel="Fanduel Sports Network Great Lakes" start="20251113150000 +0000" stop="20251113190000 +0000">
-    <title lang="eng">Channel No Longer Available</title>
+  <programme channel="Altitude Sports Denver" start="20251112213000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">Altitude Extra</title>
   </programme>
-  <programme channel="Fox News" start="20251112160000 +0000" stop="20251112170000 +0000">
-    <title lang="eng">The Faulkner Focus</title>
+  <programme channel="Altitude Sports Denver" start="20251112220000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">FanDuel Racing</title>
   </programme>
-  <programme channel="Fox News" start="20251112170000 +0000" stop="20251112180000 +0000">
-    <title lang="eng">Outnumbered</title>
+  <programme channel="Altitude Sports Denver" start="20251113000000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">World Poker Tour</title>
   </programme>
-  <programme channel="Fox News" start="20251112180000 +0000" stop="20251112190000 +0000">
-    <title lang="eng">America Reports</title>
+  <programme channel="Altitude Sports Denver" start="20251113010000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">Poker Night</title>
   </programme>
-  <programme channel="Fox News" start="20251112190000 +0000" stop="20251112200000 +0000">
-    <title lang="eng">America Reports</title>
+  <programme channel="Altitude Sports Denver" start="20251113020000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">Altitude Extra</title>
   </programme>
-  <programme channel="Fox News" start="20251112200000 +0000" stop="20251112210000 +0000">
-    <title lang="eng">The Story With Martha MacCallum</title>
+  <programme channel="Altitude Sports Denver" start="20251113023000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">Nuggets Live!</title>
   </programme>
-  <programme channel="Fox News" start="20251112210000 +0000" stop="20251112220000 +0000">
-    <title lang="eng">The Will Cain Show</title>
+  <programme channel="Altitude Sports Denver" start="20251113033000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="Fox News" start="20251112220000 +0000" stop="20251112230000 +0000">
-    <title lang="eng">The Five</title>
+  <programme channel="Altitude Sports Denver" start="20251113060000 +0000" stop="20251113064500 +0000">
+    <title lang="eng">Nuggets Postgame Live</title>
   </programme>
-  <programme channel="Fox News" start="20251112230000 +0000" stop="20251113000000 +0000">
-    <title lang="eng">Special Report With Bret Baier</title>
+  <programme channel="Altitude Sports Denver" start="20251113064500 +0000" stop="20251113071500 +0000">
+    <title lang="eng">Altitude Extra</title>
   </programme>
-  <programme channel="Fox News" start="20251113000000 +0000" stop="20251113010000 +0000">
-    <title lang="eng">The Ingraham Angle</title>
+  <programme channel="Altitude Sports Denver" start="20251113071500 +0000" stop="20251113094500 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="Fox News" start="20251113010000 +0000" stop="20251113020000 +0000">
-    <title lang="eng">Jesse Watters Primetime</title>
+  <programme channel="Altitude Sports Denver" start="20251113094500 +0000" stop="20251113103000 +0000">
+    <title lang="eng">Nuggets Postgame Live</title>
   </programme>
-  <programme channel="Fox News" start="20251113020000 +0000" stop="20251113030000 +0000">
-    <title lang="eng">Hannity</title>
+  <programme channel="Altitude Sports Denver" start="20251113103000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Pure Outdoor</title>
   </programme>
-  <programme channel="Fox News" start="20251113030000 +0000" stop="20251113040000 +0000">
-    <title lang="eng">Gutfeld!</title>
+  <programme channel="Altitude Sports Denver" start="20251113110000 +0000" stop="20251113113000 +0000">
+    <title lang="eng">The Aging Brain</title>
   </programme>
-  <programme channel="Fox News" start="20251113040000 +0000" stop="20251113050000 +0000">
-    <title lang="eng">Fox News at Night</title>
+  <programme channel="Altitude Sports Denver" start="20251113113000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Pain Relief TV</title>
   </programme>
-  <programme channel="Fox News" start="20251113050000 +0000" stop="20251113060000 +0000">
-    <title lang="eng">The Five</title>
+  <programme channel="Altitude Sports Denver" start="20251113120000 +0000" stop="20251113123000 +0000">
+    <title lang="eng">The Aging Brain</title>
   </programme>
-  <programme channel="Fox News" start="20251113060000 +0000" stop="20251113070000 +0000">
-    <title lang="eng">Jesse Watters Primetime</title>
+  <programme channel="Altitude Sports Denver" start="20251113123000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Relieve your foot pain with WalkFit!</title>
   </programme>
-  <programme channel="Fox News" start="20251113070000 +0000" stop="20251113080000 +0000">
-    <title lang="eng">Hannity</title>
+  <programme channel="Altitude Sports Denver" start="20251113130000 +0000" stop="20251113133000 +0000">
+    <title lang="eng">The Aging Brain</title>
   </programme>
-  <programme channel="Fox News" start="20251113080000 +0000" stop="20251113090000 +0000">
-    <title lang="eng">Gutfeld!</title>
+  <programme channel="Altitude Sports Denver" start="20251113133000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Living with Pain: Insights from Blair Underwood</title>
   </programme>
-  <programme channel="Fox News" start="20251113090000 +0000" stop="20251113100000 +0000">
-    <title lang="eng">The Ingraham Angle</title>
+  <programme channel="Altitude Sports Denver" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Moser, Lombardi &amp; Kane on Altitude Radio 92.5</title>
   </programme>
-  <programme channel="Fox News" start="20251113100000 +0000" stop="20251113110000 +0000">
-    <title lang="eng">FOX &amp; Friends First</title>
+  <programme channel="Altitude Sports Denver" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Moser, Lombardi &amp; Kane on Altitude Radio 92.5</title>
   </programme>
-  <programme channel="Fox News" start="20251113110000 +0000" stop="20251113120000 +0000">
-    <title lang="eng">FOX and Friends</title>
+  <programme channel="NBC Sports Boston" start="20251112190000 +0000" stop="20251112223000 +0000">
+    <title lang="eng">Felger &amp; Mazz Radio</title>
   </programme>
-  <programme channel="Fox News" start="20251113120000 +0000" stop="20251113130000 +0000">
-    <title lang="eng">FOX and Friends</title>
+  <programme channel="NBC Sports Boston" start="20251112223000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Early Edition</title>
   </programme>
-  <programme channel="Fox News" start="20251113130000 +0000" stop="20251113140000 +0000">
-    <title lang="eng">FOX and Friends</title>
+  <programme channel="NBC Sports Boston" start="20251112230000 +0000" stop="20251112233000 +0000">
+    <title lang="eng">The Quick Snap</title>
   </programme>
-  <programme channel="Fox News" start="20251113140000 +0000" stop="20251113150000 +0000">
-    <title lang="eng">America's Newsroom</title>
+  <programme channel="NBC Sports Boston" start="20251112233000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">Celtics Pregame Live</title>
   </programme>
-  <programme channel="Fox News" start="20251113150000 +0000" stop="20251113160000 +0000">
-    <title lang="eng">America's Newsroom</title>
+  <programme channel="NBC Sports Boston" start="20251113003000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251112160000 +0000" stop="20251112170000 +0000">
-    <title lang="eng">Ana Cabrera Reports</title>
+  <programme channel="NBC Sports Boston" start="20251113030000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">Celtics Postgame Live</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251112170000 +0000" stop="20251112180000 +0000">
-    <title lang="eng">Chris Jansing Reports</title>
+  <programme channel="NBC Sports Boston" start="20251113033000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Celtics Postgame Plus</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251112180000 +0000" stop="20251112190000 +0000">
-    <title lang="eng">Chris Jansing Reports</title>
+  <programme channel="NBC Sports Boston" start="20251113040000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">Celtics Post Up</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251112190000 +0000" stop="20251112200000 +0000">
-    <title lang="eng">Katy Tur Reports</title>
+  <programme channel="NBC Sports Boston" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Boston Sports Tonight with Felger and Holley</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251112200000 +0000" stop="20251112210000 +0000">
-    <title lang="eng">Katy Tur Reports</title>
+  <programme channel="NBC Sports Boston" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">Boston Sports Tonight with Felger and Holley</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251112210000 +0000" stop="20251112230000 +0000">
-    <title lang="eng">Deadline: White House</title>
+  <programme channel="NBC Sports Boston" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Celtics Post Up</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251112230000 +0000" stop="20251113000000 +0000">
-    <title lang="eng">The Beat With Ari Melber</title>
+  <programme channel="NBC Sports Boston" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">World Poker Tour</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113000000 +0000" stop="20251113010000 +0000">
-    <title lang="eng">The Weeknight</title>
+  <programme channel="NBC Sports Boston" start="20251113070000 +0000" stop="20251113073000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113010000 +0000" stop="20251113020000 +0000">
-    <title lang="eng">All In With Chris Hayes</title>
+  <programme channel="NBC Sports Boston" start="20251113073000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113020000 +0000" stop="20251113030000 +0000">
-    <title lang="eng">The Briefing With Jen Psaki</title>
+  <programme channel="NBC Sports Boston" start="20251113080000 +0000" stop="20251113083000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113030000 +0000" stop="20251113040000 +0000">
-    <title lang="eng">The Last Word With Lawrence O'Donnell</title>
+  <programme channel="NBC Sports Boston" start="20251113083000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113040000 +0000" stop="20251113050000 +0000">
-    <title lang="eng">The 11th Hour With Stephanie Ruhle</title>
+  <programme channel="NBC Sports Boston" start="20251113090000 +0000" stop="20251113093000 +0000">
+    <title lang="eng">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113050000 +0000" stop="20251113060000 +0000">
-    <title lang="eng">The Briefing With Jen Psaki</title>
+  <programme channel="NBC Sports Boston" start="20251113093000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113060000 +0000" stop="20251113070000 +0000">
-    <title lang="eng">The Last Word With Lawrence O'Donnell</title>
+  <programme channel="NBC Sports Boston" start="20251113100000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113070000 +0000" stop="20251113080000 +0000">
-    <title lang="eng">The 11th Hour With Stephanie Ruhle</title>
+  <programme channel="NBC Sports Boston" start="20251113103000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113080000 +0000" stop="20251113090000 +0000">
-    <title lang="eng">All In With Chris Hayes</title>
+  <programme channel="NBC Sports Boston" start="20251113110000 +0000" stop="20251113113000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113090000 +0000" stop="20251113100000 +0000">
-    <title lang="eng">The Briefing With Jen Psaki</title>
+  <programme channel="NBC Sports Boston" start="20251113113000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113100000 +0000" stop="20251113110000 +0000">
-    <title lang="eng">Way Too Early With Ali Vitali</title>
+  <programme channel="NBC Sports Boston" start="20251113120000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113110000 +0000" stop="20251113150000 +0000">
-    <title lang="eng">Morning Joe</title>
+  <programme channel="NBC Sports Boston" start="20251113140000 +0000" stop="20251113143000 +0000">
+    <title lang="eng">The Quick Snap</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113110000 +0000" stop="20251113150000 +0000">
-    <title lang="eng">Morning Joe</title>
+  <programme channel="NBC Sports Boston" start="20251113143000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">The Quick Snap</title>
   </programme>
-  <programme channel="MSNBC USA" start="20251113150000 +0000" stop="20251113160000 +0000">
-    <title lang="eng">Ana Cabrera Reports</title>
+  <programme channel="NBC Sports Boston" start="20251113150000 +0000" stop="20251113190000 +0000">
+    <title lang="eng">Zolak and Bertrand</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251112180000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113000000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113003000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113060000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113063000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="Sportsnet 360" start="20251112153000 +0000" stop="20251112160000 +0000">
     <title lang="eng">Plays of the Month - Highlights</title>
@@ -391,6 +466,78 @@
     <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="Sportsnet Pacific" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112180000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113000000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113003000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113060000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113063000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113150000 +0000" stop="20251113160000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
 </tv>
