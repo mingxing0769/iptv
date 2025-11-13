@@ -12,7 +12,7 @@ from utils.network import fetch_playlist_content, is_url_accessible
 from utils.m3u_parse import parse_m3u
 
 # --- 配置区 ---
-EPG_URL = ""https://tvpass.org/epg.xml""
+EPG_URL = "https://tvpass.org/epg.xml"
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
 
 # 是否对频道进行筛选, 根据utils.filter_keywords.Category_Key
@@ -212,6 +212,7 @@ def main(URL_CHECK = False):
 
 if __name__ == "__main__":
     main()
+
 
 
 
