@@ -1,0 +1,84 @@
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles SD" group-title="Live",ABC
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles HD" group-title="Live",ABC
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD SD" group-title="Live",BBC News UK
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD HD" group-title="Live",BBC News UK
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 SD" group-title="Live",TSN 1
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" group-title="Live",TSN 1
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 SD" group-title="Live",TSN 2
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 HD" group-title="Live",TSN 2
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 SD" group-title="Live",TSN 3
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 HD" group-title="Live",TSN 3
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 SD" group-title="Live",TSN 4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 HD" group-title="Live",TSN 4
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" group-title="Live",TSN 5
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 HD" group-title="Live",TSN 5
+https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-id="" tvg-name="UFC 320: Magomed Ankalaev v Alex Pereira 2 (10/04 8:00 PM ET) SD" group-title="PPV",TNT Sports 1
+https://tvpass.org/live/tnt-sports-1/sd
+#EXTINF:-1 tvg-id="" tvg-name="UFC 320: Magomed Ankalaev v Alex Pereira 2 (10/04 8:00 PM ET) HD" group-title="PPV",TNT Sports 1
+https://tvpass.org/live/tnt-sports-1/hd
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles SD" group-title="Live",Fox Los Angeles
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles HD" group-title="Live",Fox Los Angeles
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY SD" group-title="Live",FOX New York, NY SD
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY HD" group-title="Live",FOX New York, NY HD
+https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business SD" group-title="Live",Fox Business SD
+https://tvpass.org/live/FoxBusiness/sd
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="Live",Fox Business HD
+https://tvpass.org/live/FoxBusiness/hd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News SD" group-title="Live",FoxNews
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD" group-title="Live",FoxNews
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="Live",FS1
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",FS1
+https://tvpass.org/live/FoxSports1/hd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 SD" group-title="Live",FS2
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Live",FS2
+https://tvpass.org/live/FoxSports2/hd
+
+
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" group-title="Live",ESPN
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="Live",ESPN
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes SD" group-title="Live",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" group-title="Live",ESPN Deportes
+https://tvpass.org/live/espn-deportes/hd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News SD" group-title="Live",ESPNNews
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD" group-title="Live",ESPNNews
+https://tvpass.org/live/ESPNews/hd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" group-title="Live",ESPNU
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" group-title="Live",ESPNU
+https://tvpass.org/live/ESPNU/hd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="Live",ESPN2
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" group-title="Live",ESPN2
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US SD" group-title="Live",CNN
+https://tvpass.org/live/CNN/sd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD" group-title="Live",CNN
+https://tvpass.org/live/CNN/hd
