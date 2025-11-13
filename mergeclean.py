@@ -184,7 +184,7 @@ def write_merged_playlist(final_channels_to_write):
     print(f"📊 Total channels written: {len(final_channels_to_write)}.")
 
 
-def main(URL_CHECK = False):
+def main():
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     start_time = datetime.now()
     print(f"🚀 Starting playlist merge at {start_time.strftime('%Y-%m-%d %H:%M:%S')}...")
@@ -198,6 +198,7 @@ def main(URL_CHECK = False):
             all_channels.extend(parsed_channels)
 
     # --- 优化步骤：并发检查URL有效性 ---
+    URL_CHECK = True
     if URL_CHECK:
         all_channels = check_urls_concurrently(all_channels)
 
@@ -212,6 +213,7 @@ def main(URL_CHECK = False):
 
 if __name__ == "__main__":
     main()
+
 
 
 
