@@ -95,12 +95,14 @@ https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" tvg-logo="None" group-title="Live",Fanduel Sports Network Great Lakes
-https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
-#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA" tvg-logo="None" group-title="Live",MSNBC USA
-https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver" tvg-logo="None" group-title="Live",Altitude Sports Denver
+https://tvpass.org/live/altitude-sports-denver/sd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston" tvg-logo="None" group-title="Live",NBC Sports Boston
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
+https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" tvg-logo="None" group-title="Live",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 2
@@ -121,10 +123,6 @@ https://a1xs.vip/700034
 https://a1xs.vip/700035
 #EXTINF:-1 tvg-id="None" tvg-name="Sky Sport 6" tvg-logo="None" group-title="New Zealand",Sky Sport 6
 https://a1xs.vip/700036
-
-#EXTGRP:NHL
-#EXTINF:-1 tvg-id="None" tvg-name="New York Rangers @ Tampa Bay Lightning (11/12 7:10 PM ET)" tvg-logo="None" group-title="NHL",New York Rangers @ Tampa Bay Lightning (11/12 7:10 PM ET)
-https://tvpass.org/live/TNTEast/sd
 
 #EXTGRP:Türkyie
 #EXTINF:-1 tvg-id="None" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie",CNBC-e
