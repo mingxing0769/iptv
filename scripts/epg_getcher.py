@@ -20,12 +20,12 @@ OUT_DIR = os.path.join(PROJECT_ROOT, "out")
 
 # EPG 源地址
 # EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
-EPG_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewLive.xml.gz"
+EPG_URL = "https://tvpass.org/epg.xml"
 
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
-TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml.gz")
-FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive3.xml.gz")
+TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml")
+FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive3.xml")
 
 
 def download_epg():
@@ -147,7 +147,7 @@ def clean_and_compress_epg():
     programme_count = 0
 
     try:
-        with gzip.open(TMP_EPG_PATH, 'rb') as f:
+        with open(TMP_EPG_PATH, 'rb') as f:
             for _, elem in ET.iterparse(f, events=('end',)):
                 if elem.tag == 'programme':
                     original_channel_id = elem.get('channel')
@@ -185,7 +185,7 @@ def clean_and_compress_epg():
         reparsed = minidom.parseString(rough_string)
         pretty_xml_as_bytes = reparsed.toprettyxml(indent="  ", encoding='utf-8')
 
-        with gzip.open(FINAL_EPG_PATH, "wb") as f_out:
+        with open(FINAL_EPG_PATH, "wb") as f_out:
             f_out.write(pretty_xml_as_bytes)
 
         print(f"✅ EPG cleaning and simplification complete. Saved to {FINAL_EPG_PATH}")
