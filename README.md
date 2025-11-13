@@ -29,13 +29,5 @@ https://raw.githubusercontent.com/mingxing0769/iptv/refs/heads/main/out/MergedCl
 
 
 节目单链接：
-https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml.gz
-
-
-## 所有源来自:
-
-https://github.com/Drewski2423/drewlive
-
-本项目基于 Drewski2423/drewlive 项目进行二次开发，仅用于学习和非商业用途。
-
+https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml
 
