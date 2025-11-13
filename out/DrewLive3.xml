@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="ABC">
+    <display-name>ABC</display-name>
+  </channel>
+  <channel id="BBC News UK">
+    <display-name>BBC News UK</display-name>
+  </channel>
+  <channel id="CNN">
+    <display-name>CNN</display-name>
+  </channel>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
+  <channel id="ESPN Deportes">
+    <display-name>ESPN Deportes</display-name>
+  </channel>
+  <channel id="ESPN2">
+    <display-name>ESPN2</display-name>
+  </channel>
+  <channel id="ESPNNews">
+    <display-name>ESPNNews</display-name>
+  </channel>
+  <channel id="ESPNU">
+    <display-name>ESPNU</display-name>
+  </channel>
+  <channel id="FS1">
+    <display-name>FS1</display-name>
+  </channel>
+  <channel id="FS2">
+    <display-name>FS2</display-name>
+  </channel>
+  <channel id="Fox Business SD">
+    <display-name>Fox Business SD</display-name>
+  </channel>
+  <channel id="Fox Los Angeles">
+    <display-name>Fox Los Angeles</display-name>
+  </channel>
+  <channel id="FoxNews">
+    <display-name>FoxNews</display-name>
+  </channel>
+  <channel id="NY SD">
+    <display-name>NY SD</display-name>
+  </channel>
+  <channel id="Sportsnet 360">
+    <display-name>Sportsnet 360</display-name>
+  </channel>
+  <channel id="Sportsnet One">
+    <display-name>Sportsnet One</display-name>
+  </channel>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
+  </channel>
+  <channel id="Sportsnet Pacific">
+    <display-name>Sportsnet Pacific</display-name>
+  </channel>
+  <channel id="Sportsnet West">
+    <display-name>Sportsnet West</display-name>
+  </channel>
+  <channel id="TSN 1">
+    <display-name>TSN 1</display-name>
+  </channel>
+  <channel id="TSN 2">
+    <display-name>TSN 2</display-name>
+  </channel>
+  <channel id="TSN 3">
+    <display-name>TSN 3</display-name>
+  </channel>
+  <channel id="TSN 4">
+    <display-name>TSN 4</display-name>
+  </channel>
+  <channel id="TSN 5">
+    <display-name>TSN 5</display-name>
+  </channel>
+  <programme channel="ABC" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Live with Kelly and Mark</title>
+  </programme>
+  <programme channel="ABC" start="20251112180000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">The View</title>
+  </programme>
+  <programme channel="ABC" start="20251112190000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">Eyewitness News 11AM</title>
+  </programme>
+  <programme channel="ABC" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">GMA3</title>
+  </programme>
+  <programme channel="ABC" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">Tamron Hall</title>
+  </programme>
+  <programme channel="ABC" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">General Hospital</title>
+  </programme>
+  <programme channel="ABC" start="20251112230000 +0000" stop="20251112233000 +0000">
+    <title lang="eng">Eyewitness News 3PM</title>
+  </programme>
+  <programme channel="ABC" start="20251112233000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">ABC World News Tonight With David Muir</title>
+  </programme>
+  <programme channel="ABC" start="20251113000000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">Eyewitness News 4PM</title>
+  </programme>
+  <programme channel="ABC" start="20251113010000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">Eyewitness News 5PM</title>
+  </programme>
+  <programme channel="ABC" start="20251113020000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">Eyewitness News 6PM</title>
+  </programme>
+  <programme channel="ABC" start="20251113023000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">ABC World News Tonight With David Muir</title>
+  </programme>
+  <programme channel="ABC" start="20251113030000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">Jeopardy!</title>
+  </programme>
+  <programme channel="ABC" start="20251113033000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Wheel of Fortune</title>
+  </programme>
+  <programme channel="ABC" start="20251113040000 +0000" stop="20251113060100 +0000">
+    <title lang="eng">The Golden Bachelor</title>
+  </programme>
+  <programme channel="ABC" start="20251113060100 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Shark Tank</title>
+  </programme>
+  <programme channel="ABC" start="20251113070000 +0000" stop="20251113073500 +0000">
+    <title lang="eng">Eyewitness News 11PM</title>
+  </programme>
+  <programme channel="ABC" start="20251113073500 +0000" stop="20251113083700 +0000">
+    <title lang="eng">Jimmy Kimmel Live!</title>
+  </programme>
+  <programme channel="ABC" start="20251113083700 +0000" stop="20251113090600 +0000">
+    <title lang="eng">Nightline</title>
+  </programme>
+  <programme channel="ABC" start="20251113090600 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Live with Kelly and Mark</title>
+  </programme>
+  <programme channel="ABC" start="20251113100000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">ABC World News Tonight With David Muir</title>
+  </programme>
+  <programme channel="ABC" start="20251113103000 +0000" stop="20251113113000 +0000">
+    <title lang="eng">Tamron Hall</title>
+  </programme>
+  <programme channel="ABC" start="20251113113000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Good Morning America First Look</title>
+  </programme>
+  <programme channel="ABC" start="20251113120000 +0000" stop="20251113123000 +0000">
+    <title lang="eng">Eyewitness News 4AM</title>
+  </programme>
+  <programme channel="ABC" start="20251113123000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Eyewitness News 4:30AM</title>
+  </programme>
+  <programme channel="ABC" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Eyewitness News 5AM</title>
+  </programme>
+  <programme channel="ABC" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Eyewitness News 6AM</title>
+  </programme>
+  <programme channel="ABC" start="20251113150000 +0000" stop="20251113170000 +0000">
+    <title lang="eng">Good Morning America</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112153000 +0000" stop="20251112160000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112160000 +0000" stop="20251112163000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112163000 +0000" stop="20251112164500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112164500 +0000" stop="20251112165500 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112165500 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112170000 +0000" stop="20251112173000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112173000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Focus on Africa</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112180000 +0000" stop="20251112183000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112183000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112190000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112193000 +0000" stop="20251112195500 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112195500 +0000" stop="20251112200000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112200000 +0000" stop="20251112203000 +0000">
+    <title lang="eng">The Context</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112203000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">The Context</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112210000 +0000" stop="20251112213000 +0000">
+    <title lang="eng">The Context USA</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112213000 +0000" stop="20251112215500 +0000">
+    <title lang="eng">The Context USA</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112215500 +0000" stop="20251112220000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112220000 +0000" stop="20251112223000 +0000">
+    <title lang="eng">BBC World News America</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112223000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Newsnight</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">BBC World News America</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113000000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113003000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">Newscast</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113010000 +0000" stop="20251113013000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113013000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">On The Front Line</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113020000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113023000 +0000" stop="20251113024500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113024500 +0000" stop="20251113030000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113030000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113033000 +0000" stop="20251113034500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113034500 +0000" stop="20251113040000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113040000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113043000 +0000" stop="20251113044500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113044500 +0000" stop="20251113050000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113060000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113063000 +0000" stop="20251113065500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113065500 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113070000 +0000" stop="20251113073000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113073000 +0000" stop="20251113075500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113075500 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113080000 +0000" stop="20251113083000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113083000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113090000 +0000" stop="20251113093000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113093000 +0000" stop="20251113095500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113095500 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113100000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113103000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113110000 +0000" stop="20251113113000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113113000 +0000" stop="20251113114500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113114500 +0000" stop="20251113115500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113115500 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113120000 +0000" stop="20251113123000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113123000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113130000 +0000" stop="20251113133000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113133000 +0000" stop="20251113135500 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113135500 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113140000 +0000" stop="20251113143000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113143000 +0000" stop="20251113144500 +0000">
+    <title lang="eng">Business Today USA</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113144500 +0000" stop="20251113150000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News UK" start="20251113150000 +0000" stop="20251113153000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="CNN" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">The Situation Room</title>
+  </programme>
+  <programme channel="CNN" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Inside Politics With Dana Bash</title>
+  </programme>
+  <programme channel="CNN" start="20251112180000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">CNN News Central</title>
+  </programme>
+  <programme channel="CNN" start="20251112190000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">CNN News Central</title>
+  </programme>
+  <programme channel="CNN" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">CNN News Central</title>
+  </programme>
+  <programme channel="CNN" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">The Arena With Kasie Hunt</title>
+  </programme>
+  <programme channel="CNN" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">The Lead With Jake Tapper</title>
+  </programme>
+  <programme channel="CNN" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The Lead With Jake Tapper</title>
+  </programme>
+  <programme channel="CNN" start="20251113000000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">Erin Burnett OutFront</title>
+  </programme>
+  <programme channel="CNN" start="20251113010000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">Anderson Cooper 360</title>
+  </programme>
+  <programme channel="CNN" start="20251113020000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">The Source With Kaitlan Collins</title>
+  </programme>
+  <programme channel="CNN" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">CNN NewsNight With Abby Phillip</title>
+  </programme>
+  <programme channel="CNN" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Laura Coates Live</title>
+  </programme>
+  <programme channel="CNN" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">The Story Is With Elex Michaelson</title>
+  </programme>
+  <programme channel="CNN" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">The Story Is With Elex Michaelson</title>
+  </programme>
+  <programme channel="CNN" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Anderson Cooper 360</title>
+  </programme>
+  <programme channel="CNN" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">CNN NewsNight With Abby Phillip</title>
+  </programme>
+  <programme channel="CNN" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">American Pulse</title>
+  </programme>
+  <programme channel="CNN" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Early Start With Rahel Solomon</title>
+  </programme>
+  <programme channel="CNN" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">CNN This Morning</title>
+  </programme>
+  <programme channel="CNN" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">CNN News Central</title>
+  </programme>
+  <programme channel="CNN" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">CNN News Central</title>
+  </programme>
+  <programme channel="CNN" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">CNN News Central</title>
+  </programme>
+  <programme channel="CNN" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">The Situation Room</title>
+  </programme>
+  <programme channel="ESPN" start="20251112170000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
+  </programme>
+  <programme channel="ESPN" start="20251112190000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="ESPN" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="ESPN" start="20251112220000 +0000" stop="20251112223000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251112223000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">To Be Announced</title>
+  </programme>
+  <programme channel="ESPN" start="20251113000000 +0000" stop="20251113023500 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20251113023500 +0000" stop="20251113050500 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20251113023500 +0000" stop="20251113050500 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20251113050500 +0000" stop="20251113060500 +0000">
+    <title lang="eng">Inside the NBA</title>
+  </programme>
+  <programme channel="ESPN" start="20251113060500 +0000" stop="20251113070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251113090000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251113130000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPN" start="20251113150000 +0000" stop="20251113170000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">UFC 322 Countdown: Della Maddalena vs. Makhachev</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251112170000 +0000" stop="20251112173000 +0000">
+    <title lang="eng">UFC Orígenes</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251112173000 +0000" stop="20251112194500 +0000">
+    <title lang="eng">Fútbol Femenino UEFA Champions League</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251112194500 +0000" stop="20251112220000 +0000">
+    <title lang="eng">Fútbol Femenino UEFA Champions League</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Ahora o nunca</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113000000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">Baloncesto NBA</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113023000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Baloncesto NBA</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Ahora o nunca</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Béisbol MLB</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Generación F</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Ahora o nunca</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251112170000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251112190000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113000000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113010000 +0000" stop="20251113013000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113013000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113020000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113030000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113033000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113040000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">UFC 322 Countdown: Della Maddalena vs. Makhachev</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">UFC Unleashed</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113070000 +0000" stop="20251113073000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113073000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">UFC 322 Countdown: Della Maddalena vs. Makhachev</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">UFC Unleashed</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113100000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113103000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">E60</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">E60</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Saving Sakic</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">GR8TNESS</title>
+  </programme>
+  <programme channel="ESPNNews" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112153000 +0000" stop="20251112160000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112160000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112190000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">E60</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112200000 +0000" stop="20251112203000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112203000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">Championship Drive</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">Thunder On: Resurgence of the SMU Mustangs</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112220000 +0000" stop="20251112223000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112223000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Championship Drive</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112230000 +0000" stop="20251112233000 +0000">
+    <title lang="eng">The Path: LSU Football</title>
+  </programme>
+  <programme channel="ESPNU" start="20251112233000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The Path: LSU Football</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113000000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113030000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113033000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">The Path: LSU Football</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113040000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Championship Drive</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113050000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113080000 +0000" stop="20251113093000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113093000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">SEC Storied</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113110000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
+  </programme>
+  <programme channel="ESPNU" start="20251113150000 +0000" stop="20251113153000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="ESPN2" start="20251112170000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN2" start="20251112190000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="ESPN2" start="20251112193000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">Championship Drive</title>
+  </programme>
+  <programme channel="ESPN2" start="20251112200000 +0000" stop="20251112203000 +0000">
+    <title lang="eng">ESPN BET Live</title>
+  </programme>
+  <programme channel="ESPN2" start="20251112203000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPN2" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="ESPN2" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="ESPN2" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113000000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113050000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113063000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113070000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113110000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN2" start="20251113150000 +0000" stop="20251113170000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Good Day LA at 9am</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251112180000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">Good Day LA at 10am</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251112190000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">GDLA+</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">Sherri</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">The Jennifer Hudson Show</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Dateline</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251112230000 +0000" stop="20251112233000 +0000">
+    <title lang="eng">25 Words or Less</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251112233000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">Extra</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113000000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">TMZ Live</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113010000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">FOX 11 News at 5pm</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113020000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">FOX 11 News at 6pm</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113030000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">Extra</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113033000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">TMZ</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113040000 +0000" stop="20251113050200 +0000">
+    <title lang="eng">The Floor</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113050200 +0000" stop="20251113060000 +0000">
+    <title lang="eng">99 to Beat</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">FOX 11 Ten O'Clock News</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113070000 +0000" stop="20251113073000 +0000">
+    <title lang="eng">Good Nite LA</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113073000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">TMZ</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">The Jennifer Hudson Show</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">FOX 11 Ten O'Clock News</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113100000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">Injury Help with Vernon Davis</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113103000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">LifeLock: Leading the Fight Against Identity Theft</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113110000 +0000" stop="20251113113000 +0000">
+    <title lang="eng">Christmas Lighting Made Easy</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113113000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">TMZ</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Good Day LA at 4am</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Good Day LA at 5am</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Good Day LA at 6am</title>
+  </programme>
+  <programme channel="Fox Los Angeles" start="20251113150000 +0000" stop="20251113170000 +0000">
+    <title lang="eng">Good Day LA at 7am</title>
+  </programme>
+  <programme channel="NY SD" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">The Jennifer Hudson Show</title>
+  </programme>
+  <programme channel="NY SD" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">The Noon</title>
+  </programme>
+  <programme channel="NY SD" start="20251112180000 +0000" stop="20251112183000 +0000">
+    <title lang="eng">25 Words or Less</title>
+  </programme>
+  <programme channel="NY SD" start="20251112183000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">TMZ</title>
+  </programme>
+  <programme channel="NY SD" start="20251112190000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">The People's Court</title>
+  </programme>
+  <programme channel="NY SD" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">TMZ Live</title>
+  </programme>
+  <programme channel="NY SD" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">FOX 5 News Block</title>
+  </programme>
+  <programme channel="NY SD" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">The 5 O'Clock News</title>
+  </programme>
+  <programme channel="NY SD" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The 6 O'Clock News</title>
+  </programme>
+  <programme channel="NY SD" start="20251113000000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">Extra</title>
+  </programme>
+  <programme channel="NY SD" start="20251113003000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">TMZ</title>
+  </programme>
+  <programme channel="NY SD" start="20251113010000 +0000" stop="20251113020200 +0000">
+    <title lang="eng">The Floor</title>
+  </programme>
+  <programme channel="NY SD" start="20251113020200 +0000" stop="20251113030000 +0000">
+    <title lang="eng">99 to Beat</title>
+  </programme>
+  <programme channel="NY SD" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">The 10 O'Clock News</title>
+  </programme>
+  <programme channel="NY SD" start="20251113040000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">Good Night New York</title>
+  </programme>
+  <programme channel="NY SD" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Family Feud Favorites</title>
+  </programme>
+  <programme channel="NY SD" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">TMZ Live</title>
+  </programme>
+  <programme channel="NY SD" start="20251113060000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">25 Words or Less</title>
+  </programme>
+  <programme channel="NY SD" start="20251113063000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">TMZ</title>
+  </programme>
+  <programme channel="NY SD" start="20251113070000 +0000" stop="20251113073000 +0000">
+    <title lang="eng">NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!</title>
+  </programme>
+  <programme channel="NY SD" start="20251113073000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Non Surgical Facelift Dentures</title>
+  </programme>
+  <programme channel="NY SD" start="20251113080000 +0000" stop="20251113083000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="NY SD" start="20251113083000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="NY SD" start="20251113090000 +0000" stop="20251113093000 +0000">
+    <title lang="eng">Good Night New York</title>
+  </programme>
+  <programme channel="NY SD" start="20251113093000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Good Day Wake Up</title>
+  </programme>
+  <programme channel="NY SD" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Good Day Wake Up</title>
+  </programme>
+  <programme channel="NY SD" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Good Day Wake Up 2</title>
+  </programme>
+  <programme channel="NY SD" start="20251113120000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Good Day New York</title>
+  </programme>
+  <programme channel="NY SD" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Good Day New York</title>
+  </programme>
+  <programme channel="NY SD" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Sherri</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Varney &amp; Company</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">The Big Money Show</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251112180000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">The Big Money Show</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251112190000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">Making Money With Charles Payne</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">The Claman Countdown</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">Kudlow</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">The Evening Edit</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The Bottom Line</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113000000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">Kudlow</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113010000 +0000" stop="20251113013000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113013000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113020000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113023000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113030000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113033000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113040000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113060000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">Rare Earth Metal</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113063000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Rare Earth Metal</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113070000 +0000" stop="20251113073000 +0000">
+    <title lang="eng">2026 Pre-Sale Silver Eagle is here… &amp; it is a once-in-a-lifetime coin!</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113073000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">America's 250th Anniversary Silver and Complete Eagle Date Run Set from CSN Mint!</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113080000 +0000" stop="20251113083000 +0000">
+    <title lang="eng">Who Has Access to Your Personal Data?</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113083000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Explore the last of the Kennedy Half Dollar with CSN Mint!</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113090000 +0000" stop="20251113093000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113093000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">American Built</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">FOX Weather First</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Mornings With Maria Bartiromo</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Mornings With Maria Bartiromo</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Mornings With Maria Bartiromo</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Varney &amp; Company</title>
+  </programme>
+  <programme channel="Fox Business SD" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Varney &amp; Company</title>
+  </programme>
+  <programme channel="FoxNews" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">The Faulkner Focus</title>
+  </programme>
+  <programme channel="FoxNews" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Outnumbered</title>
+  </programme>
+  <programme channel="FoxNews" start="20251112180000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">America Reports</title>
+  </programme>
+  <programme channel="FoxNews" start="20251112190000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">America Reports</title>
+  </programme>
+  <programme channel="FoxNews" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">The Story With Martha MacCallum</title>
+  </programme>
+  <programme channel="FoxNews" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">The Will Cain Show</title>
+  </programme>
+  <programme channel="FoxNews" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">The Five</title>
+  </programme>
+  <programme channel="FoxNews" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">Special Report With Bret Baier</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113000000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">The Ingraham Angle</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113010000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">Jesse Watters Primetime</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113020000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">Hannity</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Gutfeld!</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Fox News at Night</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">The Five</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Jesse Watters Primetime</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Hannity</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Gutfeld!</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">The Ingraham Angle</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">FOX &amp; Friends First</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">America's Newsroom</title>
+  </programme>
+  <programme channel="FoxNews" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">America's Newsroom</title>
+  </programme>
+  <programme channel="FS1" start="20251112170000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">The Herd With Colin Cowherd</title>
+  </programme>
+  <programme channel="FS1" start="20251112200000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">First Things First</title>
+  </programme>
+  <programme channel="FS1" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">First Things First: OT</title>
+  </programme>
+  <programme channel="FS1" start="20251112230000 +0000" stop="20251112233000 +0000">
+    <title lang="eng">OutKick the Show with Clay Travis</title>
+  </programme>
+  <programme channel="FS1" start="20251112233000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">NFL Films Presents</title>
+  </programme>
+  <programme channel="FS1" start="20251113000000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="FS1" start="20251113020000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="FS1" start="20251113040000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">OutKick the Show with Clay Travis</title>
+  </programme>
+  <programme channel="FS1" start="20251113043000 +0000" stop="20251113073000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="FS1" start="20251113043000 +0000" stop="20251113073000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="FS1" start="20251113073000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">TMZ Sports</title>
+  </programme>
+  <programme channel="FS1" start="20251113080000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="FS1" start="20251113100000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="FS1" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">First Things First</title>
+  </programme>
+  <programme channel="FS1" start="20251113130000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="FS1" start="20251113150000 +0000" stop="20251113170000 +0000">
+    <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="FS2" start="20251112170000 +0000" stop="20251112213000 +0000">
+    <title lang="eng">Horse Racing</title>
+  </programme>
+  <programme channel="FS2" start="20251112213000 +0000" stop="20251112233000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="FS2" start="20251112233000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">VGA 10th Anniversary</title>
+  </programme>
+  <programme channel="FS2" start="20251113003000 +0000" stop="20251113013000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="FS2" start="20251113013000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">OutKick the Show with Clay Travis</title>
+  </programme>
+  <programme channel="FS2" start="20251113020000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">Kevin Harvick's Happy Hour</title>
+  </programme>
+  <programme channel="FS2" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">FOX NASCAR Presents</title>
+  </programme>
+  <programme channel="FS2" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">FOX NASCAR Presents</title>
+  </programme>
+  <programme channel="FS2" start="20251113050000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="FS2" start="20251113070000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="FS2" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">FOX NASCAR Presents</title>
+  </programme>
+  <programme channel="FS2" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">FOX NASCAR Presents</title>
+  </programme>
+  <programme channel="FS2" start="20251113120000 +0000" stop="20251113123000 +0000">
+    <title lang="eng">The Joel Klatt Show: Big Noon Conversations</title>
+  </programme>
+  <programme channel="FS2" start="20251113123000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">OutKick the Show with Clay Travis</title>
+  </programme>
+  <programme channel="FS2" start="20251113130000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="FS2" start="20251113150000 +0000" stop="20251113165000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112153000 +0000" stop="20251112160000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">The Raptors Show</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112170000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">The Fan Hockey Show</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112190000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">Gotta See It</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112193000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112200000 +0000" stop="20251112203000 +0000">
+    <title lang="eng">Gotta See It</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112203000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112210000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113000000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113010000 +0000" stop="20251113013000 +0000">
+    <title lang="eng">Gotta See It</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113013000 +0000" stop="20251113020000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113020000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113023000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Gotta See It</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113060000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113080000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113100000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">Gotta See It</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113103000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113120000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">By the Books</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251113150000 +0000" stop="20251113153000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112153000 +0000" stop="20251112160000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112160000 +0000" stop="20251112163000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112163000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112170000 +0000" stop="20251112173000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112173000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112180000 +0000" stop="20251112183000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112183000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112190000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112193000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112200000 +0000" stop="20251112203000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112203000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">NHL Tonight: First Shift</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">NHL Now</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113000000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113023000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113060000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113080000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113100000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113103000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Gotta See It</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113110000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113110000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113130000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251113150000 +0000" stop="20251113170000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251112180000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113000000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113003000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113060000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113063000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251112180000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113000000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113003000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113060000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113063000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112170000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112180000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112220000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113000000 +0000" stop="20251113003000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113003000 +0000" stop="20251113030000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113030000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113060000 +0000" stop="20251113063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113063000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet West" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112153000 +0000" stop="20251112163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112163000 +0000" stop="20251112173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112173000 +0000" stop="20251112183000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112183000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">Why We Love Football</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112190000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112193000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112220000 +0000" stop="20251112223000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112223000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN 1" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113000000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113023000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113033000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Park the Bus</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113080000 +0000" stop="20251113083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113083000 +0000" stop="20251113093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113093000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113103000 +0000" stop="20251113113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113113000 +0000" stop="20251113123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113113000 +0000" stop="20251113123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113123000 +0000" stop="20251113133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113133000 +0000" stop="20251113143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 1" start="20251113143000 +0000" stop="20251113153000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 2" start="20251112170000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
+  </programme>
+  <programme channel="TSN 2" start="20251112190000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">Grey Cup Revisited</title>
+  </programme>
+  <programme channel="TSN 2" start="20251112220000 +0000" stop="20251113010000 +0000">
+    <title lang="eng">Grey Cup Revisited</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113010000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">All Elite Wrestling: Dynamite</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113033000 +0000" stop="20251113040000 +0000">
+    <title lang="eng">NFL GameDay</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113040000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">PBR Bull Riding</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113050000 +0000" stop="20251113053000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113053000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113060000 +0000" stop="20251113083000 +0000">
+    <title lang="eng">All Elite Wrestling: Dynamite</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113083000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113090000 +0000" stop="20251113093000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113093000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113100000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113103000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113110000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Grey Cup Revisited</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113110000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">Grey Cup Revisited</title>
+  </programme>
+  <programme channel="TSN 2" start="20251113140000 +0000" stop="20251113170000 +0000">
+    <title lang="eng">Grey Cup Revisited</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112153000 +0000" stop="20251112163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112163000 +0000" stop="20251112173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112173000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112180000 +0000" stop="20251112183000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112183000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112190000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">PGA TOUR - The Drop</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112193000 +0000" stop="20251112213000 +0000">
+    <title lang="eng">2025 Nitto ATP Finals</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112213000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112220000 +0000" stop="20251112223000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112223000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN 3" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113000000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113023000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113033000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Park the Bus</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113080000 +0000" stop="20251113083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113083000 +0000" stop="20251113093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113093000 +0000" stop="20251113103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113103000 +0000" stop="20251113113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113113000 +0000" stop="20251113123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113113000 +0000" stop="20251113123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113123000 +0000" stop="20251113133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113133000 +0000" stop="20251113143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 3" start="20251113143000 +0000" stop="20251113153000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 4" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251112170000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="TSN 4" start="20251112190000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">PGA TOUR - The Drop</title>
+  </programme>
+  <programme channel="TSN 4" start="20251112193000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN 4" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN 4" start="20251112210000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN 4" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113000000 +0000" stop="20251113023000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113023000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113033000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Park the Bus</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113130000 +0000" stop="20251113140000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113140000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 4" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112160000 +0000" stop="20251112170000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112170000 +0000" stop="20251112173000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112173000 +0000" stop="20251112180000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112180000 +0000" stop="20251112183000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112183000 +0000" stop="20251112190000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112190000 +0000" stop="20251112193000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112193000 +0000" stop="20251112200000 +0000">
+    <title lang="eng">CFL Playoffs in 30</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112200000 +0000" stop="20251112210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112210000 +0000" stop="20251112220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112220000 +0000" stop="20251112223000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112223000 +0000" stop="20251112230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN 5" start="20251112230000 +0000" stop="20251113000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113000000 +0000" stop="20251113033000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113033000 +0000" stop="20251113043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113043000 +0000" stop="20251113050000 +0000">
+    <title lang="eng">Park the Bus</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113050000 +0000" stop="20251113060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113060000 +0000" stop="20251113070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113070000 +0000" stop="20251113080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113080000 +0000" stop="20251113090000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113090000 +0000" stop="20251113100000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113100000 +0000" stop="20251113110000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113110000 +0000" stop="20251113120000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113120000 +0000" stop="20251113130000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113130000 +0000" stop="20251113150000 +0000">
+    <title lang="eng">2025 Nitto ATP Finals</title>
+  </programme>
+  <programme channel="TSN 5" start="20251113150000 +0000" stop="20251113160000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+</tv>
