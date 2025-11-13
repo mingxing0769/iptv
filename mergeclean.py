@@ -16,7 +16,7 @@ EPG_URL = "https://tvpass.org/epg.xml"
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
 
 # 是否对频道进行筛选, 根据utils.filter_keywords.Category_Key
-CategoryFilter = True
+CategoryFilter = False
 # 并发检查URL时的最大线程数，可以根据你的网络和CPU情况调整
 MAX_WORKERS_URL_CHECK = 100
 
@@ -213,6 +213,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
