@@ -17,8 +17,6 @@ https://a1xs.vip/700003
 https://a1xs.vip/700004
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Australia",Fox Sports 505
 https://a1xs.vip/700005
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506
-https://a1xs.vip/700006
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Australia",Fox Sports 507
 https://a1xs.vip/700007
 
@@ -97,8 +95,8 @@ http://38.250.127.17:9800/play/a05x/index.m3u8
 #EXTGRP:Live
 #EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
-https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
