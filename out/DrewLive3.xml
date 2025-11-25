@@ -6,6 +6,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Sportsnet 360">
+    <display-name>Sportsnet 360</display-name>
+  </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
@@ -119,6 +122,84 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251125150000 +0000" stop="20251125170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124153000 +0000" stop="20251124160000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124160000 +0000" stop="20251124170000 +0000">
+    <title lang="eng">The Raptors Show</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124170000 +0000" stop="20251124190000 +0000">
+    <title lang="eng">The Fan Hockey Show</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124190000 +0000" stop="20251124193000 +0000">
+    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124193000 +0000" stop="20251124200000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124200000 +0000" stop="20251124203000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124203000 +0000" stop="20251124210000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124210000 +0000" stop="20251124230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251124230000 +0000" stop="20251125000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125000000 +0000" stop="20251125010000 +0000">
+    <title lang="eng">Game of Gold</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125010000 +0000" stop="20251125020000 +0000">
+    <title lang="eng">TNA in 60</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125020000 +0000" stop="20251125030000 +0000">
+    <title lang="eng">TNA Xplosion</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125030000 +0000" stop="20251125060000 +0000">
+    <title lang="eng">UFC Reloaded</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125060000 +0000" stop="20251125063000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125063000 +0000" stop="20251125070000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125070000 +0000" stop="20251125073000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125073000 +0000" stop="20251125080000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125080000 +0000" stop="20251125083000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125083000 +0000" stop="20251125090000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125090000 +0000" stop="20251125093000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125093000 +0000" stop="20251125100000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125100000 +0000" stop="20251125103000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125103000 +0000" stop="20251125110000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125110000 +0000" stop="20251125120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125120000 +0000" stop="20251125150000 +0000">
+    <title lang="eng">By the Books</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251125150000 +0000" stop="20251125153000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
   </programme>
   <programme channel="Sportsnet One" start="20251124153000 +0000" stop="20251124160000 +0000">
     <title lang="eng">Raptors in 30</title>
