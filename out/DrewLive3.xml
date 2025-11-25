@@ -12,9 +12,6 @@
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
   </channel>
-  <channel id="Sportsnet Pittsburgh">
-    <display-name>Sportsnet Pittsburgh</display-name>
-  </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
@@ -305,75 +302,6 @@
   </programme>
   <programme channel="Sportsnet Pacific" start="20251125150000 +0000" stop="20251125160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251124153000 +0000" stop="20251124160000 +0000">
-    <title lang="eng">Transform your home today, fast &amp; easy!</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251124160000 +0000" stop="20251124180000 +0000">
-    <title lang="eng">Penguins Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251124180000 +0000" stop="20251124203000 +0000">
-    <title lang="eng">World Jai-Alai League</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251124203000 +0000" stop="20251124210000 +0000">
-    <title lang="eng">There's a Team in the Building: The Story of the 1988-89 Pittsburgh Penguins</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251124210000 +0000" stop="20251124213000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251124213000 +0000" stop="20251124220000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251124220000 +0000" stop="20251124230000 +0000">
-    <title lang="eng">The Varsity with John Ourand</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251124230000 +0000" stop="20251125010000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125010000 +0000" stop="20251125020000 +0000">
-    <title lang="eng">World Class Championship Boxing</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125020000 +0000" stop="20251125030000 +0000">
-    <title lang="eng">World Class Championship Boxing</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125030000 +0000" stop="20251125040000 +0000">
-    <title lang="eng">Fight Sports MMA</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125040000 +0000" stop="20251125050000 +0000">
-    <title lang="eng">The Varsity with John Ourand</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125050000 +0000" stop="20251125070000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125070000 +0000" stop="20251125080000 +0000">
-    <title lang="eng">One From the Heart: The Story of the 1990-91 Pittsburgh Penguins</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125080000 +0000" stop="20251125100000 +0000">
-    <title lang="eng">Penguins Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125100000 +0000" stop="20251125110000 +0000">
-    <title lang="eng">SportsWrap With Jason Page</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125110000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125110000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125130000 +0000" stop="20251125133000 +0000">
-    <title lang="eng">The Aging Brain</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125133000 +0000" stop="20251125140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125140000 +0000" stop="20251125143000 +0000">
-    <title lang="eng">The Aging Brain</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125143000 +0000" stop="20251125150000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251125150000 +0000" stop="20251125153000 +0000">
-    <title lang="eng">The Aging Brain</title>
   </programme>
   <programme channel="Sportsnet West" start="20251124160000 +0000" stop="20251124170000 +0000">
     <title lang="eng">Sportsnet Central</title>
