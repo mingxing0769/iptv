@@ -3,16 +3,17 @@
 # 用于筛选频道的分类关键词
 Category_Key = [
     # --- 体育 (Sports) ---
-    "sports", "sport", "espn", "bein", "dazn", "tnt", "tsn", "tva",
-    "f1", "football", "soccer", "nfl", "nba", "mlb", "nhl",
-    "cricket", "golf", "racing", "tennis", "fight", "wwe",
+    "Sky sport","Sky sports","Ziggo Sport","ESPN","Fox Sports","BeIN Sports","TSN","TNT","rac"
+    
+    # "sports", "sport", "espn", "bein", "dazn", "tnt", "tsn", "tva",
+    # "f1", "football", "soccer", "nfl", "nba", "mlb", "nhl",
+    # "cricket", "golf", "racing", "tennis", "fight", "wwe",
 
     # --- 新闻 (News) ---
-    "news", "cnn", "bbc", "abc", "nbc", "cbs", "fox", "sky",
-    "euronews", "global", "newsmax", "newsnation",
+    "cnn news", "bbc news", "abc news", "fox news", "sky news","CCTV"    
 
     # # --- 电影 & 剧集 (Movies & Series) ---
-    # "movie", "cinema", "hbo", "showtime", "amc", "fx", "tbs", "usa", "hgtv",
+    "movie", "cinema", "hbo"
 
     # # --- 纪录片 & 纪实 (Documentary & Factual) ---
     # "discovery", "nat geo", "history", "docu", "science",
