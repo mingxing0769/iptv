@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ABC (KABC) Los Angeles">
-    <display-name>ABC (KABC) Los Angeles</display-name>
-  </channel>
-  <channel id="CBS Sports Network USA">
-    <display-name>CBS Sports Network USA</display-name>
-  </channel>
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
-  </channel>
-  <channel id="MLB Network">
-    <display-name>MLB Network</display-name>
-  </channel>
-  <channel id="NFL Network">
-    <display-name>NFL Network</display-name>
-  </channel>
-  <channel id="NFL RedZone">
-    <display-name>NFL RedZone</display-name>
-  </channel>
-  <channel id="SNY Sportsnet New York Comcast">
-    <display-name>SNY Sportsnet New York Comcast</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
+  </channel>
+  <channel id="Sportsnet Pittsburgh">
+    <display-name>Sportsnet Pittsburgh</display-name>
   </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
@@ -42,141 +24,6 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <channel id="The Tennis Channel">
-    <display-name>The Tennis Channel</display-name>
-  </channel>
-  <programme channel="ABC (KABC) Los Angeles" start="20251124170000 +0000" stop="20251124180000 +0000">
-    <title lang="eng">Live with Kelly and Mark</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251124180000 +0000" stop="20251124190000 +0000">
-    <title lang="eng">The View</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251124190000 +0000" stop="20251124200000 +0000">
-    <title lang="eng">Eyewitness News 11AM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251124200000 +0000" stop="20251124210000 +0000">
-    <title lang="eng">GMA3</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251124210000 +0000" stop="20251124220000 +0000">
-    <title lang="eng">Tamron Hall</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251124220000 +0000" stop="20251124230000 +0000">
-    <title lang="eng">General Hospital</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251124230000 +0000" stop="20251124233000 +0000">
-    <title lang="eng">Eyewitness News 3PM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251124233000 +0000" stop="20251125000000 +0000">
-    <title lang="eng">ABC World News Tonight With David Muir</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125000000 +0000" stop="20251125010000 +0000">
-    <title lang="eng">Eyewitness News 4PM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125010000 +0000" stop="20251125020000 +0000">
-    <title lang="eng">Eyewitness News 5PM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125020000 +0000" stop="20251125023000 +0000">
-    <title lang="eng">Eyewitness News 6PM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125023000 +0000" stop="20251125030000 +0000">
-    <title lang="eng">ABC World News Tonight With David Muir</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125030000 +0000" stop="20251125033000 +0000">
-    <title lang="eng">Jeopardy!</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125033000 +0000" stop="20251125040000 +0000">
-    <title lang="eng">Wheel of Fortune</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125040000 +0000" stop="20251125060000 +0000">
-    <title lang="eng">Truth and Lies: Who Killed JFK?</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125060000 +0000" stop="20251125070000 +0000">
-    <title lang="eng">9-1-1: Nashville</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125070000 +0000" stop="20251125073500 +0000">
-    <title lang="eng">Eyewitness News 11PM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125073500 +0000" stop="20251125083700 +0000">
-    <title lang="eng">Jimmy Kimmel Live!</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125083700 +0000" stop="20251125090600 +0000">
-    <title lang="eng">Nightline</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125090600 +0000" stop="20251125100000 +0000">
-    <title lang="eng">Live with Kelly and Mark</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125100000 +0000" stop="20251125103000 +0000">
-    <title lang="eng">ABC World News Tonight With David Muir</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125103000 +0000" stop="20251125113000 +0000">
-    <title lang="eng">Tamron Hall</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125113000 +0000" stop="20251125120000 +0000">
-    <title lang="eng">Good Morning America First Look</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125120000 +0000" stop="20251125123000 +0000">
-    <title lang="eng">Eyewitness News 4AM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125123000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">Eyewitness News 4:30AM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125130000 +0000" stop="20251125140000 +0000">
-    <title lang="eng">Eyewitness News 5AM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125140000 +0000" stop="20251125150000 +0000">
-    <title lang="eng">Eyewitness News 6AM</title>
-  </programme>
-  <programme channel="ABC (KABC) Los Angeles" start="20251125150000 +0000" stop="20251125170000 +0000">
-    <title lang="eng">Good Morning America</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251124170000 +0000" stop="20251124180000 +0000">
-    <title lang="eng">Early Edge</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251124180000 +0000" stop="20251124190000 +0000">
-    <title lang="eng">College Football Insiders</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251124190000 +0000" stop="20251124210000 +0000">
-    <title lang="eng">CBS Sports HQ Spotlight</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251124210000 +0000" stop="20251124230000 +0000">
-    <title lang="eng">CBS Sports HQ Spotlight</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251124230000 +0000" stop="20251125010000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125010000 +0000" stop="20251125013000 +0000">
-    <title lang="eng">Inside College Basketball</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125013000 +0000" stop="20251125033000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125033000 +0000" stop="20251125053000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125053000 +0000" stop="20251125063000 +0000">
-    <title lang="eng">Poker Night in America</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125063000 +0000" stop="20251125083000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125083000 +0000" stop="20251125090000 +0000">
-    <title lang="eng">Poker Night in America</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125090000 +0000" stop="20251125100000 +0000">
-    <title lang="eng">Poker Night in America</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125100000 +0000" stop="20251125110000 +0000">
-    <title lang="eng">Poker Night in America</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125110000 +0000" stop="20251125150000 +0000">
-    <title lang="eng">Boomer and Gio</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125110000 +0000" stop="20251125150000 +0000">
-    <title lang="eng">Boomer and Gio</title>
-  </programme>
-  <programme channel="CBS Sports Network USA" start="20251125150000 +0000" stop="20251125160000 +0000">
-    <title lang="eng">Major League Fishing</title>
-  </programme>
   <programme channel="ESPN" start="20251124170000 +0000" stop="20251124190000 +0000">
     <title lang="eng">The Pat McAfee Show</title>
   </programme>
@@ -234,72 +81,6 @@
   <programme channel="ESPN" start="20251125150000 +0000" stop="20251125170000 +0000">
     <title lang="eng">First Take</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20251124160000 +0000" stop="20251124170000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251124170000 +0000" stop="20251124180000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251124180000 +0000" stop="20251124190000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251124190000 +0000" stop="20251124195500 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251124195500 +0000" stop="20251124220000 +0000">
-    <title lang="eng">Fútbol LaLiga</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251124220000 +0000" stop="20251124230000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251124230000 +0000" stop="20251125000000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125000000 +0000" stop="20251125010000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125010000 +0000" stop="20251125041500 +0000">
-    <title lang="eng">Fútbol Americano NFL</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125041500 +0000" stop="20251125043000 +0000">
-    <title lang="eng">Monday Night Postgame</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125043000 +0000" stop="20251125050000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125050000 +0000" stop="20251125060000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125060000 +0000" stop="20251125070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125070000 +0000" stop="20251125080000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125080000 +0000" stop="20251125090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125090000 +0000" stop="20251125100000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125100000 +0000" stop="20251125110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125110000 +0000" stop="20251125120000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125120000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125130000 +0000" stop="20251125140000 +0000">
-    <title lang="eng">LaLiga al día</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125140000 +0000" stop="20251125150000 +0000">
-    <title lang="eng">Generación F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251125150000 +0000" stop="20251125160000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251124170000 +0000" stop="20251124200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -341,207 +122,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251125150000 +0000" stop="20251125170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="MLB Network" start="20251124170000 +0000" stop="20251124190000 +0000">
-    <title lang="eng">Hot Stove</title>
-  </programme>
-  <programme channel="MLB Network" start="20251124190000 +0000" stop="20251124200000 +0000">
-    <title lang="eng">The Sounds of Baseball</title>
-  </programme>
-  <programme channel="MLB Network" start="20251124200000 +0000" stop="20251124210000 +0000">
-    <title lang="eng">MLB Network Presents</title>
-  </programme>
-  <programme channel="MLB Network" start="20251124210000 +0000" stop="20251124220000 +0000">
-    <title lang="eng">MLB Network Presents</title>
-  </programme>
-  <programme channel="MLB Network" start="20251124220000 +0000" stop="20251124230000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251124230000 +0000" stop="20251125000000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125000000 +0000" stop="20251125013000 +0000">
-    <title lang="eng">MLB Network Presents</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125013000 +0000" stop="20251125030000 +0000">
-    <title lang="eng">MLB Network Presents</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125030000 +0000" stop="20251125040000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125040000 +0000" stop="20251125060000 +0000">
-    <title lang="eng">MLB Network Special</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125060000 +0000" stop="20251125070000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125070000 +0000" stop="20251125080000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125080000 +0000" stop="20251125090000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125090000 +0000" stop="20251125100000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125100000 +0000" stop="20251125110000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125110000 +0000" stop="20251125120000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125120000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125130000 +0000" stop="20251125140000 +0000">
-    <title lang="eng">MLB Tonight</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125140000 +0000" stop="20251125150000 +0000">
-    <title lang="eng">The Leadoff Spot</title>
-  </programme>
-  <programme channel="MLB Network" start="20251125150000 +0000" stop="20251125170000 +0000">
-    <title lang="eng">Hot Stove</title>
-  </programme>
-  <programme channel="NFL Network" start="20251124170000 +0000" stop="20251124190000 +0000">
-    <title lang="eng">Good Morning Football</title>
-  </programme>
-  <programme channel="NFL Network" start="20251124190000 +0000" stop="20251124200000 +0000">
-    <title lang="eng">NFL GameDay Final</title>
-  </programme>
-  <programme channel="NFL Network" start="20251124200000 +0000" stop="20251124230000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="NFL Network" start="20251124230000 +0000" stop="20251125000000 +0000">
-    <title lang="eng">NFL Fantasy Live</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125000000 +0000" stop="20251125011500 +0000">
-    <title lang="eng">NFL GameDay Kickoff</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125011500 +0000" stop="20251125040000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125040000 +0000" stop="20251125041500 +0000">
-    <title lang="eng">NFL Throwback</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125041500 +0000" stop="20251125051500 +0000">
-    <title lang="eng">NFL GameDay Final</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125051500 +0000" stop="20251125080000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125080000 +0000" stop="20251125090000 +0000">
-    <title lang="eng">NFL GameDay Final</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125090000 +0000" stop="20251125100000 +0000">
-    <title lang="eng">NFL GameDay Final</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125100000 +0000" stop="20251125110000 +0000">
-    <title lang="eng">NFL GameDay Final</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125110000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125110000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125130000 +0000" stop="20251125150000 +0000">
-    <title lang="eng">Good Morning Football</title>
-  </programme>
-  <programme channel="NFL Network" start="20251125150000 +0000" stop="20251125170000 +0000">
-    <title lang="eng">Good Morning Football</title>
-  </programme>
-  <programme channel="NFL RedZone" start="20251124210000 +0000" stop="20251125050000 +0000">
-    <title lang="eng">Every Sunday Afternoon</title>
-  </programme>
-  <programme channel="NFL RedZone" start="20251125050000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">Every Sunday Afternoon</title>
-  </programme>
-  <programme channel="NFL RedZone" start="20251125050000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">Every Sunday Afternoon</title>
-  </programme>
-  <programme channel="NFL RedZone" start="20251125130000 +0000" stop="20251125210000 +0000">
-    <title lang="eng">Every Sunday Afternoon</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251124160000 +0000" stop="20251124163000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251124163000 +0000" stop="20251124170000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251124170000 +0000" stop="20251124190000 +0000">
-    <title lang="eng">USL W-League</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251124190000 +0000" stop="20251124210000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251124210000 +0000" stop="20251124230000 +0000">
-    <title lang="eng">Evan &amp; Tiki</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251124230000 +0000" stop="20251124233000 +0000">
-    <title lang="eng">Baseball Night in N.Y.</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251124233000 +0000" stop="20251125000000 +0000">
-    <title lang="eng">Mets Yearbook</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125000000 +0000" stop="20251125020000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125020000 +0000" stop="20251125040000 +0000">
-    <title lang="eng">Broadway Boxing</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125040000 +0000" stop="20251125043000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125043000 +0000" stop="20251125050000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125050000 +0000" stop="20251125053000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125053000 +0000" stop="20251125060000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125060000 +0000" stop="20251125063000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125063000 +0000" stop="20251125070000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125070000 +0000" stop="20251125080000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125080000 +0000" stop="20251125090000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125090000 +0000" stop="20251125100000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125100000 +0000" stop="20251125110000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125110000 +0000" stop="20251125113000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125113000 +0000" stop="20251125120000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125120000 +0000" stop="20251125123000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125123000 +0000" stop="20251125130000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125130000 +0000" stop="20251125133000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125133000 +0000" stop="20251125140000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125140000 +0000" stop="20251125143000 +0000">
-    <title lang="eng">Meet Superstar Santa</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251125143000 +0000" stop="20251125153000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
   </programme>
   <programme channel="Sportsnet One" start="20251124153000 +0000" stop="20251124160000 +0000">
     <title lang="eng">Raptors in 30</title>
@@ -726,6 +306,75 @@
   <programme channel="Sportsnet Pacific" start="20251125150000 +0000" stop="20251125160000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251124153000 +0000" stop="20251124160000 +0000">
+    <title lang="eng">Transform your home today, fast &amp; easy!</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251124160000 +0000" stop="20251124180000 +0000">
+    <title lang="eng">Penguins Classics</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251124180000 +0000" stop="20251124203000 +0000">
+    <title lang="eng">World Jai-Alai League</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251124203000 +0000" stop="20251124210000 +0000">
+    <title lang="eng">There's a Team in the Building: The Story of the 1988-89 Pittsburgh Penguins</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251124210000 +0000" stop="20251124213000 +0000">
+    <title lang="eng">Charlie Moore Outdoors</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251124213000 +0000" stop="20251124220000 +0000">
+    <title lang="eng">Charlie Moore: No Offense</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251124220000 +0000" stop="20251124230000 +0000">
+    <title lang="eng">The Varsity with John Ourand</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251124230000 +0000" stop="20251125010000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125010000 +0000" stop="20251125020000 +0000">
+    <title lang="eng">World Class Championship Boxing</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125020000 +0000" stop="20251125030000 +0000">
+    <title lang="eng">World Class Championship Boxing</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125030000 +0000" stop="20251125040000 +0000">
+    <title lang="eng">Fight Sports MMA</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125040000 +0000" stop="20251125050000 +0000">
+    <title lang="eng">The Varsity with John Ourand</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125050000 +0000" stop="20251125070000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125070000 +0000" stop="20251125080000 +0000">
+    <title lang="eng">One From the Heart: The Story of the 1990-91 Pittsburgh Penguins</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125080000 +0000" stop="20251125100000 +0000">
+    <title lang="eng">Penguins Classics</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125100000 +0000" stop="20251125110000 +0000">
+    <title lang="eng">SportsWrap With Jason Page</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125110000 +0000" stop="20251125130000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125110000 +0000" stop="20251125130000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125130000 +0000" stop="20251125133000 +0000">
+    <title lang="eng">The Aging Brain</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125133000 +0000" stop="20251125140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125140000 +0000" stop="20251125143000 +0000">
+    <title lang="eng">The Aging Brain</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125143000 +0000" stop="20251125150000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251125150000 +0000" stop="20251125153000 +0000">
+    <title lang="eng">The Aging Brain</title>
+  </programme>
   <programme channel="Sportsnet West" start="20251124160000 +0000" stop="20251124170000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
@@ -794,27 +443,6 @@
   </programme>
   <programme channel="Sportsnet West" start="20251125150000 +0000" stop="20251125160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="The Tennis Channel" start="20251124153000 +0000" stop="20251124180000 +0000">
-    <title lang="eng">Indian Wells-WTA</title>
-  </programme>
-  <programme channel="The Tennis Channel" start="20251124180000 +0000" stop="20251124200000 +0000">
-    <title lang="eng">Indian Wells-ATP</title>
-  </programme>
-  <programme channel="The Tennis Channel" start="20251124200000 +0000" stop="20251124223000 +0000">
-    <title lang="eng">Indian Wells-WTA</title>
-  </programme>
-  <programme channel="The Tennis Channel" start="20251124223000 +0000" stop="20251125040000 +0000">
-    <title lang="eng">Roland Garros Encore</title>
-  </programme>
-  <programme channel="The Tennis Channel" start="20251125040000 +0000" stop="20251125123000 +0000">
-    <title lang="eng">Miami-ATP</title>
-  </programme>
-  <programme channel="The Tennis Channel" start="20251125040000 +0000" stop="20251125123000 +0000">
-    <title lang="eng">Miami-ATP</title>
-  </programme>
-  <programme channel="The Tennis Channel" start="20251125123000 +0000" stop="20251125153000 +0000">
-    <title lang="eng">Cincinnati-WTA</title>
   </programme>
   <programme channel="TSN4" start="20251124160000 +0000" stop="20251124170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
