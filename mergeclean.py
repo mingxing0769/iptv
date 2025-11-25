@@ -17,6 +17,10 @@ OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
 
 # 是否对频道进行筛选, 根据utils.filter_keywords.Category_Key
 CategoryFilter = True
+
+# 并发检查URL有效性 ---
+URL_CHECK = True
+
 # 并发检查URL时的最大线程数，可以根据你的网络和CPU情况调整
 MAX_WORKERS_URL_CHECK = 100
 
@@ -197,8 +201,6 @@ def main():
             print(f"✅ Parsed {len(parsed_channels)} valid channel entries from {url}.")
             all_channels.extend(parsed_channels)
 
-    # --- 优化步骤：并发检查URL有效性 ---
-    URL_CHECK = True
     if URL_CHECK:
         all_channels = check_urls_concurrently(all_channels)
 
@@ -213,6 +215,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
