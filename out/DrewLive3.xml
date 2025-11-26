@@ -18,6 +18,9 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
+  <channel id="TSN1">
+    <display-name>TSN1</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -419,6 +422,72 @@
   </programme>
   <programme channel="Sportsnet West" start="20251127150000 +0000" stop="20251127160000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TSN1" start="20251126160000 +0000" stop="20251126170000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251126170000 +0000" stop="20251126180000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251126180000 +0000" stop="20251126210000 +0000">
+    <title lang="eng">Canadian Curling Trials</title>
+  </programme>
+  <programme channel="TSN1" start="20251126210000 +0000" stop="20251126213000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN1" start="20251126213000 +0000" stop="20251126220000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN1" start="20251126220000 +0000" stop="20251126223000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN1" start="20251126223000 +0000" stop="20251126230000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN1" start="20251126230000 +0000" stop="20251127003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127003000 +0000" stop="20251127010000 +0000">
+    <title lang="eng">CHL USA Prospects Challenge Pregame</title>
+  </programme>
+  <programme channel="TSN1" start="20251127010000 +0000" stop="20251127033000 +0000">
+    <title lang="eng">Hockey</title>
+  </programme>
+  <programme channel="TSN1" start="20251127033000 +0000" stop="20251127050000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127050000 +0000" stop="20251127060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN1" start="20251127060000 +0000" stop="20251127070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127070000 +0000" stop="20251127080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127080000 +0000" stop="20251127083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127083000 +0000" stop="20251127093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127093000 +0000" stop="20251127103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127103000 +0000" stop="20251127113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127113000 +0000" stop="20251127123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127123000 +0000" stop="20251127133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127133000 +0000" stop="20251127143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20251127143000 +0000" stop="20251127153000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN4" start="20251126160000 +0000" stop="20251126170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
