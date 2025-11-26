@@ -3,17 +3,20 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
+  <channel id="ESPN News">
+    <display-name>ESPN News</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
+  </channel>
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
-  </channel>
-  <channel id="Sportsnet Pittsburgh">
-    <display-name>Sportsnet Pittsburgh</display-name>
   </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
@@ -71,6 +74,63 @@
   </programme>
   <programme channel="ESPN" start="20251127150000 +0000" stop="20251127170000 +0000">
     <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN News" start="20251126160000 +0000" stop="20251126170000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251126170000 +0000" stop="20251126190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
+  </programme>
+  <programme channel="ESPN News" start="20251126190000 +0000" stop="20251126210000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN News" start="20251126210000 +0000" stop="20251126220000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPN News" start="20251126220000 +0000" stop="20251126230000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251126230000 +0000" stop="20251127000000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127000000 +0000" stop="20251127013000 +0000">
+    <title lang="eng">Polo</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127013000 +0000" stop="20251127020000 +0000">
+    <title lang="eng">Always College Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127020000 +0000" stop="20251127030000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127030000 +0000" stop="20251127040000 +0000">
+    <title lang="eng">ESPN Films</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127040000 +0000" stop="20251127050000 +0000">
+    <title lang="eng">2025 NWLA All-Star Game</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127050000 +0000" stop="20251127060000 +0000">
+    <title lang="eng">OmegaBall World Invitational</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127060000 +0000" stop="20251127070000 +0000">
+    <title lang="eng">Turf Wars Adult Kickball Tournament</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127070000 +0000" stop="20251127080000 +0000">
+    <title lang="eng">The 4th Annual BullShooter Invitational Shootout</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127080000 +0000" stop="20251127110000 +0000">
+    <title lang="eng">UFC 300: Pereira vs. Hill</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127110000 +0000" stop="20251127123000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127123000 +0000" stop="20251127140000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127140000 +0000" stop="20251127150000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127150000 +0000" stop="20251127160000 +0000">
+    <title lang="eng">SportsCenter</title>
   </programme>
   <programme channel="Fox Sports 1" start="20251126170000 +0000" stop="20251126200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
@@ -198,6 +258,81 @@
   <programme channel="Sportsnet One" start="20251127150000 +0000" stop="20251127170000 +0000">
     <title lang="eng">NHL Hockey</title>
   </programme>
+  <programme channel="Sportsnet Ontario" start="20251126160000 +0000" stop="20251126170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251126170000 +0000" stop="20251126180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251126180000 +0000" stop="20251126200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251126200000 +0000" stop="20251126210000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251126210000 +0000" stop="20251126220000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251126220000 +0000" stop="20251126230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251126230000 +0000" stop="20251126233000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251126233000 +0000" stop="20251127000000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127000000 +0000" stop="20251127023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127023000 +0000" stop="20251127033000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127033000 +0000" stop="20251127053000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127033000 +0000" stop="20251127053000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127053000 +0000" stop="20251127060000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127060000 +0000" stop="20251127063000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127063000 +0000" stop="20251127070000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127070000 +0000" stop="20251127073000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127073000 +0000" stop="20251127080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127080000 +0000" stop="20251127090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127090000 +0000" stop="20251127100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127100000 +0000" stop="20251127110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127110000 +0000" stop="20251127120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127120000 +0000" stop="20251127130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127130000 +0000" stop="20251127140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127140000 +0000" stop="20251127150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251127150000 +0000" stop="20251127160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
   <programme channel="Sportsnet Pacific" start="20251126160000 +0000" stop="20251126170000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
@@ -272,96 +407,6 @@
   </programme>
   <programme channel="Sportsnet Pacific" start="20251127150000 +0000" stop="20251127160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126153000 +0000" stop="20251126160000 +0000">
-    <title lang="eng">The Aging Brain</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126160000 +0000" stop="20251126180000 +0000">
-    <title lang="eng">Penguins Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126180000 +0000" stop="20251126190000 +0000">
-    <title lang="eng">Fairways of Life with Matt Adams</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126190000 +0000" stop="20251126193000 +0000">
-    <title lang="eng">Golf Life</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126193000 +0000" stop="20251126200000 +0000">
-    <title lang="eng">Endless Golf</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126200000 +0000" stop="20251126203000 +0000">
-    <title lang="eng">Swing Clinic With Jimmy Hanlin</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126203000 +0000" stop="20251126210000 +0000">
-    <title lang="eng">18 Holes With Natalie Gulbis and Jimmy Hanlin</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126210000 +0000" stop="20251126220000 +0000">
-    <title lang="eng">The Varsity with John Ourand</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126220000 +0000" stop="20251126223000 +0000">
-    <title lang="eng">Penguins Game Plan</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126223000 +0000" stop="20251126230000 +0000">
-    <title lang="eng">Steel City Chronicles</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126230000 +0000" stop="20251126233000 +0000">
-    <title lang="eng">Penguins Tonight</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251126233000 +0000" stop="20251127000000 +0000">
-    <title lang="eng">Penguins Faceoff Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127000000 +0000" stop="20251127023000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127023000 +0000" stop="20251127030000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127030000 +0000" stop="20251127033000 +0000">
-    <title lang="eng">Penguins Postgame Final</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127033000 +0000" stop="20251127040000 +0000">
-    <title lang="eng">Steel City Chronicles</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127040000 +0000" stop="20251127043000 +0000">
-    <title lang="eng">Penguins Game Plan</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127043000 +0000" stop="20251127053000 +0000">
-    <title lang="eng">The Snap Count with Charlie Batch and Trai Essex</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127043000 +0000" stop="20251127053000 +0000">
-    <title lang="eng">The Snap Count with Charlie Batch and Trai Essex</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127053000 +0000" stop="20251127060000 +0000">
-    <title lang="eng">Penguins Game Plan</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127060000 +0000" stop="20251127080000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127080000 +0000" stop="20251127083000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127083000 +0000" stop="20251127090000 +0000">
-    <title lang="eng">Penguins Postgame Final</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127090000 +0000" stop="20251127093000 +0000">
-    <title lang="eng">Fight Sports Martial Arts</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127093000 +0000" stop="20251127100000 +0000">
-    <title lang="eng">In Depth With Graham Bensinger</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127100000 +0000" stop="20251127120000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127120000 +0000" stop="20251127123000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127123000 +0000" stop="20251127130000 +0000">
-    <title lang="eng">Penguins Postgame Final</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127130000 +0000" stop="20251127140000 +0000">
-    <title lang="eng">Inside Pirates Baseball</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251127140000 +0000" stop="20251127160000 +0000">
-    <title lang="eng">Pirates Classics</title>
   </programme>
   <programme channel="Sportsnet West" start="20251126160000 +0000" stop="20251126170000 +0000">
     <title lang="eng">Sportsnet Central</title>
