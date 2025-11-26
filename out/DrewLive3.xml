@@ -6,9 +6,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Fox Sports 2">
-    <display-name>Fox Sports 2</display-name>
-  </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
@@ -122,54 +119,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251126150000 +0000" stop="20251126170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251125160000 +0000" stop="20251125163000 +0000">
-    <title lang="eng">Kevin Harvick's Happy Hour</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251125163000 +0000" stop="20251125170000 +0000">
-    <title lang="eng">Kevin Harvick's Happy Hour</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251125170000 +0000" stop="20251125180000 +0000">
-    <title lang="eng">Kevin Harvick's Happy Hour</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251125180000 +0000" stop="20251125200000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251125200000 +0000" stop="20251125205600 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251125205600 +0000" stop="20251125225600 +0000">
-    <title lang="eng">Concacaf Caribbean Cup</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251125225600 +0000" stop="20251126010000 +0000">
-    <title lang="eng">Concacaf Caribbean Cup</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126010000 +0000" stop="20251126040000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126040000 +0000" stop="20251126050000 +0000">
-    <title lang="eng">Pokerstars Big Game on Tour</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126050000 +0000" stop="20251126060000 +0000">
-    <title lang="eng">Pokerstars Big Game on Tour</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126060000 +0000" stop="20251126080000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126080000 +0000" stop="20251126100000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126100000 +0000" stop="20251126110000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126110000 +0000" stop="20251126140000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126110000 +0000" stop="20251126140000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251126140000 +0000" stop="20251126170000 +0000">
-    <title lang="eng">College Football</title>
   </programme>
   <programme channel="Sportsnet One" start="20251125153000 +0000" stop="20251125160000 +0000">
     <title lang="eng">Raptors in 30</title>
