@@ -63,8 +63,6 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 https://a1xs.vip/120002
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport Premier League" tvg-logo="https://i.imgur.com/9QfVskT.png" group-title="Germany",Sky Sport Premier League
 https://a1xs.vip/120004
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="Germany",Sky Sport Top Event
-https://a1xs.vip/120003
 
 #EXTGRP:International
 #EXTINF:-1 tvg-id="None" tvg-name="BBC News" tvg-logo="None" group-title="International",BBC News
@@ -95,6 +93,10 @@ http://38.250.127.17:9800/play/a05n/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
 http://38.250.127.17:9800/play/a05x/index.m3u8
+
+#EXTGRP:Live
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
