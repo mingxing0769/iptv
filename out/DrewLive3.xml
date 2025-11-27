@@ -18,9 +18,6 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
-  <channel id="TSN3">
-    <display-name>TSN3</display-name>
-  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -425,84 +422,6 @@
   </programme>
   <programme channel="Sportsnet West" start="20251127150000 +0000" stop="20251127160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="TSN3" start="20251126153000 +0000" stop="20251126163000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251126163000 +0000" stop="20251126173000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251126173000 +0000" stop="20251126180000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251126180000 +0000" stop="20251126183000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251126183000 +0000" stop="20251126190000 +0000">
-    <title lang="eng">2025 Motorcycle Experience</title>
-  </programme>
-  <programme channel="TSN3" start="20251126190000 +0000" stop="20251126193000 +0000">
-    <title lang="eng">PGA TOUR - The Drop</title>
-  </programme>
-  <programme channel="TSN3" start="20251126193000 +0000" stop="20251126213000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="TSN3" start="20251126213000 +0000" stop="20251126220000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251126220000 +0000" stop="20251126223000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251126223000 +0000" stop="20251126230000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251126230000 +0000" stop="20251127003000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127003000 +0000" stop="20251127010000 +0000">
-    <title lang="eng">NFL GameDay</title>
-  </programme>
-  <programme channel="TSN3" start="20251127010000 +0000" stop="20251127030000 +0000">
-    <title lang="eng">All Elite Wrestling: Dynamite</title>
-  </programme>
-  <programme channel="TSN3" start="20251127030000 +0000" stop="20251127033000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251127033000 +0000" stop="20251127050000 +0000">
-    <title lang="eng">PBR Bull Riding</title>
-  </programme>
-  <programme channel="TSN3" start="20251127050000 +0000" stop="20251127060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN3" start="20251127060000 +0000" stop="20251127070000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127070000 +0000" stop="20251127080000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127080000 +0000" stop="20251127083000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127083000 +0000" stop="20251127093000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127093000 +0000" stop="20251127103000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127103000 +0000" stop="20251127113000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127113000 +0000" stop="20251127123000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127123000 +0000" stop="20251127133000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127133000 +0000" stop="20251127143000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251127143000 +0000" stop="20251127153000 +0000">
-    <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN4" start="20251126160000 +0000" stop="20251126170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
