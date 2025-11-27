@@ -95,8 +95,12 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="None" group-title="Live",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -197,8 +201,6 @@ https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-name="TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
-https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
@@ -225,8 +227,6 @@ https://a1xs.vip/2000006
 https://a1xs.vip/2000005
 #EXTINF:-1 tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="United Kingdom",Sky Sports F1 UHD
 https://a1xs.vip/2000016
-#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="United Kingdom",Sky Sports Football
-https://a1xs.vip/2000003
 #EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="United Kingdom",Sky Sports Golf
 https://a1xs.vip/2000009
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="United Kingdom",Sky Sports Main Event
@@ -257,5 +257,7 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 
 #EXTGRP:United States
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
