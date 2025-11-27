@@ -15,9 +15,6 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
-  <channel id="TSN1">
-    <display-name>TSN1</display-name>
-  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -380,63 +377,6 @@
   </programme>
   <programme channel="Sportsnet West" start="20251128150000 +0000" stop="20251128160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="TSN1" start="20251127153000 +0000" stop="20251127160000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251127160000 +0000" stop="20251127180000 +0000">
-    <title lang="eng">NFL Thanksgiving Thursday Football: Pregame</title>
-  </programme>
-  <programme channel="TSN1" start="20251127180000 +0000" stop="20251127210000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20251127210000 +0000" stop="20251127213000 +0000">
-    <title lang="eng">NFL Thanksgiving Thursday Football: Pregame</title>
-  </programme>
-  <programme channel="TSN1" start="20251127213000 +0000" stop="20251128010000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20251128010000 +0000" stop="20251128012000 +0000">
-    <title lang="eng">Football Night in America</title>
-  </programme>
-  <programme channel="TSN1" start="20251128012000 +0000" stop="20251128043000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20251128043000 +0000" stop="20251128060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN1" start="20251128060000 +0000" stop="20251128070000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128070000 +0000" stop="20251128080000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128080000 +0000" stop="20251128083000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128083000 +0000" stop="20251128093000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128093000 +0000" stop="20251128103000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128103000 +0000" stop="20251128113000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128103000 +0000" stop="20251128113000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128113000 +0000" stop="20251128123000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128123000 +0000" stop="20251128133000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128133000 +0000" stop="20251128143000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251128143000 +0000" stop="20251128153000 +0000">
-    <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN4" start="20251127160000 +0000" stop="20251127180000 +0000">
     <title lang="eng">NFL Thanksgiving Thursday Football: Pregame</title>
