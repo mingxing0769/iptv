@@ -11,8 +11,6 @@ https://a1xs.vip/700002
 https://a1xs.vip/700003
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Australia",Fox Sports 504
 https://a1xs.vip/700004
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Australia",Fox Sports 505
-https://a1xs.vip/700005
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506
 https://a1xs.vip/700006
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Australia",Fox Sports 507
@@ -21,8 +19,6 @@ https://a1xs.vip/700007
 #EXTGRP:Brazil
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-br.png" group-title="Brazil",TNT
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/36121
-#EXTINF:-1 tvg-id="None" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-br.png" group-title="Brazil",TNT
-http://181.78.4.250:8098/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-br.png" group-title="Brazil",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-novelas-br.png" group-title="Brazil",TNT Novelas
@@ -81,10 +77,6 @@ http://201.230.121.186:8000/play/a0fi/index.m3u8
 http://201.230.121.186:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Latin America",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
-
-#EXTGRP:Live
-#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
