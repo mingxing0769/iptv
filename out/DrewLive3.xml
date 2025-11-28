@@ -3,8 +3,8 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
-  <channel id="ESPN2">
-    <display-name>ESPN2</display-name>
+  <channel id="ESPN Deportes">
+    <display-name>ESPN Deportes</display-name>
   </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
@@ -75,59 +75,68 @@
   <programme channel="ESPN" start="20251129140000 +0000" stop="20251129170000 +0000">
     <title lang="eng">College GameDay</title>
   </programme>
-  <programme channel="ESPN2" start="20251128153000 +0000" stop="20251128173000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20251128173000 +0000" stop="20251128180000 +0000">
-    <title lang="eng">College Basketball Live Scoreboard</title>
-  </programme>
-  <programme channel="ESPN2" start="20251128180000 +0000" stop="20251128200000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20251128200000 +0000" stop="20251128220000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20251128220000 +0000" stop="20251129000000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129000000 +0000" stop="20251129020000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129020000 +0000" stop="20251129030000 +0000">
-    <title lang="eng">UFC Main Events</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129030000 +0000" stop="20251129040000 +0000">
-    <title lang="eng">UFC Main Event</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129040000 +0000" stop="20251129050000 +0000">
-    <title lang="eng">ESPN Films</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129050000 +0000" stop="20251129070000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129070000 +0000" stop="20251129090000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129090000 +0000" stop="20251129110000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129110000 +0000" stop="20251129120000 +0000">
-    <title lang="eng">UFC 323 Countdown: Dvalishvili vs. Yan 2</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129120000 +0000" stop="20251129123000 +0000">
-    <title lang="eng">NFL Matchup</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129123000 +0000" stop="20251129130000 +0000">
-    <title lang="eng">UFC Top 10</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129130000 +0000" stop="20251129135500 +0000">
-    <title lang="eng">Game On: Journey to the NCAA Championship</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129135500 +0000" stop="20251129150000 +0000">
-    <title lang="eng">Formula 1 Racing</title>
-  </programme>
-  <programme channel="ESPN2" start="20251129150000 +0000" stop="20251129160000 +0000">
+  <programme channel="ESPN Deportes" start="20251128160000 +0000" stop="20251128170000 +0000">
     <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251128170000 +0000" stop="20251128172500 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251128172500 +0000" stop="20251128182000 +0000">
+    <title lang="eng">Automovilismo Fórmula 1</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251128182000 +0000" stop="20251128190000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251128190000 +0000" stop="20251128195500 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251128195500 +0000" stop="20251128220000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251128220000 +0000" stop="20251128230000 +0000">
+    <title lang="eng">Ahora o nunca</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251128230000 +0000" stop="20251129000000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129000000 +0000" stop="20251129003000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129003000 +0000" stop="20251129040000 +0000">
+    <title lang="eng">Fútbol Americano Universitario</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129040000 +0000" stop="20251129050000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129050000 +0000" stop="20251129060000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129060000 +0000" stop="20251129070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129070000 +0000" stop="20251129080000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129080000 +0000" stop="20251129090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129090000 +0000" stop="20251129100000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129100000 +0000" stop="20251129110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129110000 +0000" stop="20251129120000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129120000 +0000" stop="20251129125500 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129125500 +0000" stop="20251129150000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129150000 +0000" stop="20251129172500 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
   </programme>
   <programme channel="Fox Sports 1" start="20251128170000 +0000" stop="20251128200000 +0000">
     <title lang="eng">Horse Racing</title>
