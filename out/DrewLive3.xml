@@ -6,9 +6,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Fox Sports 2">
-    <display-name>Fox Sports 2</display-name>
-  </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
@@ -17,6 +14,9 @@
   </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
+  </channel>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
   </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
@@ -140,78 +140,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251128150000 +0000" stop="20251128170000 +0000">
     <title lang="eng">First Things First: OT</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127154500 +0000" stop="20251127180000 +0000">
-    <title lang="eng">2025 FIFA U-17 World Cup</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127180000 +0000" stop="20251127183000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127183000 +0000" stop="20251127190000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127190000 +0000" stop="20251127193000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127193000 +0000" stop="20251127200000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127200000 +0000" stop="20251127210000 +0000">
-    <title lang="eng">Kevin Harvick's Happy Hour</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127210000 +0000" stop="20251127220000 +0000">
-    <title lang="eng">FOX NASCAR Presents</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127220000 +0000" stop="20251127230000 +0000">
-    <title lang="eng">FOX NASCAR Presents</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127230000 +0000" stop="20251127233000 +0000">
-    <title lang="eng">NHRA Sportsman Series</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251127233000 +0000" stop="20251128003000 +0000">
-    <title lang="eng">NHRA Sportsman Series</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128003000 +0000" stop="20251128010000 +0000">
-    <title lang="eng">NHRA in 30</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128010000 +0000" stop="20251128013000 +0000">
-    <title lang="eng">Women's Football Weekly</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128013000 +0000" stop="20251128033000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128033000 +0000" stop="20251128053000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128053000 +0000" stop="20251128063000 +0000">
-    <title lang="eng">Esports World Cup Spotlight Highlights</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128063000 +0000" stop="20251128073000 +0000">
-    <title lang="eng">Esports World Cup Spotlight Highlights</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128073000 +0000" stop="20251128080000 +0000">
-    <title lang="eng">The Joel Klatt Show: A College Football Podcast</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128080000 +0000" stop="20251128083000 +0000">
-    <title lang="eng">Big Noon Kickoff Presents Bear Bets</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128083000 +0000" stop="20251128090000 +0000">
-    <title lang="eng">OutKick the Show with Clay Travis</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128090000 +0000" stop="20251128110000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128110000 +0000" stop="20251128120000 +0000">
-    <title lang="eng">Bassmaster: the Cast</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128120000 +0000" stop="20251128123000 +0000">
-    <title lang="eng">Bassmaster: the Cast</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128123000 +0000" stop="20251128143500 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251128143500 +0000" stop="20251128163000 +0000">
-    <title lang="eng">Saudi Arabia King's Cup Soccer</title>
   </programme>
   <programme channel="Sportsnet One" start="20251127170000 +0000" stop="20251127190000 +0000">
     <title lang="eng">NHL Hockey</title>
@@ -452,6 +380,57 @@
   </programme>
   <programme channel="Sportsnet West" start="20251128150000 +0000" stop="20251128160000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TSN2" start="20251127160000 +0000" stop="20251127170000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251127170000 +0000" stop="20251127190000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="TSN2" start="20251127190000 +0000" stop="20251127193000 +0000">
+    <title lang="eng">College Basketball Scoreboard</title>
+  </programme>
+  <programme channel="TSN2" start="20251127193000 +0000" stop="20251127213000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="TSN2" start="20251127213000 +0000" stop="20251127220000 +0000">
+    <title lang="eng">College Basketball Scoreboard</title>
+  </programme>
+  <programme channel="TSN2" start="20251127220000 +0000" stop="20251128000000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="TSN2" start="20251128000000 +0000" stop="20251128003000 +0000">
+    <title lang="eng">College Football Countdown</title>
+  </programme>
+  <programme channel="TSN2" start="20251128003000 +0000" stop="20251128040000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="TSN2" start="20251128040000 +0000" stop="20251128043000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251128043000 +0000" stop="20251128050000 +0000">
+    <title lang="eng">Rising North</title>
+  </programme>
+  <programme channel="TSN2" start="20251128050000 +0000" stop="20251128053000 +0000">
+    <title lang="eng">Rising North</title>
+  </programme>
+  <programme channel="TSN2" start="20251128053000 +0000" stop="20251128070000 +0000">
+    <title lang="eng">PBR Bull Riding</title>
+  </programme>
+  <programme channel="TSN2" start="20251128070000 +0000" stop="20251128100000 +0000">
+    <title lang="eng">Canadian Curling Trials</title>
+  </programme>
+  <programme channel="TSN2" start="20251128100000 +0000" stop="20251128130000 +0000">
+    <title lang="eng">Canadian Curling Trials</title>
+  </programme>
+  <programme channel="TSN2" start="20251128100000 +0000" stop="20251128130000 +0000">
+    <title lang="eng">Canadian Curling Trials</title>
+  </programme>
+  <programme channel="TSN2" start="20251128130000 +0000" stop="20251128133000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251128133000 +0000" stop="20251128163000 +0000">
+    <title lang="eng">Canadian Curling Trials</title>
   </programme>
   <programme channel="TSN4" start="20251127160000 +0000" stop="20251127180000 +0000">
     <title lang="eng">NFL Thanksgiving Thursday Football: Pregame</title>
