@@ -47,6 +47,8 @@ http://speccy.pw:8080/live/111111/111111/316980.ts
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
 #EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada",Sportsnet One
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada",Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada",Sportsnet Pacific
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
 #EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada",Sportsnet West
@@ -193,6 +195,10 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 #EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-name="SportsNet New York (540p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports",SportsNet New York (540p)
 https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
@@ -203,8 +209,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://livetv-fa.tubi.video/fox-sports2/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Undefined",Fox Sports 1
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
-https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="None" tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
