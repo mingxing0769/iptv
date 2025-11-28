@@ -13,6 +13,8 @@ https://a1xs.vip/700001
 https://a1xs.vip/700002
 #EXTINF:-1 tvg-name="Fox Sports 503" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="Australia",Fox Sports 503
 https://a1xs.vip/700003
+#EXTINF:-1 tvg-name="Fox Sports 504" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Australia",Fox Sports 504
+https://a1xs.vip/700004
 #EXTINF:-1 tvg-name="Fox Sports 505" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Australia",Fox Sports 505
 https://a1xs.vip/700005
 #EXTINF:-1 tvg-name="Fox Sports 506" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506
@@ -79,6 +81,8 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 #EXTGRP:Latin America
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN
 http://201.230.121.186:8000/play/a0fi/index.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN
+https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp" group-title="Latin America",ESPN 2
 http://38.250.127.17:9800/play/a08q/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp" group-title="Latin America",ESPN 3
@@ -93,6 +97,12 @@ http://38.250.127.17:9800/play/a05n/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
 http://38.250.127.17:9800/play/a05x/index.m3u8
+
+#EXTGRP:Live
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -195,8 +205,6 @@ https://fl1.moveonjoy.com/SNY/index.m3u8
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
 https://fl1.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-name="Fox Sports" tvg-logo="None" group-title="Undefined",Fox Sports
