@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="BBC News North America HD">
+    <display-name>BBC News North America HD</display-name>
+  </channel>
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
+  <channel id="ESPN News">
+    <display-name>ESPN News</display-name>
   </channel>
   <channel id="Fox News">
     <display-name>Fox News</display-name>
@@ -27,6 +30,189 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="BBC News North America HD" start="20251127153000 +0000" stop="20251127160000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127160000 +0000" stop="20251127163000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127163000 +0000" stop="20251127164500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127164500 +0000" stop="20251127165500 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127165500 +0000" stop="20251127170000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127170000 +0000" stop="20251127173000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127173000 +0000" stop="20251127180000 +0000">
+    <title lang="eng">Focus on Africa</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127180000 +0000" stop="20251127183000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127183000 +0000" stop="20251127190000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127190000 +0000" stop="20251127193000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127193000 +0000" stop="20251127195500 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127195500 +0000" stop="20251127200000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127200000 +0000" stop="20251127203000 +0000">
+    <title lang="eng">The Context</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127203000 +0000" stop="20251127210000 +0000">
+    <title lang="eng">The Context</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127210000 +0000" stop="20251127213000 +0000">
+    <title lang="eng">The Context USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127213000 +0000" stop="20251127215500 +0000">
+    <title lang="eng">The Context USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127215500 +0000" stop="20251127220000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127220000 +0000" stop="20251127223000 +0000">
+    <title lang="eng">BBC World News America</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127223000 +0000" stop="20251127230000 +0000">
+    <title lang="eng">Newsnight</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251127230000 +0000" stop="20251128000000 +0000">
+    <title lang="eng">BBC World News America</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128000000 +0000" stop="20251128003000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128003000 +0000" stop="20251128010000 +0000">
+    <title lang="eng">Newscast</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128010000 +0000" stop="20251128013000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128013000 +0000" stop="20251128020000 +0000">
+    <title lang="eng">The Media Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128020000 +0000" stop="20251128023000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128023000 +0000" stop="20251128024500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128024500 +0000" stop="20251128030000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128030000 +0000" stop="20251128033000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128033000 +0000" stop="20251128034500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128034500 +0000" stop="20251128040000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128040000 +0000" stop="20251128043000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128043000 +0000" stop="20251128044500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128044500 +0000" stop="20251128050000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128050000 +0000" stop="20251128053000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128053000 +0000" stop="20251128060000 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128060000 +0000" stop="20251128063000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128063000 +0000" stop="20251128065500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128065500 +0000" stop="20251128070000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128070000 +0000" stop="20251128073000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128073000 +0000" stop="20251128075500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128075500 +0000" stop="20251128080000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128080000 +0000" stop="20251128083000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128083000 +0000" stop="20251128090000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128090000 +0000" stop="20251128093000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128093000 +0000" stop="20251128095500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128095500 +0000" stop="20251128100000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128100000 +0000" stop="20251128103000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128103000 +0000" stop="20251128110000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128110000 +0000" stop="20251128113000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128113000 +0000" stop="20251128114500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128114500 +0000" stop="20251128115500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128115500 +0000" stop="20251128120000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128120000 +0000" stop="20251128123000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128123000 +0000" stop="20251128130000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128130000 +0000" stop="20251128133000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128133000 +0000" stop="20251128135500 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128135500 +0000" stop="20251128140000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128140000 +0000" stop="20251128143000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128143000 +0000" stop="20251128144500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128144500 +0000" stop="20251128150000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251128150000 +0000" stop="20251128153000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
   <programme channel="ESPN" start="20251127170000 +0000" stop="20251127190000 +0000">
     <title lang="eng">College Basketball</title>
   </programme>
@@ -78,74 +264,50 @@
   <programme channel="ESPN" start="20251128150000 +0000" stop="20251128170000 +0000">
     <title lang="eng">First Take</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20251127160000 +0000" stop="20251127170000 +0000">
+  <programme channel="ESPN News" start="20251127160000 +0000" stop="20251127170000 +0000">
     <title lang="eng">SportsCenter</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20251127170000 +0000" stop="20251127180000 +0000">
-    <title lang="eng">Fútbol picante</title>
+  <programme channel="ESPN News" start="20251127170000 +0000" stop="20251127190000 +0000">
+    <title lang="eng">Get Up</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20251127180000 +0000" stop="20251127190000 +0000">
+  <programme channel="ESPN News" start="20251127190000 +0000" stop="20251127200000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127200000 +0000" stop="20251127210000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127210000 +0000" stop="20251127220000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251127220000 +0000" stop="20251128000000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128000000 +0000" stop="20251128010000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128010000 +0000" stop="20251128030000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128030000 +0000" stop="20251128040000 +0000">
+    <title lang="eng">The Popdarts Championship Presented by APL</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128040000 +0000" stop="20251128050000 +0000">
+    <title lang="eng">Slippery Stairs</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128050000 +0000" stop="20251128060000 +0000">
+    <title lang="eng">2025 Extreme Archery Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128060000 +0000" stop="20251128090000 +0000">
+    <title lang="eng">UFC 299: O'Malley vs. Vera 2</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128090000 +0000" stop="20251128110000 +0000">
+    <title lang="eng">World of X Games</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128110000 +0000" stop="20251128150000 +0000">
+    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
+  </programme>
+  <programme channel="ESPN News" start="20251128150000 +0000" stop="20251128160000 +0000">
     <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251127190000 +0000" stop="20251127200000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251127200000 +0000" stop="20251127210000 +0000">
-    <title lang="eng">Equipo F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251127210000 +0000" stop="20251127220000 +0000">
-    <title lang="eng">Enfocados</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251127220000 +0000" stop="20251127230000 +0000">
-    <title lang="eng">Generación F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251127230000 +0000" stop="20251128000000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128000000 +0000" stop="20251128010000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128010000 +0000" stop="20251128020000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128020000 +0000" stop="20251128040000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128040000 +0000" stop="20251128050000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128050000 +0000" stop="20251128060000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128060000 +0000" stop="20251128070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128070000 +0000" stop="20251128080000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128080000 +0000" stop="20251128090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128090000 +0000" stop="20251128100000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128100000 +0000" stop="20251128110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128110000 +0000" stop="20251128130000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128130000 +0000" stop="20251128132500 +0000">
-    <title lang="eng">LaLiga al día</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128132500 +0000" stop="20251128143500 +0000">
-    <title lang="eng">Automovilismo Fórmula 1</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128143500 +0000" stop="20251128150000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251128150000 +0000" stop="20251128160000 +0000">
-    <title lang="eng">Fútbol picante</title>
   </programme>
   <programme channel="Fox News" start="20251127160000 +0000" stop="20251127170000 +0000">
     <title lang="eng">Fox News Live</title>
