@@ -82,10 +82,6 @@ http://201.230.121.186:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Latin America",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 
-#EXTGRP:Live
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
-https://tvpass.org/live/espn-deportes/sd
-
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
 https://a1xs.vip/140001
