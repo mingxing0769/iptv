@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="BBC News North America HD">
-    <display-name>BBC News North America HD</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
+  </channel>
+  <channel id="SNY Sportsnet New York Comcast">
+    <display-name>SNY Sportsnet New York Comcast</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
@@ -15,165 +15,12 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
-  <channel id="TNT Eastern Feed">
-    <display-name>TNT Eastern Feed</display-name>
-  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="BBC News North America HD" start="20251128153000 +0000" stop="20251128160000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128160000 +0000" stop="20251128163000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128163000 +0000" stop="20251128165500 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128165500 +0000" stop="20251128170000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128170000 +0000" stop="20251128173000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128173000 +0000" stop="20251128180000 +0000">
-    <title lang="eng">Focus on Africa</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128180000 +0000" stop="20251128183000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128183000 +0000" stop="20251128190000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128190000 +0000" stop="20251128193000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128193000 +0000" stop="20251128195500 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128195500 +0000" stop="20251128200000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128200000 +0000" stop="20251128203000 +0000">
-    <title lang="eng">The Context</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128203000 +0000" stop="20251128210000 +0000">
-    <title lang="eng">The Context</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128210000 +0000" stop="20251128213000 +0000">
-    <title lang="eng">The Context USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128213000 +0000" stop="20251128215500 +0000">
-    <title lang="eng">The Context USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128215500 +0000" stop="20251128220000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128220000 +0000" stop="20251128223000 +0000">
-    <title lang="eng">BBC World News America</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128223000 +0000" stop="20251128230000 +0000">
-    <title lang="eng">Talking Business</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128230000 +0000" stop="20251128233000 +0000">
-    <title lang="eng">BBC World News America</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251128233000 +0000" stop="20251129000000 +0000">
-    <title lang="eng">The President's Path</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129000000 +0000" stop="20251129003000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129003000 +0000" stop="20251129010000 +0000">
-    <title lang="eng">Tech Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129010000 +0000" stop="20251129013000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129013000 +0000" stop="20251129020000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129020000 +0000" stop="20251129023000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129023000 +0000" stop="20251129030000 +0000">
-    <title lang="eng">Racing On the Edge</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129030000 +0000" stop="20251129033000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129033000 +0000" stop="20251129040000 +0000">
-    <title lang="eng">The Media Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129040000 +0000" stop="20251129043000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129043000 +0000" stop="20251129050000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129050000 +0000" stop="20251129053000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129053000 +0000" stop="20251129060000 +0000">
-    <title lang="eng">AI Decoded</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129060000 +0000" stop="20251129063000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129063000 +0000" stop="20251129070000 +0000">
-    <title lang="eng">Tech Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129070000 +0000" stop="20251129073000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129073000 +0000" stop="20251129080000 +0000">
-    <title lang="eng">The Firing Line</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129080000 +0000" stop="20251129083000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129083000 +0000" stop="20251129090000 +0000">
-    <title lang="eng">Global Eye</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129090000 +0000" stop="20251129100000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129100000 +0000" stop="20251129103000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129103000 +0000" stop="20251129110000 +0000">
-    <title lang="eng">Talking Business</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129110000 +0000" stop="20251129113000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129113000 +0000" stop="20251129120000 +0000">
-    <title lang="eng">Ukrainecast</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129120000 +0000" stop="20251129123000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129123000 +0000" stop="20251129130000 +0000">
-    <title lang="eng">This Cultural Life</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129130000 +0000" stop="20251129133000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129133000 +0000" stop="20251129140000 +0000">
-    <title lang="eng">AI Decoded</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129140000 +0000" stop="20251129143000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129143000 +0000" stop="20251129150000 +0000">
-    <title lang="eng">The Media Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251129150000 +0000" stop="20251129153000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251128170000 +0000" stop="20251128200000 +0000">
     <title lang="eng">Horse Racing</title>
   </programme>
@@ -218,6 +65,114 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251129140000 +0000" stop="20251129160000 +0000">
     <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128153000 +0000" stop="20251128160000 +0000">
+    <title lang="eng">Meet Superstar Santa</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128160000 +0000" stop="20251128163000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128163000 +0000" stop="20251128180000 +0000">
+    <title lang="eng">Baseball</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128180000 +0000" stop="20251128183000 +0000">
+    <title lang="eng">Mets Hot Stove</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128183000 +0000" stop="20251128190000 +0000">
+    <title lang="eng">Jets Game Plan</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128190000 +0000" stop="20251128200000 +0000">
+    <title lang="eng">Straw 18</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128200000 +0000" stop="20251128210000 +0000">
+    <title lang="eng">Strawberry</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128210000 +0000" stop="20251128220000 +0000">
+    <title lang="eng">Gary, Keith &amp; Ron 18</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128220000 +0000" stop="20251128230000 +0000">
+    <title lang="eng">He's Keith Hernandez</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251128230000 +0000" stop="20251129000000 +0000">
+    <title lang="eng">Canyon of Heroes</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129000000 +0000" stop="20251129010000 +0000">
+    <title lang="eng">Wright 5</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129010000 +0000" stop="20251129030000 +0000">
+    <title lang="eng">The Wright Way</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129030000 +0000" stop="20251129040000 +0000">
+    <title lang="eng">Game 161</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129040000 +0000" stop="20251129043000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129043000 +0000" stop="20251129050000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129050000 +0000" stop="20251129053000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129053000 +0000" stop="20251129060000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129060000 +0000" stop="20251129063000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129063000 +0000" stop="20251129070000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129070000 +0000" stop="20251129073000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129073000 +0000" stop="20251129080000 +0000">
+    <title lang="eng">Meet Superstar Santa</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129080000 +0000" stop="20251129083000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129083000 +0000" stop="20251129090000 +0000">
+    <title lang="eng">Meet Superstar Santa</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129090000 +0000" stop="20251129093000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129093000 +0000" stop="20251129100000 +0000">
+    <title lang="eng">Meet Superstar Santa</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129100000 +0000" stop="20251129103000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129103000 +0000" stop="20251129110000 +0000">
+    <title lang="eng">Meet Superstar Santa</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129110000 +0000" stop="20251129113000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129113000 +0000" stop="20251129120000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129120000 +0000" stop="20251129123000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129123000 +0000" stop="20251129130000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129130000 +0000" stop="20251129133000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129133000 +0000" stop="20251129140000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129140000 +0000" stop="20251129143000 +0000">
+    <title lang="eng">Meet Superstar Santa</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129143000 +0000" stop="20251129150000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251129150000 +0000" stop="20251129160000 +0000">
+    <title lang="eng">Meet Superstar Santa</title>
   </programme>
   <programme channel="Sportsnet One" start="20251128153000 +0000" stop="20251128160000 +0000">
     <title lang="eng">Plays of the Month - Highlights</title>
@@ -410,57 +365,6 @@
   </programme>
   <programme channel="Sportsnet West" start="20251129150000 +0000" stop="20251129160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251128153000 +0000" stop="20251128173000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251128173000 +0000" stop="20251128180000 +0000">
-    <title lang="eng">NHL on TNT Face Off</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251128180000 +0000" stop="20251128210000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251128210000 +0000" stop="20251128213000 +0000">
-    <title lang="eng">NHL Post-Game on TNT</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251128213000 +0000" stop="20251128233000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251128233000 +0000" stop="20251129000000 +0000">
-    <title lang="eng">U.S. Soccer Pregame</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129000000 +0000" stop="20251129020000 +0000">
-    <title lang="eng">Women's International Soccer Friendlies</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129020000 +0000" stop="20251129023000 +0000">
-    <title lang="eng">U.S. Soccer Postgame</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129023000 +0000" stop="20251129044500 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129044500 +0000" stop="20251129070000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129070000 +0000" stop="20251129080000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129080000 +0000" stop="20251129090000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129090000 +0000" stop="20251129100000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129100000 +0000" stop="20251129110000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129110000 +0000" stop="20251129120000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129120000 +0000" stop="20251129140000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251129140000 +0000" stop="20251129160000 +0000">
-    <title lang="eng">Movie</title>
   </programme>
   <programme channel="TSN4" start="20251128160000 +0000" stop="20251128165000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
