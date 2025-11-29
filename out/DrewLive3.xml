@@ -3,6 +3,9 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
+  <channel id="ESPN Deportes">
+    <display-name>ESPN Deportes</display-name>
+  </channel>
   <channel id="Fox News">
     <display-name>Fox News</display-name>
   </channel>
@@ -74,6 +77,57 @@
   </programme>
   <programme channel="ESPN" start="20251130150000 +0000" stop="20251130180000 +0000">
     <title lang="eng">Sunday NFL Countdown</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129172500 +0000" stop="20251129193000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129193000 +0000" stop="20251129220000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129220000 +0000" stop="20251129230000 +0000">
+    <title lang="eng">ESPN FC</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251129230000 +0000" stop="20251130000000 +0000">
+    <title lang="eng">ESPN KnockOut</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130000000 +0000" stop="20251130003000 +0000">
+    <title lang="eng">UEFA Women's Champions League Highlight Show</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130003000 +0000" stop="20251130040000 +0000">
+    <title lang="eng">Fútbol Americano Universitario</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130040000 +0000" stop="20251130060000 +0000">
+    <title lang="eng">ESPN KnockOut</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130040000 +0000" stop="20251130060000 +0000">
+    <title lang="eng">ESPN KnockOut</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130060000 +0000" stop="20251130070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130070000 +0000" stop="20251130080000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130080000 +0000" stop="20251130090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130090000 +0000" stop="20251130100000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130100000 +0000" stop="20251130110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130110000 +0000" stop="20251130120000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130120000 +0000" stop="20251130125500 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130125500 +0000" stop="20251130150000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251130150000 +0000" stop="20251130171500 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
   </programme>
   <programme channel="Fox News" start="20251129160000 +0000" stop="20251129170000 +0000">
     <title lang="eng">Saturday in America</title>
