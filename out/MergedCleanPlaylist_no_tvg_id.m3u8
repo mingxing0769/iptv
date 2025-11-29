@@ -41,10 +41,14 @@ http://speccy.pw:8080/live/111111/111111/316980.ts
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
 #EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada",Sportsnet One
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
+#EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="Canada",Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
 #EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada",Sportsnet Pacific
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
 #EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada",Sportsnet West
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
 
 #EXTGRP:General
 #EXTINF:-1 tvg-name="CCTV-4 America (1080p)" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
@@ -79,6 +83,28 @@ http://201.230.121.186:8000/play/a0fi/index.m3u8
 http://201.230.121.186:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Latin America",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
+
+#EXTGRP:Live
+#EXTINF:-1 tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="None" group-title="Live",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 tvg-name="Sportsnet Pittsburgh" tvg-logo="None" group-title="Live",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -179,10 +205,6 @@ https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-name="TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
-https://fl1.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-name="Fox Sports" tvg-logo="None" group-title="Undefined",Fox Sports
