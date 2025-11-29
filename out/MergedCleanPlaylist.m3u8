@@ -49,8 +49,6 @@ http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada",Sportsnet Pacific
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
-#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="Canada",Sportsnet Pacific
-https://tvpass.org/live/sportsnet-pacific/sd
 #EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada",Sportsnet West
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
 
@@ -99,10 +97,14 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
-https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" tvg-logo="None" group-title="Live",ESPN News
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
 #EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" tvg-logo="None" group-title="Live",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
