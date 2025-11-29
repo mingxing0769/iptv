@@ -75,18 +75,12 @@ http://185.104.253.35:9981/stream/channelid/232968588?profile=pass
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
-https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
 https://tvpass.org/live/spectrum-sportsnet-la/sd
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
-https://tvpass.org/live/tsn2/sd
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
-https://tvpass.org/live/tsn3/sd
-#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
-https://tvpass.org/live/tsn5/sd
-#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -189,14 +183,14 @@ https://fl1.moveonjoy.com/SNY/index.m3u8
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
 https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports" tvg-logo="None" group-title="Undefined",Fox Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports (720p)" tvg-logo="None" group-title="Undefined",Fox Sports (720p)
 https://livetv-fa.tubi.video/fox-sports2/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Undefined",Fox Sports 1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
