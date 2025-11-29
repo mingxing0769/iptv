@@ -3,17 +3,23 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
-  <channel id="ESPN U">
-    <display-name>ESPN U</display-name>
+  <channel id="ESPN News">
+    <display-name>ESPN News</display-name>
   </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
+  </channel>
+  <channel id="Spectrum SportsNet LA">
+    <display-name>Spectrum SportsNet LA</display-name>
   </channel>
   <channel id="Spectrum Sportsnet Lakers">
     <display-name>Spectrum Sportsnet Lakers</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
+  </channel>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
   </channel>
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
@@ -78,59 +84,110 @@
   <programme channel="ESPN" start="20251130150000 +0000" stop="20251130180000 +0000">
     <title lang="eng">Sunday NFL Countdown</title>
   </programme>
-  <programme channel="ESPN U" start="20251129170000 +0000" stop="20251129200000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN News" start="20251129153000 +0000" stop="20251129160000 +0000">
+    <title lang="eng">The 2025 Big Boy Soap Hockey Tournament</title>
   </programme>
-  <programme channel="ESPN U" start="20251129200000 +0000" stop="20251129204500 +0000">
-    <title lang="eng">ESPN Films</title>
+  <programme channel="ESPN News" start="20251129160000 +0000" stop="20251129163000 +0000">
+    <title lang="eng">Donk Toss World Championship</title>
   </programme>
-  <programme channel="ESPN U" start="20251129204500 +0000" stop="20251129234500 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN News" start="20251129163000 +0000" stop="20251129170000 +0000">
+    <title lang="eng">World Premiere: BBA Bubbleball</title>
   </programme>
-  <programme channel="ESPN U" start="20251129234500 +0000" stop="20251130001500 +0000">
-    <title lang="eng">SEC Inside</title>
+  <programme channel="ESPN News" start="20251129170000 +0000" stop="20251129175500 +0000">
+    <title lang="eng">Major League Paintball</title>
   </programme>
-  <programme channel="ESPN U" start="20251130001500 +0000" stop="20251130003000 +0000">
-    <title lang="eng">TrueSouth</title>
+  <programme channel="ESPN News" start="20251129175500 +0000" stop="20251129190000 +0000">
+    <title lang="eng">Formula 1 Racing</title>
   </programme>
-  <programme channel="ESPN U" start="20251130003000 +0000" stop="20251130033000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN News" start="20251129190000 +0000" stop="20251129193000 +0000">
+    <title lang="eng">Never Tell Me the Odds</title>
   </programme>
-  <programme channel="ESPN U" start="20251130033000 +0000" stop="20251130040000 +0000">
-    <title lang="eng">SEC Inside</title>
+  <programme channel="ESPN News" start="20251129193000 +0000" stop="20251129200000 +0000">
+    <title lang="eng">The Goodyear Blimp Sky Race of the Century</title>
   </programme>
-  <programme channel="ESPN U" start="20251130040000 +0000" stop="20251130053000 +0000">
-    <title lang="eng">30 for 30</title>
+  <programme channel="ESPN News" start="20251129200000 +0000" stop="20251129203000 +0000">
+    <title lang="eng">Ultimate Ninja World Series Finals</title>
   </programme>
-  <programme channel="ESPN U" start="20251130040000 +0000" stop="20251130053000 +0000">
-    <title lang="eng">30 for 30</title>
+  <programme channel="ESPN News" start="20251129203000 +0000" stop="20251129210000 +0000">
+    <title lang="eng">Buoy Cup</title>
   </programme>
-  <programme channel="ESPN U" start="20251130053000 +0000" stop="20251130070000 +0000">
-    <title lang="eng">30 for 30</title>
+  <programme channel="ESPN News" start="20251129210000 +0000" stop="20251129220000 +0000">
+    <title lang="eng">The Popdarts Championship Presented by APL</title>
   </programme>
-  <programme channel="ESPN U" start="20251130070000 +0000" stop="20251130080000 +0000">
-    <title lang="eng">E60</title>
+  <programme channel="ESPN News" start="20251129220000 +0000" stop="20251129230000 +0000">
+    <title lang="eng">Slippery Stairs</title>
   </programme>
-  <programme channel="ESPN U" start="20251130080000 +0000" stop="20251130090000 +0000">
-    <title lang="eng">We're #1! -- 1991 &amp; 1992 Duke Blue Devils</title>
+  <programme channel="ESPN News" start="20251129230000 +0000" stop="20251130000000 +0000">
+    <title lang="eng">2025 Extreme Archery Championship</title>
   </programme>
-  <programme channel="ESPN U" start="20251130090000 +0000" stop="20251130100000 +0000">
-    <title lang="eng">College Football Final</title>
+  <programme channel="ESPN News" start="20251130000000 +0000" stop="20251130010000 +0000">
+    <title lang="eng">The National Dodgeball League Championship Games</title>
   </programme>
-  <programme channel="ESPN U" start="20251130100000 +0000" stop="20251130110000 +0000">
-    <title lang="eng">College Football Final</title>
+  <programme channel="ESPN News" start="20251130010000 +0000" stop="20251130020000 +0000">
+    <title lang="eng">World Axe &amp; Knife Throwing Championship 2025</title>
   </programme>
-  <programme channel="ESPN U" start="20251130110000 +0000" stop="20251130120000 +0000">
-    <title lang="eng">College Football Final</title>
+  <programme channel="ESPN News" start="20251130020000 +0000" stop="20251130030000 +0000">
+    <title lang="eng">Pogopalooza Cup 2022</title>
   </programme>
-  <programme channel="ESPN U" start="20251130120000 +0000" stop="20251130130000 +0000">
-    <title lang="eng">College Football Final</title>
+  <programme channel="ESPN News" start="20251130030000 +0000" stop="20251130033000 +0000">
+    <title lang="eng">Coffin Wars, Grapple to the Grave</title>
   </programme>
-  <programme channel="ESPN U" start="20251130130000 +0000" stop="20251130140000 +0000">
-    <title lang="eng">Thunder On: Resurgence of the SMU Mustangs</title>
+  <programme channel="ESPN News" start="20251130033000 +0000" stop="20251130040000 +0000">
+    <title lang="eng">Red Bull Flugtag Cincinnati</title>
   </programme>
-  <programme channel="ESPN U" start="20251130140000 +0000" stop="20251130170000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN News" start="20251130040000 +0000" stop="20251130043000 +0000">
+    <title lang="eng">Ludvig's Streamer Games</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130043000 +0000" stop="20251130050000 +0000">
+    <title lang="eng">National Putting Tour American Dream's Super Roll of Putting</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130050000 +0000" stop="20251130053000 +0000">
+    <title lang="eng">Battle of the Buoy 2</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130053000 +0000" stop="20251130060000 +0000">
+    <title lang="eng">2025 T-Rex World Championship Races</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130060000 +0000" stop="20251130070000 +0000">
+    <title lang="eng">WJF 20: The Ultimate Overall Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130070000 +0000" stop="20251130083000 +0000">
+    <title lang="eng">Polo</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130083000 +0000" stop="20251130090000 +0000">
+    <title lang="eng">Tire Wrestling: No Ropes, Just Rubber</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130090000 +0000" stop="20251130093000 +0000">
+    <title lang="eng">2025 Corgi Races at Emerald Downs</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130093000 +0000" stop="20251130100000 +0000">
+    <title lang="eng">2023 Wisconsin Auctioneers Championships</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130100000 +0000" stop="20251130110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130110000 +0000" stop="20251130120000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130120000 +0000" stop="20251130123000 +0000">
+    <title lang="eng">The 2024 Onewheel World Championship - Race For The Rail</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130123000 +0000" stop="20251130130000 +0000">
+    <title lang="eng">2025 NESSBIC Finals</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130130000 +0000" stop="20251130133000 +0000">
+    <title lang="eng">2025 Golden Tee Golf World Championships</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130133000 +0000" stop="20251130140000 +0000">
+    <title lang="eng">11th Annual Outhouse Races</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130140000 +0000" stop="20251130143000 +0000">
+    <title lang="eng">Swiss Stone Tossing</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130143000 +0000" stop="20251130150000 +0000">
+    <title lang="eng">Mailboat Jumping</title>
+  </programme>
+  <programme channel="ESPN News" start="20251130150000 +0000" stop="20251130180000 +0000">
+    <title lang="eng">Fantasy Football Now</title>
   </programme>
   <programme channel="Fox Sports 1" start="20251129160000 +0000" stop="20251129170000 +0000">
     <title lang="eng">Big Noon Kickoff</title>
@@ -164,6 +221,84 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251130150000 +0000" stop="20251130160000 +0000">
     <title lang="eng">100 Days to Indy</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251129173000 +0000" stop="20251129180000 +0000">
+    <title lang="eng">Farewell to Vin</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251129180000 +0000" stop="20251129183000 +0000">
+    <title lang="eng">Vin Scully Appreciation Ceremony</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251129183000 +0000" stop="20251129223000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251129223000 +0000" stop="20251129230000 +0000">
+    <title lang="eng">Farewell to Vin</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251129230000 +0000" stop="20251129233000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251129233000 +0000" stop="20251130000000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130000000 +0000" stop="20251130003000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130003000 +0000" stop="20251130010000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130010000 +0000" stop="20251130013000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130013000 +0000" stop="20251130020000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130020000 +0000" stop="20251130023000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130023000 +0000" stop="20251130030000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130030000 +0000" stop="20251130053000 +0000">
+    <title lang="eng">High School Football</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130030000 +0000" stop="20251130053000 +0000">
+    <title lang="eng">High School Football</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130053000 +0000" stop="20251130060000 +0000">
+    <title lang="eng">CIF Southern Section: This Week</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130060000 +0000" stop="20251130083000 +0000">
+    <title lang="eng">High School Football</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130083000 +0000" stop="20251130090000 +0000">
+    <title lang="eng">CIF Southern Section: This Week</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130090000 +0000" stop="20251130100000 +0000">
+    <title lang="eng">No Gamble, No Future</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130100000 +0000" stop="20251130110000 +0000">
+    <title lang="eng">No Gamble, No Future</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130110000 +0000" stop="20251130113000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130113000 +0000" stop="20251130120000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130120000 +0000" stop="20251130123000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130123000 +0000" stop="20251130130000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130130000 +0000" stop="20251130133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130133000 +0000" stop="20251130140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130140000 +0000" stop="20251130173000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
   </programme>
   <programme channel="Spectrum Sportsnet Lakers" start="20251129160000 +0000" stop="20251129170000 +0000">
     <title lang="eng">Access SportsNet: Lakers</title>
@@ -305,6 +440,69 @@
   </programme>
   <programme channel="Sportsnet One" start="20251130150000 +0000" stop="20251130170000 +0000">
     <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251129160000 +0000" stop="20251129170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251129170000 +0000" stop="20251129193000 +0000">
+    <title lang="eng">PWHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251129193000 +0000" stop="20251129200000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251129200000 +0000" stop="20251129203000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251129203000 +0000" stop="20251129210000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251129210000 +0000" stop="20251129233000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251129233000 +0000" stop="20251130000000 +0000">
+    <title lang="eng">Hockey Central Saturday</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130000000 +0000" stop="20251130030000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130030000 +0000" stop="20251130060000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130030000 +0000" stop="20251130060000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130060000 +0000" stop="20251130063000 +0000">
+    <title lang="eng">After Hours</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130063000 +0000" stop="20251130070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130070000 +0000" stop="20251130080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130080000 +0000" stop="20251130090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130090000 +0000" stop="20251130100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130100000 +0000" stop="20251130110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130110000 +0000" stop="20251130120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130120000 +0000" stop="20251130130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130130000 +0000" stop="20251130140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130140000 +0000" stop="20251130150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251130150000 +0000" stop="20251130160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="Sportsnet Pacific" start="20251129160000 +0000" stop="20251129170000 +0000">
     <title lang="eng">Sportsnet Central</title>
