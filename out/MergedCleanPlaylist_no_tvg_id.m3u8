@@ -95,8 +95,8 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
-https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-name="TNT Eastern Feed" tvg-logo="None" group-title="Live",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
