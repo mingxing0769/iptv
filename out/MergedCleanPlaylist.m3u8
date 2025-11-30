@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="https://tvpass.org/epg.xml"
 
-#EXTGRP:Argentina
-#EXTINF:-1 tvg-id="None" tvg-name="TNT Sports Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6XTxBguw3sWNrLEPRO_eKRBvdu4FJ4sBx8FPww_e5w&s" group-title="Argentina",TNT Sports Premium
-http://38.250.127.17:9800/play/a06g/index.m3u8
-
 #EXTGRP:Australia
 #EXTINF:-1 tvg-id="None" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png" group-title="Australia",ABC News
 https://c.mjh.nz/abc-news.m3u8
@@ -33,8 +29,6 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60678
 http://181.78.4.250:8098/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Series.br" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-series-br.png" group-title="Brazil",TNT Series
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60668
-#EXTINF:-1 tvg-id="None" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-series-br.png" group-title="Brazil",TNT Series
-http://181.78.4.250:8098/play/a06l/index.m3u8
 
 #EXTGRP:Canada
 #EXTINF:-1 tvg-id="None" tvg-name="beIN Sports Canada" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BeINSports2017.png/revision/latest?cb=20170102171935" group-title="Canada",beIN Sports Canada
@@ -49,6 +43,8 @@ http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
 #EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada",Sportsnet West
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
 
 #EXTGRP:General
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-name="CCTV-4 America (1080p)" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
@@ -79,8 +75,6 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 #EXTGRP:Latin America
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN
 http://201.230.121.186:8000/play/a0fi/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="ESPN 2" tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp" group-title="Latin America",ESPN 2
-http://38.250.127.17:9800/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 3" tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp" group-title="Latin America",ESPN 3
 http://201.230.121.186:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 4" tvg-logo="https://telepez.github.io/imagenes/ESPN4.webp" group-title="Latin America",ESPN 4
@@ -91,14 +85,6 @@ http://38.250.127.17:9800/play/a06f/index.m3u8
 http://38.250.127.17:9800/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Latin America",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
-http://38.250.127.17:9800/play/a05x/index.m3u8
-
-#EXTGRP:Live
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
-https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
-https://fl1.moveonjoy.com/TSN_4/index.m3u8
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -199,6 +185,8 @@ https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
@@ -231,8 +219,6 @@ https://a1xs.vip/2000003
 https://a1xs.vip/2000009
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="United Kingdom",Sky Sports Main Event
 https://a1xs.vip/2000001
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="United Kingdom",Sky Sports Mix
-https://a1xs.vip/2000008
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="United Kingdom",Sky Sports News
 https://a1xs.vip/2000004
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="United Kingdom",Sky Sports Racing
@@ -253,5 +239,7 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 
 #EXTGRP:United States
+#EXTINF:-1 tvg-id="None" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-id="None" tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
