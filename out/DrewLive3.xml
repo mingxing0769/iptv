@@ -12,9 +12,6 @@
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
   </channel>
-  <channel id="Sportsnet Pittsburgh">
-    <display-name>Sportsnet Pittsburgh</display-name>
-  </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
@@ -230,90 +227,6 @@
   </programme>
   <programme channel="Sportsnet Pacific" start="20251130150000 +0000" stop="20251130160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129153000 +0000" stop="20251129160000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129160000 +0000" stop="20251129170000 +0000">
-    <title lang="eng">Mountaineer GameDay</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129170000 +0000" stop="20251129190000 +0000">
-    <title lang="eng">College Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129190000 +0000" stop="20251129213000 +0000">
-    <title lang="eng">College Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129213000 +0000" stop="20251129220000 +0000">
-    <title lang="eng">Steel City Chronicles</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129220000 +0000" stop="20251129223000 +0000">
-    <title lang="eng">She's in the Game</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129223000 +0000" stop="20251129230000 +0000">
-    <title lang="eng">Inside Penguins Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129230000 +0000" stop="20251129233000 +0000">
-    <title lang="eng">Penguins Tonight</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251129233000 +0000" stop="20251130000000 +0000">
-    <title lang="eng">Penguins Faceoff Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130000000 +0000" stop="20251130023000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130023000 +0000" stop="20251130030000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130030000 +0000" stop="20251130033000 +0000">
-    <title lang="eng">Penguins Postgame Final</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130033000 +0000" stop="20251130040000 +0000">
-    <title lang="eng">Inside Penguins Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130040000 +0000" stop="20251130060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130040000 +0000" stop="20251130060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130060000 +0000" stop="20251130063000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130063000 +0000" stop="20251130070000 +0000">
-    <title lang="eng">Penguins Postgame Final</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130070000 +0000" stop="20251130073000 +0000">
-    <title lang="eng">Steel City Chronicles</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130073000 +0000" stop="20251130080000 +0000">
-    <title lang="eng">Fair Territory with Ken Rosenthal</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130080000 +0000" stop="20251130100000 +0000">
-    <title lang="eng">College Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130100000 +0000" stop="20251130120000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130120000 +0000" stop="20251130123000 +0000">
-    <title lang="eng">Friends in Wild Places</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130123000 +0000" stop="20251130130000 +0000">
-    <title lang="eng">Friends in Wild Places</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130130000 +0000" stop="20251130133000 +0000">
-    <title lang="eng">The Aging Brain</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130133000 +0000" stop="20251130140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130140000 +0000" stop="20251130143000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130143000 +0000" stop="20251130150000 +0000">
-    <title lang="eng">The Aging Brain</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130150000 +0000" stop="20251130153000 +0000">
-    <title lang="eng">Paid Programming</title>
   </programme>
   <programme channel="Sportsnet West" start="20251129160000 +0000" stop="20251129170000 +0000">
     <title lang="eng">Sportsnet Central</title>
