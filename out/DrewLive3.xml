@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="BBC News North America HD">
+    <display-name>BBC News North America HD</display-name>
+  </channel>
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
@@ -21,6 +24,138 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="BBC News North America HD" start="20251129153000 +0000" stop="20251129160000 +0000">
+    <title lang="eng">Racing On the Edge</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129160000 +0000" stop="20251129163000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129163000 +0000" stop="20251129170000 +0000">
+    <title lang="eng">Ukrainecast</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129170000 +0000" stop="20251129180000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129180000 +0000" stop="20251129183000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129183000 +0000" stop="20251129190000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129190000 +0000" stop="20251129193000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129193000 +0000" stop="20251129200000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129200000 +0000" stop="20251129203000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129203000 +0000" stop="20251129210000 +0000">
+    <title lang="eng">AI Decoded</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129210000 +0000" stop="20251129220000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129220000 +0000" stop="20251129230000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129230000 +0000" stop="20251129233000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251129233000 +0000" stop="20251130000000 +0000">
+    <title lang="eng">Talking Business</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130000000 +0000" stop="20251130003000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130003000 +0000" stop="20251130010000 +0000">
+    <title lang="eng">This Cultural Life</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130010000 +0000" stop="20251130013000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130013000 +0000" stop="20251130020000 +0000">
+    <title lang="eng">Syria to Omagh: Lost &amp; Missing</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130020000 +0000" stop="20251130023000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130023000 +0000" stop="20251130030000 +0000">
+    <title lang="eng">AI Decoded</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130030000 +0000" stop="20251130033000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130033000 +0000" stop="20251130040000 +0000">
+    <title lang="eng">Global Eye</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130040000 +0000" stop="20251130043000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130043000 +0000" stop="20251130050000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130050000 +0000" stop="20251130053000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130053000 +0000" stop="20251130060000 +0000">
+    <title lang="eng">Talking Business</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130060000 +0000" stop="20251130063000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130063000 +0000" stop="20251130070000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130070000 +0000" stop="20251130073000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130073000 +0000" stop="20251130080000 +0000">
+    <title lang="eng">This Cultural Life</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130080000 +0000" stop="20251130083000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130083000 +0000" stop="20251130090000 +0000">
+    <title lang="eng">Syria to Omagh: Lost &amp; Missing</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130090000 +0000" stop="20251130100000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130100000 +0000" stop="20251130103000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130103000 +0000" stop="20251130110000 +0000">
+    <title lang="eng">The Media Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130110000 +0000" stop="20251130113000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130113000 +0000" stop="20251130120000 +0000">
+    <title lang="eng">The President's Path</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130120000 +0000" stop="20251130123000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130123000 +0000" stop="20251130130000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130130000 +0000" stop="20251130133000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130133000 +0000" stop="20251130140000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130140000 +0000" stop="20251130143000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130143000 +0000" stop="20251130150000 +0000">
+    <title lang="eng">The Firing Line</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251130150000 +0000" stop="20251130153000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
   <programme channel="ESPN" start="20251129170000 +0000" stop="20251129200000 +0000">
     <title lang="eng">College Football</title>
   </programme>
