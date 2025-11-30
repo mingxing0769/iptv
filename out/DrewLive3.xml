@@ -15,6 +15,9 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -323,6 +326,69 @@
   </programme>
   <programme channel="Sportsnet West" start="20251201150000 +0000" stop="20251201160000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TSN2" start="20251130170000 +0000" stop="20251130193000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN2" start="20251130193000 +0000" stop="20251130200000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251130200000 +0000" stop="20251130203000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251130203000 +0000" stop="20251130223000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="TSN2" start="20251130223000 +0000" stop="20251130230000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251130230000 +0000" stop="20251130233000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251130233000 +0000" stop="20251201000000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251201000000 +0000" stop="20251201020000 +0000">
+    <title lang="eng">Formula 1 Racing</title>
+  </programme>
+  <programme channel="TSN2" start="20251201020000 +0000" stop="20251201023000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251201023000 +0000" stop="20251201030000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251201030000 +0000" stop="20251201040000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TSN2" start="20251201040000 +0000" stop="20251201043000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN2" start="20251201043000 +0000" stop="20251201050000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN2" start="20251201050000 +0000" stop="20251201053000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251201053000 +0000" stop="20251201080000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN2" start="20251201080000 +0000" stop="20251201083000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251201083000 +0000" stop="20251201110000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN2" start="20251201110000 +0000" stop="20251201113000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251201113000 +0000" stop="20251201140000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN2" start="20251201140000 +0000" stop="20251201143000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251201143000 +0000" stop="20251201170000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
   <programme channel="TSN4" start="20251130155500 +0000" stop="20251130180000 +0000">
     <title lang="eng">Formula 1 Racing</title>
