@@ -9,9 +9,6 @@
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
-  <channel id="Sportsnet Ontario">
-    <display-name>Sportsnet Ontario</display-name>
-  </channel>
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
   </channel>
@@ -167,69 +164,6 @@
   </programme>
   <programme channel="Sportsnet One" start="20251130150000 +0000" stop="20251130170000 +0000">
     <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251129160000 +0000" stop="20251129170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251129170000 +0000" stop="20251129193000 +0000">
-    <title lang="eng">PWHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251129193000 +0000" stop="20251129200000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251129200000 +0000" stop="20251129203000 +0000">
-    <title lang="eng">Misplays of the Month</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251129203000 +0000" stop="20251129210000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251129210000 +0000" stop="20251129233000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251129233000 +0000" stop="20251130000000 +0000">
-    <title lang="eng">Hockey Central Saturday</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130000000 +0000" stop="20251130030000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130030000 +0000" stop="20251130060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130030000 +0000" stop="20251130060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130060000 +0000" stop="20251130063000 +0000">
-    <title lang="eng">After Hours</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130063000 +0000" stop="20251130070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130070000 +0000" stop="20251130080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130080000 +0000" stop="20251130090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130090000 +0000" stop="20251130100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130100000 +0000" stop="20251130110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130110000 +0000" stop="20251130120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130120000 +0000" stop="20251130130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130130000 +0000" stop="20251130140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130140000 +0000" stop="20251130150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251130150000 +0000" stop="20251130160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="Sportsnet Pacific" start="20251129160000 +0000" stop="20251129170000 +0000">
     <title lang="eng">Sportsnet Central</title>
