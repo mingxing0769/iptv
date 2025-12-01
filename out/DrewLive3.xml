@@ -3,8 +3,8 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
-  <channel id="ESPN U">
-    <display-name>ESPN U</display-name>
+  <channel id="ESPN Deportes">
+    <display-name>ESPN Deportes</display-name>
   </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
@@ -18,8 +18,8 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
-  <channel id="TSN2">
-    <display-name>TSN2</display-name>
+  <channel id="TSN3">
+    <display-name>TSN3</display-name>
   </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
@@ -81,29 +81,59 @@
   <programme channel="ESPN" start="20251201150000 +0000" stop="20251201170000 +0000">
     <title lang="eng">First Take</title>
   </programme>
-  <programme channel="ESPN U" start="20251130170000 +0000" stop="20251130200000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN Deportes" start="20251130171500 +0000" stop="20251130193000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
   </programme>
-  <programme channel="ESPN U" start="20251130200000 +0000" stop="20251130230000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN Deportes" start="20251130193000 +0000" stop="20251130220000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
   </programme>
-  <programme channel="ESPN U" start="20251130230000 +0000" stop="20251201020000 +0000">
-    <title lang="eng">NFL Football</title>
+  <programme channel="ESPN Deportes" start="20251130220000 +0000" stop="20251130230000 +0000">
+    <title lang="eng">ESPN FC</title>
   </programme>
-  <programme channel="ESPN U" start="20251201020000 +0000" stop="20251201050000 +0000">
-    <title lang="eng">NFL Football</title>
+  <programme channel="ESPN Deportes" start="20251130230000 +0000" stop="20251201000000 +0000">
+    <title lang="eng">SportsCenter</title>
   </programme>
-  <programme channel="ESPN U" start="20251201050000 +0000" stop="20251201080000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN Deportes" start="20251201000000 +0000" stop="20251201010000 +0000">
+    <title lang="eng">Fútbol picante</title>
   </programme>
-  <programme channel="ESPN U" start="20251201080000 +0000" stop="20251201110000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN Deportes" start="20251201010000 +0000" stop="20251201030000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
   </programme>
-  <programme channel="ESPN U" start="20251201110000 +0000" stop="20251201150000 +0000">
-    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
+  <programme channel="ESPN Deportes" start="20251201030000 +0000" stop="20251201040000 +0000">
+    <title lang="eng">Fútbol picante</title>
   </programme>
-  <programme channel="ESPN U" start="20251201150000 +0000" stop="20251201180000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="ESPN Deportes" start="20251201040000 +0000" stop="20251201050000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201050000 +0000" stop="20251201060000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201060000 +0000" stop="20251201070000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201070000 +0000" stop="20251201080000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201080000 +0000" stop="20251201090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201090000 +0000" stop="20251201100000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201100000 +0000" stop="20251201110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201110000 +0000" stop="20251201120000 +0000">
+    <title lang="eng">Fútbol picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201120000 +0000" stop="20251201130000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201130000 +0000" stop="20251201150000 +0000">
+    <title lang="eng">Automovilismo Fórmula 1</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251201150000 +0000" stop="20251201160000 +0000">
+    <title lang="eng">Fútbol picante</title>
   </programme>
   <programme channel="Fox Sports 1" start="20251130160000 +0000" stop="20251130170000 +0000">
     <title lang="eng">Nitro Circus</title>
@@ -354,68 +384,68 @@
   <programme channel="Sportsnet West" start="20251201150000 +0000" stop="20251201160000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="TSN2" start="20251130170000 +0000" stop="20251130193000 +0000">
-    <title lang="eng">NBA Basketball</title>
+  <programme channel="TSN3" start="20251130160000 +0000" stop="20251130170000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251130193000 +0000" stop="20251130200000 +0000">
+  <programme channel="TSN3" start="20251130170000 +0000" stop="20251130200000 +0000">
+    <title lang="eng">Canadian Curling Trials</title>
+  </programme>
+  <programme channel="TSN3" start="20251130200000 +0000" stop="20251130210000 +0000">
+    <title lang="eng">NFL Football</title>
+  </programme>
+  <programme channel="TSN3" start="20251130210000 +0000" stop="20251130213000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20251130200000 +0000" stop="20251130203000 +0000">
+  <programme channel="TSN3" start="20251130213000 +0000" stop="20251130220000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20251130203000 +0000" stop="20251130223000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="TSN2" start="20251130223000 +0000" stop="20251130230000 +0000">
+  <programme channel="TSN3" start="20251130220000 +0000" stop="20251130223000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20251130230000 +0000" stop="20251130233000 +0000">
+  <programme channel="TSN3" start="20251130223000 +0000" stop="20251130230000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20251130233000 +0000" stop="20251201000000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="TSN3" start="20251130230000 +0000" stop="20251201020000 +0000">
+    <title lang="eng">Canadian Curling Trials</title>
   </programme>
-  <programme channel="TSN2" start="20251201000000 +0000" stop="20251201020000 +0000">
-    <title lang="eng">Formula 1 Racing</title>
+  <programme channel="TSN3" start="20251201020000 +0000" stop="20251201043000 +0000">
+    <title lang="eng">NFL Football</title>
   </programme>
-  <programme channel="TSN2" start="20251201020000 +0000" stop="20251201023000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="TSN3" start="20251201043000 +0000" stop="20251201060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
   </programme>
-  <programme channel="TSN2" start="20251201023000 +0000" stop="20251201030000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="TSN3" start="20251201060000 +0000" stop="20251201070000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201030000 +0000" stop="20251201040000 +0000">
-    <title lang="eng">Movie</title>
+  <programme channel="TSN3" start="20251201070000 +0000" stop="20251201080000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201040000 +0000" stop="20251201043000 +0000">
-    <title lang="eng">Breaking Down Barriers</title>
+  <programme channel="TSN3" start="20251201080000 +0000" stop="20251201083000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201043000 +0000" stop="20251201050000 +0000">
-    <title lang="eng">Breaking Down Barriers</title>
+  <programme channel="TSN3" start="20251201083000 +0000" stop="20251201093000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201050000 +0000" stop="20251201053000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="TSN3" start="20251201093000 +0000" stop="20251201103000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201053000 +0000" stop="20251201080000 +0000">
-    <title lang="eng">NBA Basketball</title>
+  <programme channel="TSN3" start="20251201103000 +0000" stop="20251201113000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201080000 +0000" stop="20251201083000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="TSN3" start="20251201103000 +0000" stop="20251201113000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201083000 +0000" stop="20251201110000 +0000">
-    <title lang="eng">NBA Basketball</title>
+  <programme channel="TSN3" start="20251201113000 +0000" stop="20251201123000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201110000 +0000" stop="20251201113000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="TSN3" start="20251201123000 +0000" stop="20251201133000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201113000 +0000" stop="20251201140000 +0000">
-    <title lang="eng">NBA Basketball</title>
+  <programme channel="TSN3" start="20251201133000 +0000" stop="20251201143000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN2" start="20251201140000 +0000" stop="20251201143000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN2" start="20251201143000 +0000" stop="20251201170000 +0000">
-    <title lang="eng">NBA Basketball</title>
+  <programme channel="TSN3" start="20251201143000 +0000" stop="20251201153000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN4" start="20251130155500 +0000" stop="20251130180000 +0000">
     <title lang="eng">Formula 1 Racing</title>
