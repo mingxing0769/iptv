@@ -11,6 +11,10 @@ https://c.mjh.nz/abc-news.m3u8
 https://a1xs.vip/700001
 #EXTINF:-1 tvg-name="Fox Sports 502" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="Australia",Fox Sports 502
 https://a1xs.vip/700002
+#EXTINF:-1 tvg-name="Fox Sports 503" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="Australia",Fox Sports 503
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-name="Fox Sports 504" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Australia",Fox Sports 504
+https://a1xs.vip/700004
 #EXTINF:-1 tvg-name="Fox Sports 505" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Australia",Fox Sports 505
 https://a1xs.vip/700005
 #EXTINF:-1 tvg-name="Fox Sports 506" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506
@@ -93,10 +97,10 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="None" group-title="Live",Fox Sports 2
-https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -157,8 +161,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV+ 2 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox News Channel (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p)
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Radio (720p)" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-name="SABC News (720p) [Geo-blocked]" tvg-logo="https://i.postimg.cc/13JtFJf9/sabcnews.png" group-title="News",SABC News (720p) [Geo-blocked]
@@ -209,6 +211,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://livetv-fa.tubi.video/fox-sports2/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="None" group-title="Undefined",Fox Sports 1
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
@@ -217,6 +221,10 @@ https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Spo
 #EXTGRP:United Kingdom
 #EXTINF:-1 tvg-name="Sky Sports Action/Sky Sports NFL" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="United Kingdom",Sky Sports Action/Sky Sports NFL
 https://a1xs.vip/2000011
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="United Kingdom",Sky Sports Cricket
+https://a1xs.vip/2000006
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="United Kingdom",Sky Sports F1
+https://a1xs.vip/2000005
 #EXTINF:-1 tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="United Kingdom",Sky Sports F1 UHD
 https://a1xs.vip/2000016
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="United Kingdom",Sky Sports Football
@@ -225,6 +233,8 @@ https://a1xs.vip/2000003
 https://a1xs.vip/2000009
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="United Kingdom",Sky Sports Main Event
 https://a1xs.vip/2000001
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="United Kingdom",Sky Sports Mix
+https://a1xs.vip/2000008
 #EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="United Kingdom",Sky Sports News
 https://a1xs.vip/2000004
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="United Kingdom",Sky Sports Premier League
@@ -233,6 +243,8 @@ https://a1xs.vip/2000002
 https://a1xs.vip/2000010
 #EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="United Kingdom",Sky Sports Tennis
 https://a1xs.vip/2000013
+#EXTINF:-1 tvg-name="Sky Sports+" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="United Kingdom",Sky Sports+
+https://a1xs.vip/2000012
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="United Kingdom",TNT Sports 1
 https://a1xs.vip/2000021
 #EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="United Kingdom",TNT Sports 2
