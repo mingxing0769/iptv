@@ -96,6 +96,12 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
+#EXTGRP:Live
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
 https://a1xs.vip/140001
@@ -215,6 +221,8 @@ https://tvpass.org/live/FoxSports2/hd
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 
 #EXTGRP:United Kingdom
+#EXTINF:-1 tvg-name="Sky Sports Action/Sky Sports NFL" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="United Kingdom",Sky Sports Action/Sky Sports NFL
+https://a1xs.vip/2000011
 #EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="United Kingdom",Sky Sports Cricket
 https://a1xs.vip/2000006
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="United Kingdom",Sky Sports F1
