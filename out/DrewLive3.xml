@@ -12,9 +12,6 @@
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
   </channel>
-  <channel id="Sportsnet Pittsburgh">
-    <display-name>Sportsnet Pittsburgh</display-name>
-  </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
@@ -251,87 +248,6 @@
   </programme>
   <programme channel="Sportsnet Pacific" start="20251201150000 +0000" stop="20251201160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130153000 +0000" stop="20251130160000 +0000">
-    <title lang="eng">The Aging Brain</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130160000 +0000" stop="20251130180000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130180000 +0000" stop="20251130200000 +0000">
-    <title lang="eng">College Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130200000 +0000" stop="20251130220000 +0000">
-    <title lang="eng">College Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251130220000 +0000" stop="20251201000000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201000000 +0000" stop="20251201020000 +0000">
-    <title lang="eng">TNA Wrestling</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201020000 +0000" stop="20251201040000 +0000">
-    <title lang="eng">OVW Wrestling</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201040000 +0000" stop="20251201050000 +0000">
-    <title lang="eng">United Fight Alliance</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201050000 +0000" stop="20251201053000 +0000">
-    <title lang="eng">Sport Fishing TV</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201053000 +0000" stop="20251201060000 +0000">
-    <title lang="eng">Tejas Deer Camp</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201060000 +0000" stop="20251201063000 +0000">
-    <title lang="eng">Sail Kings</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201063000 +0000" stop="20251201070000 +0000">
-    <title lang="eng">Real Tree TV</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201070000 +0000" stop="20251201073000 +0000">
-    <title lang="eng">World Tennis With Harry Cicma</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201073000 +0000" stop="20251201080000 +0000">
-    <title lang="eng">World Tennis With Harry Cicma</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201080000 +0000" stop="20251201090000 +0000">
-    <title lang="eng">World Chase Tag</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201090000 +0000" stop="20251201100000 +0000">
-    <title lang="eng">World Chase Tag</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201100000 +0000" stop="20251201103000 +0000">
-    <title lang="eng">All Blacks in Their Own Words</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201103000 +0000" stop="20251201110000 +0000">
-    <title lang="eng">All Blacks in Their Own Words</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201110000 +0000" stop="20251201113000 +0000">
-    <title lang="eng">FIBA World Basketball</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201113000 +0000" stop="20251201120000 +0000">
-    <title lang="eng">Invincible</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201120000 +0000" stop="20251201123000 +0000">
-    <title lang="eng">The Short List</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201123000 +0000" stop="20251201130000 +0000">
-    <title lang="eng">The Iconic</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201130000 +0000" stop="20251201133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201133000 +0000" stop="20251201140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201140000 +0000" stop="20251201143000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201143000 +0000" stop="20251201150000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251201150000 +0000" stop="20251201153000 +0000">
-    <title lang="eng">Paid Programming</title>
   </programme>
   <programme channel="Sportsnet West" start="20251130160000 +0000" stop="20251130170000 +0000">
     <title lang="eng">Sportsnet Central</title>
