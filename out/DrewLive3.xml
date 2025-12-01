@@ -3,11 +3,11 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name>Fox Sports 2</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
@@ -81,72 +81,6 @@
   <programme channel="ESPN" start="20251202150000 +0000" stop="20251202170000 +0000">
     <title lang="eng">First Take</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20251201160000 +0000" stop="20251201170000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251201170000 +0000" stop="20251201180000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251201180000 +0000" stop="20251201190000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251201190000 +0000" stop="20251201195500 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251201195500 +0000" stop="20251201220000 +0000">
-    <title lang="eng">Fútbol LaLiga</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251201220000 +0000" stop="20251201230000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251201230000 +0000" stop="20251202000000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202000000 +0000" stop="20251202010000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202010000 +0000" stop="20251202041500 +0000">
-    <title lang="eng">Fútbol Americano NFL</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202041500 +0000" stop="20251202043000 +0000">
-    <title lang="eng">Monday Night Postgame</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202043000 +0000" stop="20251202050000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202050000 +0000" stop="20251202060000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202060000 +0000" stop="20251202070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202070000 +0000" stop="20251202080000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202080000 +0000" stop="20251202090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202090000 +0000" stop="20251202100000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202100000 +0000" stop="20251202110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202110000 +0000" stop="20251202120000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202120000 +0000" stop="20251202130000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202130000 +0000" stop="20251202140000 +0000">
-    <title lang="eng">LaLiga al día</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202140000 +0000" stop="20251202150000 +0000">
-    <title lang="eng">Generación F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251202150000 +0000" stop="20251202160000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251201170000 +0000" stop="20251201200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -194,6 +128,57 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251202150000 +0000" stop="20251202170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251201160000 +0000" stop="20251201190000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251201190000 +0000" stop="20251201220000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251201220000 +0000" stop="20251202010000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202010000 +0000" stop="20251202013000 +0000">
+    <title lang="eng">The Joel Klatt Show: Big Noon Conversations</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202013000 +0000" stop="20251202020000 +0000">
+    <title lang="eng">STIHL Timbersports</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202020000 +0000" stop="20251202030000 +0000">
+    <title lang="eng">The Climbing Post</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202030000 +0000" stop="20251202040000 +0000">
+    <title lang="eng">The Climbing Post</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202040000 +0000" stop="20251202050000 +0000">
+    <title lang="eng">Fox Sports FIFA World Cup 2026 Draw Preview</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202050000 +0000" stop="20251202070000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202070000 +0000" stop="20251202090000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202090000 +0000" stop="20251202100000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202100000 +0000" stop="20251202110000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202110000 +0000" stop="20251202120000 +0000">
+    <title lang="eng">Bassmaster: the Cast</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202120000 +0000" stop="20251202130000 +0000">
+    <title lang="eng">Bassmaster: the Cast</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202130000 +0000" stop="20251202133000 +0000">
+    <title lang="eng">Bassmaster: the Cast</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202133000 +0000" stop="20251202140000 +0000">
+    <title lang="eng">NHRA Sportsman Series</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20251202140000 +0000" stop="20251202160000 +0000">
+    <title lang="eng">NHRA Drag Racing</title>
   </programme>
   <programme channel="Sportsnet One" start="20251201170000 +0000" stop="20251201190000 +0000">
     <title lang="eng">NHL Hockey</title>
