@@ -3,8 +3,14 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
+  <channel id="Fox News">
+    <display-name>Fox News</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
+  </channel>
+  <channel id="Spectrum SportsNet LA">
+    <display-name>Spectrum SportsNet LA</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
@@ -75,6 +81,78 @@
   <programme channel="ESPN" start="20251201150000 +0000" stop="20251201170000 +0000">
     <title lang="eng">First Take</title>
   </programme>
+  <programme channel="Fox News" start="20251130160000 +0000" stop="20251130170000 +0000">
+    <title lang="eng">The Sunday Briefing</title>
+  </programme>
+  <programme channel="Fox News" start="20251130170000 +0000" stop="20251130180000 +0000">
+    <title lang="eng">Fox News Live</title>
+  </programme>
+  <programme channel="Fox News" start="20251130180000 +0000" stop="20251130190000 +0000">
+    <title lang="eng">Fox News Live</title>
+  </programme>
+  <programme channel="Fox News" start="20251130190000 +0000" stop="20251130200000 +0000">
+    <title lang="eng">FOX News Sunday</title>
+  </programme>
+  <programme channel="Fox News" start="20251130200000 +0000" stop="20251130210000 +0000">
+    <title lang="eng">Fox Report With Jon Scott</title>
+  </programme>
+  <programme channel="Fox News" start="20251130210000 +0000" stop="20251130220000 +0000">
+    <title lang="eng">Fox Report With Jon Scott</title>
+  </programme>
+  <programme channel="Fox News" start="20251130220000 +0000" stop="20251130230000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20251130230000 +0000" stop="20251201000000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20251201000000 +0000" stop="20251201010000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20251201010000 +0000" stop="20251201020000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20251201020000 +0000" stop="20251201030000 +0000">
+    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
+  </programme>
+  <programme channel="Fox News" start="20251201030000 +0000" stop="20251201040000 +0000">
+    <title lang="eng">One Nation With Brian Kilmeade</title>
+  </programme>
+  <programme channel="Fox News" start="20251201040000 +0000" stop="20251201050000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20251201050000 +0000" stop="20251201060000 +0000">
+    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
+  </programme>
+  <programme channel="Fox News" start="20251201060000 +0000" stop="20251201070000 +0000">
+    <title lang="eng">One Nation With Brian Kilmeade</title>
+  </programme>
+  <programme channel="Fox News" start="20251201070000 +0000" stop="20251201080000 +0000">
+    <title lang="eng">FOX News Sunday</title>
+  </programme>
+  <programme channel="Fox News" start="20251201080000 +0000" stop="20251201090000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20251201090000 +0000" stop="20251201100000 +0000">
+    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
+  </programme>
+  <programme channel="Fox News" start="20251201100000 +0000" stop="20251201110000 +0000">
+    <title lang="eng">FOX &amp; Friends First</title>
+  </programme>
+  <programme channel="Fox News" start="20251201110000 +0000" stop="20251201120000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="Fox News" start="20251201120000 +0000" stop="20251201130000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="Fox News" start="20251201130000 +0000" stop="20251201140000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="Fox News" start="20251201140000 +0000" stop="20251201150000 +0000">
+    <title lang="eng">America's Newsroom</title>
+  </programme>
+  <programme channel="Fox News" start="20251201150000 +0000" stop="20251201160000 +0000">
+    <title lang="eng">America's Newsroom</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20251130160000 +0000" stop="20251130170000 +0000">
     <title lang="eng">Nitro Circus</title>
   </programme>
@@ -116,6 +194,48 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251201150000 +0000" stop="20251201170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130173000 +0000" stop="20251130210000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130210000 +0000" stop="20251130233000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251130233000 +0000" stop="20251201023000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201023000 +0000" stop="20251201053000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201053000 +0000" stop="20251201083000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201083000 +0000" stop="20251201113000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201083000 +0000" stop="20251201113000 +0000">
+    <title lang="eng">Timeless Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201113000 +0000" stop="20251201120000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201120000 +0000" stop="20251201123000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201123000 +0000" stop="20251201130000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201130000 +0000" stop="20251201133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201133000 +0000" stop="20251201140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201140000 +0000" stop="20251201150000 +0000">
+    <title lang="eng">Dodgers Squeeze Play</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20251201150000 +0000" stop="20251201160000 +0000">
+    <title lang="eng">Dodgers Squeeze Play</title>
   </programme>
   <programme channel="Sportsnet One" start="20251130170000 +0000" stop="20251130173000 +0000">
     <title lang="eng">NHL's Best</title>
