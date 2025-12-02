@@ -35,6 +35,8 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60678
 http://181.78.4.250:8098/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Series.br" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-series-br.png" group-title="Brazil",TNT Series
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60668
+#EXTINF:-1 tvg-id="None" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-series-br.png" group-title="Brazil",TNT Series
+http://181.78.4.250:8098/play/a06l/index.m3u8
 
 #EXTGRP:Canada
 #EXTINF:-1 tvg-id="None" tvg-name="beIN Sports Canada" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BeINSports2017.png/revision/latest?cb=20170102171935" group-title="Canada",beIN Sports Canada
@@ -91,10 +93,8 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" tvg-logo="None" group-title="Live",ESPN2
+https://tvpass.org/live/ESPN2/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -205,6 +205,8 @@ https://fl1.moveonjoy.com/TSN_5/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports (720p)" tvg-logo="None" group-title="Undefined",Fox Sports (720p)
 https://livetv-fa.tubi.video/fox-sports2/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Undefined",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
@@ -253,5 +255,7 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 
 #EXTGRP:United States
+#EXTINF:-1 tvg-id="None" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-id="None" tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
