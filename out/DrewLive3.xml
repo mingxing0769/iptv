@@ -15,6 +15,9 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
+  <channel id="TSN3">
+    <display-name>TSN3</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -314,6 +317,78 @@
   </programme>
   <programme channel="Sportsnet West" start="20251202150000 +0000" stop="20251202160000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TSN3" start="20251201153000 +0000" stop="20251201163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251201163000 +0000" stop="20251201173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251201173000 +0000" stop="20251201183000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251201183000 +0000" stop="20251201190000 +0000">
+    <title lang="eng">2025 Motorcycle Experience</title>
+  </programme>
+  <programme channel="TSN3" start="20251201190000 +0000" stop="20251201193000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20251201193000 +0000" stop="20251201200000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20251201200000 +0000" stop="20251201220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN3" start="20251201220000 +0000" stop="20251201223000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20251201223000 +0000" stop="20251201230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN3" start="20251201230000 +0000" stop="20251202003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202003000 +0000" stop="20251202011500 +0000">
+    <title lang="eng">NFL Monday Night Countdown</title>
+  </programme>
+  <programme channel="TSN3" start="20251202011500 +0000" stop="20251202043000 +0000">
+    <title lang="eng">NFL Football</title>
+  </programme>
+  <programme channel="TSN3" start="20251202043000 +0000" stop="20251202060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN3" start="20251202060000 +0000" stop="20251202070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202070000 +0000" stop="20251202080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202080000 +0000" stop="20251202083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202083000 +0000" stop="20251202093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202093000 +0000" stop="20251202103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202103000 +0000" stop="20251202113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202103000 +0000" stop="20251202113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202113000 +0000" stop="20251202123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202123000 +0000" stop="20251202133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202133000 +0000" stop="20251202143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20251202143000 +0000" stop="20251202153000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN4" start="20251201160000 +0000" stop="20251201170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
