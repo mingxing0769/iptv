@@ -63,6 +63,8 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 https://a1xs.vip/120002
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport Premier League" tvg-logo="https://i.imgur.com/9QfVskT.png" group-title="Germany",Sky Sport Premier League
 https://a1xs.vip/120004
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="Germany",Sky Sport Top Event
+https://a1xs.vip/120003
 
 #EXTGRP:International
 #EXTINF:-1 tvg-id="None" tvg-name="BBC News" tvg-logo="None" group-title="International",BBC News
@@ -93,8 +95,8 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" tvg-logo="None" group-title="Live",ESPN News
-https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
+https://tvpass.org/live/ESPNU/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -155,6 +157,8 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-name="CCTV+ 2 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-name="Fox News Channel (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p)
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" tvg-name="Fox News Radio (720p)" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-name="SABC News (720p) [Geo-blocked]" tvg-logo="https://i.postimg.cc/13JtFJf9/sabcnews.png" group-title="News",SABC News (720p) [Geo-blocked]
@@ -253,7 +257,5 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 
 #EXTGRP:United States
-#EXTINF:-1 tvg-id="None" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-id="None" tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
