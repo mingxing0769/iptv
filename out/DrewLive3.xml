@@ -6,8 +6,8 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="SNY Sportsnet New York Comcast">
-    <display-name>SNY Sportsnet New York Comcast</display-name>
+  <channel id="Spectrum Sportsnet Lakers">
+    <display-name>Spectrum Sportsnet Lakers</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
@@ -141,95 +141,80 @@
   <programme channel="Fox Sports 1" start="20251203150000 +0000" stop="20251203170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202160000 +0000" stop="20251202163000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251202170000 +0000" stop="20251202190000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202163000 +0000" stop="20251202170000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251202190000 +0000" stop="20251202200000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202170000 +0000" stop="20251202173000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251202200000 +0000" stop="20251202220000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202173000 +0000" stop="20251202180000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251202220000 +0000" stop="20251202230000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202180000 +0000" stop="20251202183000 +0000">
-    <title lang="eng">Amazin' Finishes</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251202230000 +0000" stop="20251203000000 +0000">
+    <title lang="eng">No Gamble, No Future</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202183000 +0000" stop="20251202190000 +0000">
-    <title lang="eng">Amazin' Finishes</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203000000 +0000" stop="20251203010000 +0000">
+    <title lang="eng">Super High Roller Bowl</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202190000 +0000" stop="20251202210000 +0000">
-    <title lang="eng">Women's College Basketball</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203010000 +0000" stop="20251203013000 +0000">
+    <title lang="eng">Backstage: Lakers</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202210000 +0000" stop="20251202230000 +0000">
-    <title lang="eng">Evan &amp; Tiki</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203013000 +0000" stop="20251203023000 +0000">
+    <title lang="eng">Lakers Compacto</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202230000 +0000" stop="20251202233000 +0000">
-    <title lang="eng">Baseball Night in N.Y.</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203023000 +0000" stop="20251203030000 +0000">
+    <title lang="eng">Lakeshow</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202233000 +0000" stop="20251203023000 +0000">
-    <title lang="eng">Mets Classics</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203030000 +0000" stop="20251203040000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203023000 +0000" stop="20251203030000 +0000">
-    <title lang="eng">Amazin' Finishes</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203040000 +0000" stop="20251203043000 +0000">
+    <title lang="eng">Lakeshow</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203030000 +0000" stop="20251203040000 +0000">
-    <title lang="eng">Gary, Keith &amp; Ron 18</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203043000 +0000" stop="20251203053000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203040000 +0000" stop="20251203043000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203053000 +0000" stop="20251203073000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203043000 +0000" stop="20251203050000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203073000 +0000" stop="20251203080000 +0000">
+    <title lang="eng">Lakeshow</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203050000 +0000" stop="20251203053000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203080000 +0000" stop="20251203090000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203053000 +0000" stop="20251203060000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203090000 +0000" stop="20251203100000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203060000 +0000" stop="20251203063000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203100000 +0000" stop="20251203103000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203063000 +0000" stop="20251203070000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203103000 +0000" stop="20251203110000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203070000 +0000" stop="20251203080000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203110000 +0000" stop="20251203113000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203080000 +0000" stop="20251203090000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203113000 +0000" stop="20251203120000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203090000 +0000" stop="20251203100000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203120000 +0000" stop="20251203123000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203100000 +0000" stop="20251203110000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203123000 +0000" stop="20251203130000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203110000 +0000" stop="20251203113000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203130000 +0000" stop="20251203133000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203113000 +0000" stop="20251203120000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203133000 +0000" stop="20251203140000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203120000 +0000" stop="20251203123000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203123000 +0000" stop="20251203130000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203130000 +0000" stop="20251203133000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203133000 +0000" stop="20251203140000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203140000 +0000" stop="20251203150000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251203150000 +0000" stop="20251203160000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203140000 +0000" stop="20251203170000 +0000">
+    <title lang="eng">VSiN by the Books</title>
   </programme>
   <programme channel="Sportsnet One" start="20251202170000 +0000" stop="20251202190000 +0000">
     <title lang="eng">NBA Basketball</title>
