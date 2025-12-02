@@ -3,14 +3,8 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
-  <channel id="Fox News">
-    <display-name>Fox News</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
-  </channel>
-  <channel id="SNY Sportsnet New York Comcast">
-    <display-name>SNY Sportsnet New York Comcast</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
@@ -20,9 +14,6 @@
   </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
-  </channel>
-  <channel id="TSN3">
-    <display-name>TSN3</display-name>
   </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
@@ -87,78 +78,6 @@
   <programme channel="ESPN" start="20251202150000 +0000" stop="20251202170000 +0000">
     <title lang="eng">First Take</title>
   </programme>
-  <programme channel="Fox News" start="20251201160000 +0000" stop="20251201170000 +0000">
-    <title lang="eng">The Faulkner Focus</title>
-  </programme>
-  <programme channel="Fox News" start="20251201170000 +0000" stop="20251201180000 +0000">
-    <title lang="eng">Outnumbered</title>
-  </programme>
-  <programme channel="Fox News" start="20251201180000 +0000" stop="20251201190000 +0000">
-    <title lang="eng">America Reports</title>
-  </programme>
-  <programme channel="Fox News" start="20251201190000 +0000" stop="20251201200000 +0000">
-    <title lang="eng">America Reports</title>
-  </programme>
-  <programme channel="Fox News" start="20251201200000 +0000" stop="20251201210000 +0000">
-    <title lang="eng">The Story With Martha MacCallum</title>
-  </programme>
-  <programme channel="Fox News" start="20251201210000 +0000" stop="20251201220000 +0000">
-    <title lang="eng">The Will Cain Show</title>
-  </programme>
-  <programme channel="Fox News" start="20251201220000 +0000" stop="20251201230000 +0000">
-    <title lang="eng">The Five</title>
-  </programme>
-  <programme channel="Fox News" start="20251201230000 +0000" stop="20251202000000 +0000">
-    <title lang="eng">Special Report With Bret Baier</title>
-  </programme>
-  <programme channel="Fox News" start="20251202000000 +0000" stop="20251202010000 +0000">
-    <title lang="eng">The Ingraham Angle</title>
-  </programme>
-  <programme channel="Fox News" start="20251202010000 +0000" stop="20251202020000 +0000">
-    <title lang="eng">Jesse Watters Primetime</title>
-  </programme>
-  <programme channel="Fox News" start="20251202020000 +0000" stop="20251202030000 +0000">
-    <title lang="eng">Hannity</title>
-  </programme>
-  <programme channel="Fox News" start="20251202030000 +0000" stop="20251202040000 +0000">
-    <title lang="eng">Gutfeld!</title>
-  </programme>
-  <programme channel="Fox News" start="20251202040000 +0000" stop="20251202050000 +0000">
-    <title lang="eng">Fox News at Night</title>
-  </programme>
-  <programme channel="Fox News" start="20251202050000 +0000" stop="20251202060000 +0000">
-    <title lang="eng">The Five</title>
-  </programme>
-  <programme channel="Fox News" start="20251202060000 +0000" stop="20251202070000 +0000">
-    <title lang="eng">Jesse Watters Primetime</title>
-  </programme>
-  <programme channel="Fox News" start="20251202070000 +0000" stop="20251202080000 +0000">
-    <title lang="eng">Hannity</title>
-  </programme>
-  <programme channel="Fox News" start="20251202080000 +0000" stop="20251202090000 +0000">
-    <title lang="eng">Gutfeld!</title>
-  </programme>
-  <programme channel="Fox News" start="20251202090000 +0000" stop="20251202100000 +0000">
-    <title lang="eng">The Ingraham Angle</title>
-  </programme>
-  <programme channel="Fox News" start="20251202100000 +0000" stop="20251202110000 +0000">
-    <title lang="eng">FOX &amp; Friends First</title>
-  </programme>
-  <programme channel="Fox News" start="20251202110000 +0000" stop="20251202120000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20251202120000 +0000" stop="20251202130000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20251202130000 +0000" stop="20251202140000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20251202140000 +0000" stop="20251202150000 +0000">
-    <title lang="eng">America's Newsroom</title>
-  </programme>
-  <programme channel="Fox News" start="20251202150000 +0000" stop="20251202160000 +0000">
-    <title lang="eng">America's Newsroom</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251201170000 +0000" stop="20251201200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -206,87 +125,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251202150000 +0000" stop="20251202170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251201160000 +0000" stop="20251201163000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251201163000 +0000" stop="20251201170000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251201170000 +0000" stop="20251201173000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251201173000 +0000" stop="20251201180000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251201180000 +0000" stop="20251201210000 +0000">
-    <title lang="eng">Mets Classics</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251201210000 +0000" stop="20251201230000 +0000">
-    <title lang="eng">Evan &amp; Tiki</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251201230000 +0000" stop="20251201233000 +0000">
-    <title lang="eng">Baseball Night in N.Y.</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251201233000 +0000" stop="20251202013000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202013000 +0000" stop="20251202040000 +0000">
-    <title lang="eng">Mets Classics</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202040000 +0000" stop="20251202043000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202043000 +0000" stop="20251202050000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202050000 +0000" stop="20251202053000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202053000 +0000" stop="20251202060000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202060000 +0000" stop="20251202063000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202063000 +0000" stop="20251202070000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202070000 +0000" stop="20251202080000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202080000 +0000" stop="20251202090000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202090000 +0000" stop="20251202100000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202100000 +0000" stop="20251202110000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202110000 +0000" stop="20251202113000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202113000 +0000" stop="20251202120000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202120000 +0000" stop="20251202123000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202123000 +0000" stop="20251202130000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202130000 +0000" stop="20251202133000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202133000 +0000" stop="20251202140000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202140000 +0000" stop="20251202150000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20251202150000 +0000" stop="20251202160000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
   </programme>
   <programme channel="Sportsnet One" start="20251201170000 +0000" stop="20251201190000 +0000">
     <title lang="eng">NHL Hockey</title>
@@ -476,78 +314,6 @@
   </programme>
   <programme channel="Sportsnet West" start="20251202150000 +0000" stop="20251202160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="TSN3" start="20251201153000 +0000" stop="20251201163000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251201163000 +0000" stop="20251201173000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251201173000 +0000" stop="20251201183000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251201183000 +0000" stop="20251201190000 +0000">
-    <title lang="eng">2025 Motorcycle Experience</title>
-  </programme>
-  <programme channel="TSN3" start="20251201190000 +0000" stop="20251201193000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251201193000 +0000" stop="20251201200000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251201200000 +0000" stop="20251201220000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="TSN3" start="20251201220000 +0000" stop="20251201223000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20251201223000 +0000" stop="20251201230000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="TSN3" start="20251201230000 +0000" stop="20251202003000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202003000 +0000" stop="20251202011500 +0000">
-    <title lang="eng">NFL Monday Night Countdown</title>
-  </programme>
-  <programme channel="TSN3" start="20251202011500 +0000" stop="20251202043000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN3" start="20251202043000 +0000" stop="20251202060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN3" start="20251202060000 +0000" stop="20251202070000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202070000 +0000" stop="20251202080000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202080000 +0000" stop="20251202083000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202083000 +0000" stop="20251202093000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202093000 +0000" stop="20251202103000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202103000 +0000" stop="20251202113000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202103000 +0000" stop="20251202113000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202113000 +0000" stop="20251202123000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202123000 +0000" stop="20251202133000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202133000 +0000" stop="20251202143000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20251202143000 +0000" stop="20251202153000 +0000">
-    <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN4" start="20251201160000 +0000" stop="20251201170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
