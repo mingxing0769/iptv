@@ -3,6 +3,9 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
+  <channel id="ESPN News">
+    <display-name>ESPN News</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
@@ -83,6 +86,87 @@
   </programme>
   <programme channel="ESPN" start="20251203150000 +0000" stop="20251203170000 +0000">
     <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN News" start="20251202160000 +0000" stop="20251202170000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251202170000 +0000" stop="20251202190000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPN News" start="20251202190000 +0000" stop="20251202210000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN News" start="20251202210000 +0000" stop="20251202220000 +0000">
+    <title lang="eng">Fantasy Focus</title>
+  </programme>
+  <programme channel="ESPN News" start="20251202220000 +0000" stop="20251202230000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="ESPN News" start="20251202230000 +0000" stop="20251202233000 +0000">
+    <title lang="eng">Always College Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20251202233000 +0000" stop="20251203000000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203000000 +0000" stop="20251203010000 +0000">
+    <title lang="eng">Fantasy Focus</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203010000 +0000" stop="20251203013000 +0000">
+    <title lang="eng">Always College Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203013000 +0000" stop="20251203020000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203020000 +0000" stop="20251203030000 +0000">
+    <title lang="eng">Fantasy Focus</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203030000 +0000" stop="20251203033000 +0000">
+    <title lang="eng">Always College Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203033000 +0000" stop="20251203040000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203040000 +0000" stop="20251203043000 +0000">
+    <title lang="eng">Always College Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203043000 +0000" stop="20251203050000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203050000 +0000" stop="20251203060000 +0000">
+    <title lang="eng">X Games</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203060000 +0000" stop="20251203070000 +0000">
+    <title lang="eng">World of X Games</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203070000 +0000" stop="20251203073000 +0000">
+    <title lang="eng">Always College Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203073000 +0000" stop="20251203080000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203080000 +0000" stop="20251203090000 +0000">
+    <title lang="eng">UFC 323 Countdown: Dvalishvili vs. Yan 2</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203090000 +0000" stop="20251203100000 +0000">
+    <title lang="eng">UFC Main Events</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203100000 +0000" stop="20251203103000 +0000">
+    <title lang="eng">Always College Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203103000 +0000" stop="20251203110000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203110000 +0000" stop="20251203120000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203120000 +0000" stop="20251203140000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203140000 +0000" stop="20251203150000 +0000">
+    <title lang="eng">SC Featured</title>
+  </programme>
+  <programme channel="ESPN News" start="20251203150000 +0000" stop="20251203160000 +0000">
+    <title lang="eng">SportsCenter</title>
   </programme>
   <programme channel="Fox Sports 1" start="20251202170000 +0000" stop="20251202200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
