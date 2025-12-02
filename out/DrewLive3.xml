@@ -15,9 +15,6 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
-  <channel id="TNT Eastern Feed">
-    <display-name>TNT Eastern Feed</display-name>
-  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -317,54 +314,6 @@
   </programme>
   <programme channel="Sportsnet West" start="20251202150000 +0000" stop="20251202160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251201173000 +0000" stop="20251201203000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251201203000 +0000" stop="20251201230000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251201230000 +0000" stop="20251202020000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202020000 +0000" stop="20251202030300 +0000">
-    <title lang="eng">The Pitt</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202030300 +0000" stop="20251202040200 +0000">
-    <title lang="eng">The Pitt</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202040200 +0000" stop="20251202050200 +0000">
-    <title lang="eng">The Pitt</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202050200 +0000" stop="20251202070200 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202070200 +0000" stop="20251202080200 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202080200 +0000" stop="20251202090100 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202090100 +0000" stop="20251202100000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202100000 +0000" stop="20251202110000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202110000 +0000" stop="20251202120000 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202120000 +0000" stop="20251202130000 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202130000 +0000" stop="20251202140000 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202140000 +0000" stop="20251202145900 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20251202145900 +0000" stop="20251202155800 +0000">
-    <title lang="eng">Charmed</title>
   </programme>
   <programme channel="TSN4" start="20251201160000 +0000" stop="20251201170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
