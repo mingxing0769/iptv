@@ -92,14 +92,6 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
-#EXTGRP:Live
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
-https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
-https://fl1.moveonjoy.com/TSN_4/index.m3u8
-
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
 https://a1xs.vip/140001
@@ -151,6 +143,8 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_400
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 tvg-name="BBC News (North America) (1080p)" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News Asia Pacific (1080p)" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific (1080p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-name="BBC News Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Europe
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 #EXTINF:-1 tvg-name="CCTV+ 1 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",CCTV+ 1 (600p) [Not 24/7]
@@ -197,6 +191,8 @@ https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-name="TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
@@ -207,6 +203,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://livetv-fa.tubi.video/fox-sports2/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="None" group-title="Undefined",Fox Sports 1
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 
