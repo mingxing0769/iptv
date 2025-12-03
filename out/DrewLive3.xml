@@ -9,6 +9,9 @@
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
+  </channel>
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
   </channel>
@@ -194,6 +197,81 @@
   </programme>
   <programme channel="Sportsnet One" start="20251203150000 +0000" stop="20251203170000 +0000">
     <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202160000 +0000" stop="20251202170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202170000 +0000" stop="20251202180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202180000 +0000" stop="20251202190000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202190000 +0000" stop="20251202193000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202193000 +0000" stop="20251202200000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202200000 +0000" stop="20251202210000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202210000 +0000" stop="20251202220000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202220000 +0000" stop="20251202230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202230000 +0000" stop="20251202233000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251202233000 +0000" stop="20251203000000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203000000 +0000" stop="20251203023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203023000 +0000" stop="20251203030000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203030000 +0000" stop="20251203053000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203053000 +0000" stop="20251203060000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203060000 +0000" stop="20251203063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203063000 +0000" stop="20251203070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203070000 +0000" stop="20251203080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203080000 +0000" stop="20251203090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203090000 +0000" stop="20251203100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203100000 +0000" stop="20251203110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203110000 +0000" stop="20251203120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203120000 +0000" stop="20251203130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203130000 +0000" stop="20251203140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203140000 +0000" stop="20251203150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251203150000 +0000" stop="20251203160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="Sportsnet Pacific" start="20251202160000 +0000" stop="20251202170000 +0000">
     <title lang="eng">Sportsnet Central</title>
