@@ -11,6 +11,8 @@ https://c.mjh.nz/abc-news.m3u8
 https://a1xs.vip/700001
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="Australia",Fox Sports 502
 https://a1xs.vip/700002
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506
+https://a1xs.vip/700006
 
 #EXTGRP:Brazil
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-br.png" group-title="Brazil",TNT
@@ -41,8 +43,6 @@ http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
 #EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada",Sportsnet West
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
-#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="Canada",Sportsnet West
-https://tvpass.org/live/sportsnet-west/sd
 
 #EXTGRP:General
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-name="CCTV-4 America (1080p)" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
@@ -81,6 +81,12 @@ http://38.250.127.17:9800/play/a05n/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
 http://38.250.127.17:9800/play/a05x/index.m3u8
+
+#EXTGRP:Live
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -183,8 +189,6 @@ https://fl1.moveonjoy.com/SNY/index.m3u8
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
 https://fl1.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports" tvg-logo="None" group-title="Undefined",Fox Sports
