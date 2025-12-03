@@ -6,9 +6,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Fox Sports 2">
-    <display-name>Fox Sports 2</display-name>
-  </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
@@ -140,45 +137,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251203150000 +0000" stop="20251203170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251202160000 +0000" stop="20251202190000 +0000">
-    <title lang="eng">NHRA Drag Racing</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251202190000 +0000" stop="20251202205000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251202205000 +0000" stop="20251202225000 +0000">
-    <title lang="eng">CONMEBOL Women's Nations League</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251202225000 +0000" stop="20251203010000 +0000">
-    <title lang="eng">CONMEBOL Women's Nations League</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203010000 +0000" stop="20251203020000 +0000">
-    <title lang="eng">Fox Sports FIFA World Cup 2026 Draw Preview</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203020000 +0000" stop="20251203030000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203030000 +0000" stop="20251203050000 +0000">
-    <title lang="eng">CONMEBOL Women's Nations League</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203050000 +0000" stop="20251203070000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203070000 +0000" stop="20251203100000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203100000 +0000" stop="20251203110000 +0000">
-    <title lang="eng">Fox Sports FIFA World Cup 2026 Draw Preview</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203110000 +0000" stop="20251203120000 +0000">
-    <title lang="eng">MotoAmerica King of the Baggers Rewind</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203120000 +0000" stop="20251203140000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251203140000 +0000" stop="20251203170000 +0000">
-    <title lang="eng">College Football</title>
   </programme>
   <programme channel="Sportsnet One" start="20251202170000 +0000" stop="20251202190000 +0000">
     <title lang="eng">NBA Basketball</title>
