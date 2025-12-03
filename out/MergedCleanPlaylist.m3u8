@@ -65,10 +65,14 @@ http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png" group-title="International",Sky News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+#EXTINF:-1 tvg-id="None" tvg-name="Sky News Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png" group-title="International",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTGRP:Latin America
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN
 http://201.230.121.186:8000/play/a0fi/index.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN
+https://tvpass.org/live/ESPN/sd
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 3" tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp" group-title="Latin America",ESPN 3
 http://201.230.121.186:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 4" tvg-logo="https://telepez.github.io/imagenes/ESPN4.webp" group-title="Latin America",ESPN 4
@@ -81,6 +85,10 @@ http://38.250.127.17:9800/play/a05n/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
 http://38.250.127.17:9800/play/a05x/index.m3u8
+
+#EXTGRP:Live
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
+https://tvpass.org/live/sportsnet-east/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
