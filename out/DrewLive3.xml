@@ -12,9 +12,6 @@
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
   </channel>
-  <channel id="Sportsnet Pittsburgh">
-    <display-name>Sportsnet Pittsburgh</display-name>
-  </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
@@ -317,87 +314,6 @@
   </programme>
   <programme channel="Sportsnet Pacific" start="20251205150000 +0000" stop="20251205160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204160000 +0000" stop="20251204170000 +0000">
-    <title lang="eng">World Poker Tour</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204170000 +0000" stop="20251204180000 +0000">
-    <title lang="eng">Triton Poker</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204180000 +0000" stop="20251204190000 +0000">
-    <title lang="eng">Fairways of Life with Matt Adams</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204190000 +0000" stop="20251204193000 +0000">
-    <title lang="eng">Golf Life</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204193000 +0000" stop="20251204200000 +0000">
-    <title lang="eng">Endless Golf</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204200000 +0000" stop="20251204203000 +0000">
-    <title lang="eng">Swing Clinic With Jimmy Hanlin</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204203000 +0000" stop="20251204210000 +0000">
-    <title lang="eng">18 Holes With Natalie Gulbis and Jimmy Hanlin</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204210000 +0000" stop="20251204213000 +0000">
-    <title lang="eng">Inside Penguins Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204213000 +0000" stop="20251204220000 +0000">
-    <title lang="eng">Duquesne Coaches Show</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204220000 +0000" stop="20251204223000 +0000">
-    <title lang="eng">Penguins Game Plan</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204223000 +0000" stop="20251204230000 +0000">
-    <title lang="eng">Get Me the Brandy</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204230000 +0000" stop="20251204233000 +0000">
-    <title lang="eng">Penguins Tonight</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251204233000 +0000" stop="20251205000000 +0000">
-    <title lang="eng">Penguins Faceoff Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205000000 +0000" stop="20251205023000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205023000 +0000" stop="20251205030000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205030000 +0000" stop="20251205033000 +0000">
-    <title lang="eng">Penguins Postgame Final</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205033000 +0000" stop="20251205040000 +0000">
-    <title lang="eng">Get Me the Brandy</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205040000 +0000" stop="20251205060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205040000 +0000" stop="20251205060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205060000 +0000" stop="20251205063000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205063000 +0000" stop="20251205070000 +0000">
-    <title lang="eng">Penguins Postgame Final</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205070000 +0000" stop="20251205080000 +0000">
-    <title lang="eng">The Varsity with John Ourand</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205080000 +0000" stop="20251205090000 +0000">
-    <title lang="eng">The Snap Count with Charlie Batch and Trai Essex</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205090000 +0000" stop="20251205100000 +0000">
-    <title lang="eng">SportsWrap With Jason Page</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205100000 +0000" stop="20251205120000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205120000 +0000" stop="20251205123000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251205123000 +0000" stop="20251205130000 +0000">
-    <title lang="eng">Penguins Postgame Final</title>
   </programme>
   <programme channel="Sportsnet West" start="20251204160000 +0000" stop="20251204170000 +0000">
     <title lang="eng">Sportsnet Central</title>
