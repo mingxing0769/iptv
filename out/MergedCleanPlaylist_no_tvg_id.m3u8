@@ -15,8 +15,6 @@ https://a1xs.vip/700002
 https://a1xs.vip/700003
 #EXTINF:-1 tvg-name="Fox Sports 504" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Australia",Fox Sports 504
 https://a1xs.vip/700004
-#EXTINF:-1 tvg-name="Fox Sports 505" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Australia",Fox Sports 505
-https://a1xs.vip/700005
 #EXTINF:-1 tvg-name="Fox Sports 506" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506
 https://a1xs.vip/700006
 #EXTINF:-1 tvg-name="Fox Sports 507" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Australia",Fox Sports 507
@@ -93,6 +91,10 @@ http://38.250.127.17:9800/play/a05n/index.m3u8
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
 http://38.250.127.17:9800/play/a05x/index.m3u8
+
+#EXTGRP:Live
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -251,9 +253,9 @@ https://a1xs.vip/2000022
 https://a1xs.vip/2000023
 #EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="United Kingdom",TNT Sports 4
 https://a1xs.vip/2000024
-#EXTINF:-1 tvg-name="TNT Sports Ultimate" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="United Kingdom",TNT Sports Ultimate
-https://a1xs.vip/2000031
 
 #EXTGRP:United States
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
