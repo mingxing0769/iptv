@@ -6,6 +6,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Spectrum Sportsnet Lakers">
+    <display-name>Spectrum Sportsnet Lakers</display-name>
+  </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
@@ -143,6 +146,93 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251204150000 +0000" stop="20251204170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203170000 +0000" stop="20251203180000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203180000 +0000" stop="20251203190000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203190000 +0000" stop="20251203210000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203210000 +0000" stop="20251203220000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203220000 +0000" stop="20251203223000 +0000">
+    <title lang="eng">Lakeshow</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203223000 +0000" stop="20251203230000 +0000">
+    <title lang="eng">Backstage: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251203230000 +0000" stop="20251204000000 +0000">
+    <title lang="eng">Lakers Compacto</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204000000 +0000" stop="20251204010000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204010000 +0000" stop="20251204013000 +0000">
+    <title lang="eng">Lakeshow</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204013000 +0000" stop="20251204020000 +0000">
+    <title lang="eng">Beyond the Sport</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204020000 +0000" stop="20251204030000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204030000 +0000" stop="20251204033000 +0000">
+    <title lang="eng">Lakeshow</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204033000 +0000" stop="20251204040000 +0000">
+    <title lang="eng">Backstage: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204040000 +0000" stop="20251204043000 +0000">
+    <title lang="eng">Backstage: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204043000 +0000" stop="20251204053000 +0000">
+    <title lang="eng">Lakers Compacto</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204053000 +0000" stop="20251204063000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204063000 +0000" stop="20251204070000 +0000">
+    <title lang="eng">Lakeshow</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204070000 +0000" stop="20251204080000 +0000">
+    <title lang="eng">Lakers Compacto</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204080000 +0000" stop="20251204090000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204090000 +0000" stop="20251204100000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204100000 +0000" stop="20251204103000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204103000 +0000" stop="20251204110000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204110000 +0000" stop="20251204113000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204113000 +0000" stop="20251204120000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204120000 +0000" stop="20251204123000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204123000 +0000" stop="20251204130000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204130000 +0000" stop="20251204133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204133000 +0000" stop="20251204140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20251204140000 +0000" stop="20251204170000 +0000">
+    <title lang="eng">VSiN by the Books</title>
   </programme>
   <programme channel="Sportsnet One" start="20251203170000 +0000" stop="20251203190000 +0000">
     <title lang="eng">NHL Hockey</title>
