@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://tvpass.org/epg.xml"
 
+#EXTGRP:Argentina
+#EXTINF:-1 tvg-id="None" tvg-name="TNT Sports Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6XTxBguw3sWNrLEPRO_eKRBvdu4FJ4sBx8FPww_e5w&s" group-title="Argentina",TNT Sports Premium
+http://38.250.127.17:9800/play/a06g/index.m3u8
+
 #EXTGRP:Australia
 #EXTINF:-1 tvg-id="None" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png" group-title="Australia",ABC News
 https://c.mjh.nz/abc-news.m3u8
@@ -83,6 +87,8 @@ http://201.230.121.186:8000/play/a0jg/index.m3u8
 http://38.250.127.17:9800/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Latin America",ESPN 5
 http://38.250.127.17:9800/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="Latin America",ESPN 6
+http://38.250.127.17:9800/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Latin America",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America",ESPN Premium
@@ -249,7 +255,5 @@ https://a1xs.vip/2000024
 https://a1xs.vip/2000031
 
 #EXTGRP:United States
-#EXTINF:-1 tvg-id="None" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="United States",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-id="None" tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
