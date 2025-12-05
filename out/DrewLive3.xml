@@ -3,11 +3,11 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
-  <channel id="ESPN2">
-    <display-name>ESPN2</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
+  </channel>
+  <channel id="Sportsnet 360">
+    <display-name>Sportsnet 360</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
@@ -72,72 +72,6 @@
   <programme channel="ESPN" start="20251206140000 +0000" stop="20251206170000 +0000">
     <title lang="eng">College GameDay</title>
   </programme>
-  <programme channel="ESPN2" start="20251205170000 +0000" stop="20251205190000 +0000">
-    <title lang="eng">The Pat McAfee Show</title>
-  </programme>
-  <programme channel="ESPN2" start="20251205190000 +0000" stop="20251205200000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN2" start="20251205200000 +0000" stop="20251205210000 +0000">
-    <title lang="eng">NBA Today</title>
-  </programme>
-  <programme channel="ESPN2" start="20251205210000 +0000" stop="20251205220000 +0000">
-    <title lang="eng">ESPN FC</title>
-  </programme>
-  <programme channel="ESPN2" start="20251205220000 +0000" stop="20251205223000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251205223000 +0000" stop="20251206000000 +0000">
-    <title lang="eng">The 5th Set</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206000000 +0000" stop="20251206020000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206020000 +0000" stop="20251206040000 +0000">
-    <title lang="eng">The 5th Set</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206040000 +0000" stop="20251206050000 +0000">
-    <title lang="eng">Big 12 Championship Preview: Inside the 12</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206050000 +0000" stop="20251206060000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206060000 +0000" stop="20251206080000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206080000 +0000" stop="20251206090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206090000 +0000" stop="20251206100000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206100000 +0000" stop="20251206102500 +0000">
-    <title lang="eng">UFC Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206102500 +0000" stop="20251206113000 +0000">
-    <title lang="eng">Formula 1 Racing</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206102500 +0000" stop="20251206113000 +0000">
-    <title lang="eng">Formula 1 Racing</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206113000 +0000" stop="20251206120000 +0000">
-    <title lang="eng">UFC Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206120000 +0000" stop="20251206130000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206130000 +0000" stop="20251206133000 +0000">
-    <title lang="eng">NFL Matchup</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206133000 +0000" stop="20251206135500 +0000">
-    <title lang="eng">UFC Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206135500 +0000" stop="20251206150000 +0000">
-    <title lang="eng">Formula 1 Racing</title>
-  </programme>
-  <programme channel="ESPN2" start="20251206150000 +0000" stop="20251206160000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251205170000 +0000" stop="20251205200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -197,6 +131,63 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251206150000 +0000" stop="20251206153000 +0000">
     <title lang="eng">The Joel Klatt Show: A College Football Podcast</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205153000 +0000" stop="20251205160000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205160000 +0000" stop="20251205170000 +0000">
+    <title lang="eng">The Raptors Show</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205170000 +0000" stop="20251205190000 +0000">
+    <title lang="eng">The Fan Hockey Show</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205190000 +0000" stop="20251205193000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205193000 +0000" stop="20251205200000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205200000 +0000" stop="20251205203000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205203000 +0000" stop="20251205210000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205210000 +0000" stop="20251205230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251205230000 +0000" stop="20251206000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206000000 +0000" stop="20251206020000 +0000">
+    <title lang="eng">TNA iMPACT!</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206020000 +0000" stop="20251206050000 +0000">
+    <title lang="eng">UFC Reloaded</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206050000 +0000" stop="20251206060000 +0000">
+    <title lang="eng">UFC Countdown</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206060000 +0000" stop="20251206080000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206080000 +0000" stop="20251206100000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206100000 +0000" stop="20251206103000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206103000 +0000" stop="20251206110000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206110000 +0000" stop="20251206120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206120000 +0000" stop="20251206140000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20251206140000 +0000" stop="20251206160000 +0000">
+    <title lang="eng">NHL Hockey</title>
   </programme>
   <programme channel="Sportsnet One" start="20251205153000 +0000" stop="20251205160000 +0000">
     <title lang="eng">Raptors in 30</title>
