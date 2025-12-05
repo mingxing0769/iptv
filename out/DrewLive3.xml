@@ -15,6 +15,9 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -359,6 +362,72 @@
   </programme>
   <programme channel="Sportsnet West" start="20251206150000 +0000" stop="20251206160000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TSN2" start="20251205170000 +0000" stop="20251205190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251205190000 +0000" stop="20251205193000 +0000">
+    <title lang="eng">NFL GameDay</title>
+  </programme>
+  <programme channel="TSN2" start="20251205193000 +0000" stop="20251205200000 +0000">
+    <title lang="eng">Why We Love Football</title>
+  </programme>
+  <programme channel="TSN2" start="20251205200000 +0000" stop="20251205203000 +0000">
+    <title lang="eng">STIHL Timbersports</title>
+  </programme>
+  <programme channel="TSN2" start="20251205203000 +0000" stop="20251205210000 +0000">
+    <title lang="eng">STIHL Timbersports</title>
+  </programme>
+  <programme channel="TSN2" start="20251205210000 +0000" stop="20251205230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN2" start="20251205230000 +0000" stop="20251205233000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251205233000 +0000" stop="20251206000000 +0000">
+    <title lang="eng">Why We Love Football</title>
+  </programme>
+  <programme channel="TSN2" start="20251206000000 +0000" stop="20251206003000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251206003000 +0000" stop="20251206010000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN2" start="20251206010000 +0000" stop="20251206033000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="TSN2" start="20251206033000 +0000" stop="20251206040000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251206040000 +0000" stop="20251206043000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN2" start="20251206043000 +0000" stop="20251206050000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251206050000 +0000" stop="20251206053000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251206053000 +0000" stop="20251206060000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251206060000 +0000" stop="20251206080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251206080000 +0000" stop="20251206100000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251206100000 +0000" stop="20251206120000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251206100000 +0000" stop="20251206120000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251206120000 +0000" stop="20251206140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251206140000 +0000" stop="20251206170000 +0000">
+    <title lang="eng">College GameDay</title>
   </programme>
   <programme channel="TSN4" start="20251205170000 +0000" stop="20251205190000 +0000">
     <title lang="eng">2026 FIFA World Cup Draw</title>
