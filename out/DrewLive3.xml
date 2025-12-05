@@ -15,9 +15,6 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
-  <channel id="TSN1">
-    <display-name>TSN1</display-name>
-  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -395,81 +392,6 @@
   </programme>
   <programme channel="Sportsnet West" start="20251205150000 +0000" stop="20251205160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="TSN1" start="20251204153000 +0000" stop="20251204163000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251204163000 +0000" stop="20251204173000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251204173000 +0000" stop="20251204183000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251204183000 +0000" stop="20251204193000 +0000">
-    <title lang="eng">The Cannons -- Brothers on Ice</title>
-  </programme>
-  <programme channel="TSN1" start="20251204193000 +0000" stop="20251204200000 +0000">
-    <title lang="eng">2025 Motorcycle Experience</title>
-  </programme>
-  <programme channel="TSN1" start="20251204200000 +0000" stop="20251204210000 +0000">
-    <title lang="eng">NBA Today</title>
-  </programme>
-  <programme channel="TSN1" start="20251204210000 +0000" stop="20251204220000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="TSN1" start="20251204220000 +0000" stop="20251204223000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="TSN1" start="20251204223000 +0000" stop="20251204230000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="TSN1" start="20251204230000 +0000" stop="20251205000000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205000000 +0000" stop="20251205011500 +0000">
-    <title lang="eng">TNF Tonight</title>
-  </programme>
-  <programme channel="TSN1" start="20251205011500 +0000" stop="20251205043000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20251205043000 +0000" stop="20251205060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN1" start="20251205043000 +0000" stop="20251205060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN1" start="20251205060000 +0000" stop="20251205070000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205070000 +0000" stop="20251205080000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205080000 +0000" stop="20251205083000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205083000 +0000" stop="20251205093000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205093000 +0000" stop="20251205103000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205103000 +0000" stop="20251205113000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205113000 +0000" stop="20251205123000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205123000 +0000" stop="20251205133000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205133000 +0000" stop="20251205143000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205143000 +0000" stop="20251205150000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251205150000 +0000" stop="20251205170000 +0000">
-    <title lang="eng">2026 FIFA World Cup Draw: Arrival Special</title>
   </programme>
   <programme channel="TSN4" start="20251204160000 +0000" stop="20251204170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
