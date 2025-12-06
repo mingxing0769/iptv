@@ -13,8 +13,10 @@ https://a1xs.vip/700001
 https://a1xs.vip/700002
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="Australia",Fox Sports 503
 https://a1xs.vip/700003
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Australia",Fox Sports 505
-https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Australia",Fox Sports 504
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506
+https://a1xs.vip/700006
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Australia",Fox Sports 507
 https://a1xs.vip/700007
 
@@ -93,8 +95,12 @@ http://201.230.121.186:8000/play/a0dz/index.m3u8
 http://38.250.127.17:9800/play/a05x/index.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
-https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
@@ -197,8 +203,6 @@ https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
-https://fl1.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
@@ -221,8 +225,6 @@ https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Spo
 https://a1xs.vip/2000011
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="United Kingdom",Sky Sports Cricket
 https://a1xs.vip/2000006
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="United Kingdom",Sky Sports F1
-https://a1xs.vip/2000005
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="United Kingdom",Sky Sports F1 UHD
 https://a1xs.vip/2000016
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="United Kingdom",Sky Sports Football
@@ -243,6 +245,8 @@ https://a1xs.vip/2000002
 https://a1xs.vip/2000010
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="United Kingdom",Sky Sports Tennis
 https://a1xs.vip/2000013
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="United Kingdom",Sky Sports+
+https://a1xs.vip/2000012
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="United Kingdom",TNT Sports 1
 https://a1xs.vip/2000021
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="United Kingdom",TNT Sports 2
@@ -251,6 +255,8 @@ https://a1xs.vip/2000022
 https://a1xs.vip/2000023
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="United Kingdom",TNT Sports 4
 https://a1xs.vip/2000024
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="TNT Sports Ultimate" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="United Kingdom",TNT Sports Ultimate
+https://a1xs.vip/2000031
 
 #EXTGRP:United States
 #EXTINF:-1 tvg-id="None" tvg-name="TNT West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="United States",TNT West
