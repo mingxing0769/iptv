@@ -12,6 +12,9 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -314,6 +317,105 @@
   </programme>
   <programme channel="Sportsnet West" start="20251208150000 +0000" stop="20251208160000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TSN2" start="20251207153000 +0000" stop="20251207160000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207160000 +0000" stop="20251207163000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207163000 +0000" stop="20251207170000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207170000 +0000" stop="20251207190000 +0000">
+    <title lang="eng">Para Ice Hockey</title>
+  </programme>
+  <programme channel="TSN2" start="20251207190000 +0000" stop="20251207193000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207193000 +0000" stop="20251207220000 +0000">
+    <title lang="eng">Spanish Primera Division Soccer</title>
+  </programme>
+  <programme channel="TSN2" start="20251207220000 +0000" stop="20251207223000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207223000 +0000" stop="20251207230000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207230000 +0000" stop="20251207233000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207233000 +0000" stop="20251208000000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208000000 +0000" stop="20251208023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TSN2" start="20251208023000 +0000" stop="20251208030000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208030000 +0000" stop="20251208050000 +0000">
+    <title lang="eng">Formula 1 Racing</title>
+  </programme>
+  <programme channel="TSN2" start="20251208050000 +0000" stop="20251208060000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="TSN2" start="20251208060000 +0000" stop="20251208063000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208063000 +0000" stop="20251208070000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208070000 +0000" stop="20251208073000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208073000 +0000" stop="20251208080000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208080000 +0000" stop="20251208083000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208083000 +0000" stop="20251208090000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208090000 +0000" stop="20251208093000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208093000 +0000" stop="20251208100000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208100000 +0000" stop="20251208103000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208103000 +0000" stop="20251208110000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208110000 +0000" stop="20251208113000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208113000 +0000" stop="20251208120000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208120000 +0000" stop="20251208123000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208123000 +0000" stop="20251208130000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208130000 +0000" stop="20251208133000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208133000 +0000" stop="20251208140000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208140000 +0000" stop="20251208143000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208143000 +0000" stop="20251208150000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251208150000 +0000" stop="20251208153000 +0000">
+    <title lang="eng">SC</title>
   </programme>
   <programme channel="TSN4" start="20251207160000 +0000" stop="20251207170000 +0000">
     <title lang="eng">SportsCentre</title>
