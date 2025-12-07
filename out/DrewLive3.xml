@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet 360">
-    <display-name>Sportsnet 360</display-name>
-  </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
@@ -71,63 +68,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251208150000 +0000" stop="20251208170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251207160000 +0000" stop="20251207180000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251207180000 +0000" stop="20251207183000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251207183000 +0000" stop="20251207190000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251207190000 +0000" stop="20251207193000 +0000">
-    <title lang="eng">Misplays of the Month</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251207193000 +0000" stop="20251207200000 +0000">
-    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251207200000 +0000" stop="20251207223000 +0000">
-    <title lang="eng">PWHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251207223000 +0000" stop="20251207230000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251207230000 +0000" stop="20251208010000 +0000">
-    <title lang="eng">TNA iMPACT!</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208010000 +0000" stop="20251208013000 +0000">
-    <title lang="eng">Raptors in 30</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208013000 +0000" stop="20251208020000 +0000">
-    <title lang="eng">Raptors in 30</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208020000 +0000" stop="20251208023000 +0000">
-    <title lang="eng">Raptors in 30</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208023000 +0000" stop="20251208030000 +0000">
-    <title lang="eng">Raptors in 30</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208030000 +0000" stop="20251208050000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208050000 +0000" stop="20251208070000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208070000 +0000" stop="20251208090000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208090000 +0000" stop="20251208110000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208110000 +0000" stop="20251208120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208120000 +0000" stop="20251208150000 +0000">
-    <title lang="eng">By the Books</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251208150000 +0000" stop="20251208153000 +0000">
-    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
   </programme>
   <programme channel="Sportsnet One" start="20251207163000 +0000" stop="20251207170000 +0000">
     <title lang="eng">Misplays of the Month</title>
