@@ -6,9 +6,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet (East)">
-    <display-name>Sportsnet (East)</display-name>
-  </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
@@ -110,66 +107,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251207150000 +0000" stop="20251207160000 +0000">
     <title lang="eng">Tristar Arenacross</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206160000 +0000" stop="20251206170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206170000 +0000" stop="20251206173000 +0000">
-    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206173000 +0000" stop="20251206200000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206200000 +0000" stop="20251206203000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206203000 +0000" stop="20251206230000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206230000 +0000" stop="20251206233000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206233000 +0000" stop="20251207000000 +0000">
-    <title lang="eng">Hockey Central Saturday</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207000000 +0000" stop="20251207030000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207030000 +0000" stop="20251207060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207060000 +0000" stop="20251207063000 +0000">
-    <title lang="eng">After Hours</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207063000 +0000" stop="20251207070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207070000 +0000" stop="20251207080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207080000 +0000" stop="20251207090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207090000 +0000" stop="20251207100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207100000 +0000" stop="20251207110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207110000 +0000" stop="20251207120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207120000 +0000" stop="20251207130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207130000 +0000" stop="20251207140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207140000 +0000" stop="20251207150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207150000 +0000" stop="20251207160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="Sportsnet One" start="20251206170000 +0000" stop="20251206173000 +0000">
     <title lang="eng">NHL's Best</title>
