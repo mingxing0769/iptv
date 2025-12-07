@@ -3,11 +3,17 @@
   <channel id="ESPN">
     <display-name>ESPN</display-name>
   </channel>
+  <channel id="ESPN Deportes">
+    <display-name>ESPN Deportes</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
+  </channel>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
   </channel>
   <channel id="Sportsnet Pacific">
     <display-name>Sportsnet Pacific</display-name>
@@ -71,6 +77,54 @@
   </programme>
   <programme channel="ESPN" start="20251207150000 +0000" stop="20251207170000 +0000">
     <title lang="eng">Sunday NFL Countdown</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251206171500 +0000" stop="20251206193000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251206193000 +0000" stop="20251206220000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251206220000 +0000" stop="20251206230000 +0000">
+    <title lang="eng">ESPN FC</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251206230000 +0000" stop="20251207010000 +0000">
+    <title lang="eng">UFC 323: Merab Dvalishvili vs. Petr Yan 2, preliminares tempranas</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207010000 +0000" stop="20251207030000 +0000">
+    <title lang="eng">UFC 323: Dvalishvili vs. Yan 2 - Prelims</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207030000 +0000" stop="20251207040000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207040000 +0000" stop="20251207050000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207050000 +0000" stop="20251207060000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207060000 +0000" stop="20251207070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207070000 +0000" stop="20251207080000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207080000 +0000" stop="20251207090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207090000 +0000" stop="20251207100000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207100000 +0000" stop="20251207110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207110000 +0000" stop="20251207120000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207120000 +0000" stop="20251207150000 +0000">
+    <title lang="eng">Automovilismo Fórmula 1</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251207150000 +0000" stop="20251207171500 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
   </programme>
   <programme channel="Fox Sports 1" start="20251206153000 +0000" stop="20251206160000 +0000">
     <title lang="eng">OutKick the Show with Clay Travis</title>
@@ -164,6 +218,66 @@
   </programme>
   <programme channel="Sportsnet One" start="20251207143000 +0000" stop="20251207163000 +0000">
     <title lang="eng">FA Women's Super League</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251206160000 +0000" stop="20251206170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251206170000 +0000" stop="20251206173000 +0000">
+    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251206173000 +0000" stop="20251206200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251206200000 +0000" stop="20251206203000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251206203000 +0000" stop="20251206230000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251206230000 +0000" stop="20251206233000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251206233000 +0000" stop="20251207000000 +0000">
+    <title lang="eng">Hockey Central Saturday</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207000000 +0000" stop="20251207030000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207030000 +0000" stop="20251207060000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207060000 +0000" stop="20251207063000 +0000">
+    <title lang="eng">After Hours</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207063000 +0000" stop="20251207070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207070000 +0000" stop="20251207080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207080000 +0000" stop="20251207090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207090000 +0000" stop="20251207100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207100000 +0000" stop="20251207110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207110000 +0000" stop="20251207120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207120000 +0000" stop="20251207130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207130000 +0000" stop="20251207140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207140000 +0000" stop="20251207150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20251207150000 +0000" stop="20251207160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="Sportsnet Pacific" start="20251206160000 +0000" stop="20251206170000 +0000">
     <title lang="eng">Sportsnet Central</title>
