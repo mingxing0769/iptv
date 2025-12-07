@@ -9,6 +9,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="SNY Sportsnet New York Comcast">
+    <display-name>SNY Sportsnet New York Comcast</display-name>
+  </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
   </channel>
@@ -17,6 +20,9 @@
   </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
+  </channel>
+  <channel id="TNT Eastern Feed">
+    <display-name>TNT Eastern Feed</display-name>
   </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
@@ -182,6 +188,87 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251207150000 +0000" stop="20251207160000 +0000">
     <title lang="eng">Tristar Arenacross</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251206160000 +0000" stop="20251206163000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251206163000 +0000" stop="20251206190000 +0000">
+    <title lang="eng">College Hockey</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251206190000 +0000" stop="20251206210000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251206210000 +0000" stop="20251206230000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251206230000 +0000" stop="20251206233000 +0000">
+    <title lang="eng">Jets Game Plan</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251206233000 +0000" stop="20251207000000 +0000">
+    <title lang="eng">The Runway</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207000000 +0000" stop="20251207023000 +0000">
+    <title lang="eng">College Hockey</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207023000 +0000" stop="20251207030000 +0000">
+    <title lang="eng">Amazin' Finishes</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207030000 +0000" stop="20251207040000 +0000">
+    <title lang="eng">He's Keith Hernandez</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207040000 +0000" stop="20251207043000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207043000 +0000" stop="20251207050000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207050000 +0000" stop="20251207053000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207053000 +0000" stop="20251207060000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207060000 +0000" stop="20251207063000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207063000 +0000" stop="20251207070000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207070000 +0000" stop="20251207080000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207080000 +0000" stop="20251207090000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207090000 +0000" stop="20251207100000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207100000 +0000" stop="20251207110000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207110000 +0000" stop="20251207113000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207113000 +0000" stop="20251207120000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207120000 +0000" stop="20251207123000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207123000 +0000" stop="20251207130000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207130000 +0000" stop="20251207133000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207133000 +0000" stop="20251207140000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207140000 +0000" stop="20251207150000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251207150000 +0000" stop="20251207160000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
   </programme>
   <programme channel="Sportsnet One" start="20251206170000 +0000" stop="20251206173000 +0000">
     <title lang="eng">NHL's Best</title>
@@ -359,6 +446,60 @@
   </programme>
   <programme channel="Sportsnet West" start="20251207150000 +0000" stop="20251207160000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251206160000 +0000" stop="20251206163000 +0000">
+    <title lang="eng">World Sevens Football Pregame</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251206163000 +0000" stop="20251206173000 +0000">
+    <title lang="eng">World Sevens Football</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251206173000 +0000" stop="20251206183000 +0000">
+    <title lang="eng">World Sevens Football</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251206183000 +0000" stop="20251206193000 +0000">
+    <title lang="eng">World Sevens Football</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251206193000 +0000" stop="20251206203000 +0000">
+    <title lang="eng">World Sevens Football</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251206203000 +0000" stop="20251206223000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251206223000 +0000" stop="20251207010000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207010000 +0000" stop="20251207030000 +0000">
+    <title lang="eng">All Elite Wrestling: Collision</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207030000 +0000" stop="20251207054500 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207054500 +0000" stop="20251207080000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207080000 +0000" stop="20251207090000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207090000 +0000" stop="20251207100000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207100000 +0000" stop="20251207110000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207110000 +0000" stop="20251207120000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207120000 +0000" stop="20251207130000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207130000 +0000" stop="20251207140000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207140000 +0000" stop="20251207150000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251207150000 +0000" stop="20251207160000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
   <programme channel="TSN4" start="20251206160000 +0000" stop="20251206163000 +0000">
     <title lang="eng">SportsCentre</title>
