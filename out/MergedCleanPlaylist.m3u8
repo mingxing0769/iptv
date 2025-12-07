@@ -97,8 +97,6 @@ http://38.250.127.17:9800/play/a05x/index.m3u8
 #EXTGRP:Live
 #EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
 https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" tvg-logo="None" group-title="Live",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/sd
 
 #EXTGRP:Netherlands
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport
