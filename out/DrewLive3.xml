@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
+  <channel id="ESPN U">
+    <display-name>ESPN U</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
-  </channel>
-  <channel id="Spectrum SportsNet LA">
-    <display-name>Spectrum SportsNet LA</display-name>
-  </channel>
-  <channel id="Spectrum Sportsnet Lakers">
-    <display-name>Spectrum Sportsnet Lakers</display-name>
-  </channel>
-  <channel id="Sportsnet (East)">
-    <display-name>Sportsnet (East)</display-name>
   </channel>
   <channel id="Sportsnet One">
     <display-name>Sportsnet One</display-name>
@@ -21,12 +18,111 @@
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="ESPN" start="20251206170000 +0000" stop="20251206200000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="ESPN" start="20251206200000 +0000" stop="20251206210000 +0000">
+    <title lang="eng">College Football Scoreboard</title>
+  </programme>
+  <programme channel="ESPN" start="20251206210000 +0000" stop="20251206211000 +0000">
+    <title lang="eng">College Football Studio</title>
+  </programme>
+  <programme channel="ESPN" start="20251206211000 +0000" stop="20251207000000 +0000">
+    <title lang="eng">Field Pass: SEC Championship</title>
+  </programme>
+  <programme channel="ESPN" start="20251207000000 +0000" stop="20251207010000 +0000">
+    <title lang="eng">College Football Scoreboard</title>
+  </programme>
+  <programme channel="ESPN" start="20251207010000 +0000" stop="20251207030000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20251207030000 +0000" stop="20251207050000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20251207050000 +0000" stop="20251207060000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251207060000 +0000" stop="20251207070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251207070000 +0000" stop="20251207080000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251207080000 +0000" stop="20251207090000 +0000">
+    <title lang="eng">College Football Final</title>
+  </programme>
+  <programme channel="ESPN" start="20251207090000 +0000" stop="20251207100000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251207100000 +0000" stop="20251207110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251207110000 +0000" stop="20251207120000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251207120000 +0000" stop="20251207125500 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251207125500 +0000" stop="20251207150000 +0000">
+    <title lang="eng">Formula 1 Racing</title>
+  </programme>
+  <programme channel="ESPN" start="20251207150000 +0000" stop="20251207170000 +0000">
+    <title lang="eng">Sunday NFL Countdown</title>
+  </programme>
+  <programme channel="ESPN U" start="20251206170000 +0000" stop="20251206180000 +0000">
+    <title lang="eng">Game On: Journey to the NCAA Championship</title>
+  </programme>
+  <programme channel="ESPN U" start="20251206180000 +0000" stop="20251206190000 +0000">
+    <title lang="eng">Game On: Journey to the NCAA Championship</title>
+  </programme>
+  <programme channel="ESPN U" start="20251206190000 +0000" stop="20251206210000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20251206210000 +0000" stop="20251206230000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20251206230000 +0000" stop="20251207000000 +0000">
+    <title lang="eng">Game On: Journey to the NCAA Championship</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207000000 +0000" stop="20251207030000 +0000">
+    <title lang="eng">The 5th Set</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207030000 +0000" stop="20251207050000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207050000 +0000" stop="20251207070000 +0000">
+    <title lang="eng">Women's College Soccer</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207070000 +0000" stop="20251207090000 +0000">
+    <title lang="eng">Women's College Soccer</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207090000 +0000" stop="20251207100000 +0000">
+    <title lang="eng">College Football Final</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207100000 +0000" stop="20251207110000 +0000">
+    <title lang="eng">College Football Final</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207110000 +0000" stop="20251207120000 +0000">
+    <title lang="eng">College Football Final</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207120000 +0000" stop="20251207125500 +0000">
+    <title lang="eng">College Football Final</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207125500 +0000" stop="20251207150000 +0000">
+    <title lang="eng">F1 Kids</title>
+  </programme>
+  <programme channel="ESPN U" start="20251207150000 +0000" stop="20251207170000 +0000">
+    <title lang="eng">Championship Drive</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20251206153000 +0000" stop="20251206160000 +0000">
     <title lang="eng">OutKick the Show with Clay Travis</title>
   </programme>
@@ -62,210 +158,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251207150000 +0000" stop="20251207160000 +0000">
     <title lang="eng">Tristar Arenacross</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251206160000 +0000" stop="20251206170000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251206170000 +0000" stop="20251206180000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251206180000 +0000" stop="20251206190000 +0000">
-    <title lang="eng">Sports Shrines of LA</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251206190000 +0000" stop="20251206200000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251206200000 +0000" stop="20251206210000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251206210000 +0000" stop="20251206230000 +0000">
-    <title lang="eng">El Titán: The Adrián González Story</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251206230000 +0000" stop="20251206233000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251206233000 +0000" stop="20251207000000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207000000 +0000" stop="20251207010000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207010000 +0000" stop="20251207020000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207020000 +0000" stop="20251207053000 +0000">
-    <title lang="eng">2025 Dodgers Championship Parade</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207053000 +0000" stop="20251207063000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207063000 +0000" stop="20251207070000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207070000 +0000" stop="20251207080000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207080000 +0000" stop="20251207090000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207090000 +0000" stop="20251207100000 +0000">
-    <title lang="eng">No Gamble, No Future</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207100000 +0000" stop="20251207110000 +0000">
-    <title lang="eng">No Gamble, No Future</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207110000 +0000" stop="20251207113000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207113000 +0000" stop="20251207120000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207120000 +0000" stop="20251207123000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207123000 +0000" stop="20251207130000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207130000 +0000" stop="20251207133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207133000 +0000" stop="20251207140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207140000 +0000" stop="20251207150000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251207150000 +0000" stop="20251207160000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251206160000 +0000" stop="20251206170000 +0000">
-    <title lang="eng">Access SportsNet: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251206170000 +0000" stop="20251206190000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251206190000 +0000" stop="20251206200000 +0000">
-    <title lang="eng">Access SportsNet: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251206200000 +0000" stop="20251206203000 +0000">
-    <title lang="eng">Backstage: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251206203000 +0000" stop="20251206210000 +0000">
-    <title lang="eng">Backstage: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251206210000 +0000" stop="20251206230000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251206230000 +0000" stop="20251207013000 +0000">
-    <title lang="eng">High School Football</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207013000 +0000" stop="20251207020000 +0000">
-    <title lang="eng">CIF Southern Section: This Week</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207020000 +0000" stop="20251207030000 +0000">
-    <title lang="eng">Lakers Compacto</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207030000 +0000" stop="20251207053000 +0000">
-    <title lang="eng">High School Football</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207053000 +0000" stop="20251207060000 +0000">
-    <title lang="eng">CIF Southern Section: This Week</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207060000 +0000" stop="20251207083000 +0000">
-    <title lang="eng">High School Football</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207083000 +0000" stop="20251207090000 +0000">
-    <title lang="eng">CIF Southern Section: This Week</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207090000 +0000" stop="20251207100000 +0000">
-    <title lang="eng">Lakers Compacto</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207100000 +0000" stop="20251207103000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207103000 +0000" stop="20251207110000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207110000 +0000" stop="20251207113000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207113000 +0000" stop="20251207120000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207120000 +0000" stop="20251207123000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207123000 +0000" stop="20251207130000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207130000 +0000" stop="20251207133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207133000 +0000" stop="20251207140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251207140000 +0000" stop="20251207153000 +0000">
-    <title lang="eng">Leave A Legacy: The 2019-20 Lakers Season</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206160000 +0000" stop="20251206170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206170000 +0000" stop="20251206173000 +0000">
-    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206173000 +0000" stop="20251206200000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206200000 +0000" stop="20251206203000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206203000 +0000" stop="20251206230000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206230000 +0000" stop="20251206233000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251206233000 +0000" stop="20251207000000 +0000">
-    <title lang="eng">Hockey Central Saturday</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207000000 +0000" stop="20251207030000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207030000 +0000" stop="20251207060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207060000 +0000" stop="20251207063000 +0000">
-    <title lang="eng">After Hours</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207063000 +0000" stop="20251207070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207070000 +0000" stop="20251207080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207080000 +0000" stop="20251207090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207090000 +0000" stop="20251207100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207100000 +0000" stop="20251207110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207110000 +0000" stop="20251207120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207120000 +0000" stop="20251207130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207130000 +0000" stop="20251207140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207140000 +0000" stop="20251207150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251207150000 +0000" stop="20251207160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="Sportsnet One" start="20251206170000 +0000" stop="20251206173000 +0000">
     <title lang="eng">NHL's Best</title>
@@ -443,6 +335,93 @@
   </programme>
   <programme channel="Sportsnet West" start="20251207150000 +0000" stop="20251207160000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TSN2" start="20251206170000 +0000" stop="20251206203000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="TSN2" start="20251206203000 +0000" stop="20251206210000 +0000">
+    <title lang="eng">Why We Love Football</title>
+  </programme>
+  <programme channel="TSN2" start="20251206210000 +0000" stop="20251206213000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251206213000 +0000" stop="20251206220000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251206220000 +0000" stop="20251207000000 +0000">
+    <title lang="eng">Para Ice Hockey</title>
+  </programme>
+  <programme channel="TSN2" start="20251207000000 +0000" stop="20251207003000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207003000 +0000" stop="20251207010000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207010000 +0000" stop="20251207013000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207013000 +0000" stop="20251207020000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207020000 +0000" stop="20251207040000 +0000">
+    <title lang="eng">Para Ice Hockey</title>
+  </programme>
+  <programme channel="TSN2" start="20251207040000 +0000" stop="20251207043000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207043000 +0000" stop="20251207050000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207050000 +0000" stop="20251207073000 +0000">
+    <title lang="eng">2025 MLS Cup</title>
+  </programme>
+  <programme channel="TSN2" start="20251207073000 +0000" stop="20251207080000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207080000 +0000" stop="20251207083000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207083000 +0000" stop="20251207090000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207090000 +0000" stop="20251207093000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207093000 +0000" stop="20251207100000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207100000 +0000" stop="20251207103000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207103000 +0000" stop="20251207110000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207110000 +0000" stop="20251207113000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207113000 +0000" stop="20251207120000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207120000 +0000" stop="20251207123000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207123000 +0000" stop="20251207130000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207130000 +0000" stop="20251207133000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207133000 +0000" stop="20251207140000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207140000 +0000" stop="20251207143000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207143000 +0000" stop="20251207150000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251207150000 +0000" stop="20251207153000 +0000">
+    <title lang="eng">SC</title>
   </programme>
   <programme channel="TSN4" start="20251206160000 +0000" stop="20251206163000 +0000">
     <title lang="eng">SportsCentre</title>
