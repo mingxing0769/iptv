@@ -6,6 +6,16 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="TNTV.pf@SD" tvg-name="TNTV (1080p)" tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="General",TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
+#EXTGRP:Live
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" tvg-logo="None" group-title="Live",Fox Sports 2
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" tvg-logo="None" group-title="Live",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
+https://tvpass.org/live/tsn2/sd
+
 #EXTGRP:News
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
 https://c.mjh.nz/abc-news.m3u8
@@ -97,8 +107,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://livetv-fa.tubi.video/fox-sports2/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Undefined",Fox Sports 1
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
-https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="None" tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
