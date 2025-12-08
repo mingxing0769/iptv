@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="BBC News North America HD">
-    <display-name>BBC News North America HD</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet Ontario">
-    <display-name>Sportsnet Ontario</display-name>
+  <channel id="Fox Sports 2">
+    <display-name>Fox Sports 2</display-name>
   </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
@@ -15,189 +12,6 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="BBC News North America HD" start="20251208153000 +0000" stop="20251208160000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208160000 +0000" stop="20251208163000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208163000 +0000" stop="20251208164500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208164500 +0000" stop="20251208165500 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208165500 +0000" stop="20251208170000 +0000">
-    <title lang="eng">Tech Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208170000 +0000" stop="20251208173000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208173000 +0000" stop="20251208180000 +0000">
-    <title lang="eng">Focus on Africa</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208180000 +0000" stop="20251208183000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208183000 +0000" stop="20251208190000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208190000 +0000" stop="20251208193000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208193000 +0000" stop="20251208195500 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208195500 +0000" stop="20251208200000 +0000">
-    <title lang="eng">Tech Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208200000 +0000" stop="20251208203000 +0000">
-    <title lang="eng">The Context</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208203000 +0000" stop="20251208210000 +0000">
-    <title lang="eng">The Context</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208210000 +0000" stop="20251208213000 +0000">
-    <title lang="eng">The Context USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208213000 +0000" stop="20251208215500 +0000">
-    <title lang="eng">The Context USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208215500 +0000" stop="20251208220000 +0000">
-    <title lang="eng">Tech Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208220000 +0000" stop="20251208223000 +0000">
-    <title lang="eng">BBC World News America</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208223000 +0000" stop="20251208230000 +0000">
-    <title lang="eng">Newsnight</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251208230000 +0000" stop="20251209000000 +0000">
-    <title lang="eng">BBC World News America</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209000000 +0000" stop="20251209003000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209003000 +0000" stop="20251209010000 +0000">
-    <title lang="eng">Newscast</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209010000 +0000" stop="20251209013000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209013000 +0000" stop="20251209020000 +0000">
-    <title lang="eng">Talking Business</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209020000 +0000" stop="20251209023000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209023000 +0000" stop="20251209024500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209024500 +0000" stop="20251209030000 +0000">
-    <title lang="eng">BBC Sport</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209030000 +0000" stop="20251209033000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209033000 +0000" stop="20251209034500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209034500 +0000" stop="20251209040000 +0000">
-    <title lang="eng">BBC Sport</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209040000 +0000" stop="20251209043000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209043000 +0000" stop="20251209044500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209044500 +0000" stop="20251209050000 +0000">
-    <title lang="eng">BBC Sport</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209050000 +0000" stop="20251209053000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209053000 +0000" stop="20251209060000 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209060000 +0000" stop="20251209063000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209063000 +0000" stop="20251209065500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209065500 +0000" stop="20251209070000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209070000 +0000" stop="20251209073000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209073000 +0000" stop="20251209075500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209075500 +0000" stop="20251209080000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209080000 +0000" stop="20251209083000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209083000 +0000" stop="20251209090000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209090000 +0000" stop="20251209093000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209093000 +0000" stop="20251209095500 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209095500 +0000" stop="20251209100000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209100000 +0000" stop="20251209103000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209103000 +0000" stop="20251209110000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209110000 +0000" stop="20251209113000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209113000 +0000" stop="20251209114500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209114500 +0000" stop="20251209115500 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209115500 +0000" stop="20251209120000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209120000 +0000" stop="20251209123000 +0000">
-    <title lang="eng">BBC News Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209123000 +0000" stop="20251209130000 +0000">
-    <title lang="eng">BBC News Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209130000 +0000" stop="20251209133000 +0000">
-    <title lang="eng">BBC News Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209133000 +0000" stop="20251209135500 +0000">
-    <title lang="eng">BBC News Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209135500 +0000" stop="20251209140000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209140000 +0000" stop="20251209143000 +0000">
-    <title lang="eng">BBC News Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209143000 +0000" stop="20251209144500 +0000">
-    <title lang="eng">Business Today USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209144500 +0000" stop="20251209150000 +0000">
-    <title lang="eng">BBC News Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251209150000 +0000" stop="20251209153000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251208170000 +0000" stop="20251208200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -249,80 +63,53 @@
   <programme channel="Fox Sports 1" start="20251209150000 +0000" stop="20251209170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251208160000 +0000" stop="20251208170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="Fox Sports 2" start="20251208160000 +0000" stop="20251208170000 +0000">
+    <title lang="eng">Endurocross</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251208170000 +0000" stop="20251208180000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="Fox Sports 2" start="20251208170000 +0000" stop="20251208200000 +0000">
+    <title lang="eng">Greatest Races: NASCAR</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251208180000 +0000" stop="20251208200000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Fox Sports 2" start="20251208200000 +0000" stop="20251208210000 +0000">
+    <title lang="eng">Golf</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251208200000 +0000" stop="20251208210000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="Fox Sports 2" start="20251208210000 +0000" stop="20251208220000 +0000">
+    <title lang="eng">Golf</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251208210000 +0000" stop="20251208220000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="Fox Sports 2" start="20251208220000 +0000" stop="20251209010000 +0000">
+    <title lang="eng">College Football</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251208220000 +0000" stop="20251208230000 +0000">
-    <title lang="eng">Real Kyper &amp; Bourne</title>
+  <programme channel="Fox Sports 2" start="20251209010000 +0000" stop="20251209020000 +0000">
+    <title lang="eng">Fort Lauderdale International Boat Show</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251208230000 +0000" stop="20251209000000 +0000">
-    <title lang="eng">The FAN Pregame</title>
+  <programme channel="Fox Sports 2" start="20251209020000 +0000" stop="20251209033000 +0000">
+    <title lang="eng">Magnify Presents: Shot in the Dark</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209000000 +0000" stop="20251209023000 +0000">
-    <title lang="eng">NBA Basketball</title>
+  <programme channel="Fox Sports 2" start="20251209033000 +0000" stop="20251209050000 +0000">
+    <title lang="eng">Movie</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209023000 +0000" stop="20251209033000 +0000">
-    <title lang="eng">NBA Basketball</title>
+  <programme channel="Fox Sports 2" start="20251209050000 +0000" stop="20251209060000 +0000">
+    <title lang="eng">The Great Brady Heist</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209033000 +0000" stop="20251209040000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="Fox Sports 2" start="20251209060000 +0000" stop="20251209070000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209040000 +0000" stop="20251209043000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
+  <programme channel="Fox Sports 2" start="20251209070000 +0000" stop="20251209080000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209043000 +0000" stop="20251209050000 +0000">
-    <title lang="eng">Misplays of the Month</title>
+  <programme channel="Fox Sports 2" start="20251209080000 +0000" stop="20251209090000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209050000 +0000" stop="20251209060000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="Fox Sports 2" start="20251209090000 +0000" stop="20251209100000 +0000">
+    <title lang="eng">Endurocross</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209060000 +0000" stop="20251209063000 +0000">
-    <title lang="eng">NHL's Best</title>
+  <programme channel="Fox Sports 2" start="20251209100000 +0000" stop="20251209110000 +0000">
+    <title lang="eng">Endurocross</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209063000 +0000" stop="20251209070000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
+  <programme channel="Fox Sports 2" start="20251209110000 +0000" stop="20251209133000 +0000">
+    <title lang="eng">149th Westminster Kennel Club Dog Show</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20251209070000 +0000" stop="20251209073000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209073000 +0000" stop="20251209080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209080000 +0000" stop="20251209090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209090000 +0000" stop="20251209100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209100000 +0000" stop="20251209110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209110000 +0000" stop="20251209120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209120000 +0000" stop="20251209130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209130000 +0000" stop="20251209140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209140000 +0000" stop="20251209150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251209150000 +0000" stop="20251209160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="Fox Sports 2" start="20251209133000 +0000" stop="20251209163000 +0000">
+    <title lang="eng">149th Westminster Kennel Club Dog Show</title>
   </programme>
   <programme channel="TSN4" start="20251208160000 +0000" stop="20251208163000 +0000">
     <title lang="eng">IIHF World Junior Roster Reveal</title>
