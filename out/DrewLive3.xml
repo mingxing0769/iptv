@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="BBC News North America HD">
+    <display-name>BBC News North America HD</display-name>
+  </channel>
   <channel id="ESPN">
     <display-name>ESPN</display-name>
+  </channel>
+  <channel id="Fox News">
+    <display-name>Fox News</display-name>
   </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
@@ -21,6 +27,174 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="BBC News North America HD" start="20251207153000 +0000" stop="20251207160000 +0000">
+    <title lang="eng">Global Eye</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207160000 +0000" stop="20251207163000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207163000 +0000" stop="20251207170000 +0000">
+    <title lang="eng">Talking Business</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207170000 +0000" stop="20251207180000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207180000 +0000" stop="20251207183000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207183000 +0000" stop="20251207190000 +0000">
+    <title lang="eng">Ukrainecast</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207190000 +0000" stop="20251207193000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207193000 +0000" stop="20251207200000 +0000">
+    <title lang="eng">This Cultural Life</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207200000 +0000" stop="20251207203000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207203000 +0000" stop="20251207210000 +0000">
+    <title lang="eng">On The Front Line</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207210000 +0000" stop="20251207220000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207220000 +0000" stop="20251207223000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207223000 +0000" stop="20251207230000 +0000">
+    <title lang="eng">AI Decoded</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207230000 +0000" stop="20251207233000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251207233000 +0000" stop="20251208000000 +0000">
+    <title lang="eng">Global Eye</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208000000 +0000" stop="20251208003000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208003000 +0000" stop="20251208010000 +0000">
+    <title lang="eng">The Media Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208010000 +0000" stop="20251208013000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208013000 +0000" stop="20251208020000 +0000">
+    <title lang="eng">On The Front Line</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208020000 +0000" stop="20251208023000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208023000 +0000" stop="20251208024500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208024500 +0000" stop="20251208030000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208030000 +0000" stop="20251208033000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208033000 +0000" stop="20251208034500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208034500 +0000" stop="20251208040000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208040000 +0000" stop="20251208043000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208043000 +0000" stop="20251208044500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208044500 +0000" stop="20251208050000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208050000 +0000" stop="20251208053000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208053000 +0000" stop="20251208060000 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208060000 +0000" stop="20251208063000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208063000 +0000" stop="20251208065500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208065500 +0000" stop="20251208070000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208070000 +0000" stop="20251208073000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208073000 +0000" stop="20251208075500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208075500 +0000" stop="20251208080000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208080000 +0000" stop="20251208083000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208083000 +0000" stop="20251208090000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208090000 +0000" stop="20251208093000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208093000 +0000" stop="20251208095500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208095500 +0000" stop="20251208100000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208100000 +0000" stop="20251208103000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208103000 +0000" stop="20251208110000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208110000 +0000" stop="20251208113000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208113000 +0000" stop="20251208114500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208114500 +0000" stop="20251208115500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208115500 +0000" stop="20251208120000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208120000 +0000" stop="20251208123000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208123000 +0000" stop="20251208130000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208130000 +0000" stop="20251208133000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208133000 +0000" stop="20251208135500 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208135500 +0000" stop="20251208140000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208140000 +0000" stop="20251208143000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208143000 +0000" stop="20251208144500 +0000">
+    <title lang="eng">Business Today USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208144500 +0000" stop="20251208150000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20251208150000 +0000" stop="20251208153000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
   <programme channel="ESPN" start="20251207170000 +0000" stop="20251207200000 +0000">
     <title lang="eng">College Football Playoff Selection Show</title>
   </programme>
@@ -71,6 +245,78 @@
   </programme>
   <programme channel="ESPN" start="20251208150000 +0000" stop="20251208170000 +0000">
     <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="Fox News" start="20251207160000 +0000" stop="20251207170000 +0000">
+    <title lang="eng">The Sunday Briefing</title>
+  </programme>
+  <programme channel="Fox News" start="20251207170000 +0000" stop="20251207180000 +0000">
+    <title lang="eng">Fox News Live</title>
+  </programme>
+  <programme channel="Fox News" start="20251207180000 +0000" stop="20251207190000 +0000">
+    <title lang="eng">Fox News Live</title>
+  </programme>
+  <programme channel="Fox News" start="20251207190000 +0000" stop="20251207200000 +0000">
+    <title lang="eng">FOX News Sunday</title>
+  </programme>
+  <programme channel="Fox News" start="20251207200000 +0000" stop="20251207210000 +0000">
+    <title lang="eng">Fox Report With Jon Scott</title>
+  </programme>
+  <programme channel="Fox News" start="20251207210000 +0000" stop="20251207220000 +0000">
+    <title lang="eng">Fox Report With Jon Scott</title>
+  </programme>
+  <programme channel="Fox News" start="20251207220000 +0000" stop="20251207230000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20251207230000 +0000" stop="20251208000000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20251208000000 +0000" stop="20251208010000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20251208010000 +0000" stop="20251208020000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20251208020000 +0000" stop="20251208030000 +0000">
+    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
+  </programme>
+  <programme channel="Fox News" start="20251208030000 +0000" stop="20251208040000 +0000">
+    <title lang="eng">One Nation With Brian Kilmeade</title>
+  </programme>
+  <programme channel="Fox News" start="20251208040000 +0000" stop="20251208050000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20251208050000 +0000" stop="20251208060000 +0000">
+    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
+  </programme>
+  <programme channel="Fox News" start="20251208060000 +0000" stop="20251208070000 +0000">
+    <title lang="eng">One Nation With Brian Kilmeade</title>
+  </programme>
+  <programme channel="Fox News" start="20251208070000 +0000" stop="20251208080000 +0000">
+    <title lang="eng">FOX News Sunday</title>
+  </programme>
+  <programme channel="Fox News" start="20251208080000 +0000" stop="20251208090000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20251208090000 +0000" stop="20251208100000 +0000">
+    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
+  </programme>
+  <programme channel="Fox News" start="20251208100000 +0000" stop="20251208110000 +0000">
+    <title lang="eng">FOX &amp; Friends First</title>
+  </programme>
+  <programme channel="Fox News" start="20251208110000 +0000" stop="20251208120000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="Fox News" start="20251208120000 +0000" stop="20251208130000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="Fox News" start="20251208130000 +0000" stop="20251208140000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="Fox News" start="20251208140000 +0000" stop="20251208150000 +0000">
+    <title lang="eng">America's Newsroom</title>
+  </programme>
+  <programme channel="Fox News" start="20251208150000 +0000" stop="20251208160000 +0000">
+    <title lang="eng">America's Newsroom</title>
   </programme>
   <programme channel="Fox Sports 1" start="20251207160000 +0000" stop="20251207170000 +0000">
     <title lang="eng">Fort Lauderdale International Boat Show</title>
