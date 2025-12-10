@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN2">
-    <display-name>ESPN2</display-name>
+  <channel id="Fox News">
+    <display-name>Fox News</display-name>
   </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
-  </channel>
-  <channel id="Sportsnet 360">
-    <display-name>Sportsnet 360</display-name>
   </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
@@ -15,71 +12,77 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="ESPN2" start="20251209170000 +0000" stop="20251209190000 +0000">
-    <title lang="eng">First Take</title>
+  <programme channel="Fox News" start="20251209160000 +0000" stop="20251209170000 +0000">
+    <title lang="eng">The Faulkner Focus</title>
   </programme>
-  <programme channel="ESPN2" start="20251209190000 +0000" stop="20251209193000 +0000">
-    <title lang="eng">College Football Live</title>
+  <programme channel="Fox News" start="20251209170000 +0000" stop="20251209180000 +0000">
+    <title lang="eng">Outnumbered</title>
   </programme>
-  <programme channel="ESPN2" start="20251209193000 +0000" stop="20251209200000 +0000">
-    <title lang="eng">Bad Beats</title>
+  <programme channel="Fox News" start="20251209180000 +0000" stop="20251209190000 +0000">
+    <title lang="eng">America Reports</title>
   </programme>
-  <programme channel="ESPN2" start="20251209200000 +0000" stop="20251209210000 +0000">
-    <title lang="eng">Fantasy Focus</title>
+  <programme channel="Fox News" start="20251209190000 +0000" stop="20251209200000 +0000">
+    <title lang="eng">America Reports</title>
   </programme>
-  <programme channel="ESPN2" start="20251209210000 +0000" stop="20251209220000 +0000">
-    <title lang="eng">SC Featured</title>
+  <programme channel="Fox News" start="20251209200000 +0000" stop="20251209210000 +0000">
+    <title lang="eng">The Story With Martha MacCallum</title>
   </programme>
-  <programme channel="ESPN2" start="20251209220000 +0000" stop="20251209230000 +0000">
-    <title lang="eng">NFL Live</title>
+  <programme channel="Fox News" start="20251209210000 +0000" stop="20251209220000 +0000">
+    <title lang="eng">The Will Cain Show</title>
   </programme>
-  <programme channel="ESPN2" start="20251209230000 +0000" stop="20251209233000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
+  <programme channel="Fox News" start="20251209220000 +0000" stop="20251209230000 +0000">
+    <title lang="eng">The Five</title>
   </programme>
-  <programme channel="ESPN2" start="20251209233000 +0000" stop="20251210000000 +0000">
-    <title lang="eng">Always College Football</title>
+  <programme channel="Fox News" start="20251209230000 +0000" stop="20251210000000 +0000">
+    <title lang="eng">Special Report With Bret Baier</title>
   </programme>
-  <programme channel="ESPN2" start="20251210000000 +0000" stop="20251210010000 +0000">
-    <title lang="eng">NFL Live</title>
+  <programme channel="Fox News" start="20251210000000 +0000" stop="20251210010000 +0000">
+    <title lang="eng">The Ingraham Angle</title>
   </programme>
-  <programme channel="ESPN2" start="20251210010000 +0000" stop="20251210020000 +0000">
-    <title lang="eng">30 for 30</title>
+  <programme channel="Fox News" start="20251210010000 +0000" stop="20251210020000 +0000">
+    <title lang="eng">Jesse Watters Primetime</title>
   </programme>
-  <programme channel="ESPN2" start="20251210020000 +0000" stop="20251210040000 +0000">
-    <title lang="eng">College Basketball</title>
+  <programme channel="Fox News" start="20251210020000 +0000" stop="20251210030000 +0000">
+    <title lang="eng">Hannity</title>
   </programme>
-  <programme channel="ESPN2" start="20251210040000 +0000" stop="20251210043000 +0000">
-    <title lang="eng">College Football Live</title>
+  <programme channel="Fox News" start="20251210030000 +0000" stop="20251210040000 +0000">
+    <title lang="eng">Gutfeld!</title>
   </programme>
-  <programme channel="ESPN2" start="20251210043000 +0000" stop="20251210063000 +0000">
-    <title lang="eng">30 for 30</title>
+  <programme channel="Fox News" start="20251210040000 +0000" stop="20251210050000 +0000">
+    <title lang="eng">Fox News at Night</title>
   </programme>
-  <programme channel="ESPN2" start="20251210063000 +0000" stop="20251210070000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
+  <programme channel="Fox News" start="20251210050000 +0000" stop="20251210060000 +0000">
+    <title lang="eng">The Five</title>
   </programme>
-  <programme channel="ESPN2" start="20251210070000 +0000" stop="20251210073000 +0000">
-    <title lang="eng">Good Guy/Bad Guy</title>
+  <programme channel="Fox News" start="20251210060000 +0000" stop="20251210070000 +0000">
+    <title lang="eng">Jesse Watters Primetime</title>
   </programme>
-  <programme channel="ESPN2" start="20251210073000 +0000" stop="20251210080000 +0000">
-    <title lang="eng">UFC Top 10</title>
+  <programme channel="Fox News" start="20251210070000 +0000" stop="20251210080000 +0000">
+    <title lang="eng">Hannity</title>
   </programme>
-  <programme channel="ESPN2" start="20251210080000 +0000" stop="20251210090000 +0000">
-    <title lang="eng">30 for 30</title>
+  <programme channel="Fox News" start="20251210080000 +0000" stop="20251210090000 +0000">
+    <title lang="eng">Gutfeld!</title>
   </programme>
-  <programme channel="ESPN2" start="20251210090000 +0000" stop="20251210110000 +0000">
-    <title lang="eng">30 for 30</title>
+  <programme channel="Fox News" start="20251210090000 +0000" stop="20251210100000 +0000">
+    <title lang="eng">The Ingraham Angle</title>
   </programme>
-  <programme channel="ESPN2" start="20251210110000 +0000" stop="20251210130000 +0000">
-    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
+  <programme channel="Fox News" start="20251210100000 +0000" stop="20251210110000 +0000">
+    <title lang="eng">FOX &amp; Friends First</title>
   </programme>
-  <programme channel="ESPN2" start="20251210130000 +0000" stop="20251210140000 +0000">
-    <title lang="eng">SportsCenter</title>
+  <programme channel="Fox News" start="20251210110000 +0000" stop="20251210120000 +0000">
+    <title lang="eng">FOX and Friends</title>
   </programme>
-  <programme channel="ESPN2" start="20251210140000 +0000" stop="20251210150000 +0000">
-    <title lang="eng">SportsCenter</title>
+  <programme channel="Fox News" start="20251210120000 +0000" stop="20251210130000 +0000">
+    <title lang="eng">FOX and Friends</title>
   </programme>
-  <programme channel="ESPN2" start="20251210150000 +0000" stop="20251210170000 +0000">
-    <title lang="eng">Get Up</title>
+  <programme channel="Fox News" start="20251210130000 +0000" stop="20251210140000 +0000">
+    <title lang="eng">FOX and Friends</title>
+  </programme>
+  <programme channel="Fox News" start="20251210140000 +0000" stop="20251210150000 +0000">
+    <title lang="eng">America's Newsroom</title>
+  </programme>
+  <programme channel="Fox News" start="20251210150000 +0000" stop="20251210160000 +0000">
+    <title lang="eng">America's Newsroom</title>
   </programme>
   <programme channel="Fox Sports 1" start="20251209170000 +0000" stop="20251209200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
@@ -131,57 +134,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251210150000 +0000" stop="20251210170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251209153000 +0000" stop="20251209160000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251209160000 +0000" stop="20251209170000 +0000">
-    <title lang="eng">The Raptors Show</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251209170000 +0000" stop="20251209190000 +0000">
-    <title lang="eng">The Fan Hockey Show</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251209190000 +0000" stop="20251209193000 +0000">
-    <title lang="eng">Misplays of the Month</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251209193000 +0000" stop="20251209200000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251209200000 +0000" stop="20251209210000 +0000">
-    <title lang="eng">Blair &amp; Barker</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251209210000 +0000" stop="20251209230000 +0000">
-    <title lang="eng">Real Kyper &amp; Bourne</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251209230000 +0000" stop="20251210000000 +0000">
-    <title lang="eng">The FAN Pregame</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210000000 +0000" stop="20251210010000 +0000">
-    <title lang="eng">TNA in 60</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210010000 +0000" stop="20251210040000 +0000">
-    <title lang="eng">UFC Reloaded</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210040000 +0000" stop="20251210050000 +0000">
-    <title lang="eng">Game of Gold</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210050000 +0000" stop="20251210070000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210070000 +0000" stop="20251210090000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210090000 +0000" stop="20251210110000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210110000 +0000" stop="20251210120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210120000 +0000" stop="20251210150000 +0000">
-    <title lang="eng">By the Books</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251210150000 +0000" stop="20251210153000 +0000">
-    <title lang="eng">NHL's Best</title>
   </programme>
   <programme channel="TSN4" start="20251209160000 +0000" stop="20251209170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
