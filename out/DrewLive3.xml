@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -59,6 +62,108 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251210150000 +0000" stop="20251210170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="TSN2" start="20251209153000 +0000" stop="20251209160000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251209160000 +0000" stop="20251209163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251209163000 +0000" stop="20251209170000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN2" start="20251209170000 +0000" stop="20251209190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251209190000 +0000" stop="20251209193000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251209193000 +0000" stop="20251209200000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251209200000 +0000" stop="20251209203000 +0000">
+    <title lang="eng">2025 Motorcycle Experience</title>
+  </programme>
+  <programme channel="TSN2" start="20251209203000 +0000" stop="20251209210000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251209210000 +0000" stop="20251209213000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251209213000 +0000" stop="20251209220000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251209220000 +0000" stop="20251209223000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251209223000 +0000" stop="20251209230000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251209230000 +0000" stop="20251209233000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20251209233000 +0000" stop="20251210000000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN2" start="20251210000000 +0000" stop="20251210023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TSN2" start="20251210023000 +0000" stop="20251210053000 +0000">
+    <title lang="eng">2025 Grey Cup</title>
+  </programme>
+  <programme channel="TSN2" start="20251210053000 +0000" stop="20251210070000 +0000">
+    <title lang="eng">We the North: From Prehistoric to Historic</title>
+  </programme>
+  <programme channel="TSN2" start="20251210070000 +0000" stop="20251210073000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210073000 +0000" stop="20251210080000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210080000 +0000" stop="20251210083000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210083000 +0000" stop="20251210090000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210090000 +0000" stop="20251210093000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210093000 +0000" stop="20251210100000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210100000 +0000" stop="20251210103000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210103000 +0000" stop="20251210110000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210110000 +0000" stop="20251210113000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210113000 +0000" stop="20251210120000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210120000 +0000" stop="20251210123000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210123000 +0000" stop="20251210130000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210130000 +0000" stop="20251210133000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210133000 +0000" stop="20251210140000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210140000 +0000" stop="20251210143000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210143000 +0000" stop="20251210150000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
+  </programme>
+  <programme channel="TSN2" start="20251210150000 +0000" stop="20251210153000 +0000">
+    <title lang="eng">IIHF World Junior Countdown Show</title>
   </programme>
   <programme channel="TSN4" start="20251209160000 +0000" stop="20251209170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
