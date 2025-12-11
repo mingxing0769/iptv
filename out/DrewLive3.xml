@@ -9,6 +9,9 @@
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
+  <channel id="TSN5">
+    <display-name>TSN5</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20251211170000 +0000" stop="20251211200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -214,6 +217,84 @@
     <title lang="eng">SC With Jay Onrait</title>
   </programme>
   <programme channel="TSN4" start="20251212150000 +0000" stop="20251212160000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251211160000 +0000" stop="20251211170000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251211170000 +0000" stop="20251211173000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20251211173000 +0000" stop="20251211180000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20251211180000 +0000" stop="20251211183000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20251211183000 +0000" stop="20251211190000 +0000">
+    <title lang="eng">Why We Love Football</title>
+  </programme>
+  <programme channel="TSN5" start="20251211190000 +0000" stop="20251211193000 +0000">
+    <title lang="eng">STIHL Timbersports</title>
+  </programme>
+  <programme channel="TSN5" start="20251211193000 +0000" stop="20251211200000 +0000">
+    <title lang="eng">STIHL Timbersports</title>
+  </programme>
+  <programme channel="TSN5" start="20251211200000 +0000" stop="20251211210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN5" start="20251211210000 +0000" stop="20251211220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN5" start="20251211220000 +0000" stop="20251211223000 +0000">
+    <title lang="eng">NFL GameDay</title>
+  </programme>
+  <programme channel="TSN5" start="20251211223000 +0000" stop="20251211230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN5" start="20251211230000 +0000" stop="20251212000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20251212000000 +0000" stop="20251212023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TSN5" start="20251212023000 +0000" stop="20251212033000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20251212033000 +0000" stop="20251212043000 +0000">
+    <title lang="eng">NFL Football</title>
+  </programme>
+  <programme channel="TSN5" start="20251212043000 +0000" stop="20251212060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212060000 +0000" stop="20251212070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20251212070000 +0000" stop="20251212080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20251212080000 +0000" stop="20251212090000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212090000 +0000" stop="20251212100000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212100000 +0000" stop="20251212110000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212110000 +0000" stop="20251212120000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212120000 +0000" stop="20251212130000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212130000 +0000" stop="20251212140000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212140000 +0000" stop="20251212150000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212150000 +0000" stop="20251212160000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
   </programme>
 </tv>
