@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Spectrum SportsNet LA">
-    <display-name>Spectrum SportsNet LA</display-name>
-  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -77,87 +74,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251213133000 +0000" stop="20251213153000 +0000">
     <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251212160000 +0000" stop="20251212170000 +0000">
-    <title lang="eng">High Stakes Poker</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251212170000 +0000" stop="20251212190000 +0000">
-    <title lang="eng">The Early Line</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251212190000 +0000" stop="20251212193000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251212193000 +0000" stop="20251212200000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251212200000 +0000" stop="20251212210000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251212210000 +0000" stop="20251212220000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251212220000 +0000" stop="20251212230000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251212230000 +0000" stop="20251213000000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213000000 +0000" stop="20251213010000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213010000 +0000" stop="20251213020000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213020000 +0000" stop="20251213030000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213030000 +0000" stop="20251213040000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213040000 +0000" stop="20251213050000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213050000 +0000" stop="20251213060000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213060000 +0000" stop="20251213070000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213070000 +0000" stop="20251213080000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213080000 +0000" stop="20251213090000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213090000 +0000" stop="20251213100000 +0000">
-    <title lang="eng">High Stakes Poker</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213100000 +0000" stop="20251213110000 +0000">
-    <title lang="eng">High Stakes Poker</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213110000 +0000" stop="20251213113000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213113000 +0000" stop="20251213120000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213120000 +0000" stop="20251213123000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213123000 +0000" stop="20251213130000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213130000 +0000" stop="20251213133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213133000 +0000" stop="20251213140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213140000 +0000" stop="20251213150000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251213150000 +0000" stop="20251213160000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
   <programme channel="TSN4" start="20251212160000 +0000" stop="20251212170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
