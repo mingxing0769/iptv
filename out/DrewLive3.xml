@@ -3,295 +3,214 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet (East)">
-    <display-name>Sportsnet (East)</display-name>
-  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="Fox Sports 1" start="20251211170000 +0000" stop="20251211200000 +0000">
+  <programme channel="Fox Sports 1" start="20251212170000 +0000" stop="20251212200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251211200000 +0000" stop="20251211220000 +0000">
+  <programme channel="Fox Sports 1" start="20251212200000 +0000" stop="20251212220000 +0000">
     <title lang="eng">First Things First</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251211220000 +0000" stop="20251211230000 +0000">
+  <programme channel="Fox Sports 1" start="20251212220000 +0000" stop="20251212230000 +0000">
     <title lang="eng">First Things First: OT</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251211230000 +0000" stop="20251212000000 +0000">
-    <title lang="eng">Esports World Cup Spotlight Highlights</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212000000 +0000" stop="20251212003000 +0000">
+  <programme channel="Fox Sports 1" start="20251212230000 +0000" stop="20251212233000 +0000">
     <title lang="eng">The Joel Klatt Show: A College Football Podcast</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251212003000 +0000" stop="20251212010000 +0000">
+  <programme channel="Fox Sports 1" start="20251212233000 +0000" stop="20251213000000 +0000">
     <title lang="eng">Big Noon Kickoff Presents Bear Bets</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251212010000 +0000" stop="20251212030000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212030000 +0000" stop="20251212040000 +0000">
-    <title lang="eng">Fox Sports FIFA World Cup 2026 Draw Reaction</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212040000 +0000" stop="20251212043000 +0000">
+  <programme channel="Fox Sports 1" start="20251213000000 +0000" stop="20251213003000 +0000">
     <title lang="eng">OutKick the Show with Clay Travis</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251212043000 +0000" stop="20251212050000 +0000">
-    <title lang="eng">The Joel Klatt Show: A College Football Podcast</title>
+  <programme channel="Fox Sports 1" start="20251213003000 +0000" stop="20251213010000 +0000">
+    <title lang="eng">NFL Films Presents</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251212050000 +0000" stop="20251212053000 +0000">
+  <programme channel="Fox Sports 1" start="20251213010000 +0000" stop="20251213020000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20251213020000 +0000" stop="20251213030000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20251213030000 +0000" stop="20251213040000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20251213040000 +0000" stop="20251213060000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20251213060000 +0000" stop="20251213063000 +0000">
     <title lang="eng">TMZ Sports</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251212053000 +0000" stop="20251212063000 +0000">
-    <title lang="eng">Road to the IndyCar Championship</title>
+  <programme channel="Fox Sports 1" start="20251213063000 +0000" stop="20251213070000 +0000">
+    <title lang="eng">TMZ Sports Weekend</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251212063000 +0000" stop="20251212073000 +0000">
-    <title lang="eng">MotoGP Racing</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212073000 +0000" stop="20251212083000 +0000">
-    <title lang="eng">MotoGP Racing</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212083000 +0000" stop="20251212093000 +0000">
-    <title lang="eng">MotoGP Racing</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212093000 +0000" stop="20251212113000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212093000 +0000" stop="20251212113000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212113000 +0000" stop="20251212120000 +0000">
-    <title lang="eng">Big Noon Kickoff Presents Bear Bets</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212120000 +0000" stop="20251212123000 +0000">
-    <title lang="eng">The Joel Klatt Show: A College Football Podcast</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20251212123000 +0000" stop="20251212130000 +0000">
+  <programme channel="Fox Sports 1" start="20251213070000 +0000" stop="20251213073000 +0000">
     <title lang="eng">OutKick the Show with Clay Travis</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251212130000 +0000" stop="20251212150000 +0000">
-    <title lang="eng">Wake Up Barstool</title>
+  <programme channel="Fox Sports 1" start="20251213073000 +0000" stop="20251213080000 +0000">
+    <title lang="eng">Big Noon Kickoff Presents Bear Bets</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20251212150000 +0000" stop="20251212170000 +0000">
-    <title lang="eng">Wake Up Barstool</title>
+  <programme channel="Fox Sports 1" start="20251213080000 +0000" stop="20251213083000 +0000">
+    <title lang="eng">The Joel Klatt Show: A College Football Podcast</title>
   </programme>
-  <programme channel="Sportsnet (East)" start="20251211160000 +0000" stop="20251211170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="Fox Sports 1" start="20251213083000 +0000" stop="20251213113000 +0000">
+    <title lang="eng">College Football</title>
   </programme>
-  <programme channel="Sportsnet (East)" start="20251211170000 +0000" stop="20251211180000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="Fox Sports 1" start="20251213083000 +0000" stop="20251213113000 +0000">
+    <title lang="eng">College Football</title>
   </programme>
-  <programme channel="Sportsnet (East)" start="20251211180000 +0000" stop="20251211200000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Fox Sports 1" start="20251213113000 +0000" stop="20251213123000 +0000">
+    <title lang="eng">College Football</title>
   </programme>
-  <programme channel="Sportsnet (East)" start="20251211200000 +0000" stop="20251211210000 +0000">
-    <title lang="eng">Game of Gold</title>
+  <programme channel="Fox Sports 1" start="20251213123000 +0000" stop="20251213130000 +0000">
+    <title lang="eng">The Joel Klatt Show: A College Football Podcast</title>
   </programme>
-  <programme channel="Sportsnet (East)" start="20251211210000 +0000" stop="20251211220000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="Fox Sports 1" start="20251213130000 +0000" stop="20251213133000 +0000">
+    <title lang="eng">OutKick the Show with Clay Travis</title>
   </programme>
-  <programme channel="Sportsnet (East)" start="20251211220000 +0000" stop="20251211230000 +0000">
-    <title lang="eng">Real Kyper &amp; Bourne</title>
+  <programme channel="Fox Sports 1" start="20251213133000 +0000" stop="20251213153000 +0000">
+    <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Sportsnet (East)" start="20251211230000 +0000" stop="20251211233000 +0000">
-    <title lang="eng">The FAN Pregame</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251211233000 +0000" stop="20251212000000 +0000">
-    <title lang="eng">Hockey Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212000000 +0000" stop="20251212023000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212023000 +0000" stop="20251212050000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212050000 +0000" stop="20251212053000 +0000">
-    <title lang="eng">Road to the NHL Winter Classic</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212053000 +0000" stop="20251212060000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212060000 +0000" stop="20251212063000 +0000">
-    <title lang="eng">Misplays of the Month</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212063000 +0000" stop="20251212070000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212070000 +0000" stop="20251212073000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212073000 +0000" stop="20251212080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212080000 +0000" stop="20251212090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212090000 +0000" stop="20251212100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212100000 +0000" stop="20251212110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212110000 +0000" stop="20251212120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212120000 +0000" stop="20251212130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212130000 +0000" stop="20251212140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212140000 +0000" stop="20251212150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet (East)" start="20251212150000 +0000" stop="20251212160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="TSN4" start="20251211160000 +0000" stop="20251211170000 +0000">
+  <programme channel="TSN4" start="20251212160000 +0000" stop="20251212170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
   </programme>
-  <programme channel="TSN4" start="20251211170000 +0000" stop="20251211190000 +0000">
+  <programme channel="TSN4" start="20251212170000 +0000" stop="20251212190000 +0000">
     <title lang="eng">First Take</title>
   </programme>
-  <programme channel="TSN4" start="20251211190000 +0000" stop="20251211193000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
+  <programme channel="TSN4" start="20251212190000 +0000" stop="20251212200000 +0000">
+    <title lang="eng">The Cannons -- Brothers on Ice</title>
   </programme>
-  <programme channel="TSN4" start="20251211193000 +0000" stop="20251211200000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
-  </programme>
-  <programme channel="TSN4" start="20251211200000 +0000" stop="20251211210000 +0000">
+  <programme channel="TSN4" start="20251212200000 +0000" stop="20251212210000 +0000">
     <title lang="eng">NBA Today</title>
   </programme>
-  <programme channel="TSN4" start="20251211210000 +0000" stop="20251211230000 +0000">
+  <programme channel="TSN4" start="20251212210000 +0000" stop="20251212230000 +0000">
     <title lang="eng">Overdrive</title>
   </programme>
-  <programme channel="TSN4" start="20251211230000 +0000" stop="20251211233000 +0000">
+  <programme channel="TSN4" start="20251212230000 +0000" stop="20251213000000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN4" start="20251211233000 +0000" stop="20251212000000 +0000">
-    <title lang="eng">Toronto Maple Leafs Pre-Game</title>
+  <programme channel="TSN4" start="20251213000000 +0000" stop="20251213023000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN4" start="20251212000000 +0000" stop="20251212023000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="TSN4" start="20251212023000 +0000" stop="20251212033000 +0000">
+  <programme channel="TSN4" start="20251213023000 +0000" stop="20251213030000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN4" start="20251212033000 +0000" stop="20251212043000 +0000">
-    <title lang="eng">NFL Football</title>
+  <programme channel="TSN4" start="20251213030000 +0000" stop="20251213053000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN4" start="20251212043000 +0000" stop="20251212060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN4" start="20251212060000 +0000" stop="20251212070000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN4" start="20251212070000 +0000" stop="20251212080000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN4" start="20251212080000 +0000" stop="20251212090000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN4" start="20251212090000 +0000" stop="20251212100000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN4" start="20251212100000 +0000" stop="20251212110000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN4" start="20251212110000 +0000" stop="20251212120000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN4" start="20251212120000 +0000" stop="20251212130000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN4" start="20251212130000 +0000" stop="20251212140000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN4" start="20251212140000 +0000" stop="20251212150000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN4" start="20251212150000 +0000" stop="20251212160000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN5" start="20251211160000 +0000" stop="20251211170000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN5" start="20251211170000 +0000" stop="20251211173000 +0000">
+  <programme channel="TSN4" start="20251213053000 +0000" stop="20251213060000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN5" start="20251211173000 +0000" stop="20251211180000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="TSN4" start="20251213060000 +0000" stop="20251213070000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251211180000 +0000" stop="20251211183000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="TSN4" start="20251213070000 +0000" stop="20251213080000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251211183000 +0000" stop="20251211190000 +0000">
-    <title lang="eng">Why We Love Football</title>
+  <programme channel="TSN4" start="20251213080000 +0000" stop="20251213090000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251211190000 +0000" stop="20251211193000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
+  <programme channel="TSN4" start="20251213090000 +0000" stop="20251213100000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251211193000 +0000" stop="20251211200000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
+  <programme channel="TSN4" start="20251213100000 +0000" stop="20251213110000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251211200000 +0000" stop="20251211210000 +0000">
-    <title lang="eng">NBA Today</title>
+  <programme channel="TSN4" start="20251213110000 +0000" stop="20251213120000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251211210000 +0000" stop="20251211220000 +0000">
-    <title lang="eng">NFL Live</title>
+  <programme channel="TSN4" start="20251213120000 +0000" stop="20251213130000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251211220000 +0000" stop="20251211223000 +0000">
+  <programme channel="TSN4" start="20251213130000 +0000" stop="20251213140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251213140000 +0000" stop="20251213150000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251213150000 +0000" stop="20251213160000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20251212160000 +0000" stop="20251212170000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20251212170000 +0000" stop="20251212173000 +0000">
     <title lang="eng">NFL GameDay</title>
   </programme>
-  <programme channel="TSN5" start="20251211223000 +0000" stop="20251211230000 +0000">
+  <programme channel="TSN5" start="20251212173000 +0000" stop="20251212180000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN5" start="20251212180000 +0000" stop="20251212183000 +0000">
+    <title lang="eng">2025 Motorcycle Experience</title>
+  </programme>
+  <programme channel="TSN5" start="20251212183000 +0000" stop="20251212190000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20251212190000 +0000" stop="20251212200000 +0000">
+    <title lang="eng">The Cannons -- Brothers on Ice</title>
+  </programme>
+  <programme channel="TSN5" start="20251212200000 +0000" stop="20251212210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN5" start="20251212210000 +0000" stop="20251212220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN5" start="20251212220000 +0000" stop="20251212223000 +0000">
+    <title lang="eng">Why We Love Football</title>
+  </programme>
+  <programme channel="TSN5" start="20251212223000 +0000" stop="20251212230000 +0000">
     <title lang="eng">Pardon the Interruption</title>
   </programme>
-  <programme channel="TSN5" start="20251211230000 +0000" stop="20251212000000 +0000">
+  <programme channel="TSN5" start="20251212230000 +0000" stop="20251213003000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212000000 +0000" stop="20251212023000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="TSN5" start="20251213003000 +0000" stop="20251213030000 +0000">
+    <title lang="eng">NLL Lacrosse</title>
   </programme>
-  <programme channel="TSN5" start="20251212023000 +0000" stop="20251212033000 +0000">
+  <programme channel="TSN5" start="20251213030000 +0000" stop="20251213043000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212033000 +0000" stop="20251212043000 +0000">
-    <title lang="eng">NFL Football</title>
+  <programme channel="TSN5" start="20251213043000 +0000" stop="20251213050000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN5" start="20251212043000 +0000" stop="20251212060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213050000 +0000" stop="20251213053000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN5" start="20251212060000 +0000" stop="20251212070000 +0000">
+  <programme channel="TSN5" start="20251213053000 +0000" stop="20251213060000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20251213060000 +0000" stop="20251213070000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212070000 +0000" stop="20251212080000 +0000">
+  <programme channel="TSN5" start="20251213070000 +0000" stop="20251213080000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212080000 +0000" stop="20251212090000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213080000 +0000" stop="20251213090000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212090000 +0000" stop="20251212100000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213090000 +0000" stop="20251213100000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212100000 +0000" stop="20251212110000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213100000 +0000" stop="20251213110000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212110000 +0000" stop="20251212120000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213110000 +0000" stop="20251213120000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212120000 +0000" stop="20251212130000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213120000 +0000" stop="20251213130000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212130000 +0000" stop="20251212140000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213130000 +0000" stop="20251213140000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212140000 +0000" stop="20251212150000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213140000 +0000" stop="20251213150000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN5" start="20251212150000 +0000" stop="20251212160000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="TSN5" start="20251213150000 +0000" stop="20251213160000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
