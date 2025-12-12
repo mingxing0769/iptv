@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN Deportes">
+    <display-name>ESPN Deportes</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
@@ -9,6 +12,72 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="ESPN Deportes" start="20251212160000 +0000" stop="20251212163000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251212163000 +0000" stop="20251212170000 +0000">
+    <title lang="eng">UFC 303: Pereira vs. Procházka</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251212170000 +0000" stop="20251212173000 +0000">
+    <title lang="eng">María, llena eres de fuerza</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251212173000 +0000" stop="20251212180000 +0000">
+    <title lang="eng">UEFA Women's Champions League Highlight Show</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251212180000 +0000" stop="20251212190000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251212190000 +0000" stop="20251212195500 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251212195500 +0000" stop="20251212220000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251212220000 +0000" stop="20251212230000 +0000">
+    <title lang="eng">Ahora o nunca</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251212230000 +0000" stop="20251213000000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213000000 +0000" stop="20251213030000 +0000">
+    <title lang="eng">ESPN KnockOut</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213030000 +0000" stop="20251213040000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213040000 +0000" stop="20251213050000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213050000 +0000" stop="20251213060000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213060000 +0000" stop="20251213070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213070000 +0000" stop="20251213080000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213080000 +0000" stop="20251213090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213090000 +0000" stop="20251213100000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213100000 +0000" stop="20251213110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213110000 +0000" stop="20251213120000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213120000 +0000" stop="20251213125500 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213125500 +0000" stop="20251213150000 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251213150000 +0000" stop="20251213171500 +0000">
+    <title lang="eng">Fútbol LaLiga</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20251212170000 +0000" stop="20251212200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
