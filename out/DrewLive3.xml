@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Sportsnet (East)">
+    <display-name>Sportsnet (East)</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -74,6 +77,84 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251213133000 +0000" stop="20251213153000 +0000">
     <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251212160000 +0000" stop="20251212170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251212170000 +0000" stop="20251212180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251212180000 +0000" stop="20251212200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251212200000 +0000" stop="20251212210000 +0000">
+    <title lang="eng">High Stakes Poker</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251212210000 +0000" stop="20251212220000 +0000">
+    <title lang="eng">High Stakes Poker</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251212220000 +0000" stop="20251212230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251212230000 +0000" stop="20251212233000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251212233000 +0000" stop="20251213000000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213000000 +0000" stop="20251213003000 +0000">
+    <title lang="eng">Road to the NHL Winter Classic</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213003000 +0000" stop="20251213010000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213010000 +0000" stop="20251213033000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213033000 +0000" stop="20251213043000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213043000 +0000" stop="20251213050000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213050000 +0000" stop="20251213053000 +0000">
+    <title lang="eng">Road to the NHL Winter Classic</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213053000 +0000" stop="20251213060000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213060000 +0000" stop="20251213063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213063000 +0000" stop="20251213070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213070000 +0000" stop="20251213080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213080000 +0000" stop="20251213090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213090000 +0000" stop="20251213100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213100000 +0000" stop="20251213110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213110000 +0000" stop="20251213120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213120000 +0000" stop="20251213130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213130000 +0000" stop="20251213140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213140000 +0000" stop="20251213150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251213150000 +0000" stop="20251213160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="TSN4" start="20251212160000 +0000" stop="20251212170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
