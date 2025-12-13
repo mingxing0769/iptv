@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet West">
-    <display-name>Sportsnet West</display-name>
-  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -62,66 +59,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251214150000 +0000" stop="20251214160000 +0000">
     <title lang="eng">Golf</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251213160000 +0000" stop="20251213170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251213170000 +0000" stop="20251213173000 +0000">
-    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251213173000 +0000" stop="20251213200000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251213200000 +0000" stop="20251213223000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251213223000 +0000" stop="20251213230000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251213230000 +0000" stop="20251213233000 +0000">
-    <title lang="eng">Road to the NHL Winter Classic</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251213233000 +0000" stop="20251214000000 +0000">
-    <title lang="eng">Hockey Central Saturday</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214000000 +0000" stop="20251214030000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214030000 +0000" stop="20251214060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214060000 +0000" stop="20251214063000 +0000">
-    <title lang="eng">After Hours</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214063000 +0000" stop="20251214070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214070000 +0000" stop="20251214080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214080000 +0000" stop="20251214090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214090000 +0000" stop="20251214100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214100000 +0000" stop="20251214110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214110000 +0000" stop="20251214120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214120000 +0000" stop="20251214130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214130000 +0000" stop="20251214140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214140000 +0000" stop="20251214150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20251214150000 +0000" stop="20251214160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="TSN4" start="20251213160000 +0000" stop="20251213170000 +0000">
     <title lang="eng">SportsCentre</title>
