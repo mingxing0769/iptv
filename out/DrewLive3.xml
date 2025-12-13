@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Sportsnet One">
+    <display-name>Sportsnet One</display-name>
+  </channel>
   <channel id="TSN4">
     <display-name>TSN4</display-name>
   </channel>
@@ -74,6 +77,60 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251213133000 +0000" stop="20251213153000 +0000">
     <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251212170000 +0000" stop="20251212190000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251212190000 +0000" stop="20251212210000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251212210000 +0000" stop="20251212220000 +0000">
+    <title lang="eng">NHL Tonight: First Shift</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251212220000 +0000" stop="20251212230000 +0000">
+    <title lang="eng">NHL Now</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251212230000 +0000" stop="20251213000000 +0000">
+    <title lang="eng">High Stakes Poker</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213000000 +0000" stop="20251213010000 +0000">
+    <title lang="eng">High Stakes Poker</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213010000 +0000" stop="20251213013000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213013000 +0000" stop="20251213040000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213040000 +0000" stop="20251213043000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213043000 +0000" stop="20251213050000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213050000 +0000" stop="20251213070000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213070000 +0000" stop="20251213090000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213090000 +0000" stop="20251213110000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213110000 +0000" stop="20251213113000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213113000 +0000" stop="20251213120000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213120000 +0000" stop="20251213140000 +0000">
+    <title lang="eng">FA Women's Super League</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213140000 +0000" stop="20251213143000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251213143000 +0000" stop="20251213163000 +0000">
+    <title lang="eng">NHL Hockey</title>
   </programme>
   <programme channel="TSN4" start="20251212160000 +0000" stop="20251212170000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
