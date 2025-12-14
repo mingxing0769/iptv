@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
@@ -15,6 +18,57 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="ESPN" start="20251214180000 +0000" stop="20251214193000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN" start="20251214193000 +0000" stop="20251214203000 +0000">
+    <title lang="eng">E60</title>
+  </programme>
+  <programme channel="ESPN" start="20251214203000 +0000" stop="20251214223000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20251214223000 +0000" stop="20251215000000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN" start="20251215000000 +0000" stop="20251215003000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251215003000 +0000" stop="20251215023000 +0000">
+    <title lang="eng">Women's College Volleyball</title>
+  </programme>
+  <programme channel="ESPN" start="20251215023000 +0000" stop="20251215040000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN" start="20251215040000 +0000" stop="20251215043000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251215043000 +0000" stop="20251215060000 +0000">
+    <title lang="eng">SportsCenter With Scott Van Pelt</title>
+  </programme>
+  <programme channel="ESPN" start="20251215060000 +0000" stop="20251215070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251215070000 +0000" stop="20251215080000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251215080000 +0000" stop="20251215090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251215090000 +0000" stop="20251215110000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="ESPN" start="20251215110000 +0000" stop="20251215120000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251215120000 +0000" stop="20251215130000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20251215130000 +0000" stop="20251215150000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPN" start="20251215150000 +0000" stop="20251215170000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20251214160000 +0000" stop="20251214170000 +0000">
     <title lang="eng">Tristar Arenacross</title>
   </programme>
