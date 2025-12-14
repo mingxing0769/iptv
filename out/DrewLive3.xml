@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN U">
-    <display-name>ESPN U</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
@@ -12,42 +9,6 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="ESPN U" start="20251213163000 +0000" stop="20251213170000 +0000">
-    <title lang="eng">Heisman Trophy Top Ten Finalists Show</title>
-  </programme>
-  <programme channel="ESPN U" start="20251213170000 +0000" stop="20251213190000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20251213190000 +0000" stop="20251213210000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20251213210000 +0000" stop="20251213230000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20251213230000 +0000" stop="20251214010000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20251214010000 +0000" stop="20251214030000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20251214030000 +0000" stop="20251214050000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20251214050000 +0000" stop="20251214060000 +0000">
-    <title lang="eng">Heisman Trophy Ceremony</title>
-  </programme>
-  <programme channel="ESPN U" start="20251214060000 +0000" stop="20251214090000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="ESPN U" start="20251214090000 +0000" stop="20251214120000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
-  <programme channel="ESPN U" start="20251214120000 +0000" stop="20251214130000 +0000">
-    <title lang="eng">Heisman Trophy Ceremony</title>
-  </programme>
-  <programme channel="ESPN U" start="20251214130000 +0000" stop="20251214160000 +0000">
-    <title lang="eng">College Football</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251213153000 +0000" stop="20251213160000 +0000">
     <title lang="eng">Big Noon Kickoff Presents Bear Bets</title>
   </programme>
