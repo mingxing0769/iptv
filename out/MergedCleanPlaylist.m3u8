@@ -8,16 +8,6 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTV.pf@SD" tvg-name="TNTV (1080p)" tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="General",TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
-#EXTGRP:Live
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
-https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
-#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
-https://tvpass.org/live/sportsnet-east/sd
-#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh" tvg-logo="None" group-title="Live",Sportsnet Pittsburgh
-https://tvpass.org/live/sportsnet-pittsburgh/sd
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
-https://tvpass.org/live/tsn1/sd
-
 #EXTGRP:News
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
 https://c.mjh.nz/abc-news.m3u8
