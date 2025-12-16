@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet Pittsburgh">
-    <display-name>Sportsnet Pittsburgh</display-name>
-  </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
   </channel>
@@ -65,87 +62,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251217150000 +0000" stop="20251217170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251216153000 +0000" stop="20251216160000 +0000">
-    <title lang="eng">The Aging Brain</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251216160000 +0000" stop="20251216163000 +0000">
-    <title lang="eng">All Blacks in Their Own Words</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251216163000 +0000" stop="20251216170000 +0000">
-    <title lang="eng">All Blacks in Their Own Words</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251216170000 +0000" stop="20251216180000 +0000">
-    <title lang="eng">Pro Footvolley Tour</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251216180000 +0000" stop="20251216200000 +0000">
-    <title lang="eng">Liverpool Football</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251216200000 +0000" stop="20251216210000 +0000">
-    <title lang="eng">LFC Trending</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251216210000 +0000" stop="20251216233000 +0000">
-    <title lang="eng">World Jai-Alai League</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251216233000 +0000" stop="20251217000000 +0000">
-    <title lang="eng">Steel City Chronicles</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217000000 +0000" stop="20251217003000 +0000">
-    <title lang="eng">Penguins Faceoff Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217003000 +0000" stop="20251217013000 +0000">
-    <title lang="eng">World Poker Tour</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217013000 +0000" stop="20251217023000 +0000">
-    <title lang="eng">Triton Poker</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217023000 +0000" stop="20251217030000 +0000">
-    <title lang="eng">Inside Penguins Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217030000 +0000" stop="20251217033000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217033000 +0000" stop="20251217053000 +0000">
-    <title lang="eng">PWHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217053000 +0000" stop="20251217060000 +0000">
-    <title lang="eng">She's In The Game</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217060000 +0000" stop="20251217080000 +0000">
-    <title lang="eng">Penguins Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217080000 +0000" stop="20251217083000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217083000 +0000" stop="20251217090000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217090000 +0000" stop="20251217100000 +0000">
-    <title lang="eng">SportsWrap With Jason Page</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217100000 +0000" stop="20251217103000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217103000 +0000" stop="20251217110000 +0000">
-    <title lang="eng">Penguins Overtime Live</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217110000 +0000" stop="20251217130000 +0000">
-    <title lang="eng">Pirates Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217130000 +0000" stop="20251217133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217133000 +0000" stop="20251217140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217140000 +0000" stop="20251217143000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217143000 +0000" stop="20251217150000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251217150000 +0000" stop="20251217153000 +0000">
-    <title lang="eng">Paid Programming</title>
   </programme>
   <programme channel="TSN2" start="20251216153000 +0000" stop="20251216160000 +0000">
     <title lang="eng">SC</title>
