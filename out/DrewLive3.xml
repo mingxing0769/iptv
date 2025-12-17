@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
+  </channel>
+  <channel id="SNY Sportsnet New York Comcast">
+    <display-name>SNY Sportsnet New York Comcast</display-name>
   </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
@@ -18,66 +18,6 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="ESPN Deportes" start="20251216160000 +0000" stop="20251216170000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251216170000 +0000" stop="20251216180000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251216180000 +0000" stop="20251216190000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251216190000 +0000" stop="20251216200000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251216200000 +0000" stop="20251216210000 +0000">
-    <title lang="eng">Equipo F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251216210000 +0000" stop="20251216230000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251216230000 +0000" stop="20251217000000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217000000 +0000" stop="20251217010000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217010000 +0000" stop="20251217020000 +0000">
-    <title lang="eng">Es así y punto</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217020000 +0000" stop="20251217053000 +0000">
-    <title lang="eng">Fútbol Americano Universitario</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217053000 +0000" stop="20251217060000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217060000 +0000" stop="20251217070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217070000 +0000" stop="20251217080000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217080000 +0000" stop="20251217090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217090000 +0000" stop="20251217100000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217100000 +0000" stop="20251217110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217110000 +0000" stop="20251217130000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217130000 +0000" stop="20251217140000 +0000">
-    <title lang="eng">Es así y punto</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217140000 +0000" stop="20251217150000 +0000">
-    <title lang="eng">Generación F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20251217150000 +0000" stop="20251217160000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251216170000 +0000" stop="20251216200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -125,6 +65,87 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251217150000 +0000" stop="20251217170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251216160000 +0000" stop="20251216163000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251216163000 +0000" stop="20251216170000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251216170000 +0000" stop="20251216173000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251216173000 +0000" stop="20251216180000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251216180000 +0000" stop="20251216210000 +0000">
+    <title lang="eng">Mets Classics</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251216210000 +0000" stop="20251216230000 +0000">
+    <title lang="eng">Evan &amp; Tiki</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251216230000 +0000" stop="20251216233000 +0000">
+    <title lang="eng">Baseball Night in N.Y.</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251216233000 +0000" stop="20251217013000 +0000">
+    <title lang="eng">The Wright Way</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217013000 +0000" stop="20251217040000 +0000">
+    <title lang="eng">Mets Classics</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217040000 +0000" stop="20251217043000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217043000 +0000" stop="20251217050000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217050000 +0000" stop="20251217053000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217053000 +0000" stop="20251217060000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217060000 +0000" stop="20251217063000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217063000 +0000" stop="20251217070000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217070000 +0000" stop="20251217080000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217080000 +0000" stop="20251217090000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217090000 +0000" stop="20251217100000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217100000 +0000" stop="20251217110000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217110000 +0000" stop="20251217113000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217113000 +0000" stop="20251217120000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217120000 +0000" stop="20251217123000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217123000 +0000" stop="20251217130000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217130000 +0000" stop="20251217133000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217133000 +0000" stop="20251217140000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217140000 +0000" stop="20251217150000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20251217150000 +0000" stop="20251217160000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
   </programme>
   <programme channel="TSN2" start="20251216153000 +0000" stop="20251216160000 +0000">
     <title lang="eng">SC</title>
