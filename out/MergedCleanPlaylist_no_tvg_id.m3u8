@@ -9,26 +9,10 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
-https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
-#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-name="SNY Sportsnet New York Comcast" tvg-logo="None" group-title="Live",SNY Sportsnet New York Comcast
-https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
-https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 #EXTINF:-1 tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
 https://tvpass.org/live/sportsnet-east/sd
-#EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="None" group-title="Live",Sportsnet Pacific
-https://tvpass.org/live/sportsnet-pacific/sd
-#EXTINF:-1 tvg-name="TNT Eastern Feed" tvg-logo="None" group-title="Live",TNT Eastern Feed
-https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
 https://tvpass.org/live/tsn1/sd
 #EXTINF:-1 tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
@@ -115,6 +99,8 @@ https://fl1.moveonjoy.com/TSN_4/index.m3u8
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTGRP:Undefined
+#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="None" group-title="Undefined",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
