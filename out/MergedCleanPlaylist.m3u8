@@ -9,8 +9,10 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" tvg-logo="None" group-title="Live",TNT Eastern Feed
-https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast" tvg-logo="None" group-title="Live",SNY Sportsnet New York Comcast
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh" tvg-logo="None" group-title="Live",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/sd
 
 #EXTGRP:News
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
@@ -45,8 +47,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-name="CCTV+ 2 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-name="Fox News Channel (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p)
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" tvg-name="Fox News Radio (720p)" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-name="SABC News (720p) [Geo-blocked]" tvg-logo="https://i.postimg.cc/13JtFJf9/sabcnews.png" group-title="News",SABC News (720p) [Geo-blocked]
