@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Sportsnet Pacific">
+    <display-name>Sportsnet Pacific</display-name>
+  </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
   </channel>
@@ -59,6 +62,75 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251220150000 +0000" stop="20251220153000 +0000">
     <title lang="eng">OutKick the Show with Clay Travis</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251219160000 +0000" stop="20251219170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251219170000 +0000" stop="20251219180000 +0000">
+    <title lang="eng">Spruce Meadows on Sportsnet</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251219180000 +0000" stop="20251219203000 +0000">
+    <title lang="eng">Grand Slam of Curling</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251219203000 +0000" stop="20251219210000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251219210000 +0000" stop="20251219220000 +0000">
+    <title lang="eng">No Gamble, No Future</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251219220000 +0000" stop="20251219230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251219230000 +0000" stop="20251219233000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251219233000 +0000" stop="20251220000000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220000000 +0000" stop="20251220023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220023000 +0000" stop="20251220030000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220030000 +0000" stop="20251220053000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220053000 +0000" stop="20251220060000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220060000 +0000" stop="20251220063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220063000 +0000" stop="20251220070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220070000 +0000" stop="20251220080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220080000 +0000" stop="20251220090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220090000 +0000" stop="20251220100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220100000 +0000" stop="20251220110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220110000 +0000" stop="20251220120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220120000 +0000" stop="20251220130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220130000 +0000" stop="20251220140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220140000 +0000" stop="20251220150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20251220150000 +0000" stop="20251220160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="TSN2" start="20251219170000 +0000" stop="20251219183000 +0000">
     <title lang="eng">We the North: From Prehistoric to Historic</title>
