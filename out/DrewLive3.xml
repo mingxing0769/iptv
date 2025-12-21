@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet Ontario">
-    <display-name>Sportsnet Ontario</display-name>
-  </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
   </channel>
@@ -65,66 +62,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251221140000 +0000" stop="20251221170000 +0000">
     <title lang="eng">2025 Bassmaster Classic</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251220160000 +0000" stop="20251220170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251220170000 +0000" stop="20251220173000 +0000">
-    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251220173000 +0000" stop="20251220200000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251220200000 +0000" stop="20251220223000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251220223000 +0000" stop="20251220230000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251220230000 +0000" stop="20251220233000 +0000">
-    <title lang="eng">Road to the NHL Winter Classic</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251220233000 +0000" stop="20251221000000 +0000">
-    <title lang="eng">Hockey Central Saturday</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221000000 +0000" stop="20251221030000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221030000 +0000" stop="20251221060000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221060000 +0000" stop="20251221063000 +0000">
-    <title lang="eng">After Hours</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221063000 +0000" stop="20251221070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221070000 +0000" stop="20251221080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221080000 +0000" stop="20251221090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221090000 +0000" stop="20251221100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221100000 +0000" stop="20251221110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221110000 +0000" stop="20251221120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221120000 +0000" stop="20251221130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221130000 +0000" stop="20251221140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221140000 +0000" stop="20251221150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20251221150000 +0000" stop="20251221160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
   </programme>
   <programme channel="TSN2" start="20251220163000 +0000" stop="20251220170000 +0000">
     <title lang="eng">SC</title>
