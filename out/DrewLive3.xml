@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Fox News">
-    <display-name>Fox News</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
@@ -15,78 +12,6 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="Fox News" start="20251221160000 +0000" stop="20251221170000 +0000">
-    <title lang="eng">The Sunday Briefing</title>
-  </programme>
-  <programme channel="Fox News" start="20251221170000 +0000" stop="20251221180000 +0000">
-    <title lang="eng">Fox News Live</title>
-  </programme>
-  <programme channel="Fox News" start="20251221180000 +0000" stop="20251221190000 +0000">
-    <title lang="eng">Fox News Live</title>
-  </programme>
-  <programme channel="Fox News" start="20251221190000 +0000" stop="20251221200000 +0000">
-    <title lang="eng">FOX News Sunday</title>
-  </programme>
-  <programme channel="Fox News" start="20251221200000 +0000" stop="20251221210000 +0000">
-    <title lang="eng">Fox Report With Jon Scott</title>
-  </programme>
-  <programme channel="Fox News" start="20251221210000 +0000" stop="20251221220000 +0000">
-    <title lang="eng">Fox Report With Jon Scott</title>
-  </programme>
-  <programme channel="Fox News" start="20251221220000 +0000" stop="20251221230000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20251221230000 +0000" stop="20251222000000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20251222000000 +0000" stop="20251222010000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20251222010000 +0000" stop="20251222020000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20251222020000 +0000" stop="20251222030000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20251222030000 +0000" stop="20251222040000 +0000">
-    <title lang="eng">One Nation With Brian Kilmeade</title>
-  </programme>
-  <programme channel="Fox News" start="20251222040000 +0000" stop="20251222050000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20251222050000 +0000" stop="20251222060000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20251222060000 +0000" stop="20251222070000 +0000">
-    <title lang="eng">One Nation With Brian Kilmeade</title>
-  </programme>
-  <programme channel="Fox News" start="20251222070000 +0000" stop="20251222080000 +0000">
-    <title lang="eng">FOX News Sunday</title>
-  </programme>
-  <programme channel="Fox News" start="20251222080000 +0000" stop="20251222090000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20251222090000 +0000" stop="20251222100000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20251222100000 +0000" stop="20251222110000 +0000">
-    <title lang="eng">FOX &amp; Friends First</title>
-  </programme>
-  <programme channel="Fox News" start="20251222110000 +0000" stop="20251222120000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20251222120000 +0000" stop="20251222130000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20251222130000 +0000" stop="20251222140000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20251222140000 +0000" stop="20251222150000 +0000">
-    <title lang="eng">America's Newsroom</title>
-  </programme>
-  <programme channel="Fox News" start="20251222150000 +0000" stop="20251222160000 +0000">
-    <title lang="eng">America's Newsroom</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251221170000 +0000" stop="20251221180000 +0000">
     <title lang="eng">Road to the IndyCar Championship</title>
   </programme>
