@@ -9,6 +9,9 @@
   <channel id="TSN3">
     <display-name>TSN3</display-name>
   </channel>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
+  </channel>
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
@@ -232,6 +235,84 @@
     <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN3" start="20251224150000 +0000" stop="20251224160000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251223160000 +0000" stop="20251223170000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20251223170000 +0000" stop="20251223190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="TSN4" start="20251223190000 +0000" stop="20251223193000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251223193000 +0000" stop="20251223200000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251223200000 +0000" stop="20251223210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN4" start="20251223210000 +0000" stop="20251223220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN4" start="20251223220000 +0000" stop="20251223223000 +0000">
+    <title lang="eng">Behind the Leaf</title>
+  </programme>
+  <programme channel="TSN4" start="20251223223000 +0000" stop="20251223230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN4" start="20251223230000 +0000" stop="20251224003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224003000 +0000" stop="20251224010000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251224010000 +0000" stop="20251224013000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251224013000 +0000" stop="20251224040000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN4" start="20251224040000 +0000" stop="20251224043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224043000 +0000" stop="20251224050000 +0000">
+    <title lang="eng">Behind the Leaf</title>
+  </programme>
+  <programme channel="TSN4" start="20251224050000 +0000" stop="20251224053000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251224053000 +0000" stop="20251224060000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251224060000 +0000" stop="20251224070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224070000 +0000" stop="20251224080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224080000 +0000" stop="20251224090000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224090000 +0000" stop="20251224100000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224100000 +0000" stop="20251224110000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224110000 +0000" stop="20251224120000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224120000 +0000" stop="20251224130000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224130000 +0000" stop="20251224140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224140000 +0000" stop="20251224150000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224150000 +0000" stop="20251224160000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN5" start="20251223160000 +0000" stop="20251223170000 +0000">
