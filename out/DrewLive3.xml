@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="BBC News North America HD">
-    <display-name>BBC News North America HD</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
+  </channel>
+  <channel id="Sportsnet (East)">
+    <display-name>Sportsnet (East)</display-name>
+  </channel>
+  <channel id="TNT Eastern Feed">
+    <display-name>TNT Eastern Feed</display-name>
   </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
@@ -15,159 +18,6 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="BBC News North America HD" start="20251223153000 +0000" stop="20251223160000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223160000 +0000" stop="20251223163000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223163000 +0000" stop="20251223164500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223164500 +0000" stop="20251223165500 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223165500 +0000" stop="20251223170000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223170000 +0000" stop="20251223173000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223173000 +0000" stop="20251223180000 +0000">
-    <title lang="eng">Focus on Africa</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223180000 +0000" stop="20251223183000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223183000 +0000" stop="20251223190000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223190000 +0000" stop="20251223193000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223193000 +0000" stop="20251223195500 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223195500 +0000" stop="20251223200000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223200000 +0000" stop="20251223203000 +0000">
-    <title lang="eng">The Context</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223203000 +0000" stop="20251223210000 +0000">
-    <title lang="eng">The Context</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223210000 +0000" stop="20251223213000 +0000">
-    <title lang="eng">The Context USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223213000 +0000" stop="20251223215500 +0000">
-    <title lang="eng">The Context USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223215500 +0000" stop="20251223220000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223220000 +0000" stop="20251223223000 +0000">
-    <title lang="eng">BBC World News America</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223223000 +0000" stop="20251223230000 +0000">
-    <title lang="eng">The President's Path</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251223230000 +0000" stop="20251224000000 +0000">
-    <title lang="eng">BBC World News America</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224000000 +0000" stop="20251224003000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224003000 +0000" stop="20251224010000 +0000">
-    <title lang="eng">Newscast</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224010000 +0000" stop="20251224013000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224013000 +0000" stop="20251224020000 +0000">
-    <title lang="eng">Tech Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224020000 +0000" stop="20251224023000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224023000 +0000" stop="20251224030000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224030000 +0000" stop="20251224033000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224033000 +0000" stop="20251224040000 +0000">
-    <title lang="eng">Access All Areas</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224040000 +0000" stop="20251224043000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224043000 +0000" stop="20251224050000 +0000">
-    <title lang="eng">AI Decoded</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224050000 +0000" stop="20251224053000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224053000 +0000" stop="20251224060000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224060000 +0000" stop="20251224063000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224063000 +0000" stop="20251224070000 +0000">
-    <title lang="eng">The Interview</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224070000 +0000" stop="20251224073000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224073000 +0000" stop="20251224080000 +0000">
-    <title lang="eng">Access All Areas</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224080000 +0000" stop="20251224083000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224083000 +0000" stop="20251224090000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224090000 +0000" stop="20251224093000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224093000 +0000" stop="20251224100000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224100000 +0000" stop="20251224103000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224103000 +0000" stop="20251224110000 +0000">
-    <title lang="eng">The Interview</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224110000 +0000" stop="20251224113000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224113000 +0000" stop="20251224120000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224120000 +0000" stop="20251224123000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224123000 +0000" stop="20251224130000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224130000 +0000" stop="20251224133000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224133000 +0000" stop="20251224140000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224140000 +0000" stop="20251224143000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224143000 +0000" stop="20251224150000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224150000 +0000" stop="20251224153000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251223170000 +0000" stop="20251223200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -221,6 +71,126 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251224150000 +0000" stop="20251224170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251223160000 +0000" stop="20251223170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251223170000 +0000" stop="20251223180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251223180000 +0000" stop="20251223190000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251223190000 +0000" stop="20251223193000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251223193000 +0000" stop="20251223200000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251223200000 +0000" stop="20251223210000 +0000">
+    <title lang="eng">World Poker Tour</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251223210000 +0000" stop="20251223220000 +0000">
+    <title lang="eng">Game of Gold</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251223220000 +0000" stop="20251224000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224000000 +0000" stop="20251224023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224023000 +0000" stop="20251224043000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224043000 +0000" stop="20251224053000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224053000 +0000" stop="20251224060000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224060000 +0000" stop="20251224063000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224063000 +0000" stop="20251224070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224070000 +0000" stop="20251224080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224080000 +0000" stop="20251224090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224090000 +0000" stop="20251224100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224100000 +0000" stop="20251224110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224110000 +0000" stop="20251224120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224120000 +0000" stop="20251224130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224130000 +0000" stop="20251224140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224140000 +0000" stop="20251224150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20251224150000 +0000" stop="20251224160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251223160000 +0000" stop="20251223180000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251223180000 +0000" stop="20251223200000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251223200000 +0000" stop="20251223203000 +0000">
+    <title lang="eng">Road to the NHL Winter Classic</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251223203000 +0000" stop="20251223210000 +0000">
+    <title lang="eng">NHL on TNT Face Off</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251223210000 +0000" stop="20251223233000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251223233000 +0000" stop="20251224020000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224020000 +0000" stop="20251224050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224050000 +0000" stop="20251224053000 +0000">
+    <title lang="eng">NHL Post-Game on TNT</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224053000 +0000" stop="20251224060000 +0000">
+    <title lang="eng">Road to the NHL Winter Classic</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224060000 +0000" stop="20251224080000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224080000 +0000" stop="20251224100000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224100000 +0000" stop="20251224110000 +0000">
+    <title lang="eng">Cold Case</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224110000 +0000" stop="20251224115900 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224115900 +0000" stop="20251224125800 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224125800 +0000" stop="20251224135700 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224135700 +0000" stop="20251224145600 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224145600 +0000" stop="20251224152800 +0000">
+    <title lang="eng">Shrek the Halls</title>
   </programme>
   <programme channel="TSN2" start="20251223170000 +0000" stop="20251223190000 +0000">
     <title lang="eng">The Pat McAfee Show</title>
