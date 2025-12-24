@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="BBC News North America HD">
-    <display-name>BBC News North America HD</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Spectrum SportsNet LA">
-    <display-name>Spectrum SportsNet LA</display-name>
-  </channel>
-  <channel id="Spectrum Sportsnet Lakers">
-    <display-name>Spectrum Sportsnet Lakers</display-name>
-  </channel>
-  <channel id="Sportsnet 360">
-    <display-name>Sportsnet 360</display-name>
-  </channel>
-  <channel id="Sportsnet Pittsburgh">
-    <display-name>Sportsnet Pittsburgh</display-name>
-  </channel>
-  <channel id="TSN1">
-    <display-name>TSN1</display-name>
+  <channel id="Sportsnet (East)">
+    <display-name>Sportsnet (East)</display-name>
   </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
@@ -30,150 +15,6 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="BBC News North America HD" start="20251224153000 +0000" stop="20251224160000 +0000">
-    <title lang="eng">The Interview</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224160000 +0000" stop="20251224163000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224163000 +0000" stop="20251224170000 +0000">
-    <title lang="eng">Access All Areas</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224170000 +0000" stop="20251224173000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224173000 +0000" stop="20251224180000 +0000">
-    <title lang="eng">Focus on Africa</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224180000 +0000" stop="20251224183000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224183000 +0000" stop="20251224190000 +0000">
-    <title lang="eng">The President's Path</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224190000 +0000" stop="20251224193000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224193000 +0000" stop="20251224200000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224200000 +0000" stop="20251224203000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224203000 +0000" stop="20251224210000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224210000 +0000" stop="20251224213000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224213000 +0000" stop="20251224220000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224220000 +0000" stop="20251224223000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224223000 +0000" stop="20251224230000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224230000 +0000" stop="20251224233000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251224233000 +0000" stop="20251225000000 +0000">
-    <title lang="eng">The Battle to Get MY Child Back</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225000000 +0000" stop="20251225003000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225003000 +0000" stop="20251225010000 +0000">
-    <title lang="eng">The President's Path</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225010000 +0000" stop="20251225013000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225013000 +0000" stop="20251225020000 +0000">
-    <title lang="eng">Nobel Minds</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225020000 +0000" stop="20251225023000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225023000 +0000" stop="20251225030000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225030000 +0000" stop="20251225033000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225033000 +0000" stop="20251225040000 +0000">
-    <title lang="eng">Access All Areas</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225040000 +0000" stop="20251225043000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225043000 +0000" stop="20251225050000 +0000">
-    <title lang="eng">AI Decoded</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225050000 +0000" stop="20251225053000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225053000 +0000" stop="20251225060000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225060000 +0000" stop="20251225063000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225063000 +0000" stop="20251225070000 +0000">
-    <title lang="eng">The Interview</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225070000 +0000" stop="20251225073000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225073000 +0000" stop="20251225080000 +0000">
-    <title lang="eng">Access All Areas</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225080000 +0000" stop="20251225083000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225083000 +0000" stop="20251225090000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225090000 +0000" stop="20251225093000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225093000 +0000" stop="20251225100000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225100000 +0000" stop="20251225103000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225103000 +0000" stop="20251225110000 +0000">
-    <title lang="eng">The Interview</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225110000 +0000" stop="20251225113000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225113000 +0000" stop="20251225120000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225120000 +0000" stop="20251225123000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225123000 +0000" stop="20251225130000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225130000 +0000" stop="20251225133000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225133000 +0000" stop="20251225140000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225140000 +0000" stop="20251225143000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225143000 +0000" stop="20251225150000 +0000">
-    <title lang="eng">Review</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20251225150000 +0000" stop="20251225151000 +0000">
-    <title lang="eng">The King's Christmas Broadcast</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251224170000 +0000" stop="20251224200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -213,356 +54,62 @@
   <programme channel="Fox Sports 1" start="20251225150000 +0000" stop="20251225180000 +0000">
     <title lang="eng">Greatest Races: NASCAR</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251224160000 +0000" stop="20251224170000 +0000">
-    <title lang="eng">Super High Roller Bowl</title>
+  <programme channel="Sportsnet (East)" start="20251224160000 +0000" stop="20251224170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251224170000 +0000" stop="20251224190000 +0000">
-    <title lang="eng">The Early Line</title>
+  <programme channel="Sportsnet (East)" start="20251224170000 +0000" stop="20251224180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251224190000 +0000" stop="20251224223000 +0000">
-    <title lang="eng">Dodgers Rewind</title>
+  <programme channel="Sportsnet (East)" start="20251224180000 +0000" stop="20251225000000 +0000">
+    <title lang="eng">Misplays of the Month Marathon</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251224223000 +0000" stop="20251225013000 +0000">
-    <title lang="eng">Dodgers Rewind</title>
+  <programme channel="Sportsnet (East)" start="20251225000000 +0000" stop="20251225003000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225013000 +0000" stop="20251225043000 +0000">
-    <title lang="eng">Dodgers Rewind</title>
+  <programme channel="Sportsnet (East)" start="20251225003000 +0000" stop="20251225010000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225043000 +0000" stop="20251225073000 +0000">
-    <title lang="eng">Dodgers Rewind</title>
+  <programme channel="Sportsnet (East)" start="20251225010000 +0000" stop="20251225013000 +0000">
+    <title lang="eng">NHL's Best of 2025</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225073000 +0000" stop="20251225090000 +0000">
-    <title lang="eng">Dodgermentary: 1988 World Series</title>
+  <programme channel="Sportsnet (East)" start="20251225013000 +0000" stop="20251225020000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225090000 +0000" stop="20251225100000 +0000">
-    <title lang="eng">Super High Roller Bowl</title>
+  <programme channel="Sportsnet (East)" start="20251225020000 +0000" stop="20251225023000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225100000 +0000" stop="20251225110000 +0000">
-    <title lang="eng">Super High Roller Bowl</title>
+  <programme channel="Sportsnet (East)" start="20251225023000 +0000" stop="20251225030000 +0000">
+    <title lang="eng">NHL's Best of 2025</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225110000 +0000" stop="20251225113000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="Sportsnet (East)" start="20251225030000 +0000" stop="20251225033000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225113000 +0000" stop="20251225120000 +0000">
-    <title lang="eng">Ideal Prostate+ Provides Safe Natural Relief</title>
+  <programme channel="Sportsnet (East)" start="20251225033000 +0000" stop="20251225040000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225120000 +0000" stop="20251225123000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="Sportsnet (East)" start="20251225040000 +0000" stop="20251225043000 +0000">
+    <title lang="eng">NHL's Best of 2025</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225123000 +0000" stop="20251225130000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="Sportsnet (East)" start="20251225043000 +0000" stop="20251225050000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225130000 +0000" stop="20251225133000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="Sportsnet (East)" start="20251225050000 +0000" stop="20251225053000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225133000 +0000" stop="20251225140000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="Sportsnet (East)" start="20251225053000 +0000" stop="20251225060000 +0000">
+    <title lang="eng">NHL's Best of 2025</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225140000 +0000" stop="20251225143000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet (East)" start="20251225060000 +0000" stop="20251225110000 +0000">
+    <title lang="eng">Plays of the Month Countdown Marathon</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225143000 +0000" stop="20251225150000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet (East)" start="20251225110000 +0000" stop="20251225133000 +0000">
+    <title lang="eng">NHL's Best Marathon</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20251225150000 +0000" stop="20251225153000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet (East)" start="20251225133000 +0000" stop="20251225140000 +0000">
+    <title lang="eng">NHL's Best of 2025</title>
   </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251224170000 +0000" stop="20251224190000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251224190000 +0000" stop="20251224200000 +0000">
-    <title lang="eng">Access SportsNet: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251224200000 +0000" stop="20251224220000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251224220000 +0000" stop="20251224230000 +0000">
-    <title lang="eng">Access SportsNet: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251224230000 +0000" stop="20251225000000 +0000">
-    <title lang="eng">High Stakes Poker</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225000000 +0000" stop="20251225003000 +0000">
-    <title lang="eng">Sportico Sports Business</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225003000 +0000" stop="20251225010000 +0000">
-    <title lang="eng">CIF Southern Section: This Week</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225010000 +0000" stop="20251225020000 +0000">
-    <title lang="eng">Lakers Compacto</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225020000 +0000" stop="20251225023000 +0000">
-    <title lang="eng">Beyond the Sport</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225023000 +0000" stop="20251225030000 +0000">
-    <title lang="eng">Backstage: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225030000 +0000" stop="20251225033000 +0000">
-    <title lang="eng">Backstage: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225033000 +0000" stop="20251225040000 +0000">
-    <title lang="eng">Backstage: Lakers</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225040000 +0000" stop="20251225060000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225060000 +0000" stop="20251225063000 +0000">
-    <title lang="eng">CIF Southern Section: This Week</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225063000 +0000" stop="20251225070000 +0000">
-    <title lang="eng">Sportico Sports Business</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225070000 +0000" stop="20251225080000 +0000">
-    <title lang="eng">Super High Roller Bowl</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225080000 +0000" stop="20251225090000 +0000">
-    <title lang="eng">Lakers Compacto</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225090000 +0000" stop="20251225100000 +0000">
-    <title lang="eng">High Stakes Poker</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225100000 +0000" stop="20251225103000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225103000 +0000" stop="20251225110000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225110000 +0000" stop="20251225113000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225113000 +0000" stop="20251225120000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225120000 +0000" stop="20251225123000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225123000 +0000" stop="20251225130000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225130000 +0000" stop="20251225133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225133000 +0000" stop="20251225140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum Sportsnet Lakers" start="20251225140000 +0000" stop="20251225170000 +0000">
-    <title lang="eng">VSiN by the Books</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251224170000 +0000" stop="20251224190000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251224190000 +0000" stop="20251224193000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251224193000 +0000" stop="20251224200000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251224200000 +0000" stop="20251224223000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251224223000 +0000" stop="20251224230000 +0000">
-    <title lang="eng">Road to the NHL Winter Classic</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251224230000 +0000" stop="20251224233000 +0000">
-    <title lang="eng">Road to the NHL Winter Classic</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251224233000 +0000" stop="20251225020000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251225020000 +0000" stop="20251225030000 +0000">
-    <title lang="eng">Game of Gold</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251225030000 +0000" stop="20251225050000 +0000">
-    <title lang="eng">TNA Classics</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251225050000 +0000" stop="20251225080000 +0000">
-    <title lang="eng">UFC Reloaded</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251225080000 +0000" stop="20251225103000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251225103000 +0000" stop="20251225110000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251225110000 +0000" stop="20251225170000 +0000">
-    <title lang="eng">Misplays of the Month</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224153000 +0000" stop="20251224160000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224160000 +0000" stop="20251224163000 +0000">
-    <title lang="eng">FIBA World Basketball</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224163000 +0000" stop="20251224170000 +0000">
-    <title lang="eng">Invincible</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224170000 +0000" stop="20251224173000 +0000">
-    <title lang="eng">The Short List</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224173000 +0000" stop="20251224180000 +0000">
-    <title lang="eng">The Iconic</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224180000 +0000" stop="20251224183000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224183000 +0000" stop="20251224190000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224190000 +0000" stop="20251224193000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224193000 +0000" stop="20251224200000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224200000 +0000" stop="20251224203000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224203000 +0000" stop="20251224210000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224210000 +0000" stop="20251224213000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224213000 +0000" stop="20251224220000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224220000 +0000" stop="20251224223000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224223000 +0000" stop="20251224230000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224230000 +0000" stop="20251224233000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251224233000 +0000" stop="20251225000000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225000000 +0000" stop="20251225003000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225003000 +0000" stop="20251225010000 +0000">
-    <title lang="eng">Charlie Moore Outdoors</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225010000 +0000" stop="20251225013000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225013000 +0000" stop="20251225020000 +0000">
-    <title lang="eng">Charlie Moore: No Offense</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225020000 +0000" stop="20251225030000 +0000">
-    <title lang="eng">The Snap Count with Charlie Batch and Trai Essex</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225030000 +0000" stop="20251225040000 +0000">
-    <title lang="eng">The Varsity with John Ourand</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225040000 +0000" stop="20251225060000 +0000">
-    <title lang="eng">Penguins Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225060000 +0000" stop="20251225080000 +0000">
-    <title lang="eng">Penguins Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225080000 +0000" stop="20251225100000 +0000">
-    <title lang="eng">Penguins Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225100000 +0000" stop="20251225120000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225100000 +0000" stop="20251225120000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225120000 +0000" stop="20251225140000 +0000">
-    <title lang="eng">Penguins Classics</title>
-  </programme>
-  <programme channel="Sportsnet Pittsburgh" start="20251225140000 +0000" stop="20251225160000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="TSN1" start="20251224160000 +0000" stop="20251224170000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251224170000 +0000" stop="20251224180000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251224180000 +0000" stop="20251224183000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251224183000 +0000" stop="20251224190000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251224190000 +0000" stop="20251224210000 +0000">
-    <title lang="eng">NBA Today</title>
-  </programme>
-  <programme channel="TSN1" start="20251224210000 +0000" stop="20251224230000 +0000">
-    <title lang="eng">Overdrive</title>
-  </programme>
-  <programme channel="TSN1" start="20251224230000 +0000" stop="20251225000000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251225000000 +0000" stop="20251225010000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
-  </programme>
-  <programme channel="TSN1" start="20251225010000 +0000" stop="20251225013000 +0000">
-    <title lang="eng">Behind the Leaf</title>
-  </programme>
-  <programme channel="TSN1" start="20251225013000 +0000" stop="20251225020000 +0000">
-    <title lang="eng">Behind the Leaf</title>
-  </programme>
-  <programme channel="TSN1" start="20251225020000 +0000" stop="20251225023000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251225023000 +0000" stop="20251225030000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251225030000 +0000" stop="20251225040000 +0000">
-    <title lang="eng">Why We Love Sports</title>
-  </programme>
-  <programme channel="TSN1" start="20251225040000 +0000" stop="20251225043000 +0000">
-    <title lang="eng">Behind the Leaf</title>
-  </programme>
-  <programme channel="TSN1" start="20251225043000 +0000" stop="20251225050000 +0000">
-    <title lang="eng">Behind the Leaf</title>
-  </programme>
-  <programme channel="TSN1" start="20251225050000 +0000" stop="20251225060000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20251225060000 +0000" stop="20251225070000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
-  </programme>
-  <programme channel="TSN1" start="20251225070000 +0000" stop="20251225080000 +0000">
-    <title lang="eng">Why We Love Sports</title>
-  </programme>
-  <programme channel="TSN1" start="20251225080000 +0000" stop="20251225083000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251225083000 +0000" stop="20251225090000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251225090000 +0000" stop="20251225100000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
-  </programme>
-  <programme channel="TSN1" start="20251225100000 +0000" stop="20251225110000 +0000">
-    <title lang="eng">Why We Love Sports</title>
-  </programme>
-  <programme channel="TSN1" start="20251225110000 +0000" stop="20251225113000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251225113000 +0000" stop="20251225120000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251225120000 +0000" stop="20251225130000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
-  </programme>
-  <programme channel="TSN1" start="20251225130000 +0000" stop="20251225140000 +0000">
-    <title lang="eng">Why We Love Sports</title>
-  </programme>
-  <programme channel="TSN1" start="20251225140000 +0000" stop="20251225143000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251225143000 +0000" stop="20251225150000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251225150000 +0000" stop="20251225160000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
+  <programme channel="Sportsnet (East)" start="20251225140000 +0000" stop="20251225193000 +0000">
+    <title lang="eng">Plays of the Month Marathon</title>
   </programme>
   <programme channel="TSN2" start="20251224153000 +0000" stop="20251224160000 +0000">
     <title lang="eng">SC</title>
