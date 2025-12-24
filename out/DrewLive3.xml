@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Fox Sports 2">
-    <display-name>Fox Sports 2</display-name>
-  </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
   </channel>
@@ -53,54 +50,6 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251225150000 +0000" stop="20251225180000 +0000">
     <title lang="eng">Greatest Races: NASCAR</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251224170000 +0000" stop="20251224200000 +0000">
-    <title lang="eng">NHRA Drag Racing</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251224200000 +0000" stop="20251224210000 +0000">
-    <title lang="eng">NHRA Sportsman Series</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251224210000 +0000" stop="20251224213000 +0000">
-    <title lang="eng">NHRA Sportsman Series</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251224213000 +0000" stop="20251224223000 +0000">
-    <title lang="eng">NHRA Sportsman Series</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251224223000 +0000" stop="20251224233000 +0000">
-    <title lang="eng">NHRA Sportsman Series</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251224233000 +0000" stop="20251225000000 +0000">
-    <title lang="eng">NHRA in 30</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225000000 +0000" stop="20251225003000 +0000">
-    <title lang="eng">NHRA in 30</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225003000 +0000" stop="20251225013000 +0000">
-    <title lang="eng">Rising</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225013000 +0000" stop="20251225023000 +0000">
-    <title lang="eng">Tristar Arenacross</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225023000 +0000" stop="20251225030000 +0000">
-    <title lang="eng">The Auto Show</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225030000 +0000" stop="20251225060000 +0000">
-    <title lang="eng">United Football League</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225060000 +0000" stop="20251225090000 +0000">
-    <title lang="eng">United Football League</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225090000 +0000" stop="20251225100000 +0000">
-    <title lang="eng">Fort Lauderdale International Boat Show</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225100000 +0000" stop="20251225110000 +0000">
-    <title lang="eng">Pokerstars Big Game on Tour</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225110000 +0000" stop="20251225133000 +0000">
-    <title lang="eng">The Masters Agility Championship at Westminster</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20251225133000 +0000" stop="20251225160000 +0000">
-    <title lang="eng">149th Westminster Kennel Club Dog Show</title>
   </programme>
   <programme channel="TSN2" start="20251224153000 +0000" stop="20251224160000 +0000">
     <title lang="eng">SC</title>
