@@ -3,11 +3,17 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="TNT Eastern Feed">
+    <display-name>TNT Eastern Feed</display-name>
+  </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
   </channel>
   <channel id="TSN3">
     <display-name>TSN3</display-name>
+  </channel>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
   </channel>
   <channel id="TSN5">
     <display-name>TSN5</display-name>
@@ -50,6 +56,48 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251225150000 +0000" stop="20251225180000 +0000">
     <title lang="eng">Greatest Races: NASCAR</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224152800 +0000" stop="20251224172800 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224172800 +0000" stop="20251224192800 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224192800 +0000" stop="20251224212800 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224212800 +0000" stop="20251224232800 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251224232800 +0000" stop="20251225012800 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225012800 +0000" stop="20251225020000 +0000">
+    <title lang="eng">Shrek the Halls</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225020000 +0000" stop="20251225040000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225040000 +0000" stop="20251225060000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225060000 +0000" stop="20251225080000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225080000 +0000" stop="20251225100000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225100000 +0000" stop="20251225120000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225100000 +0000" stop="20251225120000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225120000 +0000" stop="20251225140000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20251225140000 +0000" stop="20251225160000 +0000">
+    <title lang="eng">Movie</title>
   </programme>
   <programme channel="TSN2" start="20251224153000 +0000" stop="20251224160000 +0000">
     <title lang="eng">SC</title>
@@ -167,6 +215,72 @@
   </programme>
   <programme channel="TSN3" start="20251225150000 +0000" stop="20251225153000 +0000">
     <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251224160000 +0000" stop="20251224170000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251224170000 +0000" stop="20251224190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="TSN4" start="20251224190000 +0000" stop="20251224210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN4" start="20251224210000 +0000" stop="20251224230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN4" start="20251224230000 +0000" stop="20251225000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251225000000 +0000" stop="20251225010000 +0000">
+    <title lang="eng">IIHF World Junior Preview Show</title>
+  </programme>
+  <programme channel="TSN4" start="20251225010000 +0000" stop="20251225043000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="TSN4" start="20251225043000 +0000" stop="20251225050000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251225050000 +0000" stop="20251225060000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251225060000 +0000" stop="20251225070000 +0000">
+    <title lang="eng">Why We Love Sports</title>
+  </programme>
+  <programme channel="TSN4" start="20251225070000 +0000" stop="20251225073000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251225073000 +0000" stop="20251225080000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251225080000 +0000" stop="20251225090000 +0000">
+    <title lang="eng">IIHF World Junior Preview Show</title>
+  </programme>
+  <programme channel="TSN4" start="20251225090000 +0000" stop="20251225100000 +0000">
+    <title lang="eng">Why We Love Sports</title>
+  </programme>
+  <programme channel="TSN4" start="20251225100000 +0000" stop="20251225103000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251225103000 +0000" stop="20251225110000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251225110000 +0000" stop="20251225120000 +0000">
+    <title lang="eng">IIHF World Junior Preview Show</title>
+  </programme>
+  <programme channel="TSN4" start="20251225120000 +0000" stop="20251225130000 +0000">
+    <title lang="eng">Why We Love Sports</title>
+  </programme>
+  <programme channel="TSN4" start="20251225130000 +0000" stop="20251225133000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251225133000 +0000" stop="20251225140000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251225140000 +0000" stop="20251225150000 +0000">
+    <title lang="eng">IIHF World Junior Preview Show</title>
+  </programme>
+  <programme channel="TSN4" start="20251225150000 +0000" stop="20251225160000 +0000">
+    <title lang="eng">First Take</title>
   </programme>
   <programme channel="TSN5" start="20251224160000 +0000" stop="20251224170000 +0000">
     <title lang="eng">SportsCentre</title>
