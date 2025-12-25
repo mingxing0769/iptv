@@ -9,8 +9,8 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
-https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
 #EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
 https://tvpass.org/live/sportsnet-east/sd
 
