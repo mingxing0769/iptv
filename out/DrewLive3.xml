@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN News">
+    <display-name>ESPN News</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
@@ -12,6 +15,84 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="ESPN News" start="20251226160000 +0000" stop="20251226170000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251226170000 +0000" stop="20251226190000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPN News" start="20251226190000 +0000" stop="20251226210000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN News" start="20251226210000 +0000" stop="20251226220000 +0000">
+    <title lang="eng">SportsCenter Special</title>
+  </programme>
+  <programme channel="ESPN News" start="20251226220000 +0000" stop="20251226230000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251226230000 +0000" stop="20251227000000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227000000 +0000" stop="20251227010000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227010000 +0000" stop="20251227020000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227020000 +0000" stop="20251227030000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227030000 +0000" stop="20251227040000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227040000 +0000" stop="20251227050000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227050000 +0000" stop="20251227060000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227060000 +0000" stop="20251227070000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227070000 +0000" stop="20251227080000 +0000">
+    <title lang="eng">The Last Dance</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227080000 +0000" stop="20251227090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227090000 +0000" stop="20251227100000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227100000 +0000" stop="20251227110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227110000 +0000" stop="20251227113000 +0000">
+    <title lang="eng">Padel Ping Pong Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227113000 +0000" stop="20251227120000 +0000">
+    <title lang="eng">Bottlesbee</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227120000 +0000" stop="20251227123000 +0000">
+    <title lang="eng">Bike Polo</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227123000 +0000" stop="20251227130000 +0000">
+    <title lang="eng">US Polo Association</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227130000 +0000" stop="20251227133000 +0000">
+    <title lang="eng">Tire Wrestling: No Ropes, Just Rubber</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227133000 +0000" stop="20251227140000 +0000">
+    <title lang="eng">The 2025 Big Boy Soap Hockey Tournament</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227140000 +0000" stop="20251227143000 +0000">
+    <title lang="eng">Donk Toss World Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227143000 +0000" stop="20251227150000 +0000">
+    <title lang="eng">NTPA Unlimited Pulling Tractors</title>
+  </programme>
+  <programme channel="ESPN News" start="20251227150000 +0000" stop="20251227160000 +0000">
+    <title lang="eng">US Quadball Invitational</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20251226170000 +0000" stop="20251226200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
