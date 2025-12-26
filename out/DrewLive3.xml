@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN Deportes">
+    <display-name>ESPN Deportes</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
-  </channel>
-  <channel id="TSN1">
-    <display-name>TSN1</display-name>
   </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
@@ -18,6 +18,63 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="ESPN Deportes" start="20251225153000 +0000" stop="20251225160000 +0000">
+    <title lang="eng">Great American Events</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251225160000 +0000" stop="20251225170000 +0000">
+    <title lang="eng">Great American Events</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251225170000 +0000" stop="20251225193000 +0000">
+    <title lang="eng">Baloncesto NBA</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251225193000 +0000" stop="20251225220000 +0000">
+    <title lang="eng">Baloncesto NBA</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251225220000 +0000" stop="20251226003000 +0000">
+    <title lang="eng">Baloncesto NBA</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226003000 +0000" stop="20251226010000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226010000 +0000" stop="20251226033000 +0000">
+    <title lang="eng">Baloncesto NBA</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226033000 +0000" stop="20251226060000 +0000">
+    <title lang="eng">Baloncesto NBA</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226033000 +0000" stop="20251226060000 +0000">
+    <title lang="eng">Baloncesto NBA</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226060000 +0000" stop="20251226070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226070000 +0000" stop="20251226080000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226080000 +0000" stop="20251226090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226090000 +0000" stop="20251226100000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226100000 +0000" stop="20251226110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226110000 +0000" stop="20251226120000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226120000 +0000" stop="20251226130000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226130000 +0000" stop="20251226140000 +0000">
+    <title lang="eng">Es así y punto</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226140000 +0000" stop="20251226150000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251226150000 +0000" stop="20251226160000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20251225180000 +0000" stop="20251225210000 +0000">
     <title lang="eng">Greatest Races: NASCAR</title>
   </programme>
@@ -128,72 +185,6 @@
   </programme>
   <programme channel="Sportsnet West" start="20251226150000 +0000" stop="20251226160000 +0000">
     <title lang="eng">Misplays of the Year</title>
-  </programme>
-  <programme channel="TSN1" start="20251225160000 +0000" stop="20251225180000 +0000">
-    <title lang="eng">NFL Christmas Day Pregame</title>
-  </programme>
-  <programme channel="TSN1" start="20251225180000 +0000" stop="20251225210000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20251225210000 +0000" stop="20251225213000 +0000">
-    <title lang="eng">NFL Christmas Day Pregame</title>
-  </programme>
-  <programme channel="TSN1" start="20251225213000 +0000" stop="20251226003000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20251226003000 +0000" stop="20251226011500 +0000">
-    <title lang="eng">NFL Christmas Day Pregame</title>
-  </programme>
-  <programme channel="TSN1" start="20251226011500 +0000" stop="20251226043000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20251226011500 +0000" stop="20251226043000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20251226043000 +0000" stop="20251226053000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
-  </programme>
-  <programme channel="TSN1" start="20251226053000 +0000" stop="20251226060000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251226060000 +0000" stop="20251226063000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251226063000 +0000" stop="20251226070000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251226070000 +0000" stop="20251226080000 +0000">
-    <title lang="eng">Why We Love Sports</title>
-  </programme>
-  <programme channel="TSN1" start="20251226080000 +0000" stop="20251226090000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
-  </programme>
-  <programme channel="TSN1" start="20251226090000 +0000" stop="20251226093000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251226093000 +0000" stop="20251226100000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251226100000 +0000" stop="20251226110000 +0000">
-    <title lang="eng">Why We Love Sports</title>
-  </programme>
-  <programme channel="TSN1" start="20251226110000 +0000" stop="20251226120000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
-  </programme>
-  <programme channel="TSN1" start="20251226120000 +0000" stop="20251226123000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251226123000 +0000" stop="20251226130000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN1" start="20251226130000 +0000" stop="20251226140000 +0000">
-    <title lang="eng">Why We Love Sports</title>
-  </programme>
-  <programme channel="TSN1" start="20251226140000 +0000" stop="20251226150000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
-  </programme>
-  <programme channel="TSN1" start="20251226150000 +0000" stop="20251226153000 +0000">
-    <title lang="eng">SC</title>
   </programme>
   <programme channel="TSN2" start="20251225170000 +0000" stop="20251225193000 +0000">
     <title lang="eng">Hockey</title>
