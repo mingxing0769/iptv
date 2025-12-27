@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN Deportes">
+    <display-name>ESPN Deportes</display-name>
+  </channel>
+  <channel id="ESPN2">
+    <display-name>ESPN2</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
@@ -12,6 +18,102 @@
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
+  <programme channel="ESPN Deportes" start="20251227160000 +0000" stop="20251227191500 +0000">
+    <title lang="eng">Fútbol Americano Universitario</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251227191500 +0000" stop="20251227224500 +0000">
+    <title lang="eng">Fútbol Americano Universitario</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251227224500 +0000" stop="20251228021500 +0000">
+    <title lang="eng">Fútbol Americano Universitario</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228021500 +0000" stop="20251228054500 +0000">
+    <title lang="eng">Fútbol Americano Universitario</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228054500 +0000" stop="20251228060000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228060000 +0000" stop="20251228070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228070000 +0000" stop="20251228080000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228080000 +0000" stop="20251228090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228090000 +0000" stop="20251228100000 +0000">
+    <title lang="eng">Fútbol Picante</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228100000 +0000" stop="20251228110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228110000 +0000" stop="20251228113000 +0000">
+    <title lang="eng">Greenland</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228113000 +0000" stop="20251228120000 +0000">
+    <title lang="eng">Greenland</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228120000 +0000" stop="20251228123000 +0000">
+    <title lang="eng">Greenland</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228123000 +0000" stop="20251228130000 +0000">
+    <title lang="eng">María, llena eres de fuerza</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228130000 +0000" stop="20251228150000 +0000">
+    <title lang="eng">Fútbol Supercopa de España</title>
+  </programme>
+  <programme channel="ESPN Deportes" start="20251228150000 +0000" stop="20251228170000 +0000">
+    <title lang="eng">Fútbol Supercopa de España</title>
+  </programme>
+  <programme channel="ESPN2" start="20251227170000 +0000" stop="20251227190000 +0000">
+    <title lang="eng">ESPN Films</title>
+  </programme>
+  <programme channel="ESPN2" start="20251227190000 +0000" stop="20251227210000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20251227210000 +0000" stop="20251227230000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20251227230000 +0000" stop="20251228010000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228010000 +0000" stop="20251228020000 +0000">
+    <title lang="eng">Monster Energy's Rip to Cabo 2026</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228020000 +0000" stop="20251228030000 +0000">
+    <title lang="eng">E60</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228030000 +0000" stop="20251228043000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228043000 +0000" stop="20251228053000 +0000">
+    <title lang="eng">Why Not Both! The Story of NC State's 2024 Season</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228043000 +0000" stop="20251228053000 +0000">
+    <title lang="eng">Why Not Both! The Story of NC State's 2024 Season</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228053000 +0000" stop="20251228070000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228070000 +0000" stop="20251228080000 +0000">
+    <title lang="eng">SportsCenter Special</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228080000 +0000" stop="20251228100000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228100000 +0000" stop="20251228120000 +0000">
+    <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228120000 +0000" stop="20251228130000 +0000">
+    <title lang="eng">SportsCenter Special</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228130000 +0000" stop="20251228150000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20251228150000 +0000" stop="20251228180000 +0000">
+    <title lang="eng">Fantasy Football Now</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20251227153000 +0000" stop="20251227183000 +0000">
     <title lang="eng">NHRA Drag Racing</title>
   </programme>
