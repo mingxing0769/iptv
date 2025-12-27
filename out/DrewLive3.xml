@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN2">
-    <display-name>ESPN2</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet 360">
-    <display-name>Sportsnet 360</display-name>
-  </channel>
-  <channel id="TSN1">
-    <display-name>TSN1</display-name>
+  <channel id="Sportsnet One">
+    <display-name>Sportsnet One</display-name>
   </channel>
   <channel id="TSN2">
     <display-name>TSN2</display-name>
@@ -18,90 +12,12 @@
   <channel id="TSN3">
     <display-name>TSN3</display-name>
   </channel>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
+  </channel>
   <channel id="TSN5">
     <display-name>TSN5</display-name>
   </channel>
-  <programme channel="ESPN2" start="20251226170000 +0000" stop="20251226190000 +0000">
-    <title lang="eng">First Take</title>
-  </programme>
-  <programme channel="ESPN2" start="20251226190000 +0000" stop="20251226200000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN2" start="20251226200000 +0000" stop="20251226210000 +0000">
-    <title lang="eng">2025 Best of SC Featured</title>
-  </programme>
-  <programme channel="ESPN2" start="20251226210000 +0000" stop="20251226220000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251226220000 +0000" stop="20251226230000 +0000">
-    <title lang="eng">SportsCenter Special</title>
-  </programme>
-  <programme channel="ESPN2" start="20251226230000 +0000" stop="20251227000000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227000000 +0000" stop="20251227003000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227003000 +0000" stop="20251227010000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227010000 +0000" stop="20251227013000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227013000 +0000" stop="20251227020000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227020000 +0000" stop="20251227023000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227023000 +0000" stop="20251227030000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227030000 +0000" stop="20251227033000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227033000 +0000" stop="20251227040000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227040000 +0000" stop="20251227043000 +0000">
-    <title lang="eng">Peyton's Places</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227043000 +0000" stop="20251227050000 +0000">
-    <title lang="eng">Maria Full of Strength</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227050000 +0000" stop="20251227053000 +0000">
-    <title lang="eng">NFL Matchup</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227053000 +0000" stop="20251227060000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227060000 +0000" stop="20251227070000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227070000 +0000" stop="20251227090000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227090000 +0000" stop="20251227110000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227110000 +0000" stop="20251227113000 +0000">
-    <title lang="eng">NFL Matchup</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227113000 +0000" stop="20251227120000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227120000 +0000" stop="20251227130000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227130000 +0000" stop="20251227133000 +0000">
-    <title lang="eng">NFL Matchup</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227133000 +0000" stop="20251227150000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN2" start="20251227150000 +0000" stop="20251227170000 +0000">
-    <title lang="eng">AKC Agility Dogs Invitational</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20251226170000 +0000" stop="20251226200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -138,101 +54,95 @@
   <programme channel="Fox Sports 1" start="20251227123000 +0000" stop="20251227153000 +0000">
     <title lang="eng">NHRA Drag Racing</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20251226203000 +0000" stop="20251226213000 +0000">
-    <title lang="eng">Misplays of the Year</title>
+  <programme channel="Sportsnet One" start="20251226153000 +0000" stop="20251226160000 +0000">
+    <title lang="eng">Road to the NHL Winter Classic</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20251226213000 +0000" stop="20251226223000 +0000">
-    <title lang="eng">Plays of the Year</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251226223000 +0000" stop="20251226233000 +0000">
-    <title lang="eng">Misplays of the Year</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251226233000 +0000" stop="20251227000000 +0000">
-    <title lang="eng">Plays of the Year Countdown</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251227000000 +0000" stop="20251227020000 +0000">
-    <title lang="eng">TNA Impact!</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251227020000 +0000" stop="20251227030000 +0000">
-    <title lang="eng">Game of Gold</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251227030000 +0000" stop="20251227060000 +0000">
-    <title lang="eng">UFC Reloaded</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251227060000 +0000" stop="20251227083000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20251227083000 +0000" stop="20251227090000 +0000">
+  <programme channel="Sportsnet One" start="20251226160000 +0000" stop="20251226163000 +0000">
     <title lang="eng">NHL's Best of 2025</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20251227090000 +0000" stop="20251227100000 +0000">
-    <title lang="eng">Plays of the Year</title>
+  <programme channel="Sportsnet One" start="20251226163000 +0000" stop="20251226170000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20251227100000 +0000" stop="20251227110000 +0000">
-    <title lang="eng">Misplays of the Year</title>
+  <programme channel="Sportsnet One" start="20251226170000 +0000" stop="20251226200000 +0000">
+    <title lang="eng">Grand Slam of Curling</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20251227110000 +0000" stop="20251227170000 +0000">
-    <title lang="eng">Misplays of the Month</title>
+  <programme channel="Sportsnet One" start="20251226200000 +0000" stop="20251226230000 +0000">
+    <title lang="eng">Grand Slam of Curling</title>
   </programme>
-  <programme channel="TSN1" start="20251226153000 +0000" stop="20251226160000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20251226230000 +0000" stop="20251226233000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
   </programme>
-  <programme channel="TSN1" start="20251226160000 +0000" stop="20251226170000 +0000">
-    <title lang="eng">Why We Love Sports</title>
+  <programme channel="Sportsnet One" start="20251226233000 +0000" stop="20251227000000 +0000">
+    <title lang="eng">Toronto Raptors Pre-Game</title>
   </programme>
-  <programme channel="TSN1" start="20251226170000 +0000" stop="20251226180000 +0000">
-    <title lang="eng">IIHF World Junior Preview Show</title>
+  <programme channel="Sportsnet One" start="20251227000000 +0000" stop="20251227023000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN1" start="20251226180000 +0000" stop="20251226203000 +0000">
-    <title lang="eng">2026 IIHF World Junior Championship</title>
+  <programme channel="Sportsnet One" start="20251227023000 +0000" stop="20251227050000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN1" start="20251226203000 +0000" stop="20251226230000 +0000">
-    <title lang="eng">2026 IIHF World Junior Championship</title>
+  <programme channel="Sportsnet One" start="20251227050000 +0000" stop="20251227053000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN1" start="20251226230000 +0000" stop="20251227013000 +0000">
-    <title lang="eng">2026 IIHF World Junior Championship</title>
+  <programme channel="Sportsnet One" start="20251227053000 +0000" stop="20251227060000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="TSN1" start="20251227013000 +0000" stop="20251227040000 +0000">
-    <title lang="eng">2026 IIHF World Junior Championship</title>
+  <programme channel="Sportsnet One" start="20251227060000 +0000" stop="20251227063000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN1" start="20251227040000 +0000" stop="20251227050000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227063000 +0000" stop="20251227070000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
   </programme>
-  <programme channel="TSN1" start="20251227050000 +0000" stop="20251227053000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20251227070000 +0000" stop="20251227073000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN1" start="20251227053000 +0000" stop="20251227060000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20251227073000 +0000" stop="20251227080000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="TSN1" start="20251227060000 +0000" stop="20251227070000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227080000 +0000" stop="20251227083000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN1" start="20251227070000 +0000" stop="20251227080000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227083000 +0000" stop="20251227090000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
   </programme>
-  <programme channel="TSN1" start="20251227080000 +0000" stop="20251227090000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227090000 +0000" stop="20251227093000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN1" start="20251227090000 +0000" stop="20251227100000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227093000 +0000" stop="20251227100000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="TSN1" start="20251227100000 +0000" stop="20251227110000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227100000 +0000" stop="20251227103000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN1" start="20251227110000 +0000" stop="20251227120000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227103000 +0000" stop="20251227110000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
   </programme>
-  <programme channel="TSN1" start="20251227120000 +0000" stop="20251227130000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227110000 +0000" stop="20251227113000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN1" start="20251227130000 +0000" stop="20251227140000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227113000 +0000" stop="20251227120000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
   </programme>
-  <programme channel="TSN1" start="20251227140000 +0000" stop="20251227150000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227120000 +0000" stop="20251227123000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN1" start="20251227150000 +0000" stop="20251227160000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20251227123000 +0000" stop="20251227130000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251227130000 +0000" stop="20251227133000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251227133000 +0000" stop="20251227140000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251227140000 +0000" stop="20251227143000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251227143000 +0000" stop="20251227150000 +0000">
+    <title lang="eng">Misplays of the Year Countdown</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20251227150000 +0000" stop="20251227153000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
   <programme channel="TSN2" start="20251226170000 +0000" stop="20251226173000 +0000">
     <title lang="eng">SC</title>
@@ -340,6 +250,78 @@
     <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN3" start="20251227150000 +0000" stop="20251227160000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251226160000 +0000" stop="20251226163000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251226163000 +0000" stop="20251226170000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251226170000 +0000" stop="20251226190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="TSN4" start="20251226190000 +0000" stop="20251226193000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251226193000 +0000" stop="20251226200000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251226200000 +0000" stop="20251226203000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251226203000 +0000" stop="20251226230000 +0000">
+    <title lang="eng">2026 IIHF World Junior Championship</title>
+  </programme>
+  <programme channel="TSN4" start="20251226230000 +0000" stop="20251227003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227003000 +0000" stop="20251227010000 +0000">
+    <title lang="eng">Park the Bus</title>
+  </programme>
+  <programme channel="TSN4" start="20251227010000 +0000" stop="20251227013000 +0000">
+    <title lang="eng">2026 IIHF World Junior Pregame</title>
+  </programme>
+  <programme channel="TSN4" start="20251227013000 +0000" stop="20251227040000 +0000">
+    <title lang="eng">2026 IIHF World Junior Championship</title>
+  </programme>
+  <programme channel="TSN4" start="20251227040000 +0000" stop="20251227050000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227050000 +0000" stop="20251227053000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251227053000 +0000" stop="20251227060000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20251227060000 +0000" stop="20251227070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227070000 +0000" stop="20251227080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227080000 +0000" stop="20251227090000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227090000 +0000" stop="20251227100000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227100000 +0000" stop="20251227110000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227110000 +0000" stop="20251227120000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227120000 +0000" stop="20251227130000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227130000 +0000" stop="20251227140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227140000 +0000" stop="20251227150000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20251227150000 +0000" stop="20251227160000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
   <programme channel="TSN5" start="20251226163000 +0000" stop="20251226170000 +0000">
