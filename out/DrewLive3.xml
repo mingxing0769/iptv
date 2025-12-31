@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Sportsnet Pittsburgh">
+    <display-name>Sportsnet Pittsburgh</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20251230170000 +0000" stop="20251230200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -56,5 +59,89 @@
   </programme>
   <programme channel="Fox Sports 1" start="20251231150000 +0000" stop="20251231170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230153000 +0000" stop="20251230160000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230160000 +0000" stop="20251230180000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230180000 +0000" stop="20251230200000 +0000">
+    <title lang="eng">Liverpool Football</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230200000 +0000" stop="20251230210000 +0000">
+    <title lang="eng">LFC Trending</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230210000 +0000" stop="20251230213000 +0000">
+    <title lang="eng">FIBA World Basketball</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230213000 +0000" stop="20251230220000 +0000">
+    <title lang="eng">Charlie Moore Outdoors</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230220000 +0000" stop="20251230223000 +0000">
+    <title lang="eng">Charlie Moore Outdoors</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230223000 +0000" stop="20251230230000 +0000">
+    <title lang="eng">Inside Penguins Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230230000 +0000" stop="20251230233000 +0000">
+    <title lang="eng">Penguins Tonight</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251230233000 +0000" stop="20251231000000 +0000">
+    <title lang="eng">Penguins Faceoff Live</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231000000 +0000" stop="20251231023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231023000 +0000" stop="20251231030000 +0000">
+    <title lang="eng">Penguins Overtime Live</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231030000 +0000" stop="20251231033000 +0000">
+    <title lang="eng">Penguins Postgame Final</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231033000 +0000" stop="20251231040000 +0000">
+    <title lang="eng">Inside Penguins Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231040000 +0000" stop="20251231060000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231060000 +0000" stop="20251231063000 +0000">
+    <title lang="eng">Penguins Overtime Live</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231063000 +0000" stop="20251231070000 +0000">
+    <title lang="eng">Penguins Postgame Final</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231070000 +0000" stop="20251231090000 +0000">
+    <title lang="eng">Fight Sports: World Class Championship Boxing</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231090000 +0000" stop="20251231100000 +0000">
+    <title lang="eng">Fight Sports MMA</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231100000 +0000" stop="20251231120000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231100000 +0000" stop="20251231120000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231120000 +0000" stop="20251231123000 +0000">
+    <title lang="eng">Penguins Overtime Live</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231123000 +0000" stop="20251231130000 +0000">
+    <title lang="eng">Penguins Postgame Final</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231130000 +0000" stop="20251231133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231133000 +0000" stop="20251231140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231140000 +0000" stop="20251231143000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231143000 +0000" stop="20251231150000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20251231150000 +0000" stop="20251231153000 +0000">
+    <title lang="eng">Paid Programming</title>
   </programme>
 </tv>
