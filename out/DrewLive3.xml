@@ -1,68 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
   <channel id="Sportsnet West">
     <display-name>Sportsnet West</display-name>
   </channel>
-  <programme channel="ESPN Deportes" start="20260101160000 +0000" stop="20260101170000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260101170000 +0000" stop="20260101203000 +0000">
-    <title lang="eng">Cuartos de final del CFP: Orange Bowl</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260101203000 +0000" stop="20260101210000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260101210000 +0000" stop="20260102003000 +0000">
-    <title lang="eng">Cuartos de final del CFP: Rose Bowl</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102003000 +0000" stop="20260102010000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102010000 +0000" stop="20260102044000 +0000">
-    <title lang="eng">Cuartos de final del CFP: Sugar Bowl</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102044000 +0000" stop="20260102050000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102050000 +0000" stop="20260102060000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102060000 +0000" stop="20260102070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102070000 +0000" stop="20260102080000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102080000 +0000" stop="20260102090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102090000 +0000" stop="20260102100000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102100000 +0000" stop="20260102110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102110000 +0000" stop="20260102120000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102120000 +0000" stop="20260102130000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102130000 +0000" stop="20260102140000 +0000">
-    <title lang="eng">LaLiga al día</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102140000 +0000" stop="20260102150000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102150000 +0000" stop="20260102160000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260101170000 +0000" stop="20260101193000 +0000">
     <title lang="eng">The Masters Agility Championship at Westminster</title>
   </programme>
