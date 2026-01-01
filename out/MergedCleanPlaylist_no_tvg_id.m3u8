@@ -9,6 +9,18 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTGRP:Live
+#EXTINF:-1 tvg-name="SNY Sportsnet New York Comcast" tvg-logo="None" group-title="Live",SNY Sportsnet New York Comcast
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="None" group-title="Live",Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="None" group-title="Live",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="None" group-title="Live",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
+https://tvpass.org/live/tsn2/sd
 #EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
 https://tvpass.org/live/tsn5/sd
 
