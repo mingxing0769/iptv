@@ -6,9 +6,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="TSN3">
-    <display-name>TSN3</display-name>
-  </channel>
   <programme channel="Fox News" start="20260101160000 +0000" stop="20260101170000 +0000">
     <title lang="eng">Fox News Live</title>
   </programme>
@@ -131,74 +128,5 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260102150000 +0000" stop="20260102170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="TSN3" start="20260101160000 +0000" stop="20260101170000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260101170000 +0000" stop="20260101203000 +0000">
-    <title lang="eng">CFP Quarterfinal at the Capital One Orange Bowl</title>
-  </programme>
-  <programme channel="TSN3" start="20260101203000 +0000" stop="20260101210000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20260101210000 +0000" stop="20260101220000 +0000">
-    <title lang="eng">Why We Love Sports</title>
-  </programme>
-  <programme channel="TSN3" start="20260101220000 +0000" stop="20260101223000 +0000">
-    <title lang="eng">Behind the Leaf</title>
-  </programme>
-  <programme channel="TSN3" start="20260101223000 +0000" stop="20260101230000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20260101230000 +0000" stop="20260101233000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260101233000 +0000" stop="20260102000000 +0000">
-    <title lang="eng">Winnipeg Jets Pregame</title>
-  </programme>
-  <programme channel="TSN3" start="20260102000000 +0000" stop="20260102023000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="TSN3" start="20260102023000 +0000" stop="20260102033000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102033000 +0000" stop="20260102043000 +0000">
-    <title lang="eng">CFP Quarterfinal at the Allstate Sugar Bowl</title>
-  </programme>
-  <programme channel="TSN3" start="20260102043000 +0000" stop="20260102053000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102053000 +0000" stop="20260102060000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN3" start="20260102060000 +0000" stop="20260102070000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102070000 +0000" stop="20260102080000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102080000 +0000" stop="20260102090000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102090000 +0000" stop="20260102100000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102100000 +0000" stop="20260102110000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102110000 +0000" stop="20260102120000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102120000 +0000" stop="20260102130000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102130000 +0000" stop="20260102140000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102140000 +0000" stop="20260102150000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260102150000 +0000" stop="20260102160000 +0000">
-    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
