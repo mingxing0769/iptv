@@ -1,131 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
-  </channel>
-  <channel id="ESPN News">
-    <display-name>ESPN News</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN Deportes" start="20260101160000 +0000" stop="20260101170000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260101170000 +0000" stop="20260101203000 +0000">
-    <title lang="eng">Cuartos de final del CFP: Orange Bowl</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260101203000 +0000" stop="20260101210000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260101210000 +0000" stop="20260102003000 +0000">
-    <title lang="eng">Cuartos de final del CFP: Rose Bowl</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102003000 +0000" stop="20260102010000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102010000 +0000" stop="20260102044000 +0000">
-    <title lang="eng">Cuartos de final del CFP: Sugar Bowl</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102044000 +0000" stop="20260102050000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102050000 +0000" stop="20260102060000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102060000 +0000" stop="20260102070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102070000 +0000" stop="20260102080000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102080000 +0000" stop="20260102090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102090000 +0000" stop="20260102100000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102100000 +0000" stop="20260102110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102110000 +0000" stop="20260102120000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102120000 +0000" stop="20260102130000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102130000 +0000" stop="20260102140000 +0000">
-    <title lang="eng">LaLiga al día</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102140000 +0000" stop="20260102150000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260102150000 +0000" stop="20260102160000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN News" start="20260101160000 +0000" stop="20260101170000 +0000">
-    <title lang="eng">Get Up</title>
-  </programme>
-  <programme channel="ESPN News" start="20260101170000 +0000" stop="20260101190000 +0000">
-    <title lang="eng">First Take</title>
-  </programme>
-  <programme channel="ESPN News" start="20260101190000 +0000" stop="20260101200000 +0000">
-    <title lang="eng">National Ball Hockey League</title>
-  </programme>
-  <programme channel="ESPN News" start="20260101200000 +0000" stop="20260101205000 +0000">
-    <title lang="eng">2025 Blackbird Cup - Alberta Pro Roller Hockey League</title>
-  </programme>
-  <programme channel="ESPN News" start="20260101205000 +0000" stop="20260101210000 +0000">
-    <title lang="eng">Ram Trucks Pregame</title>
-  </programme>
-  <programme channel="ESPN News" start="20260101210000 +0000" stop="20260102004000 +0000">
-    <title lang="eng">CFP Quarterfinal at the Rose Bowl</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102004000 +0000" stop="20260102005000 +0000">
-    <title lang="eng">Ram Trucks Postgame</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102005000 +0000" stop="20260102020000 +0000">
-    <title lang="eng">Pillow Fight Championship</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102020000 +0000" stop="20260102030000 +0000">
-    <title lang="eng">Slippery Stairs</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102030000 +0000" stop="20260102040000 +0000">
-    <title lang="eng">Major League Paintball</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102040000 +0000" stop="20260102043000 +0000">
-    <title lang="eng">2025 Corgi Races at Emerald Downs</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102043000 +0000" stop="20260102053000 +0000">
-    <title lang="eng">X Games Aspen 2025</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102053000 +0000" stop="20260102060000 +0000">
-    <title lang="eng">X Games Salt Lake City 2025</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102060000 +0000" stop="20260102070000 +0000">
-    <title lang="eng">World of X Games</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102070000 +0000" stop="20260102080000 +0000">
-    <title lang="eng">Major League Paintball</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102080000 +0000" stop="20260102090000 +0000">
-    <title lang="eng">2025 NWLA All-Star Game</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102090000 +0000" stop="20260102100000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102100000 +0000" stop="20260102110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102110000 +0000" stop="20260102130000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102130000 +0000" stop="20260102150000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN News" start="20260102150000 +0000" stop="20260102160000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260101170000 +0000" stop="20260101193000 +0000">
     <title lang="eng">The Masters Agility Championship at Westminster</title>
   </programme>
@@ -176,5 +56,71 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260102150000 +0000" stop="20260102170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260101160000 +0000" stop="20260101170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260101170000 +0000" stop="20260101180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260101180000 +0000" stop="20260101200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260101200000 +0000" stop="20260101223000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260101223000 +0000" stop="20260101230000 +0000">
+    <title lang="eng">NHL's Best of 2025</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260101230000 +0000" stop="20260101233000 +0000">
+    <title lang="eng">Plays of the Year Countdown</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260101233000 +0000" stop="20260102000000 +0000">
+    <title lang="eng">Hockey Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102000000 +0000" stop="20260102023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102023000 +0000" stop="20260102033000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102033000 +0000" stop="20260102053000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102053000 +0000" stop="20260102060000 +0000">
+    <title lang="eng">NHL's Best of 2025</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102060000 +0000" stop="20260102063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102063000 +0000" stop="20260102070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102070000 +0000" stop="20260102080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102080000 +0000" stop="20260102090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102090000 +0000" stop="20260102100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102100000 +0000" stop="20260102110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102110000 +0000" stop="20260102120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102120000 +0000" stop="20260102130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102130000 +0000" stop="20260102140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102140000 +0000" stop="20260102150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260102150000 +0000" stop="20260102160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
 </tv>
