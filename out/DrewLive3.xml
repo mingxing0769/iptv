@@ -1,8 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="BBC News North America HD">
+    <display-name>BBC News North America HD</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="SNY Sportsnet New York Comcast">
+    <display-name>SNY Sportsnet New York Comcast</display-name>
+  </channel>
+  <programme channel="BBC News North America HD" start="20260102153000 +0000" stop="20260102160000 +0000">
+    <title lang="eng">The Interview</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102160000 +0000" stop="20260102163000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102163000 +0000" stop="20260102170000 +0000">
+    <title lang="eng">On The Front Line</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102170000 +0000" stop="20260102173000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102173000 +0000" stop="20260102180000 +0000">
+    <title lang="eng">Focus on Africa</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102180000 +0000" stop="20260102183000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102183000 +0000" stop="20260102190000 +0000">
+    <title lang="eng">Review</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102190000 +0000" stop="20260102193000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102193000 +0000" stop="20260102200000 +0000">
+    <title lang="eng">Review</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102200000 +0000" stop="20260102203000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102203000 +0000" stop="20260102210000 +0000">
+    <title lang="eng">Review</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102210000 +0000" stop="20260102213000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102213000 +0000" stop="20260102220000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102220000 +0000" stop="20260102223000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102223000 +0000" stop="20260102230000 +0000">
+    <title lang="eng">Talking Business</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102230000 +0000" stop="20260102233000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260102233000 +0000" stop="20260103000000 +0000">
+    <title lang="eng">The President's Path</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103000000 +0000" stop="20260103003000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103003000 +0000" stop="20260103010000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103010000 +0000" stop="20260103013000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103013000 +0000" stop="20260103020000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103020000 +0000" stop="20260103023000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103023000 +0000" stop="20260103030000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103030000 +0000" stop="20260103033000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103033000 +0000" stop="20260103040000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103040000 +0000" stop="20260103043000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103043000 +0000" stop="20260103050000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103050000 +0000" stop="20260103053000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103053000 +0000" stop="20260103060000 +0000">
+    <title lang="eng">AI Decoded</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103060000 +0000" stop="20260103063000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103063000 +0000" stop="20260103070000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103070000 +0000" stop="20260103073000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103073000 +0000" stop="20260103080000 +0000">
+    <title lang="eng">Discovering the World's Table</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103080000 +0000" stop="20260103083000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103083000 +0000" stop="20260103090000 +0000">
+    <title lang="eng">On The Front Line</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103090000 +0000" stop="20260103100000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103100000 +0000" stop="20260103103000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103103000 +0000" stop="20260103110000 +0000">
+    <title lang="eng">Talking Business</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103110000 +0000" stop="20260103113000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103113000 +0000" stop="20260103120000 +0000">
+    <title lang="eng">Flying in a Storm</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103120000 +0000" stop="20260103123000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103123000 +0000" stop="20260103130000 +0000">
+    <title lang="eng">This Cultural Life</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103130000 +0000" stop="20260103133000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103133000 +0000" stop="20260103140000 +0000">
+    <title lang="eng">AI Decoded</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103140000 +0000" stop="20260103143000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103143000 +0000" stop="20260103150000 +0000">
+    <title lang="eng">The Media Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260103150000 +0000" stop="20260103153000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260102170000 +0000" stop="20260102200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -53,5 +200,92 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260103140000 +0000" stop="20260103170000 +0000">
     <title lang="eng">College Football</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102160000 +0000" stop="20260102163000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102163000 +0000" stop="20260102170000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102170000 +0000" stop="20260102173000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102173000 +0000" stop="20260102180000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102180000 +0000" stop="20260102183000 +0000">
+    <title lang="eng">Jets Game Plan</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102183000 +0000" stop="20260102190000 +0000">
+    <title lang="eng">Amazin' Finishes</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102190000 +0000" stop="20260102210000 +0000">
+    <title lang="eng">Broadway Boxing</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102210000 +0000" stop="20260102230000 +0000">
+    <title lang="eng">The Whalers</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260102230000 +0000" stop="20260103013000 +0000">
+    <title lang="eng">Mets Classics</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103013000 +0000" stop="20260103040000 +0000">
+    <title lang="eng">Mets Classics</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103040000 +0000" stop="20260103043000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103043000 +0000" stop="20260103050000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103050000 +0000" stop="20260103053000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103053000 +0000" stop="20260103060000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103060000 +0000" stop="20260103063000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103063000 +0000" stop="20260103070000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103070000 +0000" stop="20260103073000 +0000">
+    <title lang="eng">Ideal Prostate+ Provides Safe Natural Relief</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103073000 +0000" stop="20260103080000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103080000 +0000" stop="20260103090000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103090000 +0000" stop="20260103100000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103100000 +0000" stop="20260103110000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103110000 +0000" stop="20260103113000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103113000 +0000" stop="20260103120000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103120000 +0000" stop="20260103123000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103123000 +0000" stop="20260103130000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103130000 +0000" stop="20260103133000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103133000 +0000" stop="20260103140000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103140000 +0000" stop="20260103150000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260103150000 +0000" stop="20260103160000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
   </programme>
 </tv>
