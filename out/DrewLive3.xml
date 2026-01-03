@@ -6,8 +6,8 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="SNY Sportsnet New York Comcast">
-    <display-name>SNY Sportsnet New York Comcast</display-name>
+  <channel id="TSN5">
+    <display-name>TSN5</display-name>
   </channel>
   <programme channel="BBC News North America HD" start="20260102153000 +0000" stop="20260102160000 +0000">
     <title lang="eng">The Interview</title>
@@ -201,91 +201,58 @@
   <programme channel="Fox Sports 1" start="20260103140000 +0000" stop="20260103170000 +0000">
     <title lang="eng">College Football</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102160000 +0000" stop="20260102163000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
+  <programme channel="TSN5" start="20260102160000 +0000" stop="20260102170000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102163000 +0000" stop="20260102170000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260102170000 +0000" stop="20260102190000 +0000">
+    <title lang="eng">First Take</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102170000 +0000" stop="20260102173000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260102190000 +0000" stop="20260102213000 +0000">
+    <title lang="eng">2026 IIHF World Junior Championship</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102173000 +0000" stop="20260102180000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260102213000 +0000" stop="20260102230000 +0000">
+    <title lang="eng">Overdrive</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102180000 +0000" stop="20260102183000 +0000">
-    <title lang="eng">Jets Game Plan</title>
+  <programme channel="TSN5" start="20260102230000 +0000" stop="20260103013000 +0000">
+    <title lang="eng">2026 IIHF World Junior Championship</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102183000 +0000" stop="20260102190000 +0000">
-    <title lang="eng">Amazin' Finishes</title>
+  <programme channel="TSN5" start="20260103013000 +0000" stop="20260103040000 +0000">
+    <title lang="eng">2026 IIHF World Junior Championship</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102190000 +0000" stop="20260102210000 +0000">
-    <title lang="eng">Broadway Boxing</title>
+  <programme channel="TSN5" start="20260103040000 +0000" stop="20260103050000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102210000 +0000" stop="20260102230000 +0000">
-    <title lang="eng">The Whalers</title>
+  <programme channel="TSN5" start="20260103050000 +0000" stop="20260103060000 +0000">
+    <title lang="eng">Why We Love Sports</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260102230000 +0000" stop="20260103013000 +0000">
-    <title lang="eng">Mets Classics</title>
+  <programme channel="TSN5" start="20260103060000 +0000" stop="20260103070000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103013000 +0000" stop="20260103040000 +0000">
-    <title lang="eng">Mets Classics</title>
+  <programme channel="TSN5" start="20260103070000 +0000" stop="20260103080000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103040000 +0000" stop="20260103043000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260103080000 +0000" stop="20260103090000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103043000 +0000" stop="20260103050000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260103090000 +0000" stop="20260103100000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103050000 +0000" stop="20260103053000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260103100000 +0000" stop="20260103110000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103053000 +0000" stop="20260103060000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260103110000 +0000" stop="20260103120000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103060000 +0000" stop="20260103063000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260103120000 +0000" stop="20260103130000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103063000 +0000" stop="20260103070000 +0000">
-    <title lang="eng">SportsNite</title>
+  <programme channel="TSN5" start="20260103130000 +0000" stop="20260103140000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103070000 +0000" stop="20260103073000 +0000">
-    <title lang="eng">Ideal Prostate+ Provides Safe Natural Relief</title>
+  <programme channel="TSN5" start="20260103140000 +0000" stop="20260103150000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103073000 +0000" stop="20260103080000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103080000 +0000" stop="20260103090000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103090000 +0000" stop="20260103100000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103100000 +0000" stop="20260103110000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103110000 +0000" stop="20260103113000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103113000 +0000" stop="20260103120000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103120000 +0000" stop="20260103123000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103123000 +0000" stop="20260103130000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103130000 +0000" stop="20260103133000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103133000 +0000" stop="20260103140000 +0000">
-    <title lang="eng">SportsNite</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103140000 +0000" stop="20260103150000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
-  </programme>
-  <programme channel="SNY Sportsnet New York Comcast" start="20260103150000 +0000" stop="20260103160000 +0000">
-    <title lang="eng">DraftKings Casino Report</title>
+  <programme channel="TSN5" start="20260103150000 +0000" stop="20260103160000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
