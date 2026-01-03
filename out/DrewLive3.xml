@@ -3,8 +3,8 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Spectrum SportsNet LA">
-    <display-name>Spectrum SportsNet LA</display-name>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
   </channel>
   <programme channel="Fox Sports 1" start="20260103170000 +0000" stop="20260103190000 +0000">
     <title lang="eng">Women's College Basketball</title>
@@ -48,43 +48,79 @@
   <programme channel="Fox Sports 1" start="20260104150000 +0000" stop="20260104153000 +0000">
     <title lang="eng">Bassmaster Review</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260103170000 +0000" stop="20260103203000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
+  <programme channel="TSN4" start="20260103160000 +0000" stop="20260103170000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260103203000 +0000" stop="20260103230000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
+  <programme channel="TSN4" start="20260103170000 +0000" stop="20260103180000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260103230000 +0000" stop="20260104020000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
+  <programme channel="TSN4" start="20260103180000 +0000" stop="20260103200000 +0000">
+    <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104020000 +0000" stop="20260104053000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
+  <programme channel="TSN4" start="20260103200000 +0000" stop="20260103220000 +0000">
+    <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104053000 +0000" stop="20260104083000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
+  <programme channel="TSN4" start="20260103220000 +0000" stop="20260103223000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104083000 +0000" stop="20260104113000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
+  <programme channel="TSN4" start="20260103223000 +0000" stop="20260103230000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104083000 +0000" stop="20260104113000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
+  <programme channel="TSN4" start="20260103230000 +0000" stop="20260104000000 +0000">
+    <title lang="eng">Why We Love Sports</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104113000 +0000" stop="20260104120000 +0000">
-    <title lang="eng">Men's Health - All-Natural Secret for Prostate Health</title>
+  <programme channel="TSN4" start="20260104000000 +0000" stop="20260104003000 +0000">
+    <title lang="eng">Raptors Game Day</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104120000 +0000" stop="20260104123000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="TSN4" start="20260104003000 +0000" stop="20260104030000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104123000 +0000" stop="20260104130000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="TSN4" start="20260104030000 +0000" stop="20260104033000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104130000 +0000" stop="20260104133000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="TSN4" start="20260104033000 +0000" stop="20260104040000 +0000">
+    <title lang="eng">NFL Football</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104133000 +0000" stop="20260104140000 +0000">
-    <title lang="eng">Paid Programming</title>
+  <programme channel="TSN4" start="20260104040000 +0000" stop="20260104050000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260104140000 +0000" stop="20260104180000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
+  <programme channel="TSN4" start="20260104050000 +0000" stop="20260104053000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20260104053000 +0000" stop="20260104060000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20260104060000 +0000" stop="20260104070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104070000 +0000" stop="20260104080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104080000 +0000" stop="20260104090000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104090000 +0000" stop="20260104100000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104100000 +0000" stop="20260104110000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104110000 +0000" stop="20260104120000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104120000 +0000" stop="20260104130000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104130000 +0000" stop="20260104140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104140000 +0000" stop="20260104143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260104143000 +0000" stop="20260104144500 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20260104144500 +0000" stop="20260104171500 +0000">
+    <title lang="eng">Spanish Primera Division Soccer</title>
   </programme>
 </tv>
