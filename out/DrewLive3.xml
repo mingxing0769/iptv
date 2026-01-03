@@ -1,8 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN2">
+    <display-name>ESPN2</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <programme channel="ESPN2" start="20260103160000 +0000" stop="20260103180000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN2" start="20260103180000 +0000" stop="20260103200000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN2" start="20260103200000 +0000" stop="20260103220000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN2" start="20260103220000 +0000" stop="20260104000000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104000000 +0000" stop="20260104003000 +0000">
+    <title lang="eng">College Basketball Live Scoreboard</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104003000 +0000" stop="20260104005000 +0000">
+    <title lang="eng">NFL Countdown Special Edition</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104005000 +0000" stop="20260104010000 +0000">
+    <title lang="eng">NFL Kickoff</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104010000 +0000" stop="20260104040500 +0000">
+    <title lang="eng">NFL Football</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104040500 +0000" stop="20260104042000 +0000">
+    <title lang="eng">Monday Night Postgame</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104042000 +0000" stop="20260104062000 +0000">
+    <title lang="eng">ESPN Films</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104062000 +0000" stop="20260104075000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104075000 +0000" stop="20260104100000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104100000 +0000" stop="20260104110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104110000 +0000" stop="20260104120000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104120000 +0000" stop="20260104123000 +0000">
+    <title lang="eng">Motorhead Garage</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104123000 +0000" stop="20260104133000 +0000">
+    <title lang="eng">E60</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104133000 +0000" stop="20260104150000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20260104150000 +0000" stop="20260104180000 +0000">
+    <title lang="eng">Fantasy Football Now</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260103170000 +0000" stop="20260103190000 +0000">
     <title lang="eng">Women's College Basketball</title>
   </programme>
