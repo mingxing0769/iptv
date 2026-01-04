@@ -9,20 +9,8 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
-https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="None" group-title="Live",Fox Sports 2
-https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/sd
-#EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="None" group-title="Live",Sportsnet Pacific
-https://tvpass.org/live/sportsnet-pacific/sd
-#EXTINF:-1 tvg-name="Sportsnet Pittsburgh" tvg-logo="None" group-title="Live",Sportsnet Pittsburgh
-https://tvpass.org/live/sportsnet-pittsburgh/sd
-#EXTINF:-1 tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
-https://tvpass.org/live/tsn3/sd
-#EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
-https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-name="ESPN News" tvg-logo="None" group-title="Live",ESPN News
+https://tvpass.org/live/ESPNews/sd
 
 #EXTGRP:News
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
@@ -99,6 +87,8 @@ https://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="None" group-title="Undefined",Fox Sports 1
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
