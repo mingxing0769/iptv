@@ -1,71 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet Ontario">
-    <display-name>Sportsnet Ontario</display-name>
+  <channel id="TNT Eastern Feed">
+    <display-name>TNT Eastern Feed</display-name>
   </channel>
-  <programme channel="ESPN Deportes" start="20260103171500 +0000" stop="20260103193000 +0000">
-    <title lang="eng">Fútbol LaLiga</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260103193000 +0000" stop="20260103200000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260103200000 +0000" stop="20260103203000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260103203000 +0000" stop="20260103211500 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260103211500 +0000" stop="20260104003000 +0000">
-    <title lang="eng">Fútbol Americano NFL</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104003000 +0000" stop="20260104005000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104005000 +0000" stop="20260104041500 +0000">
-    <title lang="eng">Fútbol Americano NFL</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104041500 +0000" stop="20260104043000 +0000">
-    <title lang="eng">Monday Night Postgame</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104043000 +0000" stop="20260104050000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104050000 +0000" stop="20260104060000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104060000 +0000" stop="20260104070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104070000 +0000" stop="20260104080000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104080000 +0000" stop="20260104090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104090000 +0000" stop="20260104100000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104100000 +0000" stop="20260104110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104110000 +0000" stop="20260104120000 +0000">
-    <title lang="eng">Fútbol Picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104120000 +0000" stop="20260104125500 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104125500 +0000" stop="20260104150000 +0000">
-    <title lang="eng">Fútbol LaLiga</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260104150000 +0000" stop="20260104172500 +0000">
-    <title lang="eng">Fútbol LaLiga</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260103170000 +0000" stop="20260103190000 +0000">
     <title lang="eng">Women's College Basketball</title>
   </programme>
@@ -108,61 +48,55 @@
   <programme channel="Fox Sports 1" start="20260104150000 +0000" stop="20260104153000 +0000">
     <title lang="eng">Bassmaster Review</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260103160000 +0000" stop="20260103170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260103160000 +0000" stop="20260103163000 +0000">
+    <title lang="eng">Impractical Jokers</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260103170000 +0000" stop="20260103193000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="TNT Eastern Feed" start="20260103163000 +0000" stop="20260103170000 +0000">
+    <title lang="eng">College Basketball Pregame</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260103193000 +0000" stop="20260103203000 +0000">
-    <title lang="eng">Plays of the Year</title>
+  <programme channel="TNT Eastern Feed" start="20260103170000 +0000" stop="20260103190000 +0000">
+    <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260103203000 +0000" stop="20260103230000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="TNT Eastern Feed" start="20260103190000 +0000" stop="20260103210000 +0000">
+    <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260103230000 +0000" stop="20260103233000 +0000">
-    <title lang="eng">NHL's Best of 2025</title>
+  <programme channel="TNT Eastern Feed" start="20260103210000 +0000" stop="20260103213000 +0000">
+    <title lang="eng">College Basketball Postgame</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260103233000 +0000" stop="20260104000000 +0000">
-    <title lang="eng">Hockey Central Saturday</title>
+  <programme channel="TNT Eastern Feed" start="20260103213000 +0000" stop="20260103223000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104000000 +0000" stop="20260104030000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="TNT Eastern Feed" start="20260103223000 +0000" stop="20260104010000 +0000">
+    <title lang="eng">Movie</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104030000 +0000" stop="20260104060000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="TNT Eastern Feed" start="20260104010000 +0000" stop="20260104030000 +0000">
+    <title lang="eng">All Elite Wrestling: Collision</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104060000 +0000" stop="20260104063000 +0000">
-    <title lang="eng">After Hours</title>
+  <programme channel="TNT Eastern Feed" start="20260104030000 +0000" stop="20260104051500 +0000">
+    <title lang="eng">Movie</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104063000 +0000" stop="20260104070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260104051500 +0000" stop="20260104090000 +0000">
+    <title lang="eng">Movie</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104070000 +0000" stop="20260104080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260104090000 +0000" stop="20260104100000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104080000 +0000" stop="20260104090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260104100000 +0000" stop="20260104110000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104090000 +0000" stop="20260104100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260104110000 +0000" stop="20260104120000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104100000 +0000" stop="20260104110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260104120000 +0000" stop="20260104130000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104110000 +0000" stop="20260104120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260104130000 +0000" stop="20260104140000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104120000 +0000" stop="20260104130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260104140000 +0000" stop="20260104150000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
-  <programme channel="Sportsnet Ontario" start="20260104130000 +0000" stop="20260104140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260104140000 +0000" stop="20260104150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260104150000 +0000" stop="20260104160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TNT Eastern Feed" start="20260104150000 +0000" stop="20260104160000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
 </tv>
