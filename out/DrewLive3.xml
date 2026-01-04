@@ -1,83 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Fox News">
-    <display-name>Fox News</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="Fox News" start="20260104160000 +0000" stop="20260104170000 +0000">
-    <title lang="eng">The Sunday Briefing</title>
-  </programme>
-  <programme channel="Fox News" start="20260104170000 +0000" stop="20260104180000 +0000">
-    <title lang="eng">Fox News Live</title>
-  </programme>
-  <programme channel="Fox News" start="20260104180000 +0000" stop="20260104190000 +0000">
-    <title lang="eng">Fox News Live</title>
-  </programme>
-  <programme channel="Fox News" start="20260104190000 +0000" stop="20260104200000 +0000">
-    <title lang="eng">FOX News Sunday</title>
-  </programme>
-  <programme channel="Fox News" start="20260104200000 +0000" stop="20260104210000 +0000">
-    <title lang="eng">Fox Report With Jon Scott</title>
-  </programme>
-  <programme channel="Fox News" start="20260104210000 +0000" stop="20260104220000 +0000">
-    <title lang="eng">Fox Report With Jon Scott</title>
-  </programme>
-  <programme channel="Fox News" start="20260104220000 +0000" stop="20260104230000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20260104230000 +0000" stop="20260105000000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20260105000000 +0000" stop="20260105010000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20260105010000 +0000" stop="20260105020000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20260105020000 +0000" stop="20260105030000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20260105030000 +0000" stop="20260105040000 +0000">
-    <title lang="eng">One Nation With Brian Kilmeade</title>
-  </programme>
-  <programme channel="Fox News" start="20260105040000 +0000" stop="20260105050000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20260105050000 +0000" stop="20260105060000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20260105060000 +0000" stop="20260105070000 +0000">
-    <title lang="eng">One Nation With Brian Kilmeade</title>
-  </programme>
-  <programme channel="Fox News" start="20260105070000 +0000" stop="20260105080000 +0000">
-    <title lang="eng">FOX News Sunday</title>
-  </programme>
-  <programme channel="Fox News" start="20260105080000 +0000" stop="20260105090000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20260105090000 +0000" stop="20260105100000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20260105100000 +0000" stop="20260105110000 +0000">
-    <title lang="eng">FOX &amp; Friends First</title>
-  </programme>
-  <programme channel="Fox News" start="20260105110000 +0000" stop="20260105120000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20260105120000 +0000" stop="20260105130000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20260105130000 +0000" stop="20260105140000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20260105140000 +0000" stop="20260105150000 +0000">
-    <title lang="eng">America's Newsroom</title>
-  </programme>
-  <programme channel="Fox News" start="20260105150000 +0000" stop="20260105160000 +0000">
-    <title lang="eng">America's Newsroom</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260104153000 +0000" stop="20260104160000 +0000">
     <title lang="eng">Bassmaster Review</title>
   </programme>
