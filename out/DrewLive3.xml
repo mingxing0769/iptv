@@ -1,8 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="BBC News North America HD">
+    <display-name>BBC News North America HD</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <programme channel="BBC News North America HD" start="20260108153000 +0000" stop="20260108160000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108160000 +0000" stop="20260108163000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108163000 +0000" stop="20260108164500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108164500 +0000" stop="20260108165500 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108165500 +0000" stop="20260108170000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108170000 +0000" stop="20260108173000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108173000 +0000" stop="20260108180000 +0000">
+    <title lang="eng">Focus on Africa</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108180000 +0000" stop="20260108183000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108183000 +0000" stop="20260108190000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108190000 +0000" stop="20260108193000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108193000 +0000" stop="20260108195500 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108195500 +0000" stop="20260108200000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108200000 +0000" stop="20260108203000 +0000">
+    <title lang="eng">The Context</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108203000 +0000" stop="20260108210000 +0000">
+    <title lang="eng">The Context</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108210000 +0000" stop="20260108213000 +0000">
+    <title lang="eng">The Context USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108213000 +0000" stop="20260108215500 +0000">
+    <title lang="eng">The Context USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108215500 +0000" stop="20260108220000 +0000">
+    <title lang="eng">Talking Movies</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108220000 +0000" stop="20260108223000 +0000">
+    <title lang="eng">BBC World News America</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108223000 +0000" stop="20260108230000 +0000">
+    <title lang="eng">Newsnight</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260108230000 +0000" stop="20260109000000 +0000">
+    <title lang="eng">BBC World News America</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109000000 +0000" stop="20260109003000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109003000 +0000" stop="20260109010000 +0000">
+    <title lang="eng">Newscast</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109010000 +0000" stop="20260109013000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109013000 +0000" stop="20260109020000 +0000">
+    <title lang="eng">The Media Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109020000 +0000" stop="20260109023000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109023000 +0000" stop="20260109024500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109024500 +0000" stop="20260109030000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109030000 +0000" stop="20260109033000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109033000 +0000" stop="20260109034500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109034500 +0000" stop="20260109040000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109040000 +0000" stop="20260109043000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109043000 +0000" stop="20260109044500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109044500 +0000" stop="20260109050000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109050000 +0000" stop="20260109053000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109053000 +0000" stop="20260109060000 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109060000 +0000" stop="20260109063000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109063000 +0000" stop="20260109065500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109065500 +0000" stop="20260109070000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109070000 +0000" stop="20260109073000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109073000 +0000" stop="20260109075500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109075500 +0000" stop="20260109080000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109080000 +0000" stop="20260109083000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109083000 +0000" stop="20260109090000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109090000 +0000" stop="20260109093000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109093000 +0000" stop="20260109095500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109095500 +0000" stop="20260109100000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109100000 +0000" stop="20260109103000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109103000 +0000" stop="20260109110000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109110000 +0000" stop="20260109113000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109113000 +0000" stop="20260109114500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109114500 +0000" stop="20260109115500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109115500 +0000" stop="20260109120000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109120000 +0000" stop="20260109123000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109123000 +0000" stop="20260109130000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109130000 +0000" stop="20260109133000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109133000 +0000" stop="20260109135500 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109135500 +0000" stop="20260109140000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109140000 +0000" stop="20260109143000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109143000 +0000" stop="20260109144500 +0000">
+    <title lang="eng">Business Today USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109144500 +0000" stop="20260109150000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260109150000 +0000" stop="20260109153000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260108170000 +0000" stop="20260108200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
