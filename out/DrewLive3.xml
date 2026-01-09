@@ -1,57 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Fox Sports 1">
-    <display-name>Fox Sports 1</display-name>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
   </channel>
-  <programme channel="Fox Sports 1" start="20260108170000 +0000" stop="20260108200000 +0000">
-    <title lang="eng">The Herd With Colin Cowherd</title>
+  <programme channel="TSN2" start="20260108170000 +0000" stop="20260108190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260108200000 +0000" stop="20260108220000 +0000">
-    <title lang="eng">First Things First</title>
+  <programme channel="TSN2" start="20260108190000 +0000" stop="20260108193000 +0000">
+    <title lang="eng">NFL GameDay</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260108220000 +0000" stop="20260108230000 +0000">
-    <title lang="eng">First Things First: OT</title>
+  <programme channel="TSN2" start="20260108193000 +0000" stop="20260108203000 +0000">
+    <title lang="eng">Why We Love Sports</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260108230000 +0000" stop="20260108233000 +0000">
-    <title lang="eng">Big Noon Kickoff Presents Bear Bets</title>
+  <programme channel="TSN2" start="20260108203000 +0000" stop="20260108210000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260108233000 +0000" stop="20260109000000 +0000">
-    <title lang="eng">The Joel Klatt Show: A College Football Podcast</title>
+  <programme channel="TSN2" start="20260108210000 +0000" stop="20260108213000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109000000 +0000" stop="20260109010000 +0000">
-    <title lang="eng">Rising</title>
+  <programme channel="TSN2" start="20260108213000 +0000" stop="20260108220000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109010000 +0000" stop="20260109020000 +0000">
-    <title lang="eng">Rising</title>
+  <programme channel="TSN2" start="20260108220000 +0000" stop="20260108223000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109020000 +0000" stop="20260109030000 +0000">
-    <title lang="eng">Rising</title>
+  <programme channel="TSN2" start="20260108223000 +0000" stop="20260108233000 +0000">
+    <title lang="eng">Why We Love Sports</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109030000 +0000" stop="20260109060000 +0000">
-    <title lang="eng">Greatest Races: NASCAR</title>
+  <programme channel="TSN2" start="20260108233000 +0000" stop="20260109000000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109060000 +0000" stop="20260109090000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="TSN2" start="20260109000000 +0000" stop="20260109023000 +0000">
+    <title lang="eng">NHL Hockey</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109090000 +0000" stop="20260109093000 +0000">
-    <title lang="eng">NFL Films Presents</title>
+  <programme channel="TSN2" start="20260109023000 +0000" stop="20260109030000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109093000 +0000" stop="20260109103000 +0000">
-    <title lang="eng">Greatest Games: College Football</title>
+  <programme channel="TSN2" start="20260109030000 +0000" stop="20260109033000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109103000 +0000" stop="20260109110000 +0000">
-    <title lang="eng">TMZ Sports</title>
+  <programme channel="TSN2" start="20260109033000 +0000" stop="20260109040000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109110000 +0000" stop="20260109120000 +0000">
-    <title lang="eng">College Football</title>
+  <programme channel="TSN2" start="20260109040000 +0000" stop="20260109043000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109120000 +0000" stop="20260109130000 +0000">
-    <title lang="eng">First Things First</title>
+  <programme channel="TSN2" start="20260109043000 +0000" stop="20260109050000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109130000 +0000" stop="20260109150000 +0000">
-    <title lang="eng">Wake Up Barstool</title>
+  <programme channel="TSN2" start="20260109050000 +0000" stop="20260109060000 +0000">
+    <title lang="eng">Movie</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260109150000 +0000" stop="20260109170000 +0000">
-    <title lang="eng">Wake Up Barstool</title>
+  <programme channel="TSN2" start="20260109060000 +0000" stop="20260109070000 +0000">
+    <title lang="eng">Why We Love Sports</title>
+  </programme>
+  <programme channel="TSN2" start="20260109070000 +0000" stop="20260109073000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109073000 +0000" stop="20260109080000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109080000 +0000" stop="20260109083000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109083000 +0000" stop="20260109090000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109090000 +0000" stop="20260109093000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109093000 +0000" stop="20260109100000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109100000 +0000" stop="20260109103000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109103000 +0000" stop="20260109110000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109110000 +0000" stop="20260109113000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109113000 +0000" stop="20260109120000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109120000 +0000" stop="20260109123000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109123000 +0000" stop="20260109130000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109130000 +0000" stop="20260109133000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109133000 +0000" stop="20260109140000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109140000 +0000" stop="20260109143000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109143000 +0000" stop="20260109150000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260109150000 +0000" stop="20260109153000 +0000">
+    <title lang="eng">SC</title>
   </programme>
 </tv>
