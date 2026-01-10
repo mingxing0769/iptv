@@ -1,89 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN News">
-    <display-name>ESPN News</display-name>
-  </channel>
   <channel id="ESPN U">
     <display-name>ESPN U</display-name>
   </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Spectrum SportsNet LA">
+    <display-name>Spectrum SportsNet LA</display-name>
+  </channel>
   <channel id="Sportsnet 360">
     <display-name>Sportsnet 360</display-name>
   </channel>
-  <channel id="Sportsnet Ontario">
-    <display-name>Sportsnet Ontario</display-name>
-  </channel>
-  <programme channel="ESPN News" start="20260109160000 +0000" stop="20260109170000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN News" start="20260109170000 +0000" stop="20260109190000 +0000">
-    <title lang="eng">Get Up</title>
-  </programme>
-  <programme channel="ESPN News" start="20260109190000 +0000" stop="20260109210000 +0000">
-    <title lang="eng">First Take</title>
-  </programme>
-  <programme channel="ESPN News" start="20260109210000 +0000" stop="20260109220000 +0000">
-    <title lang="eng">The Schrager Hour</title>
-  </programme>
-  <programme channel="ESPN News" start="20260109220000 +0000" stop="20260109230000 +0000">
-    <title lang="eng">2025 Best of SC Featured</title>
-  </programme>
-  <programme channel="ESPN News" start="20260109230000 +0000" stop="20260110003000 +0000">
-    <title lang="eng">College GameDay</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110003000 +0000" stop="20260110041000 +0000">
-    <title lang="eng">CFP Semifinal at the Chick-fil-A Peach Bowl</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110041000 +0000" stop="20260110042000 +0000">
-    <title lang="eng">Ram Trucks Postgame</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110042000 +0000" stop="20260110050000 +0000">
-    <title lang="eng">X Games Aspen 2025</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110050000 +0000" stop="20260110060000 +0000">
-    <title lang="eng">X Games Aspen 2025</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110060000 +0000" stop="20260110063000 +0000">
-    <title lang="eng">Slippery Stairs</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110063000 +0000" stop="20260110070000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110070000 +0000" stop="20260110080000 +0000">
-    <title lang="eng">World of X Games</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110080000 +0000" stop="20260110090000 +0000">
-    <title lang="eng">Dodgeball</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110090000 +0000" stop="20260110100000 +0000">
-    <title lang="eng">2022 Pro Breaking Tour Invitational</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110100000 +0000" stop="20260110103000 +0000">
-    <title lang="eng">Slippery Stairs</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110103000 +0000" stop="20260110110000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110110000 +0000" stop="20260110120000 +0000">
-    <title lang="eng">IWL Wrestball 3x3</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110120000 +0000" stop="20260110123000 +0000">
-    <title lang="eng">World Premiere: BBA Bubbleball</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110123000 +0000" stop="20260110130000 +0000">
-    <title lang="eng">NTPA Unlimited Pulling Tractors</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110130000 +0000" stop="20260110140000 +0000">
-    <title lang="eng">OmegaBall</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110140000 +0000" stop="20260110150000 +0000">
-    <title lang="eng">2023 Viii Sports Invitational</title>
-  </programme>
-  <programme channel="ESPN News" start="20260110150000 +0000" stop="20260110160000 +0000">
-    <title lang="eng">2024 AWA Wiffle Ball All Star Game</title>
-  </programme>
   <programme channel="ESPN U" start="20260109170000 +0000" stop="20260109200000 +0000">
     <title lang="eng">CFP Quarterfinal at the Capital One Orange Bowl</title>
   </programme>
@@ -165,6 +93,72 @@
   <programme channel="Fox Sports 1" start="20260110150000 +0000" stop="20260110190000 +0000">
     <title lang="eng">LIV Golf League</title>
   </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260109160000 +0000" stop="20260109170000 +0000">
+    <title lang="eng">Poker Masters</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260109170000 +0000" stop="20260109190000 +0000">
+    <title lang="eng">The Early Line</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260109190000 +0000" stop="20260109200000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260109200000 +0000" stop="20260109210000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260109210000 +0000" stop="20260110000000 +0000">
+    <title lang="eng">Dodgers Rewind</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110000000 +0000" stop="20260110023000 +0000">
+    <title lang="eng">Dodgers Rewind</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110023000 +0000" stop="20260110040000 +0000">
+    <title lang="eng">Dodgermentary: 1988 World Series</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110040000 +0000" stop="20260110050000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110050000 +0000" stop="20260110060000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110060000 +0000" stop="20260110070000 +0000">
+    <title lang="eng">Sports Shrines of LA</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110070000 +0000" stop="20260110080000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110080000 +0000" stop="20260110090000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110090000 +0000" stop="20260110100000 +0000">
+    <title lang="eng">Poker Masters</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110100000 +0000" stop="20260110110000 +0000">
+    <title lang="eng">Poker Masters</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110110000 +0000" stop="20260110113000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110113000 +0000" stop="20260110120000 +0000">
+    <title lang="eng">Men's Health - All-Natural Secret for Prostate Health</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110120000 +0000" stop="20260110123000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110123000 +0000" stop="20260110130000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110130000 +0000" stop="20260110133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110133000 +0000" stop="20260110140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110140000 +0000" stop="20260110150000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260110150000 +0000" stop="20260110160000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
   <programme channel="Sportsnet 360" start="20260109153000 +0000" stop="20260109160000 +0000">
     <title lang="eng">Plays of the Month - Highlights</title>
   </programme>
@@ -230,74 +224,5 @@
   </programme>
   <programme channel="Sportsnet 360" start="20260110150000 +0000" stop="20260110160000 +0000">
     <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260109160000 +0000" stop="20260109170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260109170000 +0000" stop="20260109180000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260109180000 +0000" stop="20260109203000 +0000">
-    <title lang="eng">Grand Slam of Curling</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260109203000 +0000" stop="20260109210000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260109210000 +0000" stop="20260109220000 +0000">
-    <title lang="eng">No Gamble, No Future</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260109220000 +0000" stop="20260110003000 +0000">
-    <title lang="eng">Grand Slam of Curling</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110003000 +0000" stop="20260110010000 +0000">
-    <title lang="eng">Hockey Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110010000 +0000" stop="20260110013000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110013000 +0000" stop="20260110020000 +0000">
-    <title lang="eng">Misplays of the Month</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110020000 +0000" stop="20260110043000 +0000">
-    <title lang="eng">Grand Slam of Curling</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110043000 +0000" stop="20260110053000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110053000 +0000" stop="20260110060000 +0000">
-    <title lang="eng">Misplays of the Month</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110060000 +0000" stop="20260110063000 +0000">
-    <title lang="eng">Raptors in 30</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110063000 +0000" stop="20260110070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110070000 +0000" stop="20260110080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110080000 +0000" stop="20260110090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110090000 +0000" stop="20260110100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110100000 +0000" stop="20260110110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110110000 +0000" stop="20260110120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110120000 +0000" stop="20260110140000 +0000">
-    <title lang="eng">FA Cup Soccer</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110140000 +0000" stop="20260110143000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110143000 +0000" stop="20260110150000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260110150000 +0000" stop="20260110170000 +0000">
-    <title lang="eng">FA Cup Soccer</title>
   </programme>
 </tv>
