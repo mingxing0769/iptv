@@ -1,8 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
+  <channel id="ESPN News">
+    <display-name>ESPN News</display-name>
+  </channel>
   <channel id="ESPN U">
     <display-name>ESPN U</display-name>
   </channel>
+  <channel id="Fox News">
+    <display-name>Fox News</display-name>
+  </channel>
+  <channel id="Fox Sports 1">
+    <display-name>Fox Sports 1</display-name>
+  </channel>
+  <programme channel="ESPN" start="20260110170000 +0000" stop="20260110190000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260110190000 +0000" stop="20260110210000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260110210000 +0000" stop="20260110230000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260110230000 +0000" stop="20260111010000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260111010000 +0000" stop="20260111030000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260111030000 +0000" stop="20260111050000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260111050000 +0000" stop="20260111060000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111060000 +0000" stop="20260111070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111070000 +0000" stop="20260111080000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111080000 +0000" stop="20260111090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111090000 +0000" stop="20260111100000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111100000 +0000" stop="20260111110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111110000 +0000" stop="20260111120000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111120000 +0000" stop="20260111130000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111130000 +0000" stop="20260111140000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111140000 +0000" stop="20260111150000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111150000 +0000" stop="20260111180000 +0000">
+    <title lang="eng">Postseason NFL Countdown</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110160000 +0000" stop="20260110170000 +0000">
+    <title lang="eng">2023 BullShooter Invitational Shootout</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110170000 +0000" stop="20260110173000 +0000">
+    <title lang="eng">FlingGolf: San Diego Open</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110173000 +0000" stop="20260110183000 +0000">
+    <title lang="eng">USA Dodgeball All-Star Showcase</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110183000 +0000" stop="20260110190000 +0000">
+    <title lang="eng">2023 Corgi Races at the Emerald Downs</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110190000 +0000" stop="20260110200000 +0000">
+    <title lang="eng">TurfWars Adult Kickball Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110200000 +0000" stop="20260110210000 +0000">
+    <title lang="eng">2023 NWLA Wiffleball All-Stars</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110210000 +0000" stop="20260110220000 +0000">
+    <title lang="eng">Major League Table Tennis</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110220000 +0000" stop="20260110223000 +0000">
+    <title lang="eng">2023 FootGolf World Cup</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110223000 +0000" stop="20260110230000 +0000">
+    <title lang="eng">2022 Corgi Races at Emerald Downs</title>
+  </programme>
+  <programme channel="ESPN News" start="20260110230000 +0000" stop="20260111000000 +0000">
+    <title lang="eng">TurfWars Invitational: Adult Kickball Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111000000 +0000" stop="20260111010000 +0000">
+    <title lang="eng">OmegaBall Women's Invitational</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111010000 +0000" stop="20260111013000 +0000">
+    <title lang="eng">2022 World Table Hockey Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111013000 +0000" stop="20260111023000 +0000">
+    <title lang="eng">Cornhole</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111023000 +0000" stop="20260111033000 +0000">
+    <title lang="eng">Cornhole</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111033000 +0000" stop="20260111040000 +0000">
+    <title lang="eng">2022 New Swarm FlingGolf Classic</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111040000 +0000" stop="20260111050000 +0000">
+    <title lang="eng">Disc Golf Pro Tour</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111050000 +0000" stop="20260111060000 +0000">
+    <title lang="eng">2023 BullShooter Invitational Shootout</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111060000 +0000" stop="20260111070000 +0000">
+    <title lang="eng">Pillow Fight Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111070000 +0000" stop="20260111080000 +0000">
+    <title lang="eng">OmegaBall Women's Invitational</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111080000 +0000" stop="20260111090000 +0000">
+    <title lang="eng">OmegaBall Men's Invitational</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111090000 +0000" stop="20260111100000 +0000">
+    <title lang="eng">Major League Table Tennis</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111100000 +0000" stop="20260111110000 +0000">
+    <title lang="eng">Extreme Axe &amp; Knife Games</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111110000 +0000" stop="20260111120000 +0000">
+    <title lang="eng">Slippery Stairs 2023</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111120000 +0000" stop="20260111130000 +0000">
+    <title lang="eng">Professional Cuesports League (PCL)</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111130000 +0000" stop="20260111140000 +0000">
+    <title lang="eng">Turf Wars Kickball Tournament</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111140000 +0000" stop="20260111150000 +0000">
+    <title lang="eng">OmegaBall</title>
+  </programme>
+  <programme channel="ESPN News" start="20260111150000 +0000" stop="20260111160000 +0000">
+    <title lang="eng">2022 BullShooter Invitational Shootout</title>
+  </programme>
   <programme channel="ESPN U" start="20260110170000 +0000" stop="20260110190000 +0000">
     <title lang="eng">College Basketball</title>
   </programme>
@@ -47,5 +191,122 @@
   </programme>
   <programme channel="ESPN U" start="20260111150000 +0000" stop="20260111170000 +0000">
     <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox News" start="20260110160000 +0000" stop="20260110170000 +0000">
+    <title lang="eng">Saturday in America</title>
+  </programme>
+  <programme channel="Fox News" start="20260110170000 +0000" stop="20260110180000 +0000">
+    <title lang="eng">Fox News Live</title>
+  </programme>
+  <programme channel="Fox News" start="20260110180000 +0000" stop="20260110190000 +0000">
+    <title lang="eng">Fox News Live</title>
+  </programme>
+  <programme channel="Fox News" start="20260110190000 +0000" stop="20260110200000 +0000">
+    <title lang="eng">The Journal Editorial Report</title>
+  </programme>
+  <programme channel="Fox News" start="20260110200000 +0000" stop="20260110210000 +0000">
+    <title lang="eng">Fox Report With Jon Scott</title>
+  </programme>
+  <programme channel="Fox News" start="20260110210000 +0000" stop="20260110220000 +0000">
+    <title lang="eng">Fox Report With Jon Scott</title>
+  </programme>
+  <programme channel="Fox News" start="20260110220000 +0000" stop="20260110230000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20260110230000 +0000" stop="20260111000000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20260111000000 +0000" stop="20260111010000 +0000">
+    <title lang="eng">The Big Weekend Show</title>
+  </programme>
+  <programme channel="Fox News" start="20260111010000 +0000" stop="20260111020000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20260111020000 +0000" stop="20260111030000 +0000">
+    <title lang="eng">My View With Lara Trump</title>
+  </programme>
+  <programme channel="Fox News" start="20260111030000 +0000" stop="20260111040000 +0000">
+    <title lang="eng">FOX News Saturday Night With Jimmy Failla</title>
+  </programme>
+  <programme channel="Fox News" start="20260111040000 +0000" stop="20260111050000 +0000">
+    <title lang="eng">Gutfeld!</title>
+  </programme>
+  <programme channel="Fox News" start="20260111050000 +0000" stop="20260111060000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20260111060000 +0000" stop="20260111070000 +0000">
+    <title lang="eng">My View With Lara Trump</title>
+  </programme>
+  <programme channel="Fox News" start="20260111070000 +0000" stop="20260111080000 +0000">
+    <title lang="eng">FOX News Saturday Night With Jimmy Failla</title>
+  </programme>
+  <programme channel="Fox News" start="20260111080000 +0000" stop="20260111090000 +0000">
+    <title lang="eng">Life, Liberty &amp; Levin</title>
+  </programme>
+  <programme channel="Fox News" start="20260111090000 +0000" stop="20260111100000 +0000">
+    <title lang="eng">My View With Lara Trump</title>
+  </programme>
+  <programme channel="Fox News" start="20260111100000 +0000" stop="20260111110000 +0000">
+    <title lang="eng">FOX News Saturday Night With Jimmy Failla</title>
+  </programme>
+  <programme channel="Fox News" start="20260111110000 +0000" stop="20260111120000 +0000">
+    <title lang="eng">Fox &amp; Friends Weekend</title>
+  </programme>
+  <programme channel="Fox News" start="20260111120000 +0000" stop="20260111130000 +0000">
+    <title lang="eng">Fox &amp; Friends Weekend</title>
+  </programme>
+  <programme channel="Fox News" start="20260111130000 +0000" stop="20260111140000 +0000">
+    <title lang="eng">Fox &amp; Friends Weekend</title>
+  </programme>
+  <programme channel="Fox News" start="20260111140000 +0000" stop="20260111150000 +0000">
+    <title lang="eng">Fox &amp; Friends Weekend</title>
+  </programme>
+  <programme channel="Fox News" start="20260111150000 +0000" stop="20260111160000 +0000">
+    <title lang="eng">Sunday Morning Futures With Maria Bartiromo</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260110190000 +0000" stop="20260110210000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260110210000 +0000" stop="20260110230000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260110230000 +0000" stop="20260111010000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111010000 +0000" stop="20260111020000 +0000">
+    <title lang="eng">Rising</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111020000 +0000" stop="20260111030000 +0000">
+    <title lang="eng">Rising</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111030000 +0000" stop="20260111050000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111050000 +0000" stop="20260111070000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111070000 +0000" stop="20260111090000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111090000 +0000" stop="20260111110000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111110000 +0000" stop="20260111120000 +0000">
+    <title lang="eng">Rising</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111120000 +0000" stop="20260111130000 +0000">
+    <title lang="eng">LIV Golf League</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111130000 +0000" stop="20260111140000 +0000">
+    <title lang="eng">Bassmaster: the Cast</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111140000 +0000" stop="20260111143000 +0000">
+    <title lang="eng">Bassmaster: the Cast</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111143000 +0000" stop="20260111150000 +0000">
+    <title lang="eng">Bassmaster: the Cast</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260111150000 +0000" stop="20260111200000 +0000">
+    <title lang="eng">LIV Golf League</title>
   </programme>
 </tv>
