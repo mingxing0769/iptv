@@ -1,8 +1,197 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="BBC News North America HD">
+    <display-name>BBC News North America HD</display-name>
+  </channel>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <programme channel="BBC News North America HD" start="20260110153000 +0000" stop="20260110160000 +0000">
+    <title lang="eng">The President's Path</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110160000 +0000" stop="20260110163000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110163000 +0000" stop="20260110170000 +0000">
+    <title lang="eng">I Was There</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110170000 +0000" stop="20260110180000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110180000 +0000" stop="20260110183000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110183000 +0000" stop="20260110190000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110190000 +0000" stop="20260110193000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110193000 +0000" stop="20260110200000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110200000 +0000" stop="20260110203000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110203000 +0000" stop="20260110210000 +0000">
+    <title lang="eng">AI Decoded</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110210000 +0000" stop="20260110220000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110220000 +0000" stop="20260110230000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110230000 +0000" stop="20260110233000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260110233000 +0000" stop="20260111000000 +0000">
+    <title lang="eng">Talking Business</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111000000 +0000" stop="20260111003000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111003000 +0000" stop="20260111010000 +0000">
+    <title lang="eng">This Cultural Life</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111010000 +0000" stop="20260111013000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111013000 +0000" stop="20260111020000 +0000">
+    <title lang="eng">Arts in Motion</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111020000 +0000" stop="20260111023000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111023000 +0000" stop="20260111030000 +0000">
+    <title lang="eng">AI Decoded</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111030000 +0000" stop="20260111033000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111033000 +0000" stop="20260111040000 +0000">
+    <title lang="eng">Global Eye</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111040000 +0000" stop="20260111043000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111043000 +0000" stop="20260111050000 +0000">
+    <title lang="eng">Clive Myrie's Caribbean Adventure</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111050000 +0000" stop="20260111053000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111053000 +0000" stop="20260111060000 +0000">
+    <title lang="eng">Talking Business</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111060000 +0000" stop="20260111063000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111063000 +0000" stop="20260111070000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111070000 +0000" stop="20260111073000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111073000 +0000" stop="20260111080000 +0000">
+    <title lang="eng">This Cultural Life</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111080000 +0000" stop="20260111083000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111083000 +0000" stop="20260111090000 +0000">
+    <title lang="eng">AI Decoded</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111090000 +0000" stop="20260111100000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111100000 +0000" stop="20260111103000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111103000 +0000" stop="20260111110000 +0000">
+    <title lang="eng">The Media Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111110000 +0000" stop="20260111113000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111113000 +0000" stop="20260111120000 +0000">
+    <title lang="eng">The President's Path</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111120000 +0000" stop="20260111123000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111123000 +0000" stop="20260111130000 +0000">
+    <title lang="eng">The Travel Show</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111130000 +0000" stop="20260111133000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111133000 +0000" stop="20260111140000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111140000 +0000" stop="20260111143000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111143000 +0000" stop="20260111150000 +0000">
+    <title lang="eng">Clive Myrie's Caribbean Adventure</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260111150000 +0000" stop="20260111153000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="ESPN" start="20260110170000 +0000" stop="20260110190000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260110190000 +0000" stop="20260110210000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260110210000 +0000" stop="20260110230000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260110230000 +0000" stop="20260111010000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260111010000 +0000" stop="20260111030000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260111030000 +0000" stop="20260111050000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260111050000 +0000" stop="20260111060000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111060000 +0000" stop="20260111070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111070000 +0000" stop="20260111080000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111080000 +0000" stop="20260111090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111090000 +0000" stop="20260111100000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111100000 +0000" stop="20260111110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111110000 +0000" stop="20260111120000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111120000 +0000" stop="20260111130000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111130000 +0000" stop="20260111140000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111140000 +0000" stop="20260111150000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260111150000 +0000" stop="20260111180000 +0000">
+    <title lang="eng">Postseason NFL Countdown</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260110190000 +0000" stop="20260110210000 +0000">
     <title lang="eng">College Basketball</title>
   </programme>
