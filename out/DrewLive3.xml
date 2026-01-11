@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet 360">
-    <display-name>Sportsnet 360</display-name>
-  </channel>
   <programme channel="Fox Sports 1" start="20260111200000 +0000" stop="20260111220000 +0000">
     <title lang="eng">Horse Racing</title>
   </programme>
@@ -53,47 +50,5 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260112150000 +0000" stop="20260112170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260111163000 +0000" stop="20260111183000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260111183000 +0000" stop="20260111193000 +0000">
-    <title lang="eng">TNA Xplosion</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260111193000 +0000" stop="20260111203000 +0000">
-    <title lang="eng">No Gamble, No Future</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260111203000 +0000" stop="20260111213000 +0000">
-    <title lang="eng">No Gamble, No Future</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260111213000 +0000" stop="20260111220000 +0000">
-    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260111220000 +0000" stop="20260112000000 +0000">
-    <title lang="eng">TNA Impact!</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260112000000 +0000" stop="20260112023000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260112023000 +0000" stop="20260112030000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260112030000 +0000" stop="20260112060000 +0000">
-    <title lang="eng">Grand Slam of Curling</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260112060000 +0000" stop="20260112090000 +0000">
-    <title lang="eng">Grand Slam of Curling</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260112090000 +0000" stop="20260112110000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260112110000 +0000" stop="20260112120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260112120000 +0000" stop="20260112150000 +0000">
-    <title lang="eng">By the Books</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260112150000 +0000" stop="20260112153000 +0000">
-    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
   </programme>
 </tv>
