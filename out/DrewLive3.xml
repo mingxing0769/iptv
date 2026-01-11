@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN U">
-    <display-name>ESPN U</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="TNT Eastern Feed">
-    <display-name>TNT Eastern Feed</display-name>
-  </channel>
-  <programme channel="ESPN U" start="20260110170000 +0000" stop="20260110190000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260110190000 +0000" stop="20260110210000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260110210000 +0000" stop="20260110230000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260110230000 +0000" stop="20260111010000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111010000 +0000" stop="20260111030000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111030000 +0000" stop="20260111033000 +0000">
-    <title lang="eng">The Season: Ole Miss Football</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111033000 +0000" stop="20260111040000 +0000">
-    <title lang="eng">The Season: Ole Miss Football</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111040000 +0000" stop="20260111043000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111043000 +0000" stop="20260111050000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111050000 +0000" stop="20260111070000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111070000 +0000" stop="20260111090000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111090000 +0000" stop="20260111110000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111110000 +0000" stop="20260111130000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111130000 +0000" stop="20260111150000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260111150000 +0000" stop="20260111170000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260110190000 +0000" stop="20260110210000 +0000">
     <title lang="eng">College Basketball</title>
   </programme>
@@ -98,59 +47,5 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260111150000 +0000" stop="20260111200000 +0000">
     <title lang="eng">LIV Golf League</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260110160000 +0000" stop="20260110170000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260110170000 +0000" stop="20260110173000 +0000">
-    <title lang="eng">College Basketball Pregame</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260110173000 +0000" stop="20260110193000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260110193000 +0000" stop="20260110213000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260110213000 +0000" stop="20260110220000 +0000">
-    <title lang="eng">College Basketball Postgame</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260110220000 +0000" stop="20260111010000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111010000 +0000" stop="20260111030000 +0000">
-    <title lang="eng">All Elite Wrestling: Collision</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111030000 +0000" stop="20260111060000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111030000 +0000" stop="20260111060000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111060000 +0000" stop="20260111080000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111080000 +0000" stop="20260111090000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111090000 +0000" stop="20260111100000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111100000 +0000" stop="20260111110000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111110000 +0000" stop="20260111120000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111120000 +0000" stop="20260111130000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111130000 +0000" stop="20260111140000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111140000 +0000" stop="20260111150000 +0000">
-    <title lang="eng">FBI</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260111150000 +0000" stop="20260111160000 +0000">
-    <title lang="eng">FBI</title>
   </programme>
 </tv>
