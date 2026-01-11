@@ -1,86 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Fox News">
-    <display-name>Fox News</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="TSN5">
-    <display-name>TSN5</display-name>
+  <channel id="Sportsnet One">
+    <display-name>Sportsnet One</display-name>
   </channel>
-  <programme channel="Fox News" start="20260111160000 +0000" stop="20260111170000 +0000">
-    <title lang="eng">The Sunday Briefing</title>
-  </programme>
-  <programme channel="Fox News" start="20260111170000 +0000" stop="20260111180000 +0000">
-    <title lang="eng">Fox News Live</title>
-  </programme>
-  <programme channel="Fox News" start="20260111180000 +0000" stop="20260111190000 +0000">
-    <title lang="eng">Fox News Live</title>
-  </programme>
-  <programme channel="Fox News" start="20260111190000 +0000" stop="20260111200000 +0000">
-    <title lang="eng">FOX News Sunday</title>
-  </programme>
-  <programme channel="Fox News" start="20260111200000 +0000" stop="20260111210000 +0000">
-    <title lang="eng">Fox Report With Jon Scott</title>
-  </programme>
-  <programme channel="Fox News" start="20260111210000 +0000" stop="20260111220000 +0000">
-    <title lang="eng">Fox Report With Jon Scott</title>
-  </programme>
-  <programme channel="Fox News" start="20260111220000 +0000" stop="20260111230000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20260111230000 +0000" stop="20260112000000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20260112000000 +0000" stop="20260112010000 +0000">
-    <title lang="eng">The Big Weekend Show</title>
-  </programme>
-  <programme channel="Fox News" start="20260112010000 +0000" stop="20260112020000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20260112020000 +0000" stop="20260112030000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20260112030000 +0000" stop="20260112040000 +0000">
-    <title lang="eng">One Nation With Brian Kilmeade</title>
-  </programme>
-  <programme channel="Fox News" start="20260112040000 +0000" stop="20260112050000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20260112050000 +0000" stop="20260112060000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20260112060000 +0000" stop="20260112070000 +0000">
-    <title lang="eng">One Nation With Brian Kilmeade</title>
-  </programme>
-  <programme channel="Fox News" start="20260112070000 +0000" stop="20260112080000 +0000">
-    <title lang="eng">FOX News Sunday</title>
-  </programme>
-  <programme channel="Fox News" start="20260112080000 +0000" stop="20260112090000 +0000">
-    <title lang="eng">Life, Liberty &amp; Levin</title>
-  </programme>
-  <programme channel="Fox News" start="20260112090000 +0000" stop="20260112100000 +0000">
-    <title lang="eng">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme channel="Fox News" start="20260112100000 +0000" stop="20260112110000 +0000">
-    <title lang="eng">FOX &amp; Friends First</title>
-  </programme>
-  <programme channel="Fox News" start="20260112110000 +0000" stop="20260112120000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20260112120000 +0000" stop="20260112130000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20260112130000 +0000" stop="20260112140000 +0000">
-    <title lang="eng">FOX and Friends</title>
-  </programme>
-  <programme channel="Fox News" start="20260112140000 +0000" stop="20260112150000 +0000">
-    <title lang="eng">America's Newsroom</title>
-  </programme>
-  <programme channel="Fox News" start="20260112150000 +0000" stop="20260112160000 +0000">
-    <title lang="eng">America's Newsroom</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260111200000 +0000" stop="20260111220000 +0000">
     <title lang="eng">Horse Racing</title>
   </programme>
@@ -129,64 +54,100 @@
   <programme channel="Fox Sports 1" start="20260112150000 +0000" stop="20260112170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
   </programme>
-  <programme channel="TSN5" start="20260111160000 +0000" stop="20260111170000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20260111160000 +0000" stop="20260111163000 +0000">
+    <title lang="eng">Gotta See It</title>
   </programme>
-  <programme channel="TSN5" start="20260111170000 +0000" stop="20260111193000 +0000">
+  <programme channel="Sportsnet One" start="20260111163000 +0000" stop="20260111183000 +0000">
+    <title lang="eng">FA Cup Soccer</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260111183000 +0000" stop="20260111190000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260111190000 +0000" stop="20260111213000 +0000">
     <title lang="eng">PWHL Hockey</title>
   </programme>
-  <programme channel="TSN5" start="20260111193000 +0000" stop="20260111200000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20260111213000 +0000" stop="20260111220000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
   </programme>
-  <programme channel="TSN5" start="20260111200000 +0000" stop="20260111203000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20260111220000 +0000" stop="20260111223000 +0000">
+    <title lang="eng">Misplays of the Month</title>
   </programme>
-  <programme channel="TSN5" start="20260111203000 +0000" stop="20260111210000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20260111223000 +0000" stop="20260111230000 +0000">
+    <title lang="eng">Toronto Raptors Pre-Game</title>
   </programme>
-  <programme channel="TSN5" start="20260111210000 +0000" stop="20260111220000 +0000">
-    <title lang="eng">Why We Love Sports</title>
+  <programme channel="Sportsnet One" start="20260111230000 +0000" stop="20260112013000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN5" start="20260111220000 +0000" stop="20260112003000 +0000">
-    <title lang="eng">2026 IIHF U-18 Women's World Championship</title>
+  <programme channel="Sportsnet One" start="20260112013000 +0000" stop="20260112040000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN5" start="20260112003000 +0000" stop="20260112011500 +0000">
-    <title lang="eng">NFL Playoffs: Wild Card Pregame</title>
+  <programme channel="Sportsnet One" start="20260112040000 +0000" stop="20260112043000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN5" start="20260112011500 +0000" stop="20260112043000 +0000">
-    <title lang="eng">NFL Football</title>
+  <programme channel="Sportsnet One" start="20260112043000 +0000" stop="20260112050000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN5" start="20260112043000 +0000" stop="20260112060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112050000 +0000" stop="20260112053000 +0000">
+    <title lang="eng">Misplays of the Month</title>
   </programme>
-  <programme channel="TSN5" start="20260112060000 +0000" stop="20260112070000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20260112053000 +0000" stop="20260112060000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN5" start="20260112070000 +0000" stop="20260112080000 +0000">
-    <title lang="eng">SportsCentre</title>
+  <programme channel="Sportsnet One" start="20260112060000 +0000" stop="20260112063000 +0000">
+    <title lang="eng">Misplays of the Month</title>
   </programme>
-  <programme channel="TSN5" start="20260112080000 +0000" stop="20260112090000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112063000 +0000" stop="20260112070000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN5" start="20260112090000 +0000" stop="20260112100000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112070000 +0000" stop="20260112073000 +0000">
+    <title lang="eng">Misplays of the Month</title>
   </programme>
-  <programme channel="TSN5" start="20260112100000 +0000" stop="20260112110000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112073000 +0000" stop="20260112080000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN5" start="20260112110000 +0000" stop="20260112120000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112080000 +0000" stop="20260112083000 +0000">
+    <title lang="eng">Misplays of the Month</title>
   </programme>
-  <programme channel="TSN5" start="20260112120000 +0000" stop="20260112130000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112083000 +0000" stop="20260112090000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN5" start="20260112130000 +0000" stop="20260112140000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112090000 +0000" stop="20260112093000 +0000">
+    <title lang="eng">Misplays of the Month</title>
   </programme>
-  <programme channel="TSN5" start="20260112140000 +0000" stop="20260112150000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112093000 +0000" stop="20260112100000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
-  <programme channel="TSN5" start="20260112150000 +0000" stop="20260112160000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
+  <programme channel="Sportsnet One" start="20260112100000 +0000" stop="20260112103000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112103000 +0000" stop="20260112110000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112110000 +0000" stop="20260112113000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112113000 +0000" stop="20260112120000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112120000 +0000" stop="20260112123000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112123000 +0000" stop="20260112130000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112130000 +0000" stop="20260112133000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112133000 +0000" stop="20260112140000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112140000 +0000" stop="20260112143000 +0000">
+    <title lang="eng">Raptors in 30</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112143000 +0000" stop="20260112150000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260112150000 +0000" stop="20260112153000 +0000">
+    <title lang="eng">Raptors in 30</title>
   </programme>
 </tv>
