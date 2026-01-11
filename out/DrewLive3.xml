@@ -1,74 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN Deportes" start="20260111171500 +0000" stop="20260111180000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260111180000 +0000" stop="20260111183000 +0000">
-    <title lang="eng">ESPN FC</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260111183000 +0000" stop="20260111210000 +0000">
-    <title lang="eng">Fútbol Supercopa de España</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260111210000 +0000" stop="20260111220000 +0000">
-    <title lang="eng">ESPN FC</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260111220000 +0000" stop="20260111230000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260111230000 +0000" stop="20260112000000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112000000 +0000" stop="20260112010000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112010000 +0000" stop="20260112030000 +0000">
-    <title lang="eng">Fútbol Supercopa de España</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112030000 +0000" stop="20260112040000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112040000 +0000" stop="20260112050000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112050000 +0000" stop="20260112060000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112060000 +0000" stop="20260112070000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112070000 +0000" stop="20260112080000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112080000 +0000" stop="20260112090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112090000 +0000" stop="20260112100000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112100000 +0000" stop="20260112110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112110000 +0000" stop="20260112120000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112120000 +0000" stop="20260112130000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112130000 +0000" stop="20260112140000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112140000 +0000" stop="20260112150000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260112150000 +0000" stop="20260112160000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260111200000 +0000" stop="20260111220000 +0000">
     <title lang="eng">Horse Racing</title>
   </programme>
