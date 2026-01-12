@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="TNT Eastern Feed">
+    <display-name>TNT Eastern Feed</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260111200000 +0000" stop="20260111220000 +0000">
     <title lang="eng">Horse Racing</title>
   </programme>
@@ -50,5 +53,50 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260112150000 +0000" stop="20260112170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260111160000 +0000" stop="20260111180000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260111180000 +0000" stop="20260111204500 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260111204500 +0000" stop="20260111230000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260111230000 +0000" stop="20260112010000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112010000 +0000" stop="20260112031500 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112031500 +0000" stop="20260112053000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112053000 +0000" stop="20260112080000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112080000 +0000" stop="20260112090000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112090000 +0000" stop="20260112100000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112100000 +0000" stop="20260112110000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112110000 +0000" stop="20260112120000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112120000 +0000" stop="20260112130000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112130000 +0000" stop="20260112140000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112140000 +0000" stop="20260112150000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260112150000 +0000" stop="20260112160000 +0000">
+    <title lang="eng">Cold Case</title>
   </programme>
 </tv>
