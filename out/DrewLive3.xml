@@ -1,62 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN">
-    <display-name>ESPN</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN" start="20260111180000 +0000" stop="20260111200000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="ESPN" start="20260111200000 +0000" stop="20260111220000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="ESPN" start="20260111220000 +0000" stop="20260112000000 +0000">
-    <title lang="eng">Women's College Basketball</title>
-  </programme>
-  <programme channel="ESPN" start="20260112000000 +0000" stop="20260112010000 +0000">
-    <title lang="eng">We're #1! - 1991 &amp; 1992 Duke Blue Devils</title>
-  </programme>
-  <programme channel="ESPN" start="20260112010000 +0000" stop="20260112020000 +0000">
-    <title lang="eng">We're #1</title>
-  </programme>
-  <programme channel="ESPN" start="20260112020000 +0000" stop="20260112040000 +0000">
-    <title lang="eng">ESPN Films</title>
-  </programme>
-  <programme channel="ESPN" start="20260112040000 +0000" stop="20260112043000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260112043000 +0000" stop="20260112060000 +0000">
-    <title lang="eng">SportsCenter With Scott Van Pelt</title>
-  </programme>
-  <programme channel="ESPN" start="20260112060000 +0000" stop="20260112070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260112070000 +0000" stop="20260112080000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260112080000 +0000" stop="20260112090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260112090000 +0000" stop="20260112100000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260112100000 +0000" stop="20260112110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260112110000 +0000" stop="20260112120000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260112120000 +0000" stop="20260112130000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260112130000 +0000" stop="20260112150000 +0000">
-    <title lang="eng">Get Up</title>
-  </programme>
-  <programme channel="ESPN" start="20260112150000 +0000" stop="20260112170000 +0000">
-    <title lang="eng">First Take</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260111200000 +0000" stop="20260111220000 +0000">
     <title lang="eng">Horse Racing</title>
   </programme>
