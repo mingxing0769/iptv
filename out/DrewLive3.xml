@@ -1,8 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN News">
+    <display-name>ESPN News</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Sportsnet Pittsburgh">
+    <display-name>Sportsnet Pittsburgh</display-name>
+  </channel>
+  <programme channel="ESPN News" start="20260114160000 +0000" stop="20260114170000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20260114170000 +0000" stop="20260114190000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPN News" start="20260114190000 +0000" stop="20260114210000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN News" start="20260114210000 +0000" stop="20260114220000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPN News" start="20260114220000 +0000" stop="20260114230000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="ESPN News" start="20260114230000 +0000" stop="20260114233000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPN News" start="20260114233000 +0000" stop="20260115000000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115000000 +0000" stop="20260115010000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115010000 +0000" stop="20260115013000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115013000 +0000" stop="20260115020000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115020000 +0000" stop="20260115030000 +0000">
+    <title lang="eng">The Hoop Collective</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115030000 +0000" stop="20260115033000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115033000 +0000" stop="20260115040000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115040000 +0000" stop="20260115043000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115043000 +0000" stop="20260115050000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115050000 +0000" stop="20260115060000 +0000">
+    <title lang="eng">X Games Aspen 2025</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115060000 +0000" stop="20260115070000 +0000">
+    <title lang="eng">X Games Aspen 2025</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115070000 +0000" stop="20260115073000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115073000 +0000" stop="20260115080000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115080000 +0000" stop="20260115090000 +0000">
+    <title lang="eng">Major League Table Tennis Showcase</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115090000 +0000" stop="20260115100000 +0000">
+    <title lang="eng">TurfWars Adult Kickball Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115100000 +0000" stop="20260115103000 +0000">
+    <title lang="eng">First Draft</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115103000 +0000" stop="20260115110000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115110000 +0000" stop="20260115130000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115130000 +0000" stop="20260115150000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20260115150000 +0000" stop="20260115160000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260114170000 +0000" stop="20260114200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -53,5 +137,89 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260115150000 +0000" stop="20260115170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260114153000 +0000" stop="20260114160000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260114160000 +0000" stop="20260114180000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260114180000 +0000" stop="20260114190000 +0000">
+    <title lang="eng">Fairways of Life with Matt Adams</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260114190000 +0000" stop="20260114193000 +0000">
+    <title lang="eng">Golf Life</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260114193000 +0000" stop="20260114200000 +0000">
+    <title lang="eng">Endless Golf</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260114200000 +0000" stop="20260114220000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260114220000 +0000" stop="20260114230000 +0000">
+    <title lang="eng">The Snap Count with Charlie Batch and Trai Essex</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260114230000 +0000" stop="20260115000000 +0000">
+    <title lang="eng">The Varsity with John Ourand</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115000000 +0000" stop="20260115023000 +0000">
+    <title lang="eng">PWHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115000000 +0000" stop="20260115023000 +0000">
+    <title lang="eng">PWHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115023000 +0000" stop="20260115030000 +0000">
+    <title lang="eng">Duquesne Coaches Show</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115030000 +0000" stop="20260115033000 +0000">
+    <title lang="eng">Charlie Moore Outdoors</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115033000 +0000" stop="20260115040000 +0000">
+    <title lang="eng">Charlie Moore: No Offense</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115040000 +0000" stop="20260115050000 +0000">
+    <title lang="eng">The Varsity with John Ourand</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115050000 +0000" stop="20260115060000 +0000">
+    <title lang="eng">The Snap Count with Charlie Batch and Trai Essex</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115060000 +0000" stop="20260115070000 +0000">
+    <title lang="eng">Diggin' Deep</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115070000 +0000" stop="20260115073000 +0000">
+    <title lang="eng">The Card Life</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115073000 +0000" stop="20260115080000 +0000">
+    <title lang="eng">Hobby House</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115080000 +0000" stop="20260115083000 +0000">
+    <title lang="eng">Inside Penguins Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115083000 +0000" stop="20260115090000 +0000">
+    <title lang="eng">Inside Penguins Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115090000 +0000" stop="20260115100000 +0000">
+    <title lang="eng">Pro Footvolley Tour</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115100000 +0000" stop="20260115110000 +0000">
+    <title lang="eng">SportsWrap With Jason Page</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115110000 +0000" stop="20260115130000 +0000">
+    <title lang="eng">Penguins Classics</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115130000 +0000" stop="20260115133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115133000 +0000" stop="20260115140000 +0000">
+    <title lang="eng">The Aging Brain</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115140000 +0000" stop="20260115143000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115143000 +0000" stop="20260115150000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Sportsnet Pittsburgh" start="20260115150000 +0000" stop="20260115153000 +0000">
+    <title lang="eng">The Aging Brain</title>
   </programme>
 </tv>
