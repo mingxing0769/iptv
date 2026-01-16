@@ -1,76 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
+  <channel id="ESPN2">
+    <display-name>ESPN2</display-name>
   </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet West">
-    <display-name>Sportsnet West</display-name>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
   </channel>
-  <programme channel="ESPN Deportes" start="20260115160000 +0000" stop="20260115170000 +0000">
+  <programme channel="ESPN2" start="20260115170000 +0000" stop="20260115190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN2" start="20260115190000 +0000" stop="20260115220000 +0000">
+    <title lang="eng">Golf</title>
+  </programme>
+  <programme channel="ESPN2" start="20260115220000 +0000" stop="20260115223000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="ESPN2" start="20260115223000 +0000" stop="20260115230000 +0000">
+    <title lang="eng">ACC Huddle Special: Carson Beck</title>
+  </programme>
+  <programme channel="ESPN2" start="20260115230000 +0000" stop="20260116000000 +0000">
+    <title lang="eng">The Point</title>
+  </programme>
+  <programme channel="ESPN2" start="20260116000000 +0000" stop="20260116020000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="ESPN2" start="20260116020000 +0000" stop="20260116040000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN2" start="20260116040000 +0000" stop="20260116050000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="ESPN2" start="20260116050000 +0000" stop="20260116053000 +0000">
+    <title lang="eng">This Is Football</title>
+  </programme>
+  <programme channel="ESPN2" start="20260116053000 +0000" stop="20260116060000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN2" start="20260116060000 +0000" stop="20260116070000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="ESPN2" start="20260116070000 +0000" stop="20260116090000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN2" start="20260116090000 +0000" stop="20260116100000 +0000">
     <title lang="eng">SportsCenter</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20260115170000 +0000" stop="20260115180000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260115180000 +0000" stop="20260115190000 +0000">
+  <programme channel="ESPN2" start="20260116100000 +0000" stop="20260116110000 +0000">
     <title lang="eng">SportsCenter</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20260115190000 +0000" stop="20260115200000 +0000">
-    <title lang="eng">Fútbol picante</title>
+  <programme channel="ESPN2" start="20260116110000 +0000" stop="20260116130000 +0000">
+    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20260115200000 +0000" stop="20260115210000 +0000">
-    <title lang="eng">Equipo F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260115210000 +0000" stop="20260115220000 +0000">
-    <title lang="eng">Enfocados</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260115220000 +0000" stop="20260115230000 +0000">
-    <title lang="eng">Generación F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260115230000 +0000" stop="20260116000000 +0000">
+  <programme channel="ESPN2" start="20260116130000 +0000" stop="20260116140000 +0000">
     <title lang="eng">SportsCenter</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20260116000000 +0000" stop="20260116023000 +0000">
-    <title lang="eng">Hockey NHL</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116023000 +0000" stop="20260116050000 +0000">
-    <title lang="eng">Hockey NHL</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116050000 +0000" stop="20260116060000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116060000 +0000" stop="20260116070000 +0000">
+  <programme channel="ESPN2" start="20260116140000 +0000" stop="20260116150000 +0000">
     <title lang="eng">SportsCenter</title>
   </programme>
-  <programme channel="ESPN Deportes" start="20260116070000 +0000" stop="20260116080000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116080000 +0000" stop="20260116090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116090000 +0000" stop="20260116100000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116100000 +0000" stop="20260116110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116110000 +0000" stop="20260116120000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116120000 +0000" stop="20260116130000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116130000 +0000" stop="20260116140000 +0000">
-    <title lang="eng">LaLiga al día</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116140000 +0000" stop="20260116150000 +0000">
-    <title lang="eng">Generación F</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260116150000 +0000" stop="20260116160000 +0000">
-    <title lang="eng">Fútbol picante</title>
+  <programme channel="ESPN2" start="20260116150000 +0000" stop="20260116170000 +0000">
+    <title lang="eng">Get Up</title>
   </programme>
   <programme channel="Fox Sports 1" start="20260115170000 +0000" stop="20260115200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
@@ -132,82 +123,58 @@
   <programme channel="Fox Sports 1" start="20260116150000 +0000" stop="20260116170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260115160000 +0000" stop="20260115170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TSN2" start="20260115170000 +0000" stop="20260115190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260115170000 +0000" stop="20260115180000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TSN2" start="20260115190000 +0000" stop="20260115220000 +0000">
+    <title lang="eng">Golf</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260115180000 +0000" stop="20260115200000 +0000">
+  <programme channel="TSN2" start="20260115220000 +0000" stop="20260115223000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="TSN2" start="20260115223000 +0000" stop="20260115233000 +0000">
+    <title lang="eng">Why We Love Sports</title>
+  </programme>
+  <programme channel="TSN2" start="20260115233000 +0000" stop="20260116000000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260116000000 +0000" stop="20260116023000 +0000">
     <title lang="eng">NHL Hockey</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260115200000 +0000" stop="20260115210000 +0000">
-    <title lang="eng">Game of Gold</title>
+  <programme channel="TSN2" start="20260116023000 +0000" stop="20260116030000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260115210000 +0000" stop="20260115220000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="TSN2" start="20260116030000 +0000" stop="20260116033000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260115220000 +0000" stop="20260115230000 +0000">
-    <title lang="eng">Real Kyper &amp; Bourne</title>
+  <programme channel="TSN2" start="20260116033000 +0000" stop="20260116040000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260115230000 +0000" stop="20260115233000 +0000">
-    <title lang="eng">The FAN Pregame</title>
+  <programme channel="TSN2" start="20260116040000 +0000" stop="20260116043000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260115233000 +0000" stop="20260116000000 +0000">
-    <title lang="eng">Hockey Central</title>
+  <programme channel="TSN2" start="20260116043000 +0000" stop="20260116050000 +0000">
+    <title lang="eng">Why We Love Football</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260116000000 +0000" stop="20260116003000 +0000">
-    <title lang="eng">Misplays of the Month</title>
+  <programme channel="TSN2" start="20260116050000 +0000" stop="20260116053000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260116003000 +0000" stop="20260116010000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
+  <programme channel="TSN2" start="20260116053000 +0000" stop="20260116060000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260116010000 +0000" stop="20260116013000 +0000">
-    <title lang="eng">NHL's Best</title>
+  <programme channel="TSN2" start="20260116060000 +0000" stop="20260116090000 +0000">
+    <title lang="eng">2025 Grey Cup</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260116013000 +0000" stop="20260116040000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="TSN2" start="20260116090000 +0000" stop="20260116120000 +0000">
+    <title lang="eng">2025 Grey Cup</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260116040000 +0000" stop="20260116043000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TSN2" start="20260116090000 +0000" stop="20260116120000 +0000">
+    <title lang="eng">2025 Grey Cup</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260116043000 +0000" stop="20260116053000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TSN2" start="20260116120000 +0000" stop="20260116150000 +0000">
+    <title lang="eng">2025 Grey Cup</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260116053000 +0000" stop="20260116060000 +0000">
-    <title lang="eng">NHL's Best</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116060000 +0000" stop="20260116063000 +0000">
-    <title lang="eng">Misplays of the Month</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116063000 +0000" stop="20260116070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116070000 +0000" stop="20260116080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116080000 +0000" stop="20260116090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116090000 +0000" stop="20260116100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116100000 +0000" stop="20260116110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116110000 +0000" stop="20260116120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116120000 +0000" stop="20260116130000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116130000 +0000" stop="20260116140000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116140000 +0000" stop="20260116150000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260116150000 +0000" stop="20260116160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="TSN2" start="20260116150000 +0000" stop="20260116153000 +0000">
+    <title lang="eng">SC</title>
   </programme>
 </tv>
