@@ -1,71 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN">
-    <display-name>ESPN</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN" start="20260116170000 +0000" stop="20260116190000 +0000">
-    <title lang="eng">The Pat McAfee Show</title>
-  </programme>
-  <programme channel="ESPN" start="20260116190000 +0000" stop="20260116200000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260116200000 +0000" stop="20260116210000 +0000">
-    <title lang="eng">NBA Today</title>
-  </programme>
-  <programme channel="ESPN" start="20260116210000 +0000" stop="20260116220000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN" start="20260116220000 +0000" stop="20260116223000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260116223000 +0000" stop="20260116230000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN" start="20260116230000 +0000" stop="20260116233000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260116233000 +0000" stop="20260117000000 +0000">
-    <title lang="eng">NBA Countdown</title>
-  </programme>
-  <programme channel="ESPN" start="20260117000000 +0000" stop="20260117023500 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="ESPN" start="20260117023500 +0000" stop="20260117050500 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="ESPN" start="20260117050500 +0000" stop="20260117060000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260117060000 +0000" stop="20260117070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260117070000 +0000" stop="20260117080000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260117080000 +0000" stop="20260117090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260117090000 +0000" stop="20260117110000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="ESPN" start="20260117110000 +0000" stop="20260117120000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260117120000 +0000" stop="20260117130000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260117130000 +0000" stop="20260117140000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260117140000 +0000" stop="20260117150000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN" start="20260117150000 +0000" stop="20260117170000 +0000">
-    <title lang="eng">Postseason NFL Countdown</title>
-  </programme>
+  <channel id="Spectrum SportsNet LA">
+    <display-name>Spectrum SportsNet LA</display-name>
+  </channel>
+  <channel id="TSN5">
+    <display-name>TSN5</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260116170000 +0000" stop="20260116200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -113,5 +56,131 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260117150000 +0000" stop="20260117153000 +0000">
     <title lang="eng">MotoGP Rookies: Joining the Elite</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260116160000 +0000" stop="20260116170000 +0000">
+    <title lang="eng">Poker Masters</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260116170000 +0000" stop="20260116190000 +0000">
+    <title lang="eng">The Early Line</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260116190000 +0000" stop="20260116220000 +0000">
+    <title lang="eng">Dodgers Rewind</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260116220000 +0000" stop="20260117003000 +0000">
+    <title lang="eng">Dodgers Rewind</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117003000 +0000" stop="20260117033000 +0000">
+    <title lang="eng">Dodgers Rewind</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117033000 +0000" stop="20260117070000 +0000">
+    <title lang="eng">2025 Dodgers Championship Parade</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117070000 +0000" stop="20260117080000 +0000">
+    <title lang="eng">Sports Shrines of LA</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117080000 +0000" stop="20260117090000 +0000">
+    <title lang="eng">Fernandomania</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117090000 +0000" stop="20260117100000 +0000">
+    <title lang="eng">Poker Masters</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117100000 +0000" stop="20260117110000 +0000">
+    <title lang="eng">Poker Masters</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117110000 +0000" stop="20260117113000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117113000 +0000" stop="20260117120000 +0000">
+    <title lang="eng">Men's Health - All-Natural Secret for Prostate Health</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117120000 +0000" stop="20260117123000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117123000 +0000" stop="20260117130000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117130000 +0000" stop="20260117133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117133000 +0000" stop="20260117140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117140000 +0000" stop="20260117150000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260117150000 +0000" stop="20260117160000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="TSN5" start="20260116153000 +0000" stop="20260116163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260116163000 +0000" stop="20260116170000 +0000">
+    <title lang="eng">Why We Love Football</title>
+  </programme>
+  <programme channel="TSN5" start="20260116170000 +0000" stop="20260116173000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20260116173000 +0000" stop="20260116180000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20260116180000 +0000" stop="20260116183000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20260116183000 +0000" stop="20260116190000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20260116190000 +0000" stop="20260116193000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN5" start="20260116193000 +0000" stop="20260116200000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN5" start="20260116200000 +0000" stop="20260116210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN5" start="20260116210000 +0000" stop="20260116230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN5" start="20260116230000 +0000" stop="20260117003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117003000 +0000" stop="20260117030000 +0000">
+    <title lang="eng">NLL Lacrosse</title>
+  </programme>
+  <programme channel="TSN5" start="20260117030000 +0000" stop="20260117053000 +0000">
+    <title lang="eng">NLL Lacrosse</title>
+  </programme>
+  <programme channel="TSN5" start="20260117053000 +0000" stop="20260117060000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117060000 +0000" stop="20260117070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117070000 +0000" stop="20260117080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117080000 +0000" stop="20260117090000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117090000 +0000" stop="20260117100000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117100000 +0000" stop="20260117110000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117110000 +0000" stop="20260117120000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117120000 +0000" stop="20260117130000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117130000 +0000" stop="20260117140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117140000 +0000" stop="20260117150000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260117150000 +0000" stop="20260117160000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
