@@ -1,95 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN News">
-    <display-name>ESPN News</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN News" start="20260116160000 +0000" stop="20260116170000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN News" start="20260116170000 +0000" stop="20260116190000 +0000">
-    <title lang="eng">Get Up</title>
-  </programme>
-  <programme channel="ESPN News" start="20260116190000 +0000" stop="20260116210000 +0000">
-    <title lang="eng">First Take</title>
-  </programme>
-  <programme channel="ESPN News" start="20260116210000 +0000" stop="20260116220000 +0000">
-    <title lang="eng">NBA Today</title>
-  </programme>
-  <programme channel="ESPN News" start="20260116220000 +0000" stop="20260116230000 +0000">
-    <title lang="eng">The Schrager Hour</title>
-  </programme>
-  <programme channel="ESPN News" start="20260116230000 +0000" stop="20260116233000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="ESPN News" start="20260116233000 +0000" stop="20260117000000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117000000 +0000" stop="20260117010000 +0000">
-    <title lang="eng">The Schrager Hour</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117010000 +0000" stop="20260117013000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117013000 +0000" stop="20260117020000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117020000 +0000" stop="20260117030000 +0000">
-    <title lang="eng">The Schrager Hour</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117030000 +0000" stop="20260117033000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117033000 +0000" stop="20260117040000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117040000 +0000" stop="20260117043000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117043000 +0000" stop="20260117050000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117050000 +0000" stop="20260117060000 +0000">
-    <title lang="eng">World of X Games</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117060000 +0000" stop="20260117070000 +0000">
-    <title lang="eng">World of X Games</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117070000 +0000" stop="20260117073000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117073000 +0000" stop="20260117080000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117080000 +0000" stop="20260117090000 +0000">
-    <title lang="eng">2025 NWLA All-Star Game</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117090000 +0000" stop="20260117100000 +0000">
-    <title lang="eng">OmegaBall World Invitational</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117100000 +0000" stop="20260117103000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117103000 +0000" stop="20260117110000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117110000 +0000" stop="20260117120000 +0000">
-    <title lang="eng">The 4th Annual BullShooter Invitational Shootout</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117120000 +0000" stop="20260117130000 +0000">
-    <title lang="eng">Slippery Stairs</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117130000 +0000" stop="20260117140000 +0000">
-    <title lang="eng">2025 Extreme Archery Championship</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117140000 +0000" stop="20260117150000 +0000">
-    <title lang="eng">The National Dodgeball League Championship Games</title>
-  </programme>
-  <programme channel="ESPN News" start="20260117150000 +0000" stop="20260117160000 +0000">
-    <title lang="eng">World Axe &amp; Knife Throwing Championship 2025</title>
-  </programme>
+  <channel id="TSN3">
+    <display-name>TSN3</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260116170000 +0000" stop="20260116200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -137,5 +53,74 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260117150000 +0000" stop="20260117153000 +0000">
     <title lang="eng">MotoGP Rookies: Joining the Elite</title>
+  </programme>
+  <programme channel="TSN3" start="20260116153000 +0000" stop="20260116163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260116163000 +0000" stop="20260116173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260116173000 +0000" stop="20260116180000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260116180000 +0000" stop="20260116183000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260116183000 +0000" stop="20260116190000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260116190000 +0000" stop="20260116220000 +0000">
+    <title lang="eng">Golf</title>
+  </programme>
+  <programme channel="TSN3" start="20260116220000 +0000" stop="20260116223000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="TSN3" start="20260116223000 +0000" stop="20260116230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN3" start="20260116230000 +0000" stop="20260116233000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260116233000 +0000" stop="20260117000000 +0000">
+    <title lang="eng">NBA Countdown</title>
+  </programme>
+  <programme channel="TSN3" start="20260117000000 +0000" stop="20260117023000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN3" start="20260117023000 +0000" stop="20260117050000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN3" start="20260117050000 +0000" stop="20260117060000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117060000 +0000" stop="20260117070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117070000 +0000" stop="20260117080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117080000 +0000" stop="20260117090000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117090000 +0000" stop="20260117100000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117100000 +0000" stop="20260117110000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117110000 +0000" stop="20260117120000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117120000 +0000" stop="20260117130000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117130000 +0000" stop="20260117140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117140000 +0000" stop="20260117150000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260117150000 +0000" stop="20260117160000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
