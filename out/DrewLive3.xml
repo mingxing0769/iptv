@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN U">
+    <display-name>ESPN U</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <programme channel="ESPN U" start="20260117160000 +0000" stop="20260117170000 +0000">
+    <title lang="eng">College Basketball Live</title>
+  </programme>
+  <programme channel="ESPN U" start="20260117170000 +0000" stop="20260117200000 +0000">
+    <title lang="eng">CFP Quarterfinal at the Goodyear Cotton Bowl Classic</title>
+  </programme>
+  <programme channel="ESPN U" start="20260117200000 +0000" stop="20260117230000 +0000">
+    <title lang="eng">CFP Quarterfinal at the Rose Bowl</title>
+  </programme>
+  <programme channel="ESPN U" start="20260117230000 +0000" stop="20260118020000 +0000">
+    <title lang="eng">CFP Semifinal at the VRBO Fiesta Bowl</title>
+  </programme>
+  <programme channel="ESPN U" start="20260118020000 +0000" stop="20260118050000 +0000">
+    <title lang="eng">CFP Semifinal at the Chick-fil-A Peach Bowl</title>
+  </programme>
+  <programme channel="ESPN U" start="20260118050000 +0000" stop="20260118080000 +0000">
+    <title lang="eng">CFP Quarterfinal at the Rose Bowl</title>
+  </programme>
+  <programme channel="ESPN U" start="20260118080000 +0000" stop="20260118110000 +0000">
+    <title lang="eng">CFP Quarterfinal at the Allstate Sugar Bowl</title>
+  </programme>
+  <programme channel="ESPN U" start="20260118110000 +0000" stop="20260118140000 +0000">
+    <title lang="eng">CFP Semifinal at the VRBO Fiesta Bowl</title>
+  </programme>
+  <programme channel="ESPN U" start="20260118140000 +0000" stop="20260118170000 +0000">
+    <title lang="eng">CFP Semifinal at the Chick-fil-A Peach Bowl</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260117153000 +0000" stop="20260117163000 +0000">
     <title lang="eng">Rising</title>
   </programme>
