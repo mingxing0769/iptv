@@ -3,6 +3,12 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Spectrum Sportsnet Lakers">
+    <display-name>Spectrum Sportsnet Lakers</display-name>
+  </channel>
+  <channel id="TSN5">
+    <display-name>TSN5</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260119170000 +0000" stop="20260119200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -47,5 +53,113 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260120150000 +0000" stop="20260120170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260119170000 +0000" stop="20260119190000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260119190000 +0000" stop="20260119200000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260119200000 +0000" stop="20260119220000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260119220000 +0000" stop="20260119230000 +0000">
+    <title lang="eng">Access SportsNet: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260119230000 +0000" stop="20260120000000 +0000">
+    <title lang="eng">High Stakes Poker</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120000000 +0000" stop="20260120010000 +0000">
+    <title lang="eng">No Gamble, No Future</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120010000 +0000" stop="20260120020000 +0000">
+    <title lang="eng">Lakers Compacto</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120020000 +0000" stop="20260120023000 +0000">
+    <title lang="eng">Beyond the Sport</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120023000 +0000" stop="20260120030000 +0000">
+    <title lang="eng">Sportico Sports Business</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120030000 +0000" stop="20260120033000 +0000">
+    <title lang="eng">CIF Southern Section: This Week</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120033000 +0000" stop="20260120040000 +0000">
+    <title lang="eng">Backstage: Lakers</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120040000 +0000" stop="20260120060000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120060000 +0000" stop="20260120070000 +0000">
+    <title lang="eng">No Gamble, No Future</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120070000 +0000" stop="20260120080000 +0000">
+    <title lang="eng">High Stakes Poker</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120080000 +0000" stop="20260120090000 +0000">
+    <title lang="eng">Lakers Compacto</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120090000 +0000" stop="20260120100000 +0000">
+    <title lang="eng">The History of the CIF Southern Section</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120100000 +0000" stop="20260120103000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120103000 +0000" stop="20260120110000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120110000 +0000" stop="20260120113000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120113000 +0000" stop="20260120120000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120120000 +0000" stop="20260120123000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120123000 +0000" stop="20260120130000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120130000 +0000" stop="20260120133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120133000 +0000" stop="20260120140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum Sportsnet Lakers" start="20260120140000 +0000" stop="20260120170000 +0000">
+    <title lang="eng">VSiN by the Books</title>
+  </programme>
+  <programme channel="TSN5" start="20260119160000 +0000" stop="20260119170000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20260119170000 +0000" stop="20260119210000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260119210000 +0000" stop="20260119230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN5" start="20260119230000 +0000" stop="20260120000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260120000000 +0000" stop="20260120080000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260120080000 +0000" stop="20260120120000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260120080000 +0000" stop="20260120120000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260120120000 +0000" stop="20260120130000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20260120130000 +0000" stop="20260120140000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20260120140000 +0000" stop="20260120150000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20260120150000 +0000" stop="20260120160000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
   </programme>
 </tv>
