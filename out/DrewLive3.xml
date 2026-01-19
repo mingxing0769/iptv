@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="TSN1">
-    <display-name>TSN1</display-name>
-  </channel>
   <programme channel="Fox Sports 1" start="20260118153000 +0000" stop="20260118160000 +0000">
     <title lang="eng">Bassmaster: the Cast</title>
   </programme>
@@ -71,62 +68,5 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260119150000 +0000" stop="20260119170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="TSN1" start="20260118160000 +0000" stop="20260118170000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260118170000 +0000" stop="20260118200000 +0000">
-    <title lang="eng">NFL Countdown</title>
-  </programme>
-  <programme channel="TSN1" start="20260118200000 +0000" stop="20260118230000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20260118230000 +0000" stop="20260118233000 +0000">
-    <title lang="eng">NFL Divisional Pregame</title>
-  </programme>
-  <programme channel="TSN1" start="20260118233000 +0000" stop="20260119030000 +0000">
-    <title lang="eng">NFL Football</title>
-  </programme>
-  <programme channel="TSN1" start="20260119030000 +0000" stop="20260119040000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN1" start="20260119040000 +0000" stop="20260119050000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="TSN1" start="20260119050000 +0000" stop="20260119060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN1" start="20260119060000 +0000" stop="20260119070000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119070000 +0000" stop="20260119080000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119080000 +0000" stop="20260119083000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119083000 +0000" stop="20260119093000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119093000 +0000" stop="20260119103000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119103000 +0000" stop="20260119113000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119103000 +0000" stop="20260119113000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119113000 +0000" stop="20260119123000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119123000 +0000" stop="20260119133000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119133000 +0000" stop="20260119143000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260119143000 +0000" stop="20260119153000 +0000">
-    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
