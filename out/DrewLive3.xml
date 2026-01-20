@@ -1,80 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN News">
-    <display-name>ESPN News</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN News" start="20260119160000 +0000" stop="20260119170000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN News" start="20260119170000 +0000" stop="20260119190000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN News" start="20260119190000 +0000" stop="20260119210000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN News" start="20260119210000 +0000" stop="20260119220000 +0000">
-    <title lang="eng">College Football Live</title>
-  </programme>
-  <programme channel="ESPN News" start="20260119220000 +0000" stop="20260119230000 +0000">
-    <title lang="eng">The Domonique Foxworth Show</title>
-  </programme>
-  <programme channel="ESPN News" start="20260119230000 +0000" stop="20260119233000 +0000">
-    <title lang="eng">Overreaction Monday</title>
-  </programme>
-  <programme channel="ESPN News" start="20260119233000 +0000" stop="20260120000000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120000000 +0000" stop="20260120003000 +0000">
-    <title lang="eng">Ram Trucks Pregame</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120003000 +0000" stop="20260120041500 +0000">
-    <title lang="eng">CFP National Championship</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120041500 +0000" stop="20260120043000 +0000">
-    <title lang="eng">Ram Trucks Postgame</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120043000 +0000" stop="20260120050000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120050000 +0000" stop="20260120060000 +0000">
-    <title lang="eng">X Games</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120060000 +0000" stop="20260120070000 +0000">
-    <title lang="eng">X Games</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120070000 +0000" stop="20260120073000 +0000">
-    <title lang="eng">Overreaction Monday</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120073000 +0000" stop="20260120080000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120080000 +0000" stop="20260120083000 +0000">
-    <title lang="eng">Overreaction Monday</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120083000 +0000" stop="20260120090000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120090000 +0000" stop="20260120100000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120100000 +0000" stop="20260120110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120110000 +0000" stop="20260120120000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120120000 +0000" stop="20260120133000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120133000 +0000" stop="20260120150000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN News" start="20260120150000 +0000" stop="20260120160000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260119170000 +0000" stop="20260119200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
