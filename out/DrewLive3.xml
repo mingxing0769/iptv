@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="TSN3">
+    <display-name>TSN3</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260120170000 +0000" stop="20260120200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -50,5 +53,71 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260121150000 +0000" stop="20260121170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="TSN3" start="20260120153000 +0000" stop="20260120163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260120163000 +0000" stop="20260120173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260120173000 +0000" stop="20260120175500 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260120175500 +0000" stop="20260120203000 +0000">
+    <title lang="eng">Champions Hockey League</title>
+  </programme>
+  <programme channel="TSN3" start="20260120203000 +0000" stop="20260120230000 +0000">
+    <title lang="eng">Champions Hockey League</title>
+  </programme>
+  <programme channel="TSN3" start="20260120230000 +0000" stop="20260121003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121003000 +0000" stop="20260121010000 +0000">
+    <title lang="eng">Winnipeg Jets Pregame</title>
+  </programme>
+  <programme channel="TSN3" start="20260121010000 +0000" stop="20260121033000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TSN3" start="20260121033000 +0000" stop="20260121043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121043000 +0000" stop="20260121050000 +0000">
+    <title lang="eng">Behind the Leaf</title>
+  </programme>
+  <programme channel="TSN3" start="20260121050000 +0000" stop="20260121060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN3" start="20260121060000 +0000" stop="20260121070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121070000 +0000" stop="20260121080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121080000 +0000" stop="20260121083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121083000 +0000" stop="20260121093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121093000 +0000" stop="20260121103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121103000 +0000" stop="20260121113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121113000 +0000" stop="20260121123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121113000 +0000" stop="20260121123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121123000 +0000" stop="20260121133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121133000 +0000" stop="20260121143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260121143000 +0000" stop="20260121153000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
