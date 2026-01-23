@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN U">
+    <display-name>ESPN U</display-name>
+  </channel>
   <channel id="ESPN2">
     <display-name>ESPN2</display-name>
   </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <programme channel="ESPN U" start="20260122170000 +0000" stop="20260122190000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20260122190000 +0000" stop="20260122210000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20260122210000 +0000" stop="20260122230000 +0000">
+    <title lang="eng">ESPN Films</title>
+  </programme>
+  <programme channel="ESPN U" start="20260122230000 +0000" stop="20260123003000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123003000 +0000" stop="20260123020000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123020000 +0000" stop="20260123040000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123040000 +0000" stop="20260123043000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123043000 +0000" stop="20260123050000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123050000 +0000" stop="20260123070000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123070000 +0000" stop="20260123090000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123090000 +0000" stop="20260123110000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123110000 +0000" stop="20260123150000 +0000">
+    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
+  </programme>
+  <programme channel="ESPN U" start="20260123150000 +0000" stop="20260123160000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
   <programme channel="ESPN2" start="20260122170000 +0000" stop="20260122190000 +0000">
     <title lang="eng">First Take</title>
   </programme>
