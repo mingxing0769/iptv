@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="TNT Eastern Feed">
+    <display-name>TNT Eastern Feed</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260123170000 +0000" stop="20260123200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -50,5 +53,65 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260124150000 +0000" stop="20260124160000 +0000">
     <title lang="eng">Arena Motocross Nationals</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260123160000 +0000" stop="20260123170000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260123170000 +0000" stop="20260123180000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260123180000 +0000" stop="20260123190000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260123190000 +0000" stop="20260123211500 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260123211500 +0000" stop="20260124000000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124000000 +0000" stop="20260124003000 +0000">
+    <title lang="eng">Unrivaled Pregame</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124003000 +0000" stop="20260124014500 +0000">
+    <title lang="eng">Unrivaled Basketball</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124014500 +0000" stop="20260124030000 +0000">
+    <title lang="eng">Unrivaled Basketball</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124030000 +0000" stop="20260124033000 +0000">
+    <title lang="eng">Unrivaled Postgame</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124033000 +0000" stop="20260124060000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124060000 +0000" stop="20260124070000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124070000 +0000" stop="20260124080000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124080000 +0000" stop="20260124090000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124090000 +0000" stop="20260124100000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124100000 +0000" stop="20260124110000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124110000 +0000" stop="20260124120000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124120000 +0000" stop="20260124130000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124130000 +0000" stop="20260124140000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124140000 +0000" stop="20260124150000 +0000">
+    <title lang="eng">FBI</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260124150000 +0000" stop="20260124160000 +0000">
+    <title lang="eng">FBI</title>
   </programme>
 </tv>
