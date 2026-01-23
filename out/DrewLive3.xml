@@ -1,11 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN News">
+    <display-name>ESPN News</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Spectrum SportsNet LA">
-    <display-name>Spectrum SportsNet LA</display-name>
-  </channel>
+  <programme channel="ESPN News" start="20260122160000 +0000" stop="20260122170000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN News" start="20260122170000 +0000" stop="20260122190000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPN News" start="20260122190000 +0000" stop="20260122210000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="ESPN News" start="20260122210000 +0000" stop="20260122220000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="ESPN News" start="20260122220000 +0000" stop="20260122230000 +0000">
+    <title lang="eng">The Mina Kimes Show Featuring Lenny</title>
+  </programme>
+  <programme channel="ESPN News" start="20260122230000 +0000" stop="20260122233000 +0000">
+    <title lang="eng">This Is Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20260122233000 +0000" stop="20260123000000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123000000 +0000" stop="20260123010000 +0000">
+    <title lang="eng">The Mina Kimes Show Featuring Lenny</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123010000 +0000" stop="20260123013000 +0000">
+    <title lang="eng">This Is Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123013000 +0000" stop="20260123020000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123020000 +0000" stop="20260123030000 +0000">
+    <title lang="eng">The Mina Kimes Show Featuring Lenny</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123030000 +0000" stop="20260123033000 +0000">
+    <title lang="eng">This Is Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123033000 +0000" stop="20260123040000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123040000 +0000" stop="20260123043000 +0000">
+    <title lang="eng">This Is Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123043000 +0000" stop="20260123050000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123050000 +0000" stop="20260123060000 +0000">
+    <title lang="eng">X Games Aspen 2025</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123060000 +0000" stop="20260123070000 +0000">
+    <title lang="eng">X Games Aspen 2025</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123070000 +0000" stop="20260123073000 +0000">
+    <title lang="eng">This Is Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123073000 +0000" stop="20260123080000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123080000 +0000" stop="20260123090000 +0000">
+    <title lang="eng">Slippery Stairs</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123090000 +0000" stop="20260123100000 +0000">
+    <title lang="eng">2025 Extreme Archery Championship</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123100000 +0000" stop="20260123103000 +0000">
+    <title lang="eng">This Is Football</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123103000 +0000" stop="20260123110000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123110000 +0000" stop="20260123120000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123120000 +0000" stop="20260123130000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123130000 +0000" stop="20260123140000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123140000 +0000" stop="20260123150000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN News" start="20260123150000 +0000" stop="20260123160000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260122170000 +0000" stop="20260122200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -65,68 +149,5 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260123150000 +0000" stop="20260123170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260122160000 +0000" stop="20260122170000 +0000">
-    <title lang="eng">High Stakes Poker</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260122170000 +0000" stop="20260122190000 +0000">
-    <title lang="eng">The Early Line</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260122190000 +0000" stop="20260122200000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260122200000 +0000" stop="20260122210000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260122210000 +0000" stop="20260123000000 +0000">
-    <title lang="eng">Dodgers Rewind</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123000000 +0000" stop="20260123030000 +0000">
-    <title lang="eng">Dodgers Rewind</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123030000 +0000" stop="20260123053000 +0000">
-    <title lang="eng">NBA G League Basketball</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123053000 +0000" stop="20260123060000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123060000 +0000" stop="20260123070000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123070000 +0000" stop="20260123080000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123080000 +0000" stop="20260123090000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123090000 +0000" stop="20260123100000 +0000">
-    <title lang="eng">High Stakes Poker</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123100000 +0000" stop="20260123110000 +0000">
-    <title lang="eng">High Stakes Poker</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123110000 +0000" stop="20260123113000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123113000 +0000" stop="20260123120000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123120000 +0000" stop="20260123123000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123123000 +0000" stop="20260123130000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123130000 +0000" stop="20260123133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123133000 +0000" stop="20260123140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123140000 +0000" stop="20260123150000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260123150000 +0000" stop="20260123160000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
 </tv>
