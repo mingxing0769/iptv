@@ -9,8 +9,10 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
-https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" tvg-logo="None" group-title="Live",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" tvg-logo="None" group-title="Live",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
 
 #EXTGRP:Music
 #EXTINF:-1 tvg-id="TNTMusic.ru@SD" tvg-name="TNT Music" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",TNT Music
