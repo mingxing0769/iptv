@@ -3,11 +3,11 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet One">
-    <display-name>Sportsnet One</display-name>
+  <channel id="Spectrum SportsNet LA">
+    <display-name>Spectrum SportsNet LA</display-name>
   </channel>
-  <channel id="TSN2">
-    <display-name>TSN2</display-name>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
   </channel>
   <programme channel="Fox Sports 1" start="20260124160000 +0000" stop="20260124170000 +0000">
     <title lang="eng">Tristar Arenacross</title>
@@ -54,103 +54,166 @@
   <programme channel="Fox Sports 1" start="20260125150000 +0000" stop="20260125160000 +0000">
     <title lang="eng">Bassmaster Review</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260124163000 +0000" stop="20260124173000 +0000">
-    <title lang="eng">Super High Roller Bowl</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124160000 +0000" stop="20260124170000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260124173000 +0000" stop="20260124183000 +0000">
-    <title lang="eng">Super High Roller Bowl</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124170000 +0000" stop="20260124180000 +0000">
+    <title lang="eng">Dodgers Dugout</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260124183000 +0000" stop="20260124210000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124180000 +0000" stop="20260124190000 +0000">
+    <title lang="eng">Sports Shrines of LA</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260124210000 +0000" stop="20260124213000 +0000">
-    <title lang="eng">NHL's Best</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124190000 +0000" stop="20260124193000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260124213000 +0000" stop="20260124233000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124193000 +0000" stop="20260124200000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260124233000 +0000" stop="20260125000000 +0000">
-    <title lang="eng">Hockey Central Saturday</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124200000 +0000" stop="20260124210000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125000000 +0000" stop="20260125030000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124210000 +0000" stop="20260124220000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125030000 +0000" stop="20260125060000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124220000 +0000" stop="20260124230000 +0000">
+    <title lang="eng">Backstage: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125060000 +0000" stop="20260125063000 +0000">
-    <title lang="eng">After Hours</title>
+  <programme channel="Spectrum SportsNet LA" start="20260124230000 +0000" stop="20260125000000 +0000">
+    <title lang="eng">Fernandomania</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125063000 +0000" stop="20260125070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125000000 +0000" stop="20260125010000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125070000 +0000" stop="20260125090000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125010000 +0000" stop="20260125033000 +0000">
+    <title lang="eng">NBA G League Basketball</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125090000 +0000" stop="20260125110000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125033000 +0000" stop="20260125040000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125110000 +0000" stop="20260125113000 +0000">
-    <title lang="eng">NHL's Best</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125040000 +0000" stop="20260125043000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125113000 +0000" stop="20260125114500 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125043000 +0000" stop="20260125050000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125114500 +0000" stop="20260125140000 +0000">
-    <title lang="eng">FA Women's Super League</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125050000 +0000" stop="20260125053000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125140000 +0000" stop="20260125143000 +0000">
-    <title lang="eng">Misplays of the Month</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125053000 +0000" stop="20260125060000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260125143000 +0000" stop="20260125163000 +0000">
-    <title lang="eng">NHL Hockey</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125060000 +0000" stop="20260125063000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="TSN2" start="20260124170000 +0000" stop="20260124210000 +0000">
-    <title lang="eng">2026 Australian Open Tennis</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125063000 +0000" stop="20260125070000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="TSN2" start="20260124210000 +0000" stop="20260124220000 +0000">
-    <title lang="eng">Australian Open Films</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125070000 +0000" stop="20260125080000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="TSN2" start="20260124220000 +0000" stop="20260124230000 +0000">
-    <title lang="eng">Why We Love Sports</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125080000 +0000" stop="20260125090000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
   </programme>
-  <programme channel="TSN2" start="20260124230000 +0000" stop="20260124233000 +0000">
-    <title lang="eng">Why We Love Football</title>
+  <programme channel="Spectrum SportsNet LA" start="20260125090000 +0000" stop="20260125100000 +0000">
+    <title lang="eng">High Stakes Poker</title>
   </programme>
-  <programme channel="TSN2" start="20260124233000 +0000" stop="20260125000000 +0000">
+  <programme channel="Spectrum SportsNet LA" start="20260125100000 +0000" stop="20260125110000 +0000">
+    <title lang="eng">High Stakes Poker</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260125110000 +0000" stop="20260125113000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260125113000 +0000" stop="20260125120000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260125120000 +0000" stop="20260125123000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260125123000 +0000" stop="20260125130000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260125130000 +0000" stop="20260125133000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260125133000 +0000" stop="20260125140000 +0000">
+    <title lang="eng">Paid Programming</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260125140000 +0000" stop="20260125150000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="Spectrum SportsNet LA" start="20260125150000 +0000" stop="20260125160000 +0000">
+    <title lang="eng">Access SportsNet: Dodgers</title>
+  </programme>
+  <programme channel="TSN4" start="20260124160000 +0000" stop="20260124170000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260124170000 +0000" stop="20260124173000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20260125000000 +0000" stop="20260125003000 +0000">
-    <title lang="eng">2026 Australian Open Tennis</title>
-  </programme>
-  <programme channel="TSN2" start="20260125003000 +0000" stop="20260125080000 +0000">
-    <title lang="eng">2026 Australian Open Tennis</title>
-  </programme>
-  <programme channel="TSN2" start="20260125080000 +0000" stop="20260125120000 +0000">
-    <title lang="eng">2026 Australian Open Tennis</title>
-  </programme>
-  <programme channel="TSN2" start="20260125080000 +0000" stop="20260125120000 +0000">
-    <title lang="eng">2026 Australian Open Tennis</title>
-  </programme>
-  <programme channel="TSN2" start="20260125120000 +0000" stop="20260125123000 +0000">
+  <programme channel="TSN4" start="20260124173000 +0000" stop="20260124180000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20260125123000 +0000" stop="20260125130000 +0000">
+  <programme channel="TSN4" start="20260124180000 +0000" stop="20260124183000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN4" start="20260124183000 +0000" stop="20260124190000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20260125130000 +0000" stop="20260125133000 +0000">
+  <programme channel="TSN4" start="20260124190000 +0000" stop="20260124220000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN4" start="20260124220000 +0000" stop="20260124223000 +0000">
+    <title lang="eng">Park the Bus</title>
+  </programme>
+  <programme channel="TSN4" start="20260124223000 +0000" stop="20260124230000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20260125133000 +0000" stop="20260125140000 +0000">
+  <programme channel="TSN4" start="20260124230000 +0000" stop="20260124233000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20260125140000 +0000" stop="20260125143000 +0000">
+  <programme channel="TSN4" start="20260124233000 +0000" stop="20260125000000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20260125143000 +0000" stop="20260125144500 +0000">
+  <programme channel="TSN4" start="20260125000000 +0000" stop="20260125030000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN4" start="20260125030000 +0000" stop="20260125040000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125040000 +0000" stop="20260125050000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125050000 +0000" stop="20260125053000 +0000">
     <title lang="eng">SC</title>
   </programme>
-  <programme channel="TSN2" start="20260125144500 +0000" stop="20260125171500 +0000">
-    <title lang="eng">Spanish Primera Division Soccer</title>
+  <programme channel="TSN4" start="20260125053000 +0000" stop="20260125060000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20260125060000 +0000" stop="20260125070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125070000 +0000" stop="20260125080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125080000 +0000" stop="20260125090000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125090000 +0000" stop="20260125100000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125100000 +0000" stop="20260125110000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125110000 +0000" stop="20260125120000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125120000 +0000" stop="20260125130000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125130000 +0000" stop="20260125140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260125140000 +0000" stop="20260125170000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
   </programme>
 </tv>
