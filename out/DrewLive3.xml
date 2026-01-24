@@ -1,83 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN U">
-    <display-name>ESPN U</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN U" start="20260123160000 +0000" stop="20260123170000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN U" start="20260123170000 +0000" stop="20260123173000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260123173000 +0000" stop="20260123183000 +0000">
-    <title lang="eng">We're #1! - 1991 &amp; 1992 Duke Blue Devils</title>
-  </programme>
-  <programme channel="ESPN U" start="20260123183000 +0000" stop="20260123193000 +0000">
-    <title lang="eng">Why Not Both! The Story of NC State's 2024 Season</title>
-  </programme>
-  <programme channel="ESPN U" start="20260123193000 +0000" stop="20260123203000 +0000">
-    <title lang="eng">E60</title>
-  </programme>
-  <programme channel="ESPN U" start="20260123203000 +0000" stop="20260123213000 +0000">
-    <title lang="eng">SEC Storied</title>
-  </programme>
-  <programme channel="ESPN U" start="20260123213000 +0000" stop="20260123223000 +0000">
-    <title lang="eng">SEC Storied</title>
-  </programme>
-  <programme channel="ESPN U" start="20260123223000 +0000" stop="20260123233000 +0000">
-    <title lang="eng">SEC Storied</title>
-  </programme>
-  <programme channel="ESPN U" start="20260123233000 +0000" stop="20260124003000 +0000">
-    <title lang="eng">SEC Storied</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124003000 +0000" stop="20260124010000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124010000 +0000" stop="20260124030000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124030000 +0000" stop="20260124033000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124033000 +0000" stop="20260124040000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124040000 +0000" stop="20260124043000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124043000 +0000" stop="20260124050000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124050000 +0000" stop="20260124070000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124070000 +0000" stop="20260124090000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124090000 +0000" stop="20260124103000 +0000">
-    <title lang="eng">Women's College Gymnastics</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124103000 +0000" stop="20260124110000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124110000 +0000" stop="20260124120000 +0000">
-    <title lang="eng">Southern Hoops: A History of SEC Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124120000 +0000" stop="20260124130000 +0000">
-    <title lang="eng">Southern Hoops: A History of SEC Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124130000 +0000" stop="20260124140000 +0000">
-    <title lang="eng">Southern Hoops: A History of SEC Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124140000 +0000" stop="20260124150000 +0000">
-    <title lang="eng">Southern Hoops: A History of SEC Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260124150000 +0000" stop="20260124160000 +0000">
-    <title lang="eng">Southern Hoops: A History of SEC Basketball</title>
-  </programme>
+  <channel id="SNY Sportsnet New York Comcast">
+    <display-name>SNY Sportsnet New York Comcast</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260123170000 +0000" stop="20260123200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -125,5 +53,95 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260124150000 +0000" stop="20260124160000 +0000">
     <title lang="eng">Arena Motocross Nationals</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260123160000 +0000" stop="20260123163000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260123163000 +0000" stop="20260123170000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260123170000 +0000" stop="20260123173000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260123173000 +0000" stop="20260123180000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260123180000 +0000" stop="20260123200000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260123200000 +0000" stop="20260123210000 +0000">
+    <title lang="eng">Gary, Keith &amp; Ron 18</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260123210000 +0000" stop="20260123233000 +0000">
+    <title lang="eng">College Hockey</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260123233000 +0000" stop="20260124000000 +0000">
+    <title lang="eng">Mets Yearbook</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124000000 +0000" stop="20260124003000 +0000">
+    <title lang="eng">Mets Yearbook</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124003000 +0000" stop="20260124030000 +0000">
+    <title lang="eng">College Hockey</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124030000 +0000" stop="20260124040000 +0000">
+    <title lang="eng">Game 161</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124040000 +0000" stop="20260124043000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124043000 +0000" stop="20260124050000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124050000 +0000" stop="20260124053000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124053000 +0000" stop="20260124060000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124060000 +0000" stop="20260124063000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124063000 +0000" stop="20260124070000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124070000 +0000" stop="20260124073000 +0000">
+    <title lang="eng">Ideal Prostate+ Provides Safe Natural Relief</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124073000 +0000" stop="20260124083000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124083000 +0000" stop="20260124093000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124093000 +0000" stop="20260124103000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124103000 +0000" stop="20260124110000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124110000 +0000" stop="20260124113000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124113000 +0000" stop="20260124120000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124120000 +0000" stop="20260124123000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124123000 +0000" stop="20260124130000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124130000 +0000" stop="20260124133000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124133000 +0000" stop="20260124140000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124140000 +0000" stop="20260124150000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260124150000 +0000" stop="20260124160000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
   </programme>
 </tv>
