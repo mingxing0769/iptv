@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Sportsnet 360">
+    <display-name>Sportsnet 360</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260124160000 +0000" stop="20260124170000 +0000">
     <title lang="eng">Tristar Arenacross</title>
   </programme>
@@ -47,5 +50,65 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260125150000 +0000" stop="20260125160000 +0000">
     <title lang="eng">Bassmaster Review</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260124160000 +0000" stop="20260124180000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260124180000 +0000" stop="20260124200000 +0000">
+    <title lang="eng">TGL Golf</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260124200000 +0000" stop="20260124203000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260124203000 +0000" stop="20260124210000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260124210000 +0000" stop="20260124230000 +0000">
+    <title lang="eng">TNA iMPACT!</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260124230000 +0000" stop="20260124233000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260124233000 +0000" stop="20260125000000 +0000">
+    <title lang="eng">UFC Countdown</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125000000 +0000" stop="20260125020000 +0000">
+    <title lang="eng">UFC 324: Gaethje vs. Pimblett - Prelims</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125020000 +0000" stop="20260125023000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125023000 +0000" stop="20260125033000 +0000">
+    <title lang="eng">TNA Xplosion</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125033000 +0000" stop="20260125053000 +0000">
+    <title lang="eng">TNA Classics</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125053000 +0000" stop="20260125060000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125060000 +0000" stop="20260125063000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125063000 +0000" stop="20260125070000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125070000 +0000" stop="20260125090000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125090000 +0000" stop="20260125110000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125110000 +0000" stop="20260125120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125120000 +0000" stop="20260125140000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125140000 +0000" stop="20260125143000 +0000">
+    <title lang="eng">Facts of Fishing</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125143000 +0000" stop="20260125163000 +0000">
+    <title lang="eng">NHL Hockey</title>
   </programme>
 </tv>
