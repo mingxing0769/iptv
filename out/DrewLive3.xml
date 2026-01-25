@@ -1,8 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <programme channel="ESPN" start="20260125160000 +0000" stop="20260125170000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260125170000 +0000" stop="20260125200000 +0000">
+    <title lang="eng">Postseason NFL Countdown</title>
+  </programme>
+  <programme channel="ESPN" start="20260125200000 +0000" stop="20260125220000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260125220000 +0000" stop="20260125233000 +0000">
+    <title lang="eng">Women's College Gymnastics</title>
+  </programme>
+  <programme channel="ESPN" start="20260125233000 +0000" stop="20260126023000 +0000">
+    <title lang="eng">X Games Aspen 2026</title>
+  </programme>
+  <programme channel="ESPN" start="20260126023000 +0000" stop="20260126030000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260126030000 +0000" stop="20260126040000 +0000">
+    <title lang="eng">NFL PrimeTime</title>
+  </programme>
+  <programme channel="ESPN" start="20260126040000 +0000" stop="20260126050000 +0000">
+    <title lang="eng">SportsCenter With Scott Van Pelt</title>
+  </programme>
+  <programme channel="ESPN" start="20260126050000 +0000" stop="20260126060000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260126060000 +0000" stop="20260126070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260126070000 +0000" stop="20260126080000 +0000">
+    <title lang="eng">NFL PrimeTime</title>
+  </programme>
+  <programme channel="ESPN" start="20260126080000 +0000" stop="20260126090000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260126090000 +0000" stop="20260126100000 +0000">
+    <title lang="eng">NFL PrimeTime</title>
+  </programme>
+  <programme channel="ESPN" start="20260126100000 +0000" stop="20260126110000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260126110000 +0000" stop="20260126120000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260126120000 +0000" stop="20260126130000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260126130000 +0000" stop="20260126150000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPN" start="20260126150000 +0000" stop="20260126170000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260125160000 +0000" stop="20260125163000 +0000">
     <title lang="eng">Bassmaster Review</title>
   </programme>
