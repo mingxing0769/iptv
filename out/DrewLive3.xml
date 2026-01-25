@@ -3,8 +3,8 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Spectrum SportsNet LA">
-    <display-name>Spectrum SportsNet LA</display-name>
+  <channel id="Sportsnet 360">
+    <display-name>Sportsnet 360</display-name>
   </channel>
   <programme channel="Fox Sports 1" start="20260125160000 +0000" stop="20260125163000 +0000">
     <title lang="eng">Bassmaster Review</title>
@@ -75,100 +75,55 @@
   <programme channel="Fox Sports 1" start="20260126150000 +0000" stop="20260126170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260125160000 +0000" stop="20260125170000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet 360" start="20260125163000 +0000" stop="20260125183000 +0000">
+    <title lang="eng">NHL Hockey</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260125170000 +0000" stop="20260125180000 +0000">
-    <title lang="eng">Poker Masters</title>
+  <programme channel="Sportsnet 360" start="20260125183000 +0000" stop="20260125190000 +0000">
+    <title lang="eng">NHL's Best</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260125180000 +0000" stop="20260125190000 +0000">
-    <title lang="eng">Poker Masters</title>
+  <programme channel="Sportsnet 360" start="20260125190000 +0000" stop="20260125200000 +0000">
+    <title lang="eng">TNA Xplosion</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260125190000 +0000" stop="20260125200000 +0000">
+  <programme channel="Sportsnet 360" start="20260125200000 +0000" stop="20260125203000 +0000">
+    <title lang="eng">Misplays of the Month</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125203000 +0000" stop="20260125210000 +0000">
+    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125210000 +0000" stop="20260125213000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125213000 +0000" stop="20260125220000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125220000 +0000" stop="20260125230000 +0000">
+    <title lang="eng">Super High Roller Bowl</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260125230000 +0000" stop="20260126000000 +0000">
     <title lang="eng">High Stakes Poker</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260125200000 +0000" stop="20260125210000 +0000">
-    <title lang="eng">High Stakes Poker</title>
+  <programme channel="Sportsnet 360" start="20260126000000 +0000" stop="20260126020000 +0000">
+    <title lang="eng">TNA iMPACT!</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260125210000 +0000" stop="20260125220000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
+  <programme channel="Sportsnet 360" start="20260126020000 +0000" stop="20260126050000 +0000">
+    <title lang="eng">UFC Reloaded</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260125220000 +0000" stop="20260125230000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet 360" start="20260126050000 +0000" stop="20260126070000 +0000">
+    <title lang="eng">NHL Hockey</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260125230000 +0000" stop="20260126000000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet 360" start="20260126070000 +0000" stop="20260126090000 +0000">
+    <title lang="eng">NHL Hockey</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126000000 +0000" stop="20260126003000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet 360" start="20260126090000 +0000" stop="20260126110000 +0000">
+    <title lang="eng">NHL Hockey</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126003000 +0000" stop="20260126010000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet 360" start="20260126110000 +0000" stop="20260126120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126010000 +0000" stop="20260126013000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
+  <programme channel="Sportsnet 360" start="20260126120000 +0000" stop="20260126150000 +0000">
+    <title lang="eng">By the Books</title>
   </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126013000 +0000" stop="20260126020000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126020000 +0000" stop="20260126023000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126023000 +0000" stop="20260126030000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126030000 +0000" stop="20260126033000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126033000 +0000" stop="20260126040000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126040000 +0000" stop="20260126050000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126050000 +0000" stop="20260126060000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126060000 +0000" stop="20260126070000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126070000 +0000" stop="20260126073000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126073000 +0000" stop="20260126080000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126080000 +0000" stop="20260126090000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126090000 +0000" stop="20260126100000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126100000 +0000" stop="20260126110000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126110000 +0000" stop="20260126113000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126113000 +0000" stop="20260126120000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126120000 +0000" stop="20260126123000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126123000 +0000" stop="20260126130000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126130000 +0000" stop="20260126133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126133000 +0000" stop="20260126140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126140000 +0000" stop="20260126150000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260126150000 +0000" stop="20260126153000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
+  <programme channel="Sportsnet 360" start="20260126150000 +0000" stop="20260126153000 +0000">
+    <title lang="eng">NHL Hockeyverse: Animated Plays of the Week</title>
   </programme>
 </tv>
