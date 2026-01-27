@@ -1,11 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
   <channel id="Sportsnet Pittsburgh">
     <display-name>Sportsnet Pittsburgh</display-name>
   </channel>
+  <channel id="TNT Eastern Feed">
+    <display-name>TNT Eastern Feed</display-name>
+  </channel>
+  <channel id="TSN1">
+    <display-name>TSN1</display-name>
+  </channel>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
+  </channel>
+  <channel id="TSN3">
+    <display-name>TSN3</display-name>
+  </channel>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
+  </channel>
+  <channel id="TSN5">
+    <display-name>TSN5</display-name>
+  </channel>
+  <programme channel="ESPN" start="20260127170000 +0000" stop="20260127190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
+  </programme>
+  <programme channel="ESPN" start="20260127190000 +0000" stop="20260127200000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260127200000 +0000" stop="20260127210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="ESPN" start="20260127210000 +0000" stop="20260127220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="ESPN" start="20260127220000 +0000" stop="20260127223000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260127223000 +0000" stop="20260127230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="ESPN" start="20260127230000 +0000" stop="20260128000000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260128000000 +0000" stop="20260128020000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260128020000 +0000" stop="20260128040000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN" start="20260128040000 +0000" stop="20260128050000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260128050000 +0000" stop="20260128060000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260128060000 +0000" stop="20260128070000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260128070000 +0000" stop="20260128080000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260128080000 +0000" stop="20260128120000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="ESPN" start="20260128080000 +0000" stop="20260128120000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="ESPN" start="20260128120000 +0000" stop="20260128130000 +0000">
+    <title lang="eng">SportsCenter</title>
+  </programme>
+  <programme channel="ESPN" start="20260128130000 +0000" stop="20260128150000 +0000">
+    <title lang="eng">Get Up</title>
+  </programme>
+  <programme channel="ESPN" start="20260128150000 +0000" stop="20260128170000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260127170000 +0000" stop="20260127200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -128,5 +203,362 @@
   </programme>
   <programme channel="Sportsnet Pittsburgh" start="20260128150000 +0000" stop="20260128153000 +0000">
     <title lang="eng">The Aging Brain</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260127160000 +0000" stop="20260127170000 +0000">
+    <title lang="eng">Cold Case</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260127170000 +0000" stop="20260127180000 +0000">
+    <title lang="eng">Cold Case</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260127180000 +0000" stop="20260127190000 +0000">
+    <title lang="eng">Cold Case</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260127190000 +0000" stop="20260127210000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260127210000 +0000" stop="20260128000000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128000000 +0000" stop="20260128003000 +0000">
+    <title lang="eng">College Basketball Pregame</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128003000 +0000" stop="20260128023000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128023000 +0000" stop="20260128043000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128043000 +0000" stop="20260128050000 +0000">
+    <title lang="eng">College Basketball Postgame</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128050000 +0000" stop="20260128070000 +0000">
+    <title lang="eng">Movie</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128070000 +0000" stop="20260128080000 +0000">
+    <title lang="eng">Cold Case</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128080000 +0000" stop="20260128090000 +0000">
+    <title lang="eng">Cold Case</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128090000 +0000" stop="20260128100000 +0000">
+    <title lang="eng">Cold Case</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128100000 +0000" stop="20260128110000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128110000 +0000" stop="20260128120000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128120000 +0000" stop="20260128130000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128130000 +0000" stop="20260128140000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128140000 +0000" stop="20260128150000 +0000">
+    <title lang="eng">Charmed</title>
+  </programme>
+  <programme channel="TNT Eastern Feed" start="20260128150000 +0000" stop="20260128160000 +0000">
+    <title lang="eng">Cold Case</title>
+  </programme>
+  <programme channel="TSN1" start="20260127170000 +0000" stop="20260127173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260127173000 +0000" stop="20260127183000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260127183000 +0000" stop="20260127190000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN1" start="20260127190000 +0000" stop="20260127220000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN1" start="20260127220000 +0000" stop="20260127223000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN1" start="20260127223000 +0000" stop="20260127230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN1" start="20260127230000 +0000" stop="20260128000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128000000 +0000" stop="20260128030000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN1" start="20260128030000 +0000" stop="20260128043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128043000 +0000" stop="20260128050000 +0000">
+    <title lang="eng">Behind the Leaf</title>
+  </programme>
+  <programme channel="TSN1" start="20260128050000 +0000" stop="20260128060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN1" start="20260128060000 +0000" stop="20260128070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128070000 +0000" stop="20260128080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128080000 +0000" stop="20260128083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128083000 +0000" stop="20260128093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128093000 +0000" stop="20260128103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128103000 +0000" stop="20260128113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128103000 +0000" stop="20260128113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128113000 +0000" stop="20260128123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128123000 +0000" stop="20260128133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128133000 +0000" stop="20260128140000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260128140000 +0000" stop="20260128170000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN2" start="20260127153000 +0000" stop="20260127160000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260127160000 +0000" stop="20260127163000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260127163000 +0000" stop="20260127170000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260127170000 +0000" stop="20260127190000 +0000">
+    <title lang="eng">The Pat McAfee Show</title>
+  </programme>
+  <programme channel="TSN2" start="20260127190000 +0000" stop="20260127193000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260127193000 +0000" stop="20260127200000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260127200000 +0000" stop="20260127203000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260127203000 +0000" stop="20260127210000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260127210000 +0000" stop="20260127213000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN2" start="20260127213000 +0000" stop="20260127223000 +0000">
+    <title lang="eng">PGA Tour Highlight Show</title>
+  </programme>
+  <programme channel="TSN2" start="20260127223000 +0000" stop="20260127230000 +0000">
+    <title lang="eng">Behind the Leaf</title>
+  </programme>
+  <programme channel="TSN2" start="20260127230000 +0000" stop="20260127233000 +0000">
+    <title lang="eng">Behind the Leaf</title>
+  </programme>
+  <programme channel="TSN2" start="20260127233000 +0000" stop="20260128000000 +0000">
+    <title lang="eng">Behind the Leaf</title>
+  </programme>
+  <programme channel="TSN2" start="20260128000000 +0000" stop="20260128023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TSN2" start="20260128023000 +0000" stop="20260128030000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260128030000 +0000" stop="20260128033000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260128033000 +0000" stop="20260128040000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260128040000 +0000" stop="20260128043000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260128043000 +0000" stop="20260128050000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260128050000 +0000" stop="20260128080000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN2" start="20260128080000 +0000" stop="20260128110000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN2" start="20260128110000 +0000" stop="20260128140000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN2" start="20260128140000 +0000" stop="20260128143000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260128143000 +0000" stop="20260128150000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN2" start="20260128150000 +0000" stop="20260128153000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260127153000 +0000" stop="20260127163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260127163000 +0000" stop="20260127173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260127173000 +0000" stop="20260127183000 +0000">
+    <title lang="eng">PGA Tour Highlight Show</title>
+  </programme>
+  <programme channel="TSN3" start="20260127183000 +0000" stop="20260127193000 +0000">
+    <title lang="eng">Why We Love Sports</title>
+  </programme>
+  <programme channel="TSN3" start="20260127193000 +0000" stop="20260127200000 +0000">
+    <title lang="eng">Motorcycle Experience</title>
+  </programme>
+  <programme channel="TSN3" start="20260127200000 +0000" stop="20260127210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN3" start="20260127210000 +0000" stop="20260127220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN3" start="20260127220000 +0000" stop="20260127223000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260127223000 +0000" stop="20260127230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN3" start="20260127230000 +0000" stop="20260128000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260128000000 +0000" stop="20260128023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TSN3" start="20260128023000 +0000" stop="20260128060000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN3" start="20260128060000 +0000" stop="20260128070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260128070000 +0000" stop="20260128080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260128080000 +0000" stop="20260128120000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN3" start="20260128080000 +0000" stop="20260128120000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN3" start="20260128120000 +0000" stop="20260128123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260128123000 +0000" stop="20260128133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260128133000 +0000" stop="20260128143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260128143000 +0000" stop="20260128153000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260127170000 +0000" stop="20260127190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="TSN4" start="20260127190000 +0000" stop="20260127220000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN4" start="20260127220000 +0000" stop="20260127230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN4" start="20260127230000 +0000" stop="20260127233000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260127233000 +0000" stop="20260128000000 +0000">
+    <title lang="eng">Toronto Maple Leafs Pre-Game</title>
+  </programme>
+  <programme channel="TSN4" start="20260128000000 +0000" stop="20260128023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="TSN4" start="20260128023000 +0000" stop="20260128033000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260128033000 +0000" stop="20260128043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260128043000 +0000" stop="20260128050000 +0000">
+    <title lang="eng">Behind the Leaf</title>
+  </programme>
+  <programme channel="TSN4" start="20260128050000 +0000" stop="20260128060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260128060000 +0000" stop="20260128070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260128070000 +0000" stop="20260128080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260128080000 +0000" stop="20260128090000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260128090000 +0000" stop="20260128100000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260128100000 +0000" stop="20260128110000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260128110000 +0000" stop="20260128120000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260128120000 +0000" stop="20260128130000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260128130000 +0000" stop="20260128140000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260128140000 +0000" stop="20260128170000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN5" start="20260127160000 +0000" stop="20260127170000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20260127170000 +0000" stop="20260127210000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260127210000 +0000" stop="20260127230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN5" start="20260127230000 +0000" stop="20260128003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260128003000 +0000" stop="20260128020000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260128020000 +0000" stop="20260128060000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260128060000 +0000" stop="20260128070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260128070000 +0000" stop="20260128080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN5" start="20260128080000 +0000" stop="20260128120000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260128080000 +0000" stop="20260128120000 +0000">
+    <title lang="eng">2026 Australian Open Tennis</title>
+  </programme>
+  <programme channel="TSN5" start="20260128120000 +0000" stop="20260128130000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20260128130000 +0000" stop="20260128140000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20260128140000 +0000" stop="20260128150000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN5" start="20260128150000 +0000" stop="20260128160000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
   </programme>
 </tv>
