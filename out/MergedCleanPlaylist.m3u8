@@ -8,10 +8,6 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTV.pf@SD" tvg-name="TNTV (1080p)" tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="General",TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
-#EXTGRP:Live
-#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/sd
-
 #EXTGRP:Music
 #EXTINF:-1 tvg-id="TNTMusic.ru@SD" tvg-name="TNT Music" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",TNT Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
@@ -87,8 +83,8 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="TSN1 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p) [Not 24/7]
 https://tvpass.org/live/tsn1/hd
-#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4 (720p) [Not 24/7]
-https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="TSN2.ca@SD" tvg-name="TSN2 (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN2 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn2/hd
 
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-name="BBC News Pashto (720p)" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",BBC News Pashto (720p)
