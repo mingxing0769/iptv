@@ -3,115 +3,61 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="TNT Eastern Feed">
-    <display-name>TNT Eastern Feed</display-name>
-  </channel>
-  <programme channel="Fox Sports 1" start="20260128170000 +0000" stop="20260128200000 +0000">
+  <programme channel="Fox Sports 1" start="20260129170000 +0000" stop="20260129200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260128200000 +0000" stop="20260128220000 +0000">
+  <programme channel="Fox Sports 1" start="20260129200000 +0000" stop="20260129220000 +0000">
     <title lang="eng">First Things First</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260128220000 +0000" stop="20260128230000 +0000">
+  <programme channel="Fox Sports 1" start="20260129220000 +0000" stop="20260129230000 +0000">
     <title lang="eng">First Things First: OT</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260128230000 +0000" stop="20260128233000 +0000">
-    <title lang="eng">FS1 College Hoops Tip-Off</title>
+  <programme channel="Fox Sports 1" start="20260129230000 +0000" stop="20260129233000 +0000">
+    <title lang="eng">Kevin Harvick's Happy Hour</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260128233000 +0000" stop="20260129013000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260129013000 +0000" stop="20260129033000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260129033000 +0000" stop="20260129053000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260129053000 +0000" stop="20260129060000 +0000">
+  <programme channel="Fox Sports 1" start="20260129233000 +0000" stop="20260130000000 +0000">
     <title lang="eng">OutKick the Show with Clay Travis</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260129060000 +0000" stop="20260129063000 +0000">
+  <programme channel="Fox Sports 1" start="20260130000000 +0000" stop="20260130020000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260130020000 +0000" stop="20260130040000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260130040000 +0000" stop="20260130043000 +0000">
+    <title lang="eng">FS1 College Hoops Extra</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260130043000 +0000" stop="20260130050000 +0000">
     <title lang="eng">NFL Films Presents</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260129063000 +0000" stop="20260129070000 +0000">
+  <programme channel="Fox Sports 1" start="20260130050000 +0000" stop="20260130060000 +0000">
+    <title lang="eng">Kevin Harvick's Happy Hour</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260130060000 +0000" stop="20260130070000 +0000">
+    <title lang="eng">Race for the Seat</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260130070000 +0000" stop="20260130073000 +0000">
     <title lang="eng">TMZ Sports</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260129070000 +0000" stop="20260129090000 +0000">
+  <programme channel="Fox Sports 1" start="20260130073000 +0000" stop="20260130093000 +0000">
     <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260129090000 +0000" stop="20260129110000 +0000">
+  <programme channel="Fox Sports 1" start="20260130093000 +0000" stop="20260130113000 +0000">
     <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260129110000 +0000" stop="20260129113000 +0000">
+  <programme channel="Fox Sports 1" start="20260130093000 +0000" stop="20260130113000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 1" start="20260130113000 +0000" stop="20260130120000 +0000">
     <title lang="eng">OutKick the Show with Clay Travis</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260129113000 +0000" stop="20260129120000 +0000">
-    <title lang="eng">TMZ Sports</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260129120000 +0000" stop="20260129130000 +0000">
+  <programme channel="Fox Sports 1" start="20260130120000 +0000" stop="20260130130000 +0000">
     <title lang="eng">First Things First</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260129130000 +0000" stop="20260129150000 +0000">
+  <programme channel="Fox Sports 1" start="20260130130000 +0000" stop="20260130150000 +0000">
     <title lang="eng">Wake Up Barstool</title>
   </programme>
-  <programme channel="Fox Sports 1" start="20260129150000 +0000" stop="20260129170000 +0000">
+  <programme channel="Fox Sports 1" start="20260130150000 +0000" stop="20260130170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260128160000 +0000" stop="20260128170000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260128170000 +0000" stop="20260128180000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260128180000 +0000" stop="20260128190000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260128190000 +0000" stop="20260128213000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260128213000 +0000" stop="20260129000000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129000000 +0000" stop="20260129003000 +0000">
-    <title lang="eng">NHL on TNT Face Off</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129003000 +0000" stop="20260129033000 +0000">
-    <title lang="eng">NHL Hockey</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129033000 +0000" stop="20260129040000 +0000">
-    <title lang="eng">NHL Post-Game on TNT</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129040000 +0000" stop="20260129060000 +0000">
-    <title lang="eng">Movie</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129060000 +0000" stop="20260129070000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129070000 +0000" stop="20260129080000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129080000 +0000" stop="20260129090000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129090000 +0000" stop="20260129100000 +0000">
-    <title lang="eng">Cold Case</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129100000 +0000" stop="20260129110000 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129110000 +0000" stop="20260129120000 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129120000 +0000" stop="20260129130000 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129130000 +0000" stop="20260129140000 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129140000 +0000" stop="20260129150000 +0000">
-    <title lang="eng">Charmed</title>
-  </programme>
-  <programme channel="TNT Eastern Feed" start="20260129150000 +0000" stop="20260129160000 +0000">
-    <title lang="eng">FBI</title>
   </programme>
 </tv>
