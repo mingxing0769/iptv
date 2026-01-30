@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="TSN1">
+    <display-name>TSN1</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260129170000 +0000" stop="20260129200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -59,5 +62,71 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260130150000 +0000" stop="20260130170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="TSN1" start="20260129170000 +0000" stop="20260129173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260129173000 +0000" stop="20260129183000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260129183000 +0000" stop="20260129190000 +0000">
+    <title lang="eng">Motorcycle Experience</title>
+  </programme>
+  <programme channel="TSN1" start="20260129190000 +0000" stop="20260129220000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN1" start="20260129220000 +0000" stop="20260129223000 +0000">
+    <title lang="eng">NFL GameDay</title>
+  </programme>
+  <programme channel="TSN1" start="20260129223000 +0000" stop="20260129230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN1" start="20260129230000 +0000" stop="20260130000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130000000 +0000" stop="20260130030000 +0000">
+    <title lang="eng">2026 Scotties Tournament of Hearts</title>
+  </programme>
+  <programme channel="TSN1" start="20260130030000 +0000" stop="20260130043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130043000 +0000" stop="20260130050000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN1" start="20260130050000 +0000" stop="20260130060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN1" start="20260130060000 +0000" stop="20260130070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130070000 +0000" stop="20260130080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130080000 +0000" stop="20260130083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130083000 +0000" stop="20260130093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130093000 +0000" stop="20260130103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130103000 +0000" stop="20260130113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130103000 +0000" stop="20260130113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130113000 +0000" stop="20260130123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130123000 +0000" stop="20260130133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130133000 +0000" stop="20260130143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260130143000 +0000" stop="20260130153000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
