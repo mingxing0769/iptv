@@ -9,8 +9,8 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="None" group-title="Live",ESPN
-https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 
 #EXTGRP:Music
 #EXTINF:-1 tvg-name="TNT Music" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",TNT Music
