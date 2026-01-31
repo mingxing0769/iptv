@@ -3,11 +3,11 @@
   <channel id="BBC News North America HD">
     <display-name>BBC News North America HD</display-name>
   </channel>
-  <channel id="ESPN News">
-    <display-name>ESPN News</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
+  </channel>
+  <channel id="SNY Sportsnet New York Comcast">
+    <display-name>SNY Sportsnet New York Comcast</display-name>
   </channel>
   <programme channel="BBC News North America HD" start="20260130153000 +0000" stop="20260130160000 +0000">
     <title lang="eng">Verified Live</title>
@@ -159,81 +159,6 @@
   <programme channel="BBC News North America HD" start="20260131150000 +0000" stop="20260131153000 +0000">
     <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="ESPN News" start="20260130160000 +0000" stop="20260130170000 +0000">
-    <title lang="eng">Royal Rumble 2026 Kickoff Show</title>
-  </programme>
-  <programme channel="ESPN News" start="20260130170000 +0000" stop="20260130190000 +0000">
-    <title lang="eng">Get Up</title>
-  </programme>
-  <programme channel="ESPN News" start="20260130190000 +0000" stop="20260130210000 +0000">
-    <title lang="eng">First Take</title>
-  </programme>
-  <programme channel="ESPN News" start="20260130210000 +0000" stop="20260130220000 +0000">
-    <title lang="eng">NBA Today</title>
-  </programme>
-  <programme channel="ESPN News" start="20260130220000 +0000" stop="20260130230000 +0000">
-    <title lang="eng">The Schrager Hour</title>
-  </programme>
-  <programme channel="ESPN News" start="20260130230000 +0000" stop="20260130233000 +0000">
-    <title lang="eng">First Draft</title>
-  </programme>
-  <programme channel="ESPN News" start="20260130233000 +0000" stop="20260131000000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131000000 +0000" stop="20260131010000 +0000">
-    <title lang="eng">The Schrager Hour</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131010000 +0000" stop="20260131013000 +0000">
-    <title lang="eng">First Draft</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131013000 +0000" stop="20260131020000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131020000 +0000" stop="20260131030000 +0000">
-    <title lang="eng">Royal Rumble 2026 Kickoff Show</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131030000 +0000" stop="20260131033000 +0000">
-    <title lang="eng">First Draft</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131033000 +0000" stop="20260131040000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131040000 +0000" stop="20260131043000 +0000">
-    <title lang="eng">First Draft</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131043000 +0000" stop="20260131050000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131050000 +0000" stop="20260131070000 +0000">
-    <title lang="eng">E60</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131070000 +0000" stop="20260131073000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131073000 +0000" stop="20260131080000 +0000">
-    <title lang="eng">First Draft</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131080000 +0000" stop="20260131090000 +0000">
-    <title lang="eng">SportsCenter With Scott Van Pelt</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131090000 +0000" stop="20260131100000 +0000">
-    <title lang="eng">SportsCenter With Scott Van Pelt</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131100000 +0000" stop="20260131110000 +0000">
-    <title lang="eng">SportsCenter With Scott Van Pelt</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131110000 +0000" stop="20260131120000 +0000">
-    <title lang="eng">Royal Rumble 2026 Kickoff Show</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131120000 +0000" stop="20260131130000 +0000">
-    <title lang="eng">E60</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131130000 +0000" stop="20260131140000 +0000">
-    <title lang="eng">Royal Rumble 2026 Kickoff Show</title>
-  </programme>
-  <programme channel="ESPN News" start="20260131140000 +0000" stop="20260131160000 +0000">
-    <title lang="eng">E60</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260130170000 +0000" stop="20260130200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -293,5 +218,98 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260131150000 +0000" stop="20260131153000 +0000">
     <title lang="eng">Bassmaster Review</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130153000 +0000" stop="20260130160000 +0000">
+    <title lang="eng">The Aging Brain</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130160000 +0000" stop="20260130163000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130163000 +0000" stop="20260130170000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130170000 +0000" stop="20260130173000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130173000 +0000" stop="20260130180000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130180000 +0000" stop="20260130190000 +0000">
+    <title lang="eng">He's Keith Hernandez</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130190000 +0000" stop="20260130210000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130210000 +0000" stop="20260130230000 +0000">
+    <title lang="eng">The Carton Show</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130230000 +0000" stop="20260130233000 +0000">
+    <title lang="eng">Baseball Night in N.Y.</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260130233000 +0000" stop="20260131013000 +0000">
+    <title lang="eng">Women's College Basketball</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131013000 +0000" stop="20260131020000 +0000">
+    <title lang="eng">Mets Yearbook</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131020000 +0000" stop="20260131040000 +0000">
+    <title lang="eng">The Wright Way</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131040000 +0000" stop="20260131043000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131043000 +0000" stop="20260131050000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131050000 +0000" stop="20260131053000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131053000 +0000" stop="20260131060000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131060000 +0000" stop="20260131063000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131063000 +0000" stop="20260131070000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131070000 +0000" stop="20260131080000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131080000 +0000" stop="20260131090000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131090000 +0000" stop="20260131100000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131100000 +0000" stop="20260131103000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131103000 +0000" stop="20260131110000 +0000">
+    <title lang="eng">The Aging Brain</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131110000 +0000" stop="20260131113000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131113000 +0000" stop="20260131120000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131120000 +0000" stop="20260131123000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131123000 +0000" stop="20260131130000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131130000 +0000" stop="20260131133000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131133000 +0000" stop="20260131140000 +0000">
+    <title lang="eng">SportsNite</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131140000 +0000" stop="20260131150000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
+  </programme>
+  <programme channel="SNY Sportsnet New York Comcast" start="20260131150000 +0000" stop="20260131153000 +0000">
+    <title lang="eng">DraftKings Casino Report</title>
   </programme>
 </tv>
