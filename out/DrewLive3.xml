@@ -1,71 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN U">
-    <display-name>ESPN U</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN U" start="20260131160000 +0000" stop="20260131170000 +0000">
-    <title lang="eng">College GameDay</title>
-  </programme>
-  <programme channel="ESPN U" start="20260131170000 +0000" stop="20260131190000 +0000">
-    <title lang="eng">Men's College Lacrosse</title>
-  </programme>
-  <programme channel="ESPN U" start="20260131190000 +0000" stop="20260131210000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260131210000 +0000" stop="20260131230000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260131230000 +0000" stop="20260201010000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201000000 +0000" stop="20260201010000 +0000">
-    <title lang="eng">E60</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201010000 +0000" stop="20260201030000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201030000 +0000" stop="20260201033000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201033000 +0000" stop="20260201040000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201040000 +0000" stop="20260201043000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201043000 +0000" stop="20260201050000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201050000 +0000" stop="20260201053000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201053000 +0000" stop="20260201060000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201060000 +0000" stop="20260201080000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201080000 +0000" stop="20260201100000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201100000 +0000" stop="20260201120000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201100000 +0000" stop="20260201120000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201120000 +0000" stop="20260201133000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201133000 +0000" stop="20260201150000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN U" start="20260201150000 +0000" stop="20260201170000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260131153000 +0000" stop="20260131160000 +0000">
     <title lang="eng">Bassmaster Review</title>
   </programme>
