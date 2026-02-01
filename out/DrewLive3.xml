@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Sportsnet Pacific">
+    <display-name>Sportsnet Pacific</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260201153000 +0000" stop="20260201163000 +0000">
     <title lang="eng">NASCAR Cup Series</title>
   </programme>
@@ -44,5 +47,74 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260202150000 +0000" stop="20260202170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260201160000 +0000" stop="20260201170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260201170000 +0000" stop="20260201180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260201180000 +0000" stop="20260201200000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260201200000 +0000" stop="20260201223000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260201223000 +0000" stop="20260201230000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260201230000 +0000" stop="20260201233000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260201233000 +0000" stop="20260202023000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202023000 +0000" stop="20260202033000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202033000 +0000" stop="20260202050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202033000 +0000" stop="20260202050000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202050000 +0000" stop="20260202053000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202053000 +0000" stop="20260202060000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202060000 +0000" stop="20260202063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202063000 +0000" stop="20260202070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202070000 +0000" stop="20260202080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202080000 +0000" stop="20260202090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202090000 +0000" stop="20260202100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202100000 +0000" stop="20260202110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202110000 +0000" stop="20260202120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202120000 +0000" stop="20260202130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202130000 +0000" stop="20260202140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202140000 +0000" stop="20260202150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260202150000 +0000" stop="20260202160000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
 </tv>
