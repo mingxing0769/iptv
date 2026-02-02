@@ -8,9 +8,9 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTV.pf@SD" tvg-name="TNTV (1080p)" tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="General",TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
-#EXTGRP:Music
-#EXTINF:-1 tvg-id="TNTMusic.ru@SD" tvg-name="TNT Music" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",TNT Music
-https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
+#EXTGRP:Live
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360" tvg-logo="None" group-title="Live",Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
 
 #EXTGRP:News
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
@@ -25,8 +25,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_40
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive3.us@SD" tvg-name="ABC News Live 3 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 3 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive4.us@SD" tvg-name="ABC News Live 4 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 4 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive5.us@SD" tvg-name="ABC News Live 5 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 5 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive6.us@SD" tvg-name="ABC News Live 6 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 6 (720p)
