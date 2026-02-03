@@ -9,10 +9,8 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
 #EXTGRP:Live
-#EXTINF:-1 tvg-name="SNY Sportsnet New York Comcast" tvg-logo="None" group-title="Live",SNY Sportsnet New York Comcast
-https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-#EXTINF:-1 tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1 tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 
 #EXTGRP:Music
 #EXTINF:-1 tvg-name="TNT Music" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",TNT Music
@@ -78,21 +76,13 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-name="Sky News Extra 3 (1080p)" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTGRP:News;Sports
-#EXTINF:-1 tvg-name="ESPNews (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="News;Sports",ESPNews (720p)
-https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-
 #EXTGRP:Sports
 #EXTINF:-1 tvg-name="BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN U (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U (720p)
-https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-name="SportsNet New York (540p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports",SportsNet New York (540p)
-https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-name="TSN1 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p) [Not 24/7]
 https://tvpass.org/live/tsn1/hd
-#EXTINF:-1 tvg-name="TSN3 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",TSN3 (1080p) [Not 24/7]
-https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-name="TSN2 (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN2 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn2/hd
 
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-name="BBC News Pashto (720p)" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",BBC News Pashto (720p)
@@ -105,7 +95,3 @@ https://tvpass.org/live/FoxSports2/sd
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
-
-#EXTGRP:Weather
-#EXTINF:-1 tvg-name="Sky News Weather (720p)" tvg-logo="https://i.postimg.cc/5tj8kWSX/skynewsweather.png" group-title="Weather",Sky News Weather (720p)
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
