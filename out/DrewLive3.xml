@@ -1,11 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="BBC News North America HD">
+    <display-name>BBC News North America HD</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Spectrum SportsNet LA">
-    <display-name>Spectrum SportsNet LA</display-name>
-  </channel>
+  <programme channel="BBC News North America HD" start="20260203153000 +0000" stop="20260203160000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203160000 +0000" stop="20260203163000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203163000 +0000" stop="20260203164500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203164500 +0000" stop="20260203165500 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203165500 +0000" stop="20260203170000 +0000">
+    <title lang="eng">The SpeciaList</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203170000 +0000" stop="20260203173000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203173000 +0000" stop="20260203180000 +0000">
+    <title lang="eng">Focus on Africa</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203180000 +0000" stop="20260203183000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203183000 +0000" stop="20260203190000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203190000 +0000" stop="20260203193000 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203193000 +0000" stop="20260203195500 +0000">
+    <title lang="eng">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203195500 +0000" stop="20260203200000 +0000">
+    <title lang="eng">The SpeciaList</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203200000 +0000" stop="20260203203000 +0000">
+    <title lang="eng">The Context</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203203000 +0000" stop="20260203210000 +0000">
+    <title lang="eng">The Context</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203210000 +0000" stop="20260203213000 +0000">
+    <title lang="eng">The Context USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203213000 +0000" stop="20260203215500 +0000">
+    <title lang="eng">The Context USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203215500 +0000" stop="20260203220000 +0000">
+    <title lang="eng">The SpeciaList</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203220000 +0000" stop="20260203223000 +0000">
+    <title lang="eng">BBC World News America</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203223000 +0000" stop="20260203230000 +0000">
+    <title lang="eng">Newsnight</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260203230000 +0000" stop="20260204000000 +0000">
+    <title lang="eng">BBC World News America</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204000000 +0000" stop="20260204003000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204003000 +0000" stop="20260204010000 +0000">
+    <title lang="eng">Newscast</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204010000 +0000" stop="20260204013000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204013000 +0000" stop="20260204020000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204020000 +0000" stop="20260204023000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204023000 +0000" stop="20260204024500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204024500 +0000" stop="20260204030000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204030000 +0000" stop="20260204033000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204033000 +0000" stop="20260204034500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204034500 +0000" stop="20260204040000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204040000 +0000" stop="20260204043000 +0000">
+    <title lang="eng">Newsday</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204043000 +0000" stop="20260204044500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204044500 +0000" stop="20260204050000 +0000">
+    <title lang="eng">BBC Sport</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204050000 +0000" stop="20260204053000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204053000 +0000" stop="20260204060000 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204060000 +0000" stop="20260204063000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204063000 +0000" stop="20260204065500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204065500 +0000" stop="20260204070000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204070000 +0000" stop="20260204073000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204073000 +0000" stop="20260204075500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204075500 +0000" stop="20260204080000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204080000 +0000" stop="20260204083000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204083000 +0000" stop="20260204090000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204090000 +0000" stop="20260204093000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204093000 +0000" stop="20260204095500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204095500 +0000" stop="20260204100000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204100000 +0000" stop="20260204103000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204103000 +0000" stop="20260204110000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204110000 +0000" stop="20260204113000 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204113000 +0000" stop="20260204114500 +0000">
+    <title lang="eng">Business Today</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204114500 +0000" stop="20260204115500 +0000">
+    <title lang="eng">BBC News</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204115500 +0000" stop="20260204120000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204120000 +0000" stop="20260204123000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204123000 +0000" stop="20260204130000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204130000 +0000" stop="20260204133000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204133000 +0000" stop="20260204135500 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204135500 +0000" stop="20260204140000 +0000">
+    <title lang="eng">Tech Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204140000 +0000" stop="20260204143000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204143000 +0000" stop="20260204144500 +0000">
+    <title lang="eng">Business Today USA</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204144500 +0000" stop="20260204150000 +0000">
+    <title lang="eng">BBC News Now</title>
+  </programme>
+  <programme channel="BBC News North America HD" start="20260204150000 +0000" stop="20260204153000 +0000">
+    <title lang="eng">Verified Live</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260203170000 +0000" stop="20260203200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -44,86 +227,5 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260204150000 +0000" stop="20260204170000 +0000">
     <title lang="eng">LIV Golf League</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203160000 +0000" stop="20260203170000 +0000">
-    <title lang="eng">Poker Masters</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203170000 +0000" stop="20260203190000 +0000">
-    <title lang="eng">The Early Line</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203190000 +0000" stop="20260203200000 +0000">
-    <title lang="eng">Dodgers Dugout</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203200000 +0000" stop="20260203203000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203203000 +0000" stop="20260203210000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203210000 +0000" stop="20260203213000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203213000 +0000" stop="20260203220000 +0000">
-    <title lang="eng">Access SportsNet: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203220000 +0000" stop="20260203223000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203223000 +0000" stop="20260203230000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203230000 +0000" stop="20260203233000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260203233000 +0000" stop="20260204000000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204000000 +0000" stop="20260204003000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204003000 +0000" stop="20260204010000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204010000 +0000" stop="20260204013000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204013000 +0000" stop="20260204020000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204020000 +0000" stop="20260204030000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204030000 +0000" stop="20260204060000 +0000">
-    <title lang="eng">Timeless Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204060000 +0000" stop="20260204100000 +0000">
-    <title lang="eng">DodgerFest</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204100000 +0000" stop="20260204110000 +0000">
-    <title lang="eng">Poker Masters</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204110000 +0000" stop="20260204113000 +0000">
-    <title lang="eng">Under Eye Bags? SOLUTION!</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204113000 +0000" stop="20260204120000 +0000">
-    <title lang="eng">Men's Health - All-Natural Secret for Prostate Health</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204120000 +0000" stop="20260204123000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204123000 +0000" stop="20260204130000 +0000">
-    <title lang="eng">Under Eye Bags? SOLUTION!</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204130000 +0000" stop="20260204133000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204133000 +0000" stop="20260204140000 +0000">
-    <title lang="eng">Paid Programming</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204140000 +0000" stop="20260204150000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
-  </programme>
-  <programme channel="Spectrum SportsNet LA" start="20260204150000 +0000" stop="20260204160000 +0000">
-    <title lang="eng">Backstage: Dodgers</title>
   </programme>
 </tv>
