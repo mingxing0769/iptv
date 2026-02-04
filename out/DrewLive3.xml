@@ -1,11 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="ESPN U">
+    <display-name>ESPN U</display-name>
+  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Fox Sports 2">
-    <display-name>Fox Sports 2</display-name>
+  <channel id="Sportsnet 360">
+    <display-name>Sportsnet 360</display-name>
   </channel>
+  <channel id="TSN3">
+    <display-name>TSN3</display-name>
+  </channel>
+  <programme channel="ESPN U" start="20260204170000 +0000" stop="20260204190000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20260204190000 +0000" stop="20260204200000 +0000">
+    <title lang="eng">Unbelievable: Virginia's Improbable Path to a Title</title>
+  </programme>
+  <programme channel="ESPN U" start="20260204200000 +0000" stop="20260204210000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="ESPN U" start="20260204210000 +0000" stop="20260204223000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20260204223000 +0000" stop="20260205000000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205000000 +0000" stop="20260205020000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205020000 +0000" stop="20260205023000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205023000 +0000" stop="20260205030000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205030000 +0000" stop="20260205033000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205033000 +0000" stop="20260205040000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205040000 +0000" stop="20260205043000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205043000 +0000" stop="20260205050000 +0000">
+    <title lang="eng">TrueSouth</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205050000 +0000" stop="20260205070000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205070000 +0000" stop="20260205090000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205090000 +0000" stop="20260205110000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205110000 +0000" stop="20260205150000 +0000">
+    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
+  </programme>
+  <programme channel="ESPN U" start="20260205150000 +0000" stop="20260205170000 +0000">
+    <title lang="eng">30 for 30</title>
+  </programme>
   <programme channel="Fox Sports 1" start="20260204170000 +0000" stop="20260204200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -63,37 +120,142 @@
   <programme channel="Fox Sports 1" start="20260205150000 +0000" stop="20260205170000 +0000">
     <title lang="eng">LIV Golf League</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260204170000 +0000" stop="20260204195000 +0000">
-    <title lang="eng">LIV Golf League</title>
+  <programme channel="Sportsnet 360" start="20260204153000 +0000" stop="20260204160000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260204195000 +0000" stop="20260204220000 +0000">
-    <title lang="eng">French Cup Soccer</title>
+  <programme channel="Sportsnet 360" start="20260204160000 +0000" stop="20260204170000 +0000">
+    <title lang="eng">The Raptors Show</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260204220000 +0000" stop="20260205005600 +0000">
-    <title lang="eng">150th Westminster Kennel Club Dog Show</title>
+  <programme channel="Sportsnet 360" start="20260204170000 +0000" stop="20260204190000 +0000">
+    <title lang="eng">The Fan Hockey Show</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260205005600 +0000" stop="20260205030000 +0000">
-    <title lang="eng">Concacaf Champions Cup</title>
+  <programme channel="Sportsnet 360" start="20260204190000 +0000" stop="20260204193000 +0000">
+    <title lang="eng">Misplays of the Month</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260205030000 +0000" stop="20260205063000 +0000">
-    <title lang="eng">150th Westminster Kennel Club Dog Show</title>
+  <programme channel="Sportsnet 360" start="20260204193000 +0000" stop="20260204200000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260205063000 +0000" stop="20260205083000 +0000">
-    <title lang="eng">College Basketball</title>
+  <programme channel="Sportsnet 360" start="20260204200000 +0000" stop="20260204203000 +0000">
+    <title lang="eng">Misplays of the Month</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260205083000 +0000" stop="20260205090000 +0000">
-    <title lang="eng">OutKick the Show with Clay Travis</title>
+  <programme channel="Sportsnet 360" start="20260204203000 +0000" stop="20260204210000 +0000">
+    <title lang="eng">Plays of the Month - Highlights</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260205090000 +0000" stop="20260205110000 +0000">
-    <title lang="eng">Concacaf Champions Cup</title>
+  <programme channel="Sportsnet 360" start="20260204210000 +0000" stop="20260204230000 +0000">
+    <title lang="eng">Real Kyper &amp; Bourne</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260205110000 +0000" stop="20260205130000 +0000">
-    <title lang="eng">College Basketball</title>
+  <programme channel="Sportsnet 360" start="20260204230000 +0000" stop="20260205000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260205130000 +0000" stop="20260205150000 +0000">
-    <title lang="eng">College Basketball</title>
+  <programme channel="Sportsnet 360" start="20260205000000 +0000" stop="20260205010000 +0000">
+    <title lang="eng">TNA in 60</title>
   </programme>
-  <programme channel="Fox Sports 2" start="20260205150000 +0000" stop="20260205170000 +0000">
-    <title lang="eng">College Basketball</title>
+  <programme channel="Sportsnet 360" start="20260205010000 +0000" stop="20260205020000 +0000">
+    <title lang="eng">Game of Gold</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205020000 +0000" stop="20260205023000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205023000 +0000" stop="20260205030000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205030000 +0000" stop="20260205053000 +0000">
+    <title lang="eng">NHL Hockey</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205053000 +0000" stop="20260205060000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205060000 +0000" stop="20260205063000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205063000 +0000" stop="20260205083000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205083000 +0000" stop="20260205103000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205103000 +0000" stop="20260205110000 +0000">
+    <title lang="eng">NHL's Best</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205110000 +0000" stop="20260205120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205120000 +0000" stop="20260205150000 +0000">
+    <title lang="eng">By the Books</title>
+  </programme>
+  <programme channel="Sportsnet 360" start="20260205150000 +0000" stop="20260205153000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="TSN3" start="20260204153000 +0000" stop="20260204163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204163000 +0000" stop="20260204173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204173000 +0000" stop="20260204180000 +0000">
+    <title lang="eng">PGA TOUR: The CUT</title>
+  </programme>
+  <programme channel="TSN3" start="20260204180000 +0000" stop="20260204190000 +0000">
+    <title lang="eng">PGA Tour Highlight Show</title>
+  </programme>
+  <programme channel="TSN3" start="20260204190000 +0000" stop="20260204200000 +0000">
+    <title lang="eng">Golf Talk Canada</title>
+  </programme>
+  <programme channel="TSN3" start="20260204200000 +0000" stop="20260204210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN3" start="20260204210000 +0000" stop="20260204220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN3" start="20260204220000 +0000" stop="20260204223000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260204223000 +0000" stop="20260204230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN3" start="20260204230000 +0000" stop="20260205003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205003000 +0000" stop="20260205040000 +0000">
+    <title lang="eng">NFL Football</title>
+  </programme>
+  <programme channel="TSN3" start="20260205040000 +0000" stop="20260205050000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205050000 +0000" stop="20260205060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN3" start="20260205060000 +0000" stop="20260205070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205070000 +0000" stop="20260205080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205080000 +0000" stop="20260205083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205083000 +0000" stop="20260205093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205093000 +0000" stop="20260205103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205103000 +0000" stop="20260205113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205103000 +0000" stop="20260205113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205113000 +0000" stop="20260205123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205123000 +0000" stop="20260205133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205133000 +0000" stop="20260205143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260205143000 +0000" stop="20260205153000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
