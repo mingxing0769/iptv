@@ -3,6 +3,9 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="TSN3">
+    <display-name>TSN3</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260203170000 +0000" stop="20260203200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -41,5 +44,86 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260204150000 +0000" stop="20260204170000 +0000">
     <title lang="eng">LIV Golf League</title>
+  </programme>
+  <programme channel="TSN3" start="20260203153000 +0000" stop="20260203163000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260203163000 +0000" stop="20260203173000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260203173000 +0000" stop="20260203180000 +0000">
+    <title lang="eng">Motorcycle Experience</title>
+  </programme>
+  <programme channel="TSN3" start="20260203180000 +0000" stop="20260203183000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
+  </programme>
+  <programme channel="TSN3" start="20260203183000 +0000" stop="20260203190000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260203190000 +0000" stop="20260203200000 +0000">
+    <title lang="eng">PGA Tour Highlight Show</title>
+  </programme>
+  <programme channel="TSN3" start="20260203200000 +0000" stop="20260203210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN3" start="20260203210000 +0000" stop="20260203220000 +0000">
+    <title lang="eng">NFL Live</title>
+  </programme>
+  <programme channel="TSN3" start="20260203220000 +0000" stop="20260203223000 +0000">
+    <title lang="eng">College Football Live</title>
+  </programme>
+  <programme channel="TSN3" start="20260203223000 +0000" stop="20260203230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
+  </programme>
+  <programme channel="TSN3" start="20260203230000 +0000" stop="20260203233000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260203233000 +0000" stop="20260204010000 +0000">
+    <title lang="eng">NFL Countdown</title>
+  </programme>
+  <programme channel="TSN3" start="20260204010000 +0000" stop="20260204033000 +0000">
+    <title lang="eng">2026 Pro Bowl Games</title>
+  </programme>
+  <programme channel="TSN3" start="20260204033000 +0000" stop="20260204043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204043000 +0000" stop="20260204050000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN3" start="20260204050000 +0000" stop="20260204060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN3" start="20260204060000 +0000" stop="20260204070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204070000 +0000" stop="20260204080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204080000 +0000" stop="20260204083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204083000 +0000" stop="20260204093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204093000 +0000" stop="20260204103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204103000 +0000" stop="20260204113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204103000 +0000" stop="20260204113000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204113000 +0000" stop="20260204123000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204123000 +0000" stop="20260204133000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204133000 +0000" stop="20260204143000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260204143000 +0000" stop="20260204153000 +0000">
+    <title lang="eng">SportsCentre</title>
   </programme>
 </tv>
