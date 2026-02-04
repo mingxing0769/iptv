@@ -3,6 +3,12 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="Fox Sports 2">
+    <display-name>Fox Sports 2</display-name>
+  </channel>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260203170000 +0000" stop="20260203200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -41,5 +47,119 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260204150000 +0000" stop="20260204170000 +0000">
     <title lang="eng">LIV Golf League</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260203180000 +0000" stop="20260203210000 +0000">
+    <title lang="eng">150th Westminster Kennel Club Dog Show</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260203210000 +0000" stop="20260203220000 +0000">
+    <title lang="eng">Race for the Seat</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260203220000 +0000" stop="20260203230000 +0000">
+    <title lang="eng">Race for the Seat</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260203230000 +0000" stop="20260204000000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204000000 +0000" stop="20260204010000 +0000">
+    <title lang="eng">Pokerstars Big Game on Tour</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204010000 +0000" stop="20260204015000 +0000">
+    <title lang="eng">Fox Sports FIFA World Cup 2026 Draw Reaction</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204015000 +0000" stop="20260204035000 +0000">
+    <title lang="eng">Concacaf Champions Cup</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204035000 +0000" stop="20260204060000 +0000">
+    <title lang="eng">Concacaf Champions Cup</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204060000 +0000" stop="20260204070000 +0000">
+    <title lang="eng">Race for the Seat</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204070000 +0000" stop="20260204080000 +0000">
+    <title lang="eng">Race for the Seat</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204080000 +0000" stop="20260204090000 +0000">
+    <title lang="eng">Race for the Seat</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204090000 +0000" stop="20260204110000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204110000 +0000" stop="20260204120000 +0000">
+    <title lang="eng">Arenacross Championship Series</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204120000 +0000" stop="20260204130000 +0000">
+    <title lang="eng">Tristar Arenacross</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204130000 +0000" stop="20260204140000 +0000">
+    <title lang="eng">Race for the Seat</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204140000 +0000" stop="20260204150000 +0000">
+    <title lang="eng">Race for the Seat</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260204150000 +0000" stop="20260204170000 +0000">
+    <title lang="eng">College Basketball</title>
+  </programme>
+  <programme channel="TSN4" start="20260203160000 +0000" stop="20260203170000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260203170000 +0000" stop="20260203190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="TSN4" start="20260203190000 +0000" stop="20260203200000 +0000">
+    <title lang="eng">PGA Tour Highlight Show</title>
+  </programme>
+  <programme channel="TSN4" start="20260203200000 +0000" stop="20260203210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN4" start="20260203210000 +0000" stop="20260203230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN4" start="20260203230000 +0000" stop="20260204003000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260204003000 +0000" stop="20260204010000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20260204010000 +0000" stop="20260204033000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="TSN4" start="20260204033000 +0000" stop="20260204043000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260204043000 +0000" stop="20260204050000 +0000">
+    <title lang="eng">SC</title>
+  </programme>
+  <programme channel="TSN4" start="20260204050000 +0000" stop="20260204060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260204060000 +0000" stop="20260204070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260204070000 +0000" stop="20260204080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260204080000 +0000" stop="20260204090000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260204090000 +0000" stop="20260204100000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260204100000 +0000" stop="20260204110000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260204110000 +0000" stop="20260204120000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260204120000 +0000" stop="20260204130000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260204130000 +0000" stop="20260204140000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260204140000 +0000" stop="20260204150000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260204150000 +0000" stop="20260204160000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
   </programme>
 </tv>
