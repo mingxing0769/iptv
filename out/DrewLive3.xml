@@ -1,230 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="BBC News North America HD">
-    <display-name>BBC News North America HD</display-name>
-  </channel>
-  <channel id="ESPN U">
-    <display-name>ESPN U</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="BBC News North America HD" start="20260206153000 +0000" stop="20260206160000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206160000 +0000" stop="20260206163000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206163000 +0000" stop="20260206165500 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206165500 +0000" stop="20260206170000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206170000 +0000" stop="20260206173000 +0000">
-    <title lang="eng">Verified Live</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206173000 +0000" stop="20260206180000 +0000">
-    <title lang="eng">Focus on Africa</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206180000 +0000" stop="20260206183000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206183000 +0000" stop="20260206190000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206190000 +0000" stop="20260206193000 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206193000 +0000" stop="20260206195500 +0000">
-    <title lang="eng">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206195500 +0000" stop="20260206200000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206200000 +0000" stop="20260206203000 +0000">
-    <title lang="eng">The Context</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206203000 +0000" stop="20260206210000 +0000">
-    <title lang="eng">The Context</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206210000 +0000" stop="20260206213000 +0000">
-    <title lang="eng">The Context USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206213000 +0000" stop="20260206215500 +0000">
-    <title lang="eng">The Context USA</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206215500 +0000" stop="20260206220000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206220000 +0000" stop="20260206223000 +0000">
-    <title lang="eng">BBC World News America</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206223000 +0000" stop="20260206230000 +0000">
-    <title lang="eng">Talking Business</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206230000 +0000" stop="20260206233000 +0000">
-    <title lang="eng">BBC World News America</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260206233000 +0000" stop="20260207000000 +0000">
-    <title lang="eng">The President's Path</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207000000 +0000" stop="20260207003000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207003000 +0000" stop="20260207010000 +0000">
-    <title lang="eng">Tech Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207010000 +0000" stop="20260207013000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207013000 +0000" stop="20260207020000 +0000">
-    <title lang="eng">Clive Myrie's Caribbean Adventure</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207020000 +0000" stop="20260207023000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207023000 +0000" stop="20260207030000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207030000 +0000" stop="20260207033000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207033000 +0000" stop="20260207040000 +0000">
-    <title lang="eng">The Media Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207040000 +0000" stop="20260207043000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207043000 +0000" stop="20260207050000 +0000">
-    <title lang="eng">The Travel Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207050000 +0000" stop="20260207053000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207053000 +0000" stop="20260207060000 +0000">
-    <title lang="eng">AI Decoded</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207060000 +0000" stop="20260207063000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207063000 +0000" stop="20260207070000 +0000">
-    <title lang="eng">Tech Now</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207070000 +0000" stop="20260207073000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207073000 +0000" stop="20260207080000 +0000">
-    <title lang="eng">Clive Myrie's Caribbean Adventure</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207080000 +0000" stop="20260207083000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207083000 +0000" stop="20260207090000 +0000">
-    <title lang="eng">Global Eye</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207090000 +0000" stop="20260207100000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207100000 +0000" stop="20260207103000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207103000 +0000" stop="20260207110000 +0000">
-    <title lang="eng">Talking Business</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207110000 +0000" stop="20260207113000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207113000 +0000" stop="20260207120000 +0000">
-    <title lang="eng">Unspun World with John Simpson</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207120000 +0000" stop="20260207123000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207123000 +0000" stop="20260207130000 +0000">
-    <title lang="eng">Arts in Motion</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207130000 +0000" stop="20260207133000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207133000 +0000" stop="20260207140000 +0000">
-    <title lang="eng">AI Decoded</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207140000 +0000" stop="20260207143000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207143000 +0000" stop="20260207150000 +0000">
-    <title lang="eng">The Media Show</title>
-  </programme>
-  <programme channel="BBC News North America HD" start="20260207150000 +0000" stop="20260207153000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="ESPN U" start="20260206170000 +0000" stop="20260206190000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260206190000 +0000" stop="20260206200000 +0000">
-    <title lang="eng">Southern Hoops: A History of SEC Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260206200000 +0000" stop="20260206213000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN U" start="20260206213000 +0000" stop="20260206230000 +0000">
-    <title lang="eng">ESPN Films</title>
-  </programme>
-  <programme channel="ESPN U" start="20260206230000 +0000" stop="20260207000000 +0000">
-    <title lang="eng">We're #1! - 1991 &amp; 1992 Duke Blue Devils</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207000000 +0000" stop="20260207010000 +0000">
-    <title lang="eng">Coach K &amp; Roy Williams: Rivals Reunited</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207010000 +0000" stop="20260207020000 +0000">
-    <title lang="eng">We're #1</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207020000 +0000" stop="20260207040000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207040000 +0000" stop="20260207043000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207043000 +0000" stop="20260207050000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207050000 +0000" stop="20260207070000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207050000 +0000" stop="20260207070000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207070000 +0000" stop="20260207090000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207090000 +0000" stop="20260207103000 +0000">
-    <title lang="eng">Women's College Gymnastics</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207103000 +0000" stop="20260207110000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207110000 +0000" stop="20260207113000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207113000 +0000" stop="20260207120000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207120000 +0000" stop="20260207123000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207123000 +0000" stop="20260207130000 +0000">
-    <title lang="eng">TrueSouth</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207130000 +0000" stop="20260207140000 +0000">
-    <title lang="eng">We're #1! - 1991 &amp; 1992 Duke Blue Devils</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207140000 +0000" stop="20260207150000 +0000">
-    <title lang="eng">We're #1</title>
-  </programme>
-  <programme channel="ESPN U" start="20260207150000 +0000" stop="20260207170000 +0000">
-    <title lang="eng">College GameDay</title>
-  </programme>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260206170000 +0000" stop="20260206200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
@@ -275,5 +56,59 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260207130000 +0000" stop="20260207160000 +0000">
     <title lang="eng">Bassmaster Elite Series</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260206160000 +0000" stop="20260206170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260206170000 +0000" stop="20260206180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260206180000 +0000" stop="20260206183000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260206183000 +0000" stop="20260206190000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026 Pre Ceremony</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260206190000 +0000" stop="20260206220000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260206220000 +0000" stop="20260207000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207000000 +0000" stop="20260207040000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207040000 +0000" stop="20260207050000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207050000 +0000" stop="20260207053000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207053000 +0000" stop="20260207060000 +0000">
+    <title lang="eng">NHL's Best of the Season</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207060000 +0000" stop="20260207063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207063000 +0000" stop="20260207070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207070000 +0000" stop="20260207080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207080000 +0000" stop="20260207090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207090000 +0000" stop="20260207100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207100000 +0000" stop="20260207103000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207103000 +0000" stop="20260207170000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260207103000 +0000" stop="20260207170000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
 </tv>
