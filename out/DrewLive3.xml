@@ -1,65 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes</display-name>
-  </channel>
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <programme channel="ESPN Deportes" start="20260206160000 +0000" stop="20260206180000 +0000">
-    <title lang="eng">Fútbol Copa de la Reina</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260206180000 +0000" stop="20260206190000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260206190000 +0000" stop="20260206200000 +0000">
-    <title lang="eng">ESPN Deportes</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260206200000 +0000" stop="20260206230000 +0000">
-    <title lang="eng">Béisbol Serie del Caribe</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260206230000 +0000" stop="20260207000000 +0000">
-    <title lang="eng">Ahora o nunca</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207000000 +0000" stop="20260207010000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207010000 +0000" stop="20260207040000 +0000">
-    <title lang="eng">Béisbol Serie del Caribe</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207040000 +0000" stop="20260207050000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207050000 +0000" stop="20260207060000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207060000 +0000" stop="20260207070000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207070000 +0000" stop="20260207080000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207080000 +0000" stop="20260207090000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207090000 +0000" stop="20260207100000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207100000 +0000" stop="20260207110000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207110000 +0000" stop="20260207120000 +0000">
-    <title lang="eng">Fútbol picante</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207120000 +0000" stop="20260207125500 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207125500 +0000" stop="20260207150000 +0000">
-    <title lang="eng">Fútbol LaLiga</title>
-  </programme>
-  <programme channel="ESPN Deportes" start="20260207150000 +0000" stop="20260207171500 +0000">
-    <title lang="eng">Fútbol LaLiga</title>
-  </programme>
   <programme channel="Fox Sports 1" start="20260206170000 +0000" stop="20260206200000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
