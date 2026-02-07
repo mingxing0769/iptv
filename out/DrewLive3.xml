@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet Ontario">
-    <display-name>Sportsnet Ontario</display-name>
-  </channel>
   <programme channel="Fox Sports 1" start="20260207160000 +0000" stop="20260207170000 +0000">
     <title lang="eng">Tristar Arenacross</title>
   </programme>
@@ -53,38 +50,5 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260208130000 +0000" stop="20260208173000 +0000">
     <title lang="eng">Bassmaster Elite Series</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260207170000 +0000" stop="20260207230000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260207230000 +0000" stop="20260207233000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260207233000 +0000" stop="20260208050000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260208050000 +0000" stop="20260208060000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260208060000 +0000" stop="20260208063000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260208063000 +0000" stop="20260208070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260208070000 +0000" stop="20260208080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260208080000 +0000" stop="20260208090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260208090000 +0000" stop="20260208100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260208100000 +0000" stop="20260208110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Ontario" start="20260208110000 +0000" stop="20260208170000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
 </tv>
