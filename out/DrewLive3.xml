@@ -3,6 +3,12 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
+  <channel id="TSN1">
+    <display-name>TSN1</display-name>
+  </channel>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
+  </channel>
   <programme channel="Fox Sports 1" start="20260208173000 +0000" stop="20260208180000 +0000">
     <title lang="eng">FOX College Hoops Tip-Off</title>
   </programme>
@@ -53,5 +59,77 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260209150000 +0000" stop="20260209170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
+  </programme>
+  <programme channel="TSN1" start="20260208230000 +0000" stop="20260208233000 +0000">
+    <title lang="eng">Super Bowl LX: Kick-Off</title>
+  </programme>
+  <programme channel="TSN1" start="20260208233000 +0000" stop="20260209031500 +0000">
+    <title lang="eng">Super Bowl LX</title>
+  </programme>
+  <programme channel="TSN1" start="20260209031500 +0000" stop="20260209043000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN1" start="20260209043000 +0000" stop="20260209050000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260209050000 +0000" stop="20260209060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN1" start="20260209060000 +0000" stop="20260209070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260209070000 +0000" stop="20260209080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260209080000 +0000" stop="20260209083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260209083000 +0000" stop="20260209093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260209093000 +0000" stop="20260209103000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260209103000 +0000" stop="20260209110000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN1" start="20260209110000 +0000" stop="20260209200000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="TSN4" start="20260208190000 +0000" stop="20260208230000 +0000">
+    <title lang="eng">Super Bowl LX Pregame</title>
+  </programme>
+  <programme channel="TSN4" start="20260208230000 +0000" stop="20260208233000 +0000">
+    <title lang="eng">Super Bowl LX: Kick-Off</title>
+  </programme>
+  <programme channel="TSN4" start="20260208233000 +0000" stop="20260209031500 +0000">
+    <title lang="eng">Super Bowl LX</title>
+  </programme>
+  <programme channel="TSN4" start="20260209031500 +0000" stop="20260209043000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260209043000 +0000" stop="20260209050000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260209050000 +0000" stop="20260209060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260209060000 +0000" stop="20260209070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260209070000 +0000" stop="20260209080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260209080000 +0000" stop="20260209090000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260209090000 +0000" stop="20260209100000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260209100000 +0000" stop="20260209110000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN4" start="20260209110000 +0000" stop="20260209230000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
 </tv>
