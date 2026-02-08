@@ -3,9 +3,6 @@
   <channel id="Fox Sports 1">
     <display-name>Fox Sports 1</display-name>
   </channel>
-  <channel id="Sportsnet Pacific">
-    <display-name>Sportsnet Pacific</display-name>
-  </channel>
   <programme channel="Fox Sports 1" start="20260208173000 +0000" stop="20260208180000 +0000">
     <title lang="eng">FOX College Hoops Tip-Off</title>
   </programme>
@@ -56,41 +53,5 @@
   </programme>
   <programme channel="Fox Sports 1" start="20260209150000 +0000" stop="20260209170000 +0000">
     <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260208170000 +0000" stop="20260208230000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260208230000 +0000" stop="20260209040000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209040000 +0000" stop="20260209050000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209050000 +0000" stop="20260209053000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209053000 +0000" stop="20260209060000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209060000 +0000" stop="20260209063000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209063000 +0000" stop="20260209070000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209070000 +0000" stop="20260209080000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209080000 +0000" stop="20260209090000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209090000 +0000" stop="20260209100000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209100000 +0000" stop="20260209110000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet Pacific" start="20260209110000 +0000" stop="20260209170000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
 </tv>
