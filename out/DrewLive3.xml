@@ -1,93 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Sportsnet West">
-    <display-name>Sportsnet West</display-name>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
   </channel>
-  <channel id="TSN1">
-    <display-name>TSN1</display-name>
-  </channel>
-  <programme channel="Sportsnet West" start="20260210170000 +0000" stop="20260210230000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260210170000 +0000" stop="20260210230000 +0000">
     <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260210230000 +0000" stop="20260211000000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260210230000 +0000" stop="20260211000000 +0000">
     <title lang="eng">The FAN Pregame</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211000000 +0000" stop="20260211040000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211000000 +0000" stop="20260211040000 +0000">
     <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211040000 +0000" stop="20260211050000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211040000 +0000" stop="20260211050000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211050000 +0000" stop="20260211053000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211050000 +0000" stop="20260211053000 +0000">
     <title lang="eng">Gotta See It</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211053000 +0000" stop="20260211060000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211053000 +0000" stop="20260211060000 +0000">
     <title lang="eng">Plays of the Month - Countdown</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211060000 +0000" stop="20260211063000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211060000 +0000" stop="20260211063000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211063000 +0000" stop="20260211070000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211063000 +0000" stop="20260211070000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211070000 +0000" stop="20260211080000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211070000 +0000" stop="20260211080000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211080000 +0000" stop="20260211090000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211080000 +0000" stop="20260211090000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211090000 +0000" stop="20260211100000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211090000 +0000" stop="20260211100000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211100000 +0000" stop="20260211103000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211100000 +0000" stop="20260211103000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211103000 +0000" stop="20260211110000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211103000 +0000" stop="20260211110000 +0000">
     <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
-  <programme channel="Sportsnet West" start="20260211110000 +0000" stop="20260211130000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="Sportsnet West" start="20260211130000 +0000" stop="20260211170000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="TSN1" start="20260210190000 +0000" stop="20260210213000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="TSN1" start="20260210213000 +0000" stop="20260210230000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="TSN1" start="20260210230000 +0000" stop="20260211000000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260211000000 +0000" stop="20260211040000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="TSN1" start="20260211040000 +0000" stop="20260211050000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260211050000 +0000" stop="20260211060000 +0000">
-    <title lang="eng">SC With Jay Onrait</title>
-  </programme>
-  <programme channel="TSN1" start="20260211060000 +0000" stop="20260211070000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260211070000 +0000" stop="20260211080000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260211080000 +0000" stop="20260211083000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260211083000 +0000" stop="20260211093000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260211093000 +0000" stop="20260211103000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260211103000 +0000" stop="20260211110000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN1" start="20260211110000 +0000" stop="20260211230000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211110000 +0000" stop="20260211170000 +0000">
     <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
 </tv>
