@@ -1,84 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Sportsnet 360">
-    <display-name>Sportsnet 360</display-name>
+  <channel id="TSN2">
+    <display-name>TSN2</display-name>
   </channel>
-  <programme channel="Sportsnet 360" start="20260210153000 +0000" stop="20260210160000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
+  <programme channel="TSN2" start="20260210200000 +0000" stop="20260210203000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260210160000 +0000" stop="20260210170000 +0000">
-    <title lang="eng">The Raptors Show</title>
+  <programme channel="TSN2" start="20260210203000 +0000" stop="20260210210000 +0000">
+    <title lang="eng">STIHL Timbersports</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260210170000 +0000" stop="20260210190000 +0000">
-    <title lang="eng">The Fan Hockey Show</title>
+  <programme channel="TSN2" start="20260210210000 +0000" stop="20260210220000 +0000">
+    <title lang="eng">NFL Live</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260210190000 +0000" stop="20260210193000 +0000">
-    <title lang="eng">Gotta See It</title>
+  <programme channel="TSN2" start="20260210220000 +0000" stop="20260210223000 +0000">
+    <title lang="eng">Breaking Down Barriers</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260210193000 +0000" stop="20260210200000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
+  <programme channel="TSN2" start="20260210223000 +0000" stop="20260210230000 +0000">
+    <title lang="eng">Pardon the Interruption</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260210200000 +0000" stop="20260210210000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="TSN2" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="eng">PGA Tour Highlight Show</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260210210000 +0000" stop="20260210220000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="TSN2" start="20260211000000 +0000" stop="20260211003000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260210220000 +0000" stop="20260211000000 +0000">
-    <title lang="eng">The FAN Pregame</title>
+  <programme channel="TSN2" start="20260211003000 +0000" stop="20260211010000 +0000">
+    <title lang="eng">Behind the Leaf</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211000000 +0000" stop="20260211010000 +0000">
-    <title lang="eng">TNA Xplosion</title>
+  <programme channel="TSN2" start="20260211010000 +0000" stop="20260211030000 +0000">
+    <title lang="eng">AHL Hockey</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211010000 +0000" stop="20260211020000 +0000">
-    <title lang="eng">Game of Gold</title>
+  <programme channel="TSN2" start="20260211030000 +0000" stop="20260211033000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211020000 +0000" stop="20260211030000 +0000">
-    <title lang="eng">World's Strongest Man</title>
+  <programme channel="TSN2" start="20260211033000 +0000" stop="20260211040000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211030000 +0000" stop="20260211050000 +0000">
-    <title lang="eng">TGL Golf</title>
+  <programme channel="TSN2" start="20260211040000 +0000" stop="20260211050000 +0000">
+    <title lang="eng">Golf Talk Canada</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211050000 +0000" stop="20260211060000 +0000">
-    <title lang="eng">TNA in 60</title>
+  <programme channel="TSN2" start="20260211050000 +0000" stop="20260211060000 +0000">
+    <title lang="eng">Why We Love Sports</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211060000 +0000" stop="20260211063000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
+  <programme channel="TSN2" start="20260211060000 +0000" stop="20260211063000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211063000 +0000" stop="20260211070000 +0000">
-    <title lang="eng">Gotta See It</title>
+  <programme channel="TSN2" start="20260211063000 +0000" stop="20260211070000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211070000 +0000" stop="20260211073000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
+  <programme channel="TSN2" start="20260211070000 +0000" stop="20260211073000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211073000 +0000" stop="20260211080000 +0000">
-    <title lang="eng">Gotta See It</title>
+  <programme channel="TSN2" start="20260211073000 +0000" stop="20260211080000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211080000 +0000" stop="20260211083000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
+  <programme channel="TSN2" start="20260211080000 +0000" stop="20260211083000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211083000 +0000" stop="20260211090000 +0000">
-    <title lang="eng">Gotta See It</title>
+  <programme channel="TSN2" start="20260211083000 +0000" stop="20260211090000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211090000 +0000" stop="20260211093000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
+  <programme channel="TSN2" start="20260211090000 +0000" stop="20260211093000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211093000 +0000" stop="20260211100000 +0000">
-    <title lang="eng">Gotta See It</title>
+  <programme channel="TSN2" start="20260211093000 +0000" stop="20260211100000 +0000">
+    <title lang="eng">SC</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211100000 +0000" stop="20260211103000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
+  <programme channel="TSN2" start="20260211100000 +0000" stop="20260211200000 +0000">
+    <title lang="eng">2026 Qatar TotalEnergies Open Tennis</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211103000 +0000" stop="20260211110000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211110000 +0000" stop="20260211120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211120000 +0000" stop="20260211150000 +0000">
-    <title lang="eng">By the Books</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211150000 +0000" stop="20260211153000 +0000">
-    <title lang="eng">Gotta See It</title>
+  <programme channel="TSN2" start="20260211100000 +0000" stop="20260211200000 +0000">
+    <title lang="eng">2026 Qatar TotalEnergies Open Tennis</title>
   </programme>
 </tv>
