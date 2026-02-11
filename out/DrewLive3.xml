@@ -1,237 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="ESPN2">
-    <display-name>ESPN2</display-name>
+  <channel id="Sportsnet (East)">
+    <display-name>Sportsnet (East)</display-name>
   </channel>
-  <channel id="Fox Sports 1">
-    <display-name>Fox Sports 1</display-name>
+  <channel id="Sportsnet Ontario">
+    <display-name>Sportsnet Ontario</display-name>
   </channel>
-  <channel id="Fox Sports 2">
-    <display-name>Fox Sports 2</display-name>
-  </channel>
-  <channel id="Sportsnet One">
-    <display-name>Sportsnet One</display-name>
-  </channel>
-  <programme channel="ESPN2" start="20260210170000 +0000" stop="20260210190000 +0000">
-    <title lang="eng">First Take</title>
-  </programme>
-  <programme channel="ESPN2" start="20260210190000 +0000" stop="20260210200000 +0000">
-    <title lang="eng">The Rich Eisen Show</title>
-  </programme>
-  <programme channel="ESPN2" start="20260210200000 +0000" stop="20260210210000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN2" start="20260210210000 +0000" stop="20260210220000 +0000">
-    <title lang="eng">NBA Today</title>
-  </programme>
-  <programme channel="ESPN2" start="20260210220000 +0000" stop="20260210230000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20260210230000 +0000" stop="20260210233000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN2" start="20260210233000 +0000" stop="20260211000000 +0000">
-    <title lang="eng">Wooden Award Late Season Top 20</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211000000 +0000" stop="20260211020000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211020000 +0000" stop="20260211040000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211040000 +0000" stop="20260211060000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211060000 +0000" stop="20260211070000 +0000">
-    <title lang="eng">NFL Live</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211070000 +0000" stop="20260211073000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211073000 +0000" stop="20260211083000 +0000">
-    <title lang="eng">First Draft</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211083000 +0000" stop="20260211103000 +0000">
-    <title lang="eng">30 for 30</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211103000 +0000" stop="20260211110000 +0000">
-    <title lang="eng">The Biggest Game</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211110000 +0000" stop="20260211130000 +0000">
-    <title lang="eng">Unsportsmanlike with Evan, Canty and Michelle</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211130000 +0000" stop="20260211140000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211140000 +0000" stop="20260211150000 +0000">
-    <title lang="eng">SportsCenter</title>
-  </programme>
-  <programme channel="ESPN2" start="20260211150000 +0000" stop="20260211170000 +0000">
-    <title lang="eng">Get Up</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260210170000 +0000" stop="20260210200000 +0000">
-    <title lang="eng">The Herd With Colin Cowherd</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260210200000 +0000" stop="20260210220000 +0000">
-    <title lang="eng">First Things First</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260210220000 +0000" stop="20260210230000 +0000">
-    <title lang="eng">First Things First: OT</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260210230000 +0000" stop="20260211000000 +0000">
-    <title lang="eng">Race for the Seat</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211000000 +0000" stop="20260211020000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211020000 +0000" stop="20260211040000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211040000 +0000" stop="20260211060000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211060000 +0000" stop="20260211070000 +0000">
-    <title lang="eng">Kevin Harvick's Happy Hour</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211070000 +0000" stop="20260211073000 +0000">
-    <title lang="eng">TMZ Sports</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211073000 +0000" stop="20260211080000 +0000">
-    <title lang="eng">Big Time Hoops</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211080000 +0000" stop="20260211100000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211100000 +0000" stop="20260211120000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211100000 +0000" stop="20260211120000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211120000 +0000" stop="20260211130000 +0000">
-    <title lang="eng">First Things First</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211130000 +0000" stop="20260211150000 +0000">
-    <title lang="eng">Wake Up Barstool</title>
-  </programme>
-  <programme channel="Fox Sports 1" start="20260211150000 +0000" stop="20260211160000 +0000">
-    <title lang="eng">NASCAR Cup Series</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260210160000 +0000" stop="20260210175000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260210175000 +0000" stop="20260210195000 +0000">
-    <title lang="eng">2026 Concacaf U-17 Men's Qualifiers</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260210195000 +0000" stop="20260210215000 +0000">
-    <title lang="eng">2026 Concacaf U-17 Men's Qualifiers</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260210215000 +0000" stop="20260211000000 +0000">
-    <title lang="eng">2026 Concacaf U-17 Men's Qualifiers</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211000000 +0000" stop="20260211005600 +0000">
-    <title lang="eng">Fox Sports FIFA World Cup 2026 Draw Reaction</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211005600 +0000" stop="20260211030000 +0000">
-    <title lang="eng">Concacaf Champions Cup</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211030000 +0000" stop="20260211040000 +0000">
-    <title lang="eng">Race for the Seat</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211040000 +0000" stop="20260211050000 +0000">
-    <title lang="eng">Race for the Seat</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211050000 +0000" stop="20260211060000 +0000">
-    <title lang="eng">LIV Golf Highlights</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211060000 +0000" stop="20260211080000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211080000 +0000" stop="20260211100000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211100000 +0000" stop="20260211120000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211100000 +0000" stop="20260211120000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211120000 +0000" stop="20260211130000 +0000">
-    <title lang="eng">Race for the Seat</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211130000 +0000" stop="20260211140000 +0000">
-    <title lang="eng">Race for the Seat</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211140000 +0000" stop="20260211150000 +0000">
-    <title lang="eng">Kevin Harvick's Happy Hour</title>
-  </programme>
-  <programme channel="Fox Sports 2" start="20260211150000 +0000" stop="20260211170000 +0000">
-    <title lang="eng">College Basketball</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260210160000 +0000" stop="20260210170000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260210170000 +0000" stop="20260210180000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260210180000 +0000" stop="20260210183000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260210183000 +0000" stop="20260210190000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260210190000 +0000" stop="20260210213000 +0000">
+  <programme channel="Sportsnet (East)" start="20260210170000 +0000" stop="20260210230000 +0000">
     <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260210213000 +0000" stop="20260210220000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
+  <programme channel="Sportsnet (East)" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260210220000 +0000" stop="20260210223000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
+  <programme channel="Sportsnet (East)" start="20260211000000 +0000" stop="20260211040000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260210223000 +0000" stop="20260210230000 +0000">
+  <programme channel="Sportsnet (East)" start="20260211040000 +0000" stop="20260211050000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20260211050000 +0000" stop="20260211053000 +0000">
     <title lang="eng">Gotta See It</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260210230000 +0000" stop="20260211000000 +0000">
-    <title lang="eng">World Poker Tour</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260211000000 +0000" stop="20260211003000 +0000">
+  <programme channel="Sportsnet (East)" start="20260211053000 +0000" stop="20260211060000 +0000">
     <title lang="eng">Plays of the Month - Countdown</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260211003000 +0000" stop="20260211010000 +0000">
+  <programme channel="Sportsnet (East)" start="20260211060000 +0000" stop="20260211063000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20260211063000 +0000" stop="20260211070000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20260211070000 +0000" stop="20260211080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20260211080000 +0000" stop="20260211090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20260211090000 +0000" stop="20260211100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20260211100000 +0000" stop="20260211103000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20260211103000 +0000" stop="20260211110000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet (East)" start="20260211110000 +0000" stop="20260211170000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260210170000 +0000" stop="20260210230000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="eng">The FAN Pregame</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260211000000 +0000" stop="20260211040000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260211040000 +0000" stop="20260211050000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260211050000 +0000" stop="20260211053000 +0000">
     <title lang="eng">Gotta See It</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260211010000 +0000" stop="20260211033000 +0000">
-    <title lang="eng">NBA Basketball</title>
+  <programme channel="Sportsnet Ontario" start="20260211053000 +0000" stop="20260211060000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260211033000 +0000" stop="20260211040000 +0000">
-    <title lang="eng">Plays of the Month - Highlights</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260211040000 +0000" stop="20260211050000 +0000">
-    <title lang="eng">Game of Gold</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260211050000 +0000" stop="20260211070000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260211070000 +0000" stop="20260211090000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260211090000 +0000" stop="20260211110000 +0000">
-    <title lang="eng">NBA Basketball</title>
-  </programme>
-  <programme channel="Sportsnet One" start="20260211110000 +0000" stop="20260211120000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211060000 +0000" stop="20260211063000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260211120000 +0000" stop="20260211130000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211063000 +0000" stop="20260211070000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260211130000 +0000" stop="20260211140000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211070000 +0000" stop="20260211080000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260211140000 +0000" stop="20260211150000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211080000 +0000" stop="20260211090000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet One" start="20260211150000 +0000" stop="20260211160000 +0000">
+  <programme channel="Sportsnet Ontario" start="20260211090000 +0000" stop="20260211100000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260211100000 +0000" stop="20260211103000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260211103000 +0000" stop="20260211110000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet Ontario" start="20260211110000 +0000" stop="20260211170000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
 </tv>
