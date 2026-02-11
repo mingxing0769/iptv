@@ -1,120 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="TSN2">
-    <display-name>TSN2</display-name>
+  <channel id="Sportsnet One">
+    <display-name>Sportsnet One</display-name>
   </channel>
-  <channel id="TSN3">
-    <display-name>TSN3</display-name>
+  <channel id="TSN4">
+    <display-name>TSN4</display-name>
   </channel>
-  <programme channel="TSN2" start="20260211200000 +0000" stop="20260211210000 +0000">
-    <title lang="eng">PGA Tour Highlight Show</title>
+  <programme channel="Sportsnet One" start="20260211160000 +0000" stop="20260211170000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="TSN2" start="20260211210000 +0000" stop="20260211220000 +0000">
-    <title lang="eng">NFL Live</title>
+  <programme channel="Sportsnet One" start="20260211170000 +0000" stop="20260211180000 +0000">
+    <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="TSN2" start="20260211220000 +0000" stop="20260211223000 +0000">
-    <title lang="eng">STIHL Timbersports</title>
+  <programme channel="Sportsnet One" start="20260211180000 +0000" stop="20260211183000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
   </programme>
-  <programme channel="TSN2" start="20260211223000 +0000" stop="20260211230000 +0000">
-    <title lang="eng">Pardon the Interruption</title>
+  <programme channel="Sportsnet One" start="20260211183000 +0000" stop="20260211203000 +0000">
+    <title lang="eng">TGL Golf</title>
   </programme>
-  <programme channel="TSN2" start="20260211230000 +0000" stop="20260212000000 +0000">
-    <title lang="eng">Golf Talk Canada</title>
+  <programme channel="Sportsnet One" start="20260211203000 +0000" stop="20260211210000 +0000">
+    <title lang="eng">Gotta See It</title>
   </programme>
-  <programme channel="TSN2" start="20260212000000 +0000" stop="20260212003000 +0000">
-    <title lang="eng">Breaking Down Barriers</title>
+  <programme channel="Sportsnet One" start="20260211210000 +0000" stop="20260211213000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
   </programme>
-  <programme channel="TSN2" start="20260212003000 +0000" stop="20260212010000 +0000">
-    <title lang="eng">NFL GameDay</title>
+  <programme channel="Sportsnet One" start="20260211213000 +0000" stop="20260211220000 +0000">
+    <title lang="eng">NHL's Best of the Season</title>
   </programme>
-  <programme channel="TSN2" start="20260212010000 +0000" stop="20260212030000 +0000">
-    <title lang="eng">All Elite Wrestling: Dynamite</title>
+  <programme channel="Sportsnet One" start="20260211220000 +0000" stop="20260211230000 +0000">
+    <title lang="eng">High Stakes Poker</title>
   </programme>
-  <programme channel="TSN2" start="20260212030000 +0000" stop="20260212033000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20260211230000 +0000" stop="20260212000000 +0000">
+    <title lang="eng">Game of Gold</title>
   </programme>
-  <programme channel="TSN2" start="20260212033000 +0000" stop="20260212043000 +0000">
-    <title lang="eng">Golf Talk Canada</title>
+  <programme channel="Sportsnet One" start="20260212000000 +0000" stop="20260212003000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
   </programme>
-  <programme channel="TSN2" start="20260212043000 +0000" stop="20260212050000 +0000">
-    <title lang="eng">PGA TOUR: The CUT</title>
-  </programme>
-  <programme channel="TSN2" start="20260212050000 +0000" stop="20260212053000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN2" start="20260212053000 +0000" stop="20260212060000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN2" start="20260212060000 +0000" stop="20260212080000 +0000">
-    <title lang="eng">All Elite Wrestling: Dynamite</title>
-  </programme>
-  <programme channel="TSN2" start="20260212080000 +0000" stop="20260212083000 +0000">
-    <title lang="eng">SC</title>
-  </programme>
-  <programme channel="TSN2" start="20260212083000 +0000" stop="20260212110000 +0000">
+  <programme channel="Sportsnet One" start="20260212003000 +0000" stop="20260212030000 +0000">
     <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN2" start="20260212110000 +0000" stop="20260212113000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20260212030000 +0000" stop="20260212053000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN2" start="20260212113000 +0000" stop="20260212120000 +0000">
-    <title lang="eng">SC</title>
+  <programme channel="Sportsnet One" start="20260212053000 +0000" stop="20260212060000 +0000">
+    <title lang="eng">Gotta See It</title>
   </programme>
-  <programme channel="TSN2" start="20260212120000 +0000" stop="20260212200000 +0000">
-    <title lang="eng">2026 Qatar TotalEnergies Open Tennis</title>
+  <programme channel="Sportsnet One" start="20260212060000 +0000" stop="20260212080000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN3" start="20260211160000 +0000" stop="20260211170000 +0000">
+  <programme channel="Sportsnet One" start="20260212080000 +0000" stop="20260212100000 +0000">
+    <title lang="eng">NBA Basketball</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260212100000 +0000" stop="20260212103000 +0000">
+    <title lang="eng">Gotta See It</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260212103000 +0000" stop="20260212110000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260212110000 +0000" stop="20260212120000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260212120000 +0000" stop="20260212130000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260212130000 +0000" stop="20260212140000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260212140000 +0000" stop="20260212150000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet One" start="20260212150000 +0000" stop="20260212153000 +0000">
+    <title lang="eng">NHL's Best of the Season</title>
+  </programme>
+  <programme channel="TSN4" start="20260211230000 +0000" stop="20260212000000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN3" start="20260211170000 +0000" stop="20260211190000 +0000">
-    <title lang="eng">First Take</title>
+  <programme channel="TSN4" start="20260212000000 +0000" stop="20260212003000 +0000">
+    <title lang="eng">Raptors Game Day</title>
   </programme>
-  <programme channel="TSN3" start="20260211190000 +0000" stop="20260211200000 +0000">
-    <title lang="eng">Golf Talk Canada</title>
+  <programme channel="TSN4" start="20260212003000 +0000" stop="20260212030000 +0000">
+    <title lang="eng">NBA Basketball</title>
   </programme>
-  <programme channel="TSN3" start="20260211200000 +0000" stop="20260211210000 +0000">
-    <title lang="eng">NBA Today</title>
-  </programme>
-  <programme channel="TSN3" start="20260211210000 +0000" stop="20260211230000 +0000">
-    <title lang="eng">Overdrive</title>
-  </programme>
-  <programme channel="TSN3" start="20260211230000 +0000" stop="20260212000000 +0000">
+  <programme channel="TSN4" start="20260212030000 +0000" stop="20260212040000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN3" start="20260212000000 +0000" stop="20260212030000 +0000">
-    <title lang="eng">2026 Women's Amateur Asia-Pacific Championship Golf</title>
-  </programme>
-  <programme channel="TSN3" start="20260212030000 +0000" stop="20260212040000 +0000">
+  <programme channel="TSN4" start="20260212040000 +0000" stop="20260212050000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN3" start="20260212040000 +0000" stop="20260212050000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260212050000 +0000" stop="20260212060000 +0000">
+  <programme channel="TSN4" start="20260212050000 +0000" stop="20260212060000 +0000">
     <title lang="eng">SC With Jay Onrait</title>
   </programme>
-  <programme channel="TSN3" start="20260212060000 +0000" stop="20260212070000 +0000">
+  <programme channel="TSN4" start="20260212060000 +0000" stop="20260212070000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN3" start="20260212070000 +0000" stop="20260212080000 +0000">
+  <programme channel="TSN4" start="20260212070000 +0000" stop="20260212080000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN3" start="20260212080000 +0000" stop="20260212083000 +0000">
+  <programme channel="TSN4" start="20260212080000 +0000" stop="20260212090000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260212090000 +0000" stop="20260212100000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN4" start="20260212100000 +0000" stop="20260212101500 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
-  <programme channel="TSN3" start="20260212083000 +0000" stop="20260212093000 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260212093000 +0000" stop="20260212101500 +0000">
-    <title lang="eng">SportsCentre</title>
-  </programme>
-  <programme channel="TSN3" start="20260212101500 +0000" stop="20260212133000 +0000">
+  <programme channel="TSN4" start="20260212101500 +0000" stop="20260212230000 +0000">
     <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
-  <programme channel="TSN3" start="20260212101500 +0000" stop="20260212133000 +0000">
-    <title lang="eng">Milano Cortina Olympics 2026</title>
-  </programme>
-  <programme channel="TSN3" start="20260212133000 +0000" stop="20260212160000 +0000">
+  <programme channel="TSN4" start="20260212101500 +0000" stop="20260212230000 +0000">
     <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
 </tv>
