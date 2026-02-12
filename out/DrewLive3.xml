@@ -1,84 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Sportsnet 360">
-    <display-name>Sportsnet 360</display-name>
+  <channel id="Fox Sports 2">
+    <display-name>Fox Sports 2</display-name>
   </channel>
-  <programme channel="Sportsnet 360" start="20260211153000 +0000" stop="20260211160000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
+  <channel id="Sportsnet Pacific">
+    <display-name>Sportsnet Pacific</display-name>
+  </channel>
+  <channel id="TSN3">
+    <display-name>TSN3</display-name>
+  </channel>
+  <programme channel="Fox Sports 2" start="20260211170000 +0000" stop="20260211190000 +0000">
+    <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211160000 +0000" stop="20260211170000 +0000">
-    <title lang="eng">The Raptors Show</title>
+  <programme channel="Fox Sports 2" start="20260211190000 +0000" stop="20260211195000 +0000">
+    <title lang="eng">NASCAR Cup Series</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211170000 +0000" stop="20260211190000 +0000">
-    <title lang="eng">The Fan Hockey Show</title>
+  <programme channel="Fox Sports 2" start="20260211195000 +0000" stop="20260211215000 +0000">
+    <title lang="eng">2026 Concacaf U-17 Men's Qualifiers</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211190000 +0000" stop="20260211193000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
+  <programme channel="Fox Sports 2" start="20260211215000 +0000" stop="20260212000000 +0000">
+    <title lang="eng">2026 Concacaf U-17 Men's Qualifiers</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211193000 +0000" stop="20260211200000 +0000">
-    <title lang="eng">Gotta See It</title>
+  <programme channel="Fox Sports 2" start="20260212000000 +0000" stop="20260212005600 +0000">
+    <title lang="eng">NASCAR Cup Series</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211200000 +0000" stop="20260211210000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="Fox Sports 2" start="20260212005600 +0000" stop="20260212025600 +0000">
+    <title lang="eng">Concacaf Champions Cup</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211210000 +0000" stop="20260211220000 +0000">
-    <title lang="eng">World Poker Tour</title>
+  <programme channel="Fox Sports 2" start="20260212025600 +0000" stop="20260212050000 +0000">
+    <title lang="eng">Concacaf Champions Cup</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211220000 +0000" stop="20260211230000 +0000">
-    <title lang="eng">Real Kyper &amp; Bourne</title>
+  <programme channel="Fox Sports 2" start="20260212050000 +0000" stop="20260212070000 +0000">
+    <title lang="eng">College Basketball</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260211230000 +0000" stop="20260212000000 +0000">
+  <programme channel="Fox Sports 2" start="20260212070000 +0000" stop="20260212085800 +0000">
+    <title lang="eng">Concacaf Champions Cup</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260212085800 +0000" stop="20260212110000 +0000">
+    <title lang="eng">NRL Rugby</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260212110000 +0000" stop="20260212140000 +0000">
+    <title lang="eng">Bassmaster Elite Series</title>
+  </programme>
+  <programme channel="Fox Sports 2" start="20260212140000 +0000" stop="20260212170000 +0000">
+    <title lang="eng">Bassmaster Elite Series</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260211170000 +0000" stop="20260211230000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260211230000 +0000" stop="20260212000000 +0000">
     <title lang="eng">The FAN Pregame</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260212000000 +0000" stop="20260212010000 +0000">
-    <title lang="eng">TNA in 60</title>
+  <programme channel="Sportsnet Pacific" start="20260212000000 +0000" stop="20260212040000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260212010000 +0000" stop="20260212020000 +0000">
-    <title lang="eng">World's Strongest Man</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212020000 +0000" stop="20260212030000 +0000">
-    <title lang="eng">Game of Gold</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212030000 +0000" stop="20260212060000 +0000">
-    <title lang="eng">UFC Reloaded</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212060000 +0000" stop="20260212063000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212063000 +0000" stop="20260212070000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212070000 +0000" stop="20260212073000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212073000 +0000" stop="20260212080000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212080000 +0000" stop="20260212083000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212083000 +0000" stop="20260212090000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212090000 +0000" stop="20260212093000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212093000 +0000" stop="20260212100000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212100000 +0000" stop="20260212103000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212103000 +0000" stop="20260212110000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212110000 +0000" stop="20260212120000 +0000">
+  <programme channel="Sportsnet Pacific" start="20260212040000 +0000" stop="20260212050000 +0000">
     <title lang="eng">Sportsnet Central</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260212120000 +0000" stop="20260212150000 +0000">
-    <title lang="eng">By the Books</title>
+  <programme channel="Sportsnet Pacific" start="20260212050000 +0000" stop="20260212053000 +0000">
+    <title lang="eng">Plays of the Month - Countdown</title>
   </programme>
-  <programme channel="Sportsnet 360" start="20260212150000 +0000" stop="20260212160000 +0000">
+  <programme channel="Sportsnet Pacific" start="20260212053000 +0000" stop="20260212060000 +0000">
+    <title lang="eng">NHL's Best of the Season</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260212060000 +0000" stop="20260212063000 +0000">
     <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260212063000 +0000" stop="20260212070000 +0000">
+    <title lang="eng">Warriors in 30</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260212070000 +0000" stop="20260212080000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260212080000 +0000" stop="20260212090000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260212090000 +0000" stop="20260212100000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260212100000 +0000" stop="20260212110000 +0000">
+    <title lang="eng">Sportsnet Central</title>
+  </programme>
+  <programme channel="Sportsnet Pacific" start="20260212110000 +0000" stop="20260212170000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="TSN3" start="20260211160000 +0000" stop="20260211170000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260211170000 +0000" stop="20260211190000 +0000">
+    <title lang="eng">First Take</title>
+  </programme>
+  <programme channel="TSN3" start="20260211190000 +0000" stop="20260211200000 +0000">
+    <title lang="eng">Golf Talk Canada</title>
+  </programme>
+  <programme channel="TSN3" start="20260211200000 +0000" stop="20260211210000 +0000">
+    <title lang="eng">NBA Today</title>
+  </programme>
+  <programme channel="TSN3" start="20260211210000 +0000" stop="20260211230000 +0000">
+    <title lang="eng">Overdrive</title>
+  </programme>
+  <programme channel="TSN3" start="20260211230000 +0000" stop="20260212000000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260212000000 +0000" stop="20260212030000 +0000">
+    <title lang="eng">2026 Women's Amateur Asia-Pacific Championship Golf</title>
+  </programme>
+  <programme channel="TSN3" start="20260212030000 +0000" stop="20260212040000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260212040000 +0000" stop="20260212050000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260212050000 +0000" stop="20260212060000 +0000">
+    <title lang="eng">SC With Jay Onrait</title>
+  </programme>
+  <programme channel="TSN3" start="20260212060000 +0000" stop="20260212070000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260212070000 +0000" stop="20260212080000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260212080000 +0000" stop="20260212083000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260212083000 +0000" stop="20260212093000 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260212093000 +0000" stop="20260212101500 +0000">
+    <title lang="eng">SportsCentre</title>
+  </programme>
+  <programme channel="TSN3" start="20260212101500 +0000" stop="20260212133000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="TSN3" start="20260212101500 +0000" stop="20260212133000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
+  </programme>
+  <programme channel="TSN3" start="20260212133000 +0000" stop="20260212160000 +0000">
+    <title lang="eng">Milano Cortina Olympics 2026</title>
   </programme>
 </tv>
