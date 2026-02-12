@@ -1,89 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Sportsnet 360">
-    <display-name>Sportsnet 360</display-name>
-  </channel>
   <channel id="TSN1">
     <display-name>TSN1</display-name>
   </channel>
-  <programme channel="Sportsnet 360" start="20260211153000 +0000" stop="20260211160000 +0000">
-    <title lang="eng">Plays of the Month - Countdown</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211160000 +0000" stop="20260211170000 +0000">
-    <title lang="eng">The Raptors Show</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211170000 +0000" stop="20260211190000 +0000">
-    <title lang="eng">The Fan Hockey Show</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211190000 +0000" stop="20260211193000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211193000 +0000" stop="20260211200000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211200000 +0000" stop="20260211210000 +0000">
-    <title lang="eng">World Poker Tour</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211210000 +0000" stop="20260211220000 +0000">
-    <title lang="eng">World Poker Tour</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211220000 +0000" stop="20260211230000 +0000">
-    <title lang="eng">Real Kyper &amp; Bourne</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260211230000 +0000" stop="20260212000000 +0000">
-    <title lang="eng">The FAN Pregame</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212000000 +0000" stop="20260212010000 +0000">
-    <title lang="eng">TNA in 60</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212010000 +0000" stop="20260212020000 +0000">
-    <title lang="eng">World's Strongest Man</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212020000 +0000" stop="20260212030000 +0000">
-    <title lang="eng">Game of Gold</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212030000 +0000" stop="20260212060000 +0000">
-    <title lang="eng">UFC Reloaded</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212060000 +0000" stop="20260212063000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212063000 +0000" stop="20260212070000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212070000 +0000" stop="20260212073000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212073000 +0000" stop="20260212080000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212080000 +0000" stop="20260212083000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212083000 +0000" stop="20260212090000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212090000 +0000" stop="20260212093000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212093000 +0000" stop="20260212100000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212100000 +0000" stop="20260212103000 +0000">
-    <title lang="eng">NHL's Best of the Season</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212103000 +0000" stop="20260212110000 +0000">
-    <title lang="eng">Gotta See It</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212110000 +0000" stop="20260212120000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212120000 +0000" stop="20260212150000 +0000">
-    <title lang="eng">By the Books</title>
-  </programme>
-  <programme channel="Sportsnet 360" start="20260212150000 +0000" stop="20260212160000 +0000">
-    <title lang="eng">Sportsnet Central</title>
-  </programme>
   <programme channel="TSN1" start="20260211230000 +0000" stop="20260212000000 +0000">
     <title lang="eng">SportsCentre</title>
   </programme>
