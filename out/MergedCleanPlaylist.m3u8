@@ -1,6 +1,34 @@
 #EXTM3U url-tvg="https://tvpass.org/epg.xml"
 
+#EXTGRP:Business
+#EXTINF:-1 tvg-id="CCTV2.cn@SD" tvg-name="CCTV-2 (2160p)" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="Business",CCTV-2 (2160p)
+http://123.175.209.52:9003/hls/2/index.m3u8
+
+#EXTGRP:Culture
+#EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-name="CCTV-8 (2160p)" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",CCTV-8 (2160p)
+http://123.175.209.52:9003/hls/9/index.m3u8
+
+#EXTGRP:Documentary
+#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-name="CCTV-9 (2160p)" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png" group-title="Documentary",CCTV-9 (2160p)
+http://123.175.209.52:9003/hls/10/index.m3u8
+
+#EXTGRP:Education
+#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-name="CCTV-10 (2160p)" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10 (2160p)
+http://123.175.209.52:9003/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-name="CCTV-7 (2160p)" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV-7 (2160p)
+http://123.175.209.52:9003/hls/8/index.m3u8
+
+#EXTGRP:Education;Outdoor
+#EXTINF:-1 tvg-id="CCTV17.cn@SD" tvg-name="CCTV-17 (2160p)" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Education;Outdoor",CCTV-17 (2160p)
+http://123.175.209.52:9003/hls/18/index.m3u8
+
+#EXTGRP:Entertainment
+#EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-name="CCTV-3 (2160p)" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="Entertainment",CCTV-3 (2160p)
+http://123.175.209.52:9003/hls/3/index.m3u8
+
 #EXTGRP:General
+#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-name="CCTV-1 (2160p)" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1 (2160p)
+http://123.175.209.52:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-name="CCTV-4 America (1080p)" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-name="CCTV-4 Europe" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="General",CCTV-4 Europe
@@ -8,15 +36,85 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTV.pf@SD" tvg-name="TNTV (1080p)" tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="General",TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 
+#EXTGRP:Kids
+#EXTINF:-1 tvg-id="CCTV14.cn@SD" tvg-name="CCTV-14 (2160p)" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="Kids",CCTV-14 (2160p)
+http://123.175.209.52:9003/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-name="TNT Kids (288p)" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Kids",TNT Kids (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+
+#EXTGRP:Lifestyle
+#EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-name="CCTV-12 (2160p)" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12 (2160p)
+http://123.175.209.52:9003/hls/13/index.m3u8
+
 #EXTGRP:Live
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="None" group-title="Live",ESPN
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" tvg-logo="None" group-title="Live",ESPN News
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" tvg-logo="None" group-title="Live",ESPN2
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
 https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" tvg-logo="None" group-title="Live",Fox Sports 2
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast" tvg-logo="None" group-title="Live",SNY Sportsnet New York Comcast
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
+https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360" tvg-logo="None" group-title="Live",Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One" tvg-logo="None" group-title="Live",Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" tvg-logo="None" group-title="Live",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" tvg-logo="None" group-title="Live",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh" tvg-logo="None" group-title="Live",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" tvg-logo="None" group-title="Live",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" tvg-logo="None" group-title="Live",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
+https://tvpass.org/live/tsn1/sd
 #EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
 https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://tvpass.org/live/tsn5/sd
+
+#EXTGRP:Movies
+#EXTINF:-1 tvg-id="CCTV6.cn@SD" tvg-name="CCTV-6 (2160p)" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (2160p)
+http://123.175.209.52:9003/hls/7/index.m3u8
+
+#EXTGRP:Music
+#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-name="CCTV-11 (576p)" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV-11 (576p)
+http://123.175.209.52:9003/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-name="CCTV-15 (576p)" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV-15 (576p)
+http://123.175.209.52:9003/hls/16/index.m3u8
 
 #EXTGRP:News
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-name="ABC News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-name="ABC News Live 1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive10.us@SD" tvg-name="ABC News Live 10 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 10 (720p)
@@ -37,10 +135,14 @@ https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_400
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive9.us@SD" tvg-name="ABC News Live 9 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 9 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-name="BBC News (1080p) [Geo-blocked]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News (1080p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-name="BBC News Asia Pacific (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Asia Pacific (1080p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-name="BBC News Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Europe
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-name="BBC News North America" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News North America
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-name="CCTV+ 1 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-name="CCTV+ 2 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
@@ -70,23 +172,55 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD" tvg-name="Sky News Extra 3 (1080p)" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
+#EXTGRP:News;Sports
+#EXTINF:-1 tvg-id="ESPNews.us@SD" tvg-name="ESPNews (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="News;Sports",ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+
 #EXTGRP:Sports
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="BeIN SPORTS XTRA (1080p) [Geo-blocked]" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",BeIN SPORTS XTRA (1080p) [Geo-blocked]
+https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV16.cn@SD" tvg-name="CCTV-16 (2160p)" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV-16 (2160p)
+http://123.175.209.52:9003/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn@SD" tvg-name="CCTV-5 (2160p)" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5 (2160p)
+http://123.175.209.52:9003/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-name="CCTV-5+ (2160p)" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV-5+ (2160p)
+http://123.175.209.52:9003/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-name="ESPN Deportes (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Sports",ESPN Deportes (360p)
+https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-name="ESPN U (720p)" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-name="SportsNet New York (540p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports",SportsNet New York (540p)
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="TSN1 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p) [Not 24/7]
 https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="TSN2.ca@SD" tvg-name="TSN2 (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN2 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn2/hd
 #EXTINF:-1 tvg-id="TSN3.ca@SD" tvg-name="TSN3 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",TSN3 (1080p) [Not 24/7]
 https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4 (720p) [Not 24/7]
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn5/hd
 
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-name="BBC News Pashto (720p)" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
-https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="None" tvg-name="CCTV-4 (2160p)" tvg-logo="None" group-title="Undefined",CCTV-4 (2160p)
+http://123.175.209.52:9003/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="FOX Sports" tvg-logo="None" group-title="Undefined",FOX Sports
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=50cbf169-27f9-4fe6-9459-d10036223805&serverSideAds=false
+#EXTINF:-1 tvg-id="None" tvg-name="Fox Sports (720p)" tvg-logo="None" group-title="Undefined",Fox Sports (720p)
+https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="None" tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+#EXTINF:-1 tvg-id="RedCCTV.bo@SD" tvg-name="Red CCTV (480p)" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="Undefined",Red CCTV (480p)
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTGRP:Weather
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-name="Sky News Weather (720p)" tvg-logo="https://i.postimg.cc/5tj8kWSX/skynewsweather.png" group-title="Weather",Sky News Weather (720p)
