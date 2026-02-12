@@ -19,7 +19,7 @@ OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
 CategoryFilter = True
 
 # 并发检查URL有效性 ---
-URL_CHECK = Flase
+URL_CHECK = False
 
 # 并发检查URL时的最大线程数，可以根据你的网络和CPU情况调整
 MAX_WORKERS_URL_CHECK = 100
@@ -215,6 +215,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
