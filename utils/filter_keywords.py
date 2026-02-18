@@ -3,7 +3,7 @@
 # 用于筛选频道的分类关键词
 Category_Key = [
     # --- 体育 (Sports) ---
-    "Sky sport","Sky sports","Ziggo Sport","ESPN","Fox Sports","BeIN Sports","TSN","TNT","rac"
+    "F1","F1TV","Sky sport","Sky sports","Ziggo Sport","ESPN","Fox Sports","BeIN Sports","TSN","TNT","rac"
 
     # --- 新闻 (News) ---
     "cnn", "bbc news", "abc news", "fox news", "sky news","CCTV"    
