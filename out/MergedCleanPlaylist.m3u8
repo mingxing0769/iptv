@@ -74,6 +74,10 @@ https://a1xs.vip/140004
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.ibb.co/ycdhBFGj/Ziggo-Sport.png" group-title="EU Sports",NL: Ziggo Sport FHD
 https://a1xs.vip/140001
 
+#EXTGRP:F1
+#EXTINF:-1 tvg-id="None" tvg-name="F1TV" tvg-logo="None" group-title="F1",F1TV
+https://a1xs.vip/2000005
+
 #EXTGRP:General
 #EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-name="CCTV-1 (2160p)" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1 (2160p)
 http://123.175.209.52:9003/hls/1/index.m3u8
@@ -237,10 +241,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD" tvg-name="Sky News Extra 3 (1080p)" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-
-#EXTGRP:None
-#EXTINF:-1 tvg-id="None" tvg-name="F1TV" tvg-logo="None" group-title="None",F1TV
-https://a1xs.vip/2000005
 
 #EXTGRP:NZ Sports
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="NZ Sports",SKY Sport 1 NZ
