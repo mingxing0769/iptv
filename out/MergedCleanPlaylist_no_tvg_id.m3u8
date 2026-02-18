@@ -27,20 +27,8 @@ https://a1xs.vip/6000014
 https://a1xs.vip/6000012
 #EXTINF:-1 tvg-name="Sportsnet Ontario FHD" tvg-logo="https://i.ibb.co/xqdMW6XQ/Sports-Net-On.png" group-title="CA Sports",Sportsnet Ontario FHD
 https://a1xs.vip/6000011
-#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="https://i.ibb.co/gZZP5wVK/Sportsnet-W.png" group-title="CA Sports",Sportsnet West
-https://a1xs.vip/6000015
 #EXTINF:-1 tvg-name="Sportsnet World FHD" tvg-logo="https://i.ibb.co/yc68M4mG/Sports-Net-World.png" group-title="CA Sports",Sportsnet World FHD
 https://a1xs.vip/6000013
-#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://i.ibb.co/MyTbNgYX/TSN1.png" group-title="CA Sports",TSN1
-https://a1xs.vip/6000001
-#EXTINF:-1 tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="CA Sports",TSN2
-https://a1xs.vip/6000002
-#EXTINF:-1 tvg-name="TSN3" tvg-logo="https://i.ibb.co/0RMWTVX5/TSN3.png" group-title="CA Sports",TSN3
-https://a1xs.vip/6000003
-#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://i.ibb.co/jZgYf8yP/TSN4.png" group-title="CA Sports",TSN4
-https://a1xs.vip/6000004
-#EXTINF:-1 tvg-name="TSN5" tvg-logo="https://i.ibb.co/gZMsLrtP/TSN5.png" group-title="CA Sports",TSN5
-https://a1xs.vip/6000005
 
 #EXTGRP:Culture
 #EXTINF:-1 tvg-name="CCTV-8 (2160p)" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",CCTV-8 (2160p)
@@ -113,6 +101,76 @@ https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTGRP:Lifestyle
 #EXTINF:-1 tvg-name="CCTV-12 (2160p)" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12 (2160p)
 http://123.175.209.52:9003/hls/13/index.m3u8
+
+#EXTGRP:Live
+#EXTINF:-1 tvg-name="BBC News North America HD" tvg-logo="None" group-title="Live",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="None" group-title="Live",ESPN
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="None" group-title="Live",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-name="ESPN News" tvg-logo="None" group-title="Live",ESPN News
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-name="ESPN U" tvg-logo="None" group-title="Live",ESPN U
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="None" group-title="Live",ESPN2
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
+https://a1xs.vip/300011
+#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="None" group-title="Live",Fox Sports 2
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-name="SNY Sportsnet New York Comcast" tvg-logo="None" group-title="Live",SNY Sportsnet New York Comcast
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 tvg-name="Spectrum SportsNet LA" tvg-logo="None" group-title="Live",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1 tvg-name="Spectrum Sportsnet LA" tvg-logo="None" group-title="Live",Spectrum Sportsnet LA
+https://a1xs.vip/400052
+#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://a1xs.vip/400053
+#EXTINF:-1 tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
+https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="None" group-title="Live",Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="None" group-title="Live",Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="None" group-title="Live",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-logo="None" group-title="Live",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1 tvg-name="Sportsnet Pittsburgh" tvg-logo="None" group-title="Live",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="None" group-title="Live",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="None" group-title="Live",Sportsnet West
+https://a1xs.vip/6000015
+#EXTINF:-1 tvg-name="TNT Eastern Feed" tvg-logo="None" group-title="Live",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1 tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://a1xs.vip/6000005
 
 #EXTGRP:Movies
 #EXTINF:-1 tvg-name="CCTV-6 (2160p)" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (2160p)
@@ -285,8 +343,6 @@ http://123.175.209.52:9003/hls/4/index.m3u8
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=50cbf169-27f9-4fe6-9459-d10036223805
 #EXTINF:-1 tvg-name="Fox Sports (720p)" tvg-logo="None" group-title="Undefined",Fox Sports (720p)
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2 (360p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
-https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
@@ -297,8 +353,6 @@ https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTGRP:US Channels
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://i.ibb.co/XZWNb5d1/ABC-News-Live.png" group-title="US Channels",ABC News Live
 https://a1xs.vip/300016
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://i.ibb.co/kg5ZMPCm/Fox-News-Channel.png" group-title="US Channels",Fox News
-https://a1xs.vip/300011
 #EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/4ZnJzNyz/tnt.png" group-title="US Channels",TNT FHD
 https://a1xs.vip/300001
 
@@ -315,10 +369,6 @@ https://a1xs.vip/40000013
 https://a1xs.vip/40000015
 #EXTINF:-1 tvg-name="Spectrum Sportsnet FHD" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet FHD
 https://a1xs.vip/4000006
-#EXTINF:-1 tvg-name="Spectrum Sportsnet LA" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet LA
-https://a1xs.vip/400052
-#EXTINF:-1 tvg-name="Spectrum Sportsnet Lakers" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet Lakers
-https://a1xs.vip/400053
 #EXTINF:-1 tvg-name="SportsNet NY FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sportsnet_NY.png" group-title="US Sports",SportsNet NY FHD
 https://a1xs.vip/40000045
 
