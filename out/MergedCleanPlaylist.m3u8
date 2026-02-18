@@ -77,6 +77,8 @@ https://a1xs.vip/140001
 #EXTGRP:F1
 #EXTINF:-1 tvg-id="None" tvg-name="F1TV" tvg-logo="None" group-title="F1",F1TV
 https://a1xs.vip/2000005
+#EXTINF:-1 tvg-id="None" tvg-name="F1TV" tvg-logo="None" group-title="F1",F1TV
+https://a1xs.vip/2000016
 
 #EXTGRP:General
 #EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-name="CCTV-1 (2160p)" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1 (2160p)
@@ -289,8 +291,6 @@ https://tvpass.org/live/tsn4/hd
 https://tvpass.org/live/tsn5/hd
 
 #EXTGRP:UHD | 4K
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD
-https://a1xs.vip/2000016
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K",UK: Sky Sports Main Event UHD
 https://a1xs.vip/2000015
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UHD | 4K",UK: TNT Sports Ultimate UHD
