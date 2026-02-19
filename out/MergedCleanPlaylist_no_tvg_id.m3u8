@@ -35,7 +35,7 @@ https://a1xs.vip/6000013
 http://123.175.209.52:9003/hls/9/index.m3u8
 
 #EXTGRP:Documentary
-#EXTINF:-1 tvg-name="CCTV-9 (2160p)" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png" group-title="Documentary",CCTV-9 (2160p)
+#EXTINF:-1 tvg-name="CCTV-9 (2160p)" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",CCTV-9 (2160p)
 http://123.175.209.52:9003/hls/10/index.m3u8
 
 #EXTGRP:Education
@@ -227,7 +227,7 @@ https://cdn3.163189.xyz/163189/cctv13
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-name="Fox News Radio (720p)" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 tvg-name="SABC News (720p) [Geo-blocked]" tvg-logo="https://i.postimg.cc/13JtFJf9/sabcnews.png" group-title="News",SABC News (720p) [Geo-blocked]
+#EXTINF:-1 tvg-name="SABC News (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="News",SABC News (720p) [Geo-blocked]
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Arabia (1080p)" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p)
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
@@ -373,7 +373,7 @@ https://a1xs.vip/4000006
 https://a1xs.vip/40000045
 
 #EXTGRP:Weather
-#EXTINF:-1 tvg-name="Sky News Weather (720p)" tvg-logo="https://i.postimg.cc/5tj8kWSX/skynewsweather.png" group-title="Weather",Sky News Weather (720p)
+#EXTINF:-1 tvg-name="Sky News Weather (720p)" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="Weather",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTGRP:央视频道
