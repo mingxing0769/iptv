@@ -268,7 +268,7 @@ http://123.175.209.52:9003/hls/17/index.m3u8
 http://123.175.209.52:9003/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-name="CCTV-5+ (2160p)" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV-5+ (2160p)
 http://123.175.209.52:9003/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="ESPN 8: The Ocho" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN 8: The Ocho
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-name="ESPN 8: The Ocho" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN 8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-name="ESPN Deportes (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Sports",ESPN Deportes (360p)
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
