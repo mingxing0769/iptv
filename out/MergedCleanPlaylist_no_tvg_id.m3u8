@@ -17,7 +17,7 @@ https://a1xs.vip/700006
 https://a1xs.vip/700007
 
 #EXTGRP:Business
-#EXTINF:-1 tvg-name="CCTV-2 (2160p)" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="Business",CCTV-2 (2160p)
+#EXTINF:-1 tvg-name="CCTV-2 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="Business",CCTV-2 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/2/index.m3u8
 
 #EXTGRP:CA Sports
@@ -31,25 +31,25 @@ https://a1xs.vip/6000011
 https://a1xs.vip/6000013
 
 #EXTGRP:Culture
-#EXTINF:-1 tvg-name="CCTV-8 (2160p)" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",CCTV-8 (2160p)
+#EXTINF:-1 tvg-name="CCTV-8 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Culture",CCTV-8 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/9/index.m3u8
 
 #EXTGRP:Documentary
-#EXTINF:-1 tvg-name="CCTV-9 (2160p)" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",CCTV-9 (2160p)
+#EXTINF:-1 tvg-name="CCTV-9 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",CCTV-9 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/10/index.m3u8
 
 #EXTGRP:Education
-#EXTINF:-1 tvg-name="CCTV-10 (2160p)" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10 (2160p)
+#EXTINF:-1 tvg-name="CCTV-10 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-7 (2160p)" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV-7 (2160p)
+#EXTINF:-1 tvg-name="CCTV-7 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV-7 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/8/index.m3u8
 
 #EXTGRP:Education;Outdoor
-#EXTINF:-1 tvg-name="CCTV-17 (2160p)" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Education;Outdoor",CCTV-17 (2160p)
+#EXTINF:-1 tvg-name="CCTV-17 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Education;Outdoor",CCTV-17 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/18/index.m3u8
 
 #EXTGRP:Entertainment
-#EXTINF:-1 tvg-name="CCTV-3 (2160p)" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="Entertainment",CCTV-3 (2160p)
+#EXTINF:-1 tvg-name="CCTV-3 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="Entertainment",CCTV-3 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="TF1 HD (720p) [Geo-Blocked]" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
@@ -81,8 +81,10 @@ https://a1xs.vip/2000005
 https://a1xs.vip/2000016
 
 #EXTGRP:General
-#EXTINF:-1 tvg-name="CCTV-1 (2160p)" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1 (2160p)
+#EXTINF:-1 tvg-name="CCTV-1 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 America (1080p)" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 Europe" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="General",CCTV-4 Europe
@@ -97,7 +99,7 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 
 #EXTGRP:Lifestyle
-#EXTINF:-1 tvg-name="CCTV-12 (2160p)" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12 (2160p)
+#EXTINF:-1 tvg-name="CCTV-12 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/13/index.m3u8
 
 #EXTGRP:Live
@@ -171,13 +173,13 @@ https://tvpass.org/live/tsn5/sd
 https://a1xs.vip/6000005
 
 #EXTGRP:Movies
-#EXTINF:-1 tvg-name="CCTV-6 (2160p)" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (2160p)
+#EXTINF:-1 tvg-name="CCTV-6 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="TF1 Series Films (1080p) [Geo-Blocked]" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Series Films (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 
 #EXTGRP:Music
-#EXTINF:-1 tvg-name="CCTV-11 (576p)" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV-11 (576p)
+#EXTINF:-1 tvg-name="CCTV-11 (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV-11 (576p) [Geo-blocked]
 http://123.175.209.52:9003/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-15 (576p)" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV-15 (576p)
 http://123.175.209.52:9003/hls/16/index.m3u8
@@ -264,11 +266,11 @@ https://a1xs.vip/700037
 https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV-16 (2160p)" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV-16 (2160p)
+#EXTINF:-1 tvg-name="CCTV-16 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV-16 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5 (2160p)" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5 (2160p)
+#EXTINF:-1 tvg-name="CCTV-5 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+ (2160p)" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV-5+ (2160p)
+#EXTINF:-1 tvg-name="CCTV-5+ (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV-5+ (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 8: The Ocho" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN 8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
@@ -276,6 +278,8 @@ https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 #EXTINF:-1 tvg-name="F1 Channel (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (1080p) [Geo-blocked]
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-name="Fox Sports en Espanol (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Espanol (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho
@@ -338,12 +342,8 @@ https://a1xs.vip/2000024
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-name="BBC News Pashto (720p)" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-name="CCTV-4 (2160p)" tvg-logo="None" group-title="Undefined",CCTV-4 (2160p)
-http://123.175.209.52:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports (720p)" tvg-logo="None" group-title="Undefined",Fox Sports (720p)
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
-https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 #EXTINF:-1 tvg-name="Red CCTV (480p)" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="Undefined",Red CCTV (480p)
