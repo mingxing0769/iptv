@@ -260,8 +260,9 @@ https://a1xs.vip/700036
 https://a1xs.vip/700037
 
 #EXTGRP:Sports
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="BeIN Sports XTRA (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",BeIN Sports XTRA (1080p)
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS Xtra (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS Xtra (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN Sports XTRA en Espanol (1080p)" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN Sports XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn@SD" tvg-name="CCTV-16 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV-16 (2160p) [Geo-blocked]
@@ -340,6 +341,9 @@ https://a1xs.vip/2000024
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-name="BBC News Pashto (720p)" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="None" tvg-name="beIN SPORTS Xtra en Español (1080p)" tvg-logo="None" group-title="Undefined",beIN SPORTS Xtra en Español (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.vf=SylQdpcCl2O
 #EXTINF:-1 tvg-id="None" tvg-name="FOX Sports (1080p)" tvg-logo="None" group-title="Undefined",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Fox Sports (720p)" tvg-logo="None" group-title="Undefined",Fox Sports (720p)
