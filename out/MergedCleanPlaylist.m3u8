@@ -39,8 +39,9 @@ http://123.175.209.52:9003/hls/9/index.m3u8
 http://123.175.209.52:9003/hls/10/index.m3u8
 
 #EXTGRP:Education
-#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-name="CCTV-10 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-name="CCTV-10 (576i)" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10 (576i)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-name="CCTV-7 (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV-7 (2160p) [Geo-blocked]
 http://123.175.209.52:9003/hls/8/index.m3u8
 
