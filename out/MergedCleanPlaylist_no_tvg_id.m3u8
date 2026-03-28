@@ -196,10 +196,10 @@ http://123.175.209.52:9003/hls/6/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 #EXTINF:-1 tvg-name="ESPN8 The Ocho (1080p)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN8 The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-name="F1 Channel" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel
-https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 tvg-name="F1 Channel (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (1080p) [Geo-blocked]
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="F1 Channel (720p)" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (720p)
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-name="Fox Sports en Espanol (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Espanol (720p)
@@ -223,14 +223,14 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_af
 #EXTINF:-1 tvg-name="beIN SPORTS Xtra en Español (1080p)" tvg-logo="None" group-title="Undefined",beIN SPORTS Xtra en Español (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.vf=SylQdpcCl2O
-#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="None" group-title="Undefined",FOX Sports
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="FOX Sports (1080p)" tvg-logo="None" group-title="Undefined",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 tvg-name="FOX Sports (1080p) [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports (1080p) [Geo-blocked]
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX Sports (720p)" tvg-logo="None" group-title="Undefined",FOX Sports (720p)
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="Fox Sports (720p)" tvg-logo="None" group-title="Undefined",Fox Sports (720p)
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX Sports [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports [Geo-blocked]
-https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 #EXTINF:-1 tvg-name="Red CCTV (480p)" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="Undefined",Red CCTV (480p)
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
