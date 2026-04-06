@@ -150,8 +150,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_400
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC News (1080p) [Geo-blocked]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News (1080p) [Geo-blocked]
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC News Asia Pacific (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Asia Pacific (1080p)
-https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-name="CCTV+ 1 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV+ 2 (600p) [Not 24/7]" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
