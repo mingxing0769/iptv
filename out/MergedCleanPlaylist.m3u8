@@ -1,5 +1,31 @@
 #EXTM3U url-tvg="https://tvpass.org/epg.xml"
 
+#EXTGRP:AU Sports
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="AU Sports",Fox Sports 501 FHD
+https://a1xs.vip/700001
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="AU Sports",Fox Sports 502 FHD
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="AU Sports",Fox Sports 503 FHD
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="AU Sports",Fox Sports 504 FHD
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://i.imgur.com/angJkah.png" group-title="AU Sports",Fox Sports 505 FHD
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="AU Sports",Fox Sports 506 FHD
+https://a1xs.vip/700006
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="AU Sports",Fox Sports 507 FHD
+https://a1xs.vip/700007
+
+#EXTGRP:CA Sports
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet 360 FHD" tvg-logo="https://i.imgur.com/8YNVKqC.png" group-title="CA Sports",Sportsnet 360 FHD
+https://a1xs.vip/6000014
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://i.imgur.com/SxBnZN0.png" group-title="CA Sports",Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="Sportsnet Ontario FHD" tvg-logo="None" group-title="CA Sports",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://i.imgur.com/EJy8K7F.png" group-title="CA Sports",Sportsnet World FHD
+https://a1xs.vip/6000013
+
 #EXTGRP:Documentary
 #EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-name="CCTV-9 (576i)" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",CCTV-9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
@@ -13,11 +39,33 @@ https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="TF1.fr@HD" tvg-name="TF1 HD (720p) [Geo-Blocked]" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 
+#EXTGRP:EPL
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="EPL",Sky Sport PL NZ
+https://a1xs.vip/700008
+
+#EXTGRP:EU Sports
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="DE: Sky Sport Bundesliga FHD" tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="EU Sports",DE: Sky Sport Bundesliga FHD
+https://a1xs.vip/120002
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="DE: Sky Sport Top Event FHD" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="EU Sports",DE: Sky Sport Top Event FHD
+https://a1xs.vip/120003
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: Ziggo Sport 2 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="EU Sports",NL: Ziggo Sport 2 FHD
+https://a1xs.vip/140002
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: Ziggo Sport 3 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="EU Sports",NL: Ziggo Sport 3 FHD
+https://a1xs.vip/140003
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: Ziggo Sport 4 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="EU Sports",NL: Ziggo Sport 4 FHD
+https://a1xs.vip/140004
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="EU Sports",NL: Ziggo Sport FHD
+https://a1xs.vip/140001
+
 #EXTGRP:F1
 #EXTINF:-1 tvg-id="None" tvg-name="F1TV" tvg-logo="None" group-title="F1",F1TV
 https://a1xs.vip/2000005
 #EXTINF:-1 tvg-id="None" tvg-name="F1TV" tvg-logo="None" group-title="F1",F1TV
 https://a1xs.vip/2000016
+
+#EXTGRP:FIFA Club World Cup
+#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="US: TNT" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="FIFA Club World Cup",US: TNT
+https://a1xs.vip/300001
 
 #EXTGRP:General
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-name="CCTV-4 America (1080p)" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
@@ -48,6 +96,8 @@ https://tvpass.org/live/ESPNU/sd
 https://tvpass.org/live/ESPN2/sd
 #EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
 https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="None" group-title="Live",Fox News
+https://a1xs.vip/300011
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-logo="None" group-title="Live",Fox Sports 1
 https://tvpass.org/live/FoxSports1/sd
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" tvg-logo="None" group-title="Live",Fox Sports 2
@@ -58,6 +108,8 @@ https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
 https://tvpass.org/live/spectrum-sportsnet-la/sd
 #EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="None" group-title="Live",Spectrum Sportsnet Lakers
+https://a1xs.vip/400053
 #EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" tvg-logo="None" group-title="Live",Sportsnet (East)
 https://tvpass.org/live/sportsnet-east/sd
 #EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360" tvg-logo="None" group-title="Live",Sportsnet 360
@@ -72,18 +124,30 @@ https://tvpass.org/live/sportsnet-pacific/sd
 https://tvpass.org/live/sportsnet-pittsburgh/sd
 #EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" tvg-logo="None" group-title="Live",Sportsnet West
 https://tvpass.org/live/sportsnet-west/sd
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="None" group-title="Live",Sportsnet West
+https://a1xs.vip/6000015
 #EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" tvg-logo="None" group-title="Live",TNT Eastern Feed
 https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
 https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="None" group-title="Live",TSN1
+https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
 https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="None" group-title="Live",TSN2
+https://a1xs.vip/6000002
 #EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
 https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="None" group-title="Live",TSN3
+https://a1xs.vip/6000003
 #EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
 https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="None" group-title="Live",TSN4
+https://a1xs.vip/6000004
 #EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
 https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="None" group-title="Live",TSN5
+https://a1xs.vip/6000005
 
 #EXTGRP:Movies
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-name="TF1 Series Films (1080p) [Geo-Blocked]" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Series Films (1080p) [Geo-Blocked]
@@ -145,6 +209,22 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD" tvg-name="Sky News Extra 3 (1080p)" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
+#EXTGRP:NZ Sports
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.imgur.com/NRK8Uc6.png" group-title="NZ Sports",SKY Sport 1 NZ
+https://a1xs.vip/700031
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.imgur.com/IEDwF39.png" group-title="NZ Sports",SKY Sport 2 NZ
+https://a1xs.vip/700032
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://i.imgur.com/gTeEX4f.png" group-title="NZ Sports",SKY Sport 3 NZ
+https://a1xs.vip/700033
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.imgur.com/ogjOWQV.png" group-title="NZ Sports",SKY Sport 4 NZ
+https://a1xs.vip/700034
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.imgur.com/zIRnRJM.png" group-title="NZ Sports",SKY Sport 5 NZ
+https://a1xs.vip/700035
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.imgur.com/o0Icbjt.png" group-title="NZ Sports",SKY Sport 6 NZ
+https://a1xs.vip/700036
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.imgur.com/AznJTOJ.png" group-title="NZ Sports",SKY Sport 7 NZ
+https://a1xs.vip/700037
+
 #EXTGRP:Sports
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS Xtra (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS Xtra (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -182,6 +262,48 @@ https://tvpass.org/live/tsn4/hd
 #EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5 (1080p) [Not 24/7]
 https://tvpass.org/live/tsn5/hd
 
+#EXTGRP:UHD | 4K
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K",UK: Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UHD | 4K",UK: TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
+#EXTGRP:UK Channels
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News FHD" tvg-logo="https://i.imgur.com/wZcplCT.png" group-title="UK Channels",BBC News FHD
+https://a1xs.vip/1000015
+
+#EXTGRP:UK Sports
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="UK Sports",Sky Sports Action FHD
+https://a1xs.vip/2000011
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="UK Sports",Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK Sports",Sky Sports Football FHD
+https://a1xs.vip/2000003
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="UK Sports",Sky Sports Golf FHD
+https://a1xs.vip/2000009
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK Sports",Sky Sports Main Event FHD
+https://a1xs.vip/2000001
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="UK Sports",Sky Sports Mix FHD
+https://a1xs.vip/2000008
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD
+https://a1xs.vip/2000004
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="UK Sports",Sky Sports Premier League FHD
+https://a1xs.vip/2000002
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="UK Sports",Sky Sports Racing FHD
+https://a1xs.vip/2000010
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="UK Sports",Sky Sports Tennis FHD
+https://a1xs.vip/2000013
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+ FHD" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="UK Sports",Sky Sports+ FHD
+https://a1xs.vip/2000012
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 FHD" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="UK Sports",TNT Sports 1 FHD
+https://a1xs.vip/2000021
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="UK Sports",TNT Sports 2 FHD
+https://a1xs.vip/2000022
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="UK Sports",TNT Sports 3 FHD
+https://a1xs.vip/2000023
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="UK Sports",TNT Sports 4 FHD
+https://a1xs.vip/2000024
+
 #EXTGRP:Undefined
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-name="BBC News Pashto (720p)" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
@@ -201,6 +323,28 @@ https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 #EXTINF:-1 tvg-id="RedCCTV.bo@SD" tvg-name="Red CCTV (480p)" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="Undefined",Red CCTV (480p)
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+
+#EXTGRP:US Channels
+#EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/L2BWgSl.png" group-title="US Channels",ABC News Live
+https://a1xs.vip/300016
+
+#EXTGRP:US Sports
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="US Sports",ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN News HD" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="US Sports",ESPN News HD
+https://a1xs.vip/40000014
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="US Sports",ESPN2 HD
+https://a1xs.vip/40000012
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPNU HD" tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="US Sports",ESPNU HD
+https://a1xs.vip/40000013
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network HD" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="US Sports",SEC Network HD
+https://a1xs.vip/40000015
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum Sportsnet FHD" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
+#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Dodgers.us" tvg-name="Spectrum Sportsnet LA Dodgers" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet LA Dodgers
+https://a1xs.vip/400052
+#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="SportsNet NY FHD" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="US Sports",SportsNet NY FHD
+https://a1xs.vip/40000045
 
 #EXTGRP:Weather
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-name="Sky News Weather (720p)" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="Weather",Sky News Weather (720p)
