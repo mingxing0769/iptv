@@ -3,7 +3,7 @@
 # 用于筛选频道的分类关键词
 Category_Key = [
     # --- 体育 (Sports) ---
-    "F1","F1TV","Sky sport","Sky sports","Ziggo Sport","ESPN","Fox Sports","FS1","BeIN Sports","TSN","TNT","rac","BBC One","BBC Two","SBS","ITV","IIV4","ViuTV","爱尔达体育","Now Sports","Now TV"
+    "F1","F1TV","Sky sport","Sky sports","Ziggo Sport","ESPN","ESPNU","Fox Sports","FS1","FS2","BeIN Sports","TSN","TNT","rac","BBC One","BBC Two","SBS","ITV","IIV4","ViuTV","爱尔达体育","Now Sports","Now TV"
 
     # --- 新闻 (News) ---
     "cnn", "bbc news", "abc news", "fox news", "sky news","CCTV"    
