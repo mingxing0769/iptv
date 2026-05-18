@@ -517,20 +517,20 @@ https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道",CCTV17
 https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
-#EXTINF:-1 tvg-id="195" tvg-name="CCTV2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道",CCTV2
-https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+#EXTINF:-1 tvg-id="283" tvg-name="CCTV2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://123.129.70.178:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="CCTV3" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道",CCTV3
 https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
-#EXTINF:-1 tvg-id="209" tvg-name="CCTV4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道",CCTV4
-https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="CCTV4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道",CCTV4
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视频道",CCTV4K
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="213" tvg-name="CCTV5" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道",CCTV5
 https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-#EXTINF:-1 tvg-id="177" tvg-name="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道",CCTV6
-https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="263" tvg-name="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道",CCTV6
+http://123.129.70.178:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道",CCTV7
 https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="CCTV8" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="央视频道",CCTV8
