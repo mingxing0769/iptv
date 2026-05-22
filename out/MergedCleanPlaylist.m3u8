@@ -239,8 +239,8 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTGRP:Music
 #EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-name="CCTV-11 (720p)" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV-11 (720p)
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-name="CCTV-15 (720p)" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV-15 (720p)
-http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-name="CCTV-15 (1080p)" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV-15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="iTVAfrobeatsMusic.ca@HD" tvg-name="iTV Afrobeats Music" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music",iTV Afrobeats Music
 https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="iTVArabicMusic.ca@HD" tvg-name="iTV Arabic Music" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music",iTV Arabic Music
