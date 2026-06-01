@@ -57,8 +57,6 @@ https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-name="MiTV (720p)" tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Entertainment",MiTV (720p)
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Conspiracy" tvg-logo="https://i.imgur.com/sr0kYSH.png" group-title="Entertainment",Pluto TV Conspiracy
-https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 #EXTINF:-1 tvg-name="SBS6 Classics (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png" group-title="Entertainment",SBS6 Classics (1080p) [Geo-blocked]
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 #EXTINF:-1 tvg-name="TF1 (720p)" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 (720p)
@@ -69,6 +67,10 @@ https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTGRP:Entertainment;Interactive
 #EXTINF:-1 tvg-name="RMC Life (720p) [Geo-Blocked]" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" group-title="Entertainment;Interactive",RMC Life (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+
+#EXTGRP:Entertainment;Sports
+#EXTINF:-1 tvg-name="ITV Deportes (720p)" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Entertainment;Sports",ITV Deportes (720p)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTGRP:General
 #EXTINF:-1 tvg-name="BBC One Channel Islands (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One Channel Islands (1080p) [Geo-blocked]
@@ -385,10 +387,6 @@ https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 #EXTINF:-1 tvg-name="WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/B7lqYZe.png" group-title="Religious",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 
-#EXTGRP:Series
-#EXTINF:-1 tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="Series",The Amazing Race
-https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
-
 #EXTGRP:Sports
 #EXTINF:-1 tvg-name="beIN SPORTS Xtra (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS Xtra (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -413,8 +411,6 @@ http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-name="F1 Channel (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (1080p) [Geo-blocked]
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="F1 Channel (720p)" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (720p)
-https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 tvg-name="FanDuel Racing" tvg-logo="https://i.imgur.com/84lMjSj.png" group-title="Sports",FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1 (1280p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (1280p)
@@ -468,22 +464,12 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-name="FOX Sports (1080p) [Geo-blocked]" tvg-logo="None" group-title="Undefined",FOX Sports (1080p) [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX Sports (720p)" tvg-logo="None" group-title="Undefined",FOX Sports (720p)
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="Fox Sports (720p)" tvg-logo="None" group-title="Undefined",Fox Sports (720p)
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Choice (1080p) [Geo-blocked]" tvg-logo="None" group-title="Undefined",ITV Choice (1080p) [Geo-blocked]
 https://amg00654-itvstudios-itvchoice-samsungau-2bacj.amagi.tv/playlist/amg00654-itvstudios-itvchoice-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="ITV Deportes (720p)" tvg-logo="None" group-title="Undefined",ITV Deportes (720p)
-https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
-#EXTINF:-1 tvg-name="ITV Deportes (720p)" tvg-logo="None" group-title="Undefined",ITV Deportes (720p)
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-name="ITV Un Village Français (1080p)" tvg-logo="None" group-title="Undefined",ITV Un Village Français (1080p)
 https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-name="Ladykracher" tvg-logo="None" group-title="Undefined",Ladykracher
-https://jmp2.uk/plu-667d3534ca74680008696051.m3u8
-#EXTINF:-1 tvg-name="Le miracle de l'amour" tvg-logo="None" group-title="Undefined",Le miracle de l'amour
-https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
 #EXTINF:-1 tvg-name="Miracle TV (1080p)" tvg-logo="None" group-title="Undefined",Miracle TV (1080p)
 https://live.miracleonline.org/hls/miracle1.m3u8
 #EXTINF:-1 tvg-name="Mojitv" tvg-logo="None" group-title="Undefined",Mojitv
@@ -497,20 +483,12 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8?ads.vf=CBI_YqvusWO
 #EXTINF:-1 tvg-name="Motorracing France" tvg-logo="None" group-title="Undefined",Motorracing France
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
-#EXTINF:-1 tvg-name="MTV Rupaul's Drag Race" tvg-logo="None" group-title="Undefined",MTV Rupaul's Drag Race
-https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
-#EXTINF:-1 tvg-name="MTV Rupaul's Drag Race Untucked" tvg-logo="None" group-title="Undefined",MTV Rupaul's Drag Race Untucked
-https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
 #EXTINF:-1 tvg-name="Race Central TV (720p) [Not 24/7]" tvg-logo="None" group-title="Undefined",Race Central TV (720p) [Not 24/7]
 https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
-#EXTINF:-1 tvg-name="RACER Brasil (720p)" tvg-logo="None" group-title="Undefined",RACER Brasil (720p)
-https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-name="Rachael Ray Presents (1080p)" tvg-logo="None" group-title="Undefined",Rachael Ray Presents (1080p)
 https://dhy1wwavvr8nc.cloudfront.net/Rachel_Ray_Presents.m3u8
 #EXTINF:-1 tvg-name="Red CCTV (480p)" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="Undefined",Red CCTV (480p)
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sulle tracce del crimine" tvg-logo="None" group-title="Undefined",Sulle tracce del crimine
-https://jmp2.uk/plu-66d9a98961dbf00008efb5fc.m3u8
 #EXTINF:-1 tvg-name="TRACE UK (1080p)" tvg-logo="None" group-title="Undefined",TRACE UK (1080p)
 https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace UK (1080p)" tvg-logo="None" group-title="Undefined",Trace UK (1080p)
