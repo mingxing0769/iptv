@@ -1,0 +1,48 @@
+name: Find and Add Sources Workflow
+
+on:
+  schedule:
+    # 每 6 小时运行一次，搜索并添加新的 M3U 源
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  find-sources:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: ${{ github.workspace }}
+
+    steps:
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 📚 Install dependencies
+        run: |
+          pip install -r requirements.txt || echo "No requirements.txt found"
+
+      - name: 🔍 Run find_and_add_sources.py
+        run: |
+          echo "Running find_and_add_sources.py to search and add new M3U sources..."
+          python scripts/find_and_add_sources.py || { echo "❌ find_and_add_sources.py failed"; exit 1; }
+          echo "✅ find_and_add_sources.py completed."
+
+      - name: 💾 Commit & Push if sources_urls.py changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add config/sources_urls.py
+          if git diff --cached --quiet; then 
+            echo "✅ No changes to sources_urls.py, skipping commit"
+            exit 0
+          fi
+          git commit -m "feat: 自动添加新的 M3U 源 via find_and_add_sources.py"
+          git pull origin main --rebase || exit 1
+          git push origin main || exit 1
