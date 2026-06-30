@@ -1,10 +1,26 @@
+"""
+⚠️ DEPRECATED: FSTV Scraper Script
+
+This script was used to scrape FSTV mirror sites (fstv.zip, fstv.online, fstv.space)
+for sports channels (ESPN, Sky Sports, NBA TV, etc.). 
+
+However, all FSTV mirror sites have been DEPRECATED/DEACTIVATED and are no longer accessible.
+This script is now NON-FUNCTIONAL and has been marked for deprecation.
+
+If you need sports channels, consider:
+1. Using the stable IPTV sources in config/sources_urls.py
+2. Looking for active FSTV mirrors or alternative sports streaming sources
+3. Using official IPTV providers that offer sports packages
+
+This script will be removed in a future release.
+"""
 import re
 import sys
 import asyncio
 import random
 from playwright.async_api import async_playwright
 
-EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml.gz"
+EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml"
 CHANNEL_MAPPING = {
     "usanetwork": {"name": "USA Network", "tv_id": "USA.Network.HD.us2", "group": "USA", "keywords": ["usanetwork"]},
     "cbsla": {"name": "CBS Los Angeles", "tv_id": "KCBS-DT.us_locals1", "logo": "http://drewlive24.duckdns.org:9000/Logos/CBS.png", "group": "USA", "keywords": ["cbslosangeles"]},
@@ -241,7 +257,7 @@ async def fetch_fstv_channels():
         await browser.close()
         raise Exception("❌ All mirrors failed")
 
-def build_playlist(channels_data):    
+def build_playlist(channels_data):
     lines = [f'#EXTM3U url-tvg="{EPG_URL}"\n\n']
     for ch in channels_data:
         tvg_id = f' tvg-id="{ch["tv_id"]}"' if ch["tv_id"] else ""

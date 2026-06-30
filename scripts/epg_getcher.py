@@ -55,10 +55,12 @@ if os.path.basename(sys.path[0]) == "scripts":
 # 导入我们需要的 m3u 解析工具
 from utils.m3u_parse import parse_m3u
 
-# EPG 源地址
-# EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
-# EPG_URL = "https://tvpass.org/epg.xml"
-EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+# EPG 源地址列表（按优先级排序，主源失效时自动尝试备用源）
+EPG_URLS = [
+    "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
+    "http://epg.51zmt.top:8000/e.xml",
+    "https://raw.githubusercontent.com/fanmingming/live/main/e.xml",
+]
 
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
@@ -75,33 +77,40 @@ def download_epg():
     3. URL 重定向后仍是 XML 文本
     4. 错误页面/非 XML 文本（明确失败，避免后续按 XML 解析崩溃）
     """
-    print(f"📥  Downloading EPG from {EPG_URL}...")
-    try:
-        response = requests.get(EPG_URL, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
-        response.raise_for_status()
-        os.makedirs(OUT_DIR, exist_ok=True)
+    raw_content = None
+    for epg_url in EPG_URLS:
+        print(f"📥  Trying to download EPG from {epg_url}...")
+        try:
+            response = requests.get(epg_url, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
+            response.raise_for_status()
+            os.makedirs(OUT_DIR, exist_ok=True)
 
-        raw_content = response.content
-        print(f"ℹ️  Raw EPG bytes: {len(raw_content)} bytes, Content-Type: {response.headers.get('content-type', 'n/a')}")
+            raw_content = response.content
+            print(f"ℹ️  Raw EPG bytes: {len(raw_content)} bytes, Content-Type: {response.headers.get('content-type', 'n/a')}")
 
-        if is_gzip_bytes(raw_content):
-            print("ℹ️  Detected gzip EPG, streaming decompression during parsing...")
-        elif looks_like_xml(raw_content):
-            print("ℹ️  Detected plain XML EPG, streaming parsing...")
-        else:
-            preview = raw_content[:500].decode("utf-8", errors="replace")
-            print(f"❌ EPG response is not gzipped XML or XML text. Response preview:\n{preview}")
-            return None
+            if is_gzip_bytes(raw_content):
+                print("ℹ️  Detected gzip EPG, streaming decompression during parsing...")
+            elif looks_like_xml(raw_content):
+                print("ℹ️  Detected plain XML EPG, streaming parsing...")
+            else:
+                preview = raw_content[:500].decode("utf-8", errors="replace")
+                print(f"❌ EPG response from {epg_url} is not gzipped XML or XML text. Response preview:\n{preview}")
+                raw_content = None
+                continue
 
-        print("✅ EPG downloaded successfully; parsing without writing a huge decompressed temp file.")
-        return raw_content
-    except requests.exceptions.RequestException as e:
-        print(f"❌ EPG download failed: {e}")
-        return False
-    except (OSError, UnicodeDecodeError, gzip.BadGzipFile, ET.ParseError) as e:
-        print(f"❌ EPG processing failed: {e}")
-        traceback.print_exc()
-        return False
+            print(f"✅ EPG downloaded successfully from {epg_url}; parsing without writing a huge decompressed temp file.")
+            return raw_content
+        except requests.exceptions.RequestException as e:
+            print(f"❌ EPG download failed from {epg_url}: {e}")
+            continue
+        except (OSError, UnicodeDecodeError, gzip.BadGzipFile, ET.ParseError) as e:
+            print(f"❌ EPG processing failed from {epg_url}: {e}")
+            traceback.print_exc()
+            raw_content = None
+            continue
+
+    print("❌ All EPG sources failed. Cannot proceed.")
+    return False
 
 def get_channel_data_from_playlist():
     """

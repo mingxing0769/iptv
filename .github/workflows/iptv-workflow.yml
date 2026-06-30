@@ -43,10 +43,10 @@ jobs:
       #   id: run_fstv
       #   run: |
       #     echo "Running fstv.py..."
-      #     python fstv.py 
+      #     python fstv.py
       #     echo "✅ fstv.py completed."
       #   continue-on-error: true
-      
+
       # - name: 💾 Commit & Push after fstv.py
       #   if: steps.run_fstv.outcome == 'success'
       #   env:
@@ -80,7 +80,7 @@ jobs:
 
       - name: 🧹 Run del_tvg_id.py
         run: |
-          echo "Running mergeclean.py..."
+          echo "Running del_tvg_id.py..."
           python del_tvg_id.py || { echo "❌ del_tvg_id.py failed"; exit 1; }
           echo "✅ del_tvg_id.py completed."
 
@@ -108,7 +108,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
 
-          # DrewLive3.xml.gz 比较并提交
+          # DrewLive3.xml 比较并提交
           if [ -f out/DrewLive3.xml ]; then
             git show origin/main:out/DrewLive3.xml > /tmp/old_drew.xml || touch /tmp/old_drew.xml
             if ! cmp -s out/DrewLive3.xml /tmp/old_drew.xml; then
@@ -120,20 +120,6 @@ jobs:
             fi
           else
             echo "🚫 DrewLive3.xml not found. Skipping."
-          fi
-
-          # epg_temp.xml.gz 比较并提交
-          if [ -f out/epg_temp.xml ]; then
-            git show origin/main:out/epg_temp.xml > /tmp/old_epg.xml || touch /tmp/old_epg.xml
-            if ! cmp -s out/epg_temp.xml /tmp/old_epg.xml; then
-              echo "🔄 epg_temp.xml has changed, committing..."
-              git add out/epg_temp.xml
-              git commit -m "🔄 Update epg_temp.xml"
-            else
-              echo "✅ epg_temp.xml is unchanged, skipping commit."
-            fi
-          else
-            echo "🚫 epg_temp.xml not found. Skipping."
           fi
 
           # 如果有提交则推送
