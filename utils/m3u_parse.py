@@ -55,12 +55,14 @@ def parse_m3u(m3u_content):
 
 def get_attr(pattern, text):
     """
-    :param pattern:
-    :param text:
-    :return:
+    从 M3U 属性字符串中提取指定属性的值。
+    
+    :param pattern: 正则表达式模式，例如 r'tvg-id="([^"]+)"'
+    :param text: 要搜索的文本（通常是 #EXTINF 行）
+    :return: 匹配的值，如果未找到则返回 None
     """
     match = re.search(pattern, text)
-    return match.group(1) if match else 'None'
+    return match.group(1) if match else None
 
 def parse_simple(m3u_text):
     """

@@ -3,6 +3,7 @@
 import os
 import sys
 import traceback
+import logging
 import xml.etree.ElementTree as ET
 # 导入 minidom 库用于美化 XML 输出
 from xml.dom import minidom
@@ -10,6 +11,12 @@ from xml.dom import minidom
 import requests
 import gzip
 import io
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 # --- EPG 自动识别与流式解析 ---
 def is_gzip_bytes(content: bytes) -> bool:
@@ -79,37 +86,37 @@ def download_epg():
     """
     raw_content = None
     for epg_url in EPG_URLS:
-        print(f"📥  Trying to download EPG from {epg_url}...")
+        logger.info(f"📥  Trying to download EPG from {epg_url}...")
         try:
             response = requests.get(epg_url, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
             response.raise_for_status()
             os.makedirs(OUT_DIR, exist_ok=True)
 
             raw_content = response.content
-            print(f"ℹ️  Raw EPG bytes: {len(raw_content)} bytes, Content-Type: {response.headers.get('content-type', 'n/a')}")
+            logger.info(f"ℹ️  Raw EPG bytes: {len(raw_content)} bytes, Content-Type: {response.headers.get('content-type', 'n/a')}")
 
             if is_gzip_bytes(raw_content):
-                print("ℹ️  Detected gzip EPG, streaming decompression during parsing...")
+                logger.info("ℹ️  Detected gzip EPG, streaming decompression during parsing...")
             elif looks_like_xml(raw_content):
-                print("ℹ️  Detected plain XML EPG, streaming parsing...")
+                logger.info("ℹ️  Detected plain XML EPG, streaming parsing...")
             else:
                 preview = raw_content[:500].decode("utf-8", errors="replace")
-                print(f"❌ EPG response from {epg_url} is not gzipped XML or XML text. Response preview:\n{preview}")
+                logger.error(f"❌ EPG response from {epg_url} is not gzipped XML or XML text. Response preview:\n{preview}")
                 raw_content = None
                 continue
 
-            print(f"✅ EPG downloaded successfully from {epg_url}; parsing without writing a huge decompressed temp file.")
+            logger.info(f"✅ EPG downloaded successfully from {epg_url}; parsing without writing a huge decompressed temp file.")
             return raw_content
         except requests.exceptions.RequestException as e:
-            print(f"❌ EPG download failed from {epg_url}: {e}")
+            logger.error(f"❌ EPG download failed from {epg_url}: {e}")
             continue
         except (OSError, UnicodeDecodeError, gzip.BadGzipFile, ET.ParseError) as e:
-            print(f"❌ EPG processing failed from {epg_url}: {e}")
+            logger.error(f"❌ EPG processing failed from {epg_url}: {e}")
             traceback.print_exc()
             raw_content = None
             continue
 
-    print("❌ All EPG sources failed. Cannot proceed.")
+    logger.error("❌ All EPG sources failed. Cannot proceed.")
     return False
 
 def get_channel_data_from_playlist():
@@ -133,12 +140,12 @@ def get_channel_data_from_playlist():
                 playlist_id_to_title[tvg_id] = title
             playlist_title_to_id[title] = tvg_id
 
-        print(f"🔍 Found {len(playlist_id_to_title)} unique channel ID-to-title mappings in the playlist.")
-        print(f"🔍 Found {len(playlist_title_to_id)} unique channel title_to_id mappings in the playlist.")
+        logger.info(f"🔍 Found {len(playlist_id_to_title)} unique channel ID-to-title mappings in the playlist.")
+        logger.info(f"🔍 Found {len(playlist_title_to_id)} unique channel title_to_id mappings in the playlist.")
     except FileNotFoundError:
-        print(f"❌ Playlist file not found at: {PLAYLIST_PATH}")
+        logger.error(f"❌ Playlist file not found at: {PLAYLIST_PATH}")
     except Exception as e:
-        print(f"❌ Error reading playlist file: {e}")
+        logger.error(f"❌ Error reading playlist file: {e}")
 
     return playlist_id_to_title, playlist_title_to_id
 
@@ -151,14 +158,14 @@ def clean_and_compress_epg(raw_content: bytes):
     """
     playlist_id_to_title, playlist_title_to_id = get_channel_data_from_playlist()
     if not playlist_id_to_title:
-        print("⚠️ No valid channel data found. Aborting EPG cleaning.")
+        logger.warning("⚠️ No valid channel data found. Aborting EPG cleaning.")
         return False
 
     valid_playlist_ids = set(playlist_id_to_title.keys())
     valid_playlist_titles = set(playlist_title_to_id.keys())
 
     # --- Pass 1: 快速扫描 EPG，建立原始频道地图 ---
-    print("🔍 Pass 1: Scanning EPG to map original channel IDs to names...")
+    logger.info("🔍 Pass 1: Scanning EPG to map original channel IDs to names...")
     epg_id_to_name_map = {}
     try:
         for elem in iter_epg_elements(raw_content, 'channel'):
@@ -170,13 +177,13 @@ def clean_and_compress_epg(raw_content: bytes):
             elem.clear()
 
     except Exception as e:
-        print(f"❌ An error occurred during Pass 1 (EPG scan): {e}")
+        logger.error(f"❌ An error occurred during Pass 1 (EPG scan): {e}")
         traceback.print_exc()
         return False
-    print(f"ℹ️ Found {len(epg_id_to_name_map)} channels in the source EPG.")
+    logger.info(f"ℹ️ Found {len(epg_id_to_name_map)} channels in the source EPG.")
 
     # --- 建立主映射关系 (epg_id -> final_title) ---
-    print("🗺️  Building master mapping from EPG to playlist...")
+    logger.info("🗺️  Building master mapping from EPG to playlist...")
     master_map = {}
     epg_name_set = set()
 
@@ -189,13 +196,13 @@ def clean_and_compress_epg(raw_content: bytes):
             master_map[epg_id] = epg_name
             epg_name_set.add(epg_name)
     if not master_map:
-        print("⚠️ No matching channels found between playlist and EPG. Aborting.")
+        logger.warning("⚠️ No matching channels found between playlist and EPG. Aborting.")
         return False
 
-    print(f"✅ Master mapping created. {len(master_map)} EPG channels will be kept.")
+    logger.info(f"✅ Master mapping created. {len(master_map)} EPG channels will be kept.")
 
     # --- Pass 2: 构建简化的新 EPG ---
-    print("🧹 Pass 2: Cleaning, simplifying, and remapping EPG content...")
+    logger.info("🧹 Pass 2: Cleaning, simplifying, and remapping EPG content...")
     new_root = ET.Element("tv")
 
     # 1. 添加 <channel> 节点
@@ -241,7 +248,7 @@ def clean_and_compress_epg(raw_content: bytes):
             elem.clear()  # 关键！释放内存
 
 
-        print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (simplified and remapped).")
+        logger.info(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (simplified and remapped).")
 
         # --- 美化并写入文件 ---
         rough_string = ET.tostring(new_root, 'utf-8', xml_declaration=True)
@@ -251,35 +258,35 @@ def clean_and_compress_epg(raw_content: bytes):
         with open(FINAL_EPG_PATH, "wb") as f_out:
             f_out.write(pretty_xml_as_bytes)
 
-        print(f"✅ EPG cleaning and simplification complete. Saved to {FINAL_EPG_PATH}")
+        logger.info(f"✅ EPG cleaning and simplification complete. Saved to {FINAL_EPG_PATH}")
         return True
 
     except ET.ParseError as e:
-        print(f"❌ Failed to parse XML from EPG file: {e}")
+        logger.error(f"❌ Failed to parse XML from EPG file: {e}")
         return False
     except Exception as e:
-        print(f"❌ An unexpected error occurred during EPG cleaning: {e}")
+        logger.error(f"❌ An unexpected error occurred during EPG cleaning: {e}")
         traceback.print_exc()
         return False
 
 def main():
     """主执行函数"""
-    print("🚀 Starting EPG processing...")
+    logger.info("🚀 Starting EPG processing...")
     raw_content = download_epg()
     if raw_content is None or raw_content is False:
-        print("❌ EPG download failed or returned invalid content. Cannot proceed.")
+        logger.error("❌ EPG download failed or returned invalid content. Cannot proceed.")
         sys.exit(1)
 
     try:
         if not clean_and_compress_epg(raw_content):
-            print("❌ EPG processing failed. Please check the logs above.")
+            logger.error("❌ EPG processing failed. Please check the logs above.")
             sys.exit(1)
     except (OSError, UnicodeDecodeError, gzip.BadGzipFile, ET.ParseError) as e:
-        print(f"❌ EPG processing failed: {e}")
+        logger.error(f"❌ EPG processing failed: {e}")
         traceback.print_exc()
         sys.exit(1)
 
-    print(f"✅ EPG processing finished. Final EPG saved to {FINAL_EPG_PATH}.")
+    logger.info(f"✅ EPG processing finished. Final EPG saved to {FINAL_EPG_PATH}.")
 
 if __name__ == "__main__":
     # merge_playlists.main(URL_CHECK=False)
