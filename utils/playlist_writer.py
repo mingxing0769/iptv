@@ -2,9 +2,10 @@
 播放列表写入和频道处理模块
 """
 from tqdm import tqdm
+from utils.channel_filter import get_official_name
 
 
-def process_and_normalize_channels(accessible_channels, official_names, official_to_aliases, alias_to_official, official_lower_to_original):
+def process_and_normalize_channels(accessible_channels, official_names, official_to_aliases, alias_to_official, official_lower_to_original, is_nsfw_func, channels_txt_filter, category_filter, category_key):
     """
     对频道列表进行规范化、去重和统一化处理。
     - 过滤 NSFW 内容和非指定分类。
@@ -24,12 +25,12 @@ def process_and_normalize_channels(accessible_channels, official_names, official
     for tvg_name, tvg_id, tvg_logo, group_title, title, headers, url in tqdm(accessible_channels,
                                                                              desc="Processing & Unifying"):
         # 检查是否为 NSFW 内容
-        if is_nsfw(group_title, title):
+        if is_nsfw_func(group_title, title):
             filtered_count += 1
             continue
 
         # channels.txt 过滤：获取正式名
-        if CHANNELS_TXT_FILTER:
+        if channels_txt_filter:
             is_match, official_name_lower = get_official_name(title, official_names, official_to_aliases, alias_to_official)
             if not is_match:
                 filtered_count += 1
@@ -46,8 +47,8 @@ def process_and_normalize_channels(accessible_channels, official_names, official
                 processed_official_names.add(official_name_lower)
 
         # 分类过滤
-        if CategoryFilter:
-            lower_keywords = [k.lower() for k in Category_Key]
+        if category_filter:
+            lower_keywords = [k.lower() for k in category_key]
             searchable_text = f'{tvg_name}, {group_title}, {title}'.lower()
             if not any(keyword in searchable_text for keyword in lower_keywords):
                 filtered_count += 1
@@ -80,9 +81,9 @@ def process_and_normalize_channels(accessible_channels, official_names, official
     return final_channels, processed_official_names
 
 
-def write_merged_playlist(final_channels_to_write):
+def write_merged_playlist(final_channels_to_write, epg_url, output_file):
     """将最终的频道列表写入 M3U 文件。"""
-    lines = [f'#EXTM3U url-tvg="{EPG_URL}"', ""]
+    lines = [f'#EXTM3U url-tvg="{epg_url}"', ""]
     # 按 group-title 和 title 排序
     sorted_channels = sorted(
         final_channels_to_write,
@@ -115,7 +116,7 @@ def write_merged_playlist(final_channels_to_write):
         lines.append(url)
 
     final_output_string = '\n'.join(lines) + '\n'
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    with open(output_file, 'w', encoding='utf-8') as f:
         f.write(final_output_string)
-    print(f"\n✅ Merged playlist written to {OUTPUT_FILE}.")
+    print(f"\n✅ Merged playlist written to {output_file}.")
     print(f"📊 Total channels written: {len(final_channels_to_write)}.")

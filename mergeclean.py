@@ -116,8 +116,11 @@ def main():
         all_channels = check_urls_concurrently(all_channels)
 
     # --- 优化步骤：只处理可访问的频道 ---
-    processed_channels, processed_official_names = process_and_normalize_channels(all_channels, official_names, official_to_aliases, alias_to_official, official_lower_to_original)
-    write_merged_playlist(processed_channels)
+    processed_channels, processed_official_names = process_and_normalize_channels(
+        all_channels, official_names, official_to_aliases, alias_to_official, official_lower_to_original,
+        is_nsfw, CHANNELS_TXT_FILTER, CategoryFilter, Category_Key
+    )
+    write_merged_playlist(processed_channels, EPG_URL, OUTPUT_FILE)
 
     # 检查缺失的频道
     if CHANNELS_TXT_FILTER and official_names:
