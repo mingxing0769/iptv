@@ -8,15 +8,52 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 import requests
+import gzip
+import io
 
-# 导入我们需要的 m3u 解析工具
-from utils.m3u_parse import parse_m3u
+# --- EPG 自动识别与流式解析 ---
+def is_gzip_bytes(content: bytes) -> bool:
+    """判断字节是否为 gzip 格式。"""
+    return content[:2] == bytes([0x1F, 0x8B])
+
+
+def looks_like_xml(content: bytes) -> bool:
+    """判断字节是否像 XML 文本，兼容 BOM、空白和声明。"""
+    if not content:
+        return False
+    sample = content[:1024].lstrip()
+    sample = sample.lstrip(bytes([0xEF, 0xBB, 0xBF]))
+    return sample.startswith(b"<?xml") or sample.startswith(b"<tv") or sample.startswith(bytes([60, 33, 10]))
+
+
+def get_epg_fileobj(raw_content: bytes):
+    """按 EPG_URL 返回的原始格式返回可迭代解析的文件对象，避免写入巨大临时文件。"""
+    if is_gzip_bytes(raw_content):
+        return gzip.GzipFile(fileobj=io.BytesIO(raw_content))
+    return io.BytesIO(raw_content)
+
+
+def iter_epg_elements(raw_content: bytes, target_tag: str | None = None):
+    """按 EPG 原始格式流式迭代 XML 元素，避免一次性加载巨大解压内容。"""
+    with get_epg_fileobj(raw_content) as epg_file:
+        for _, elem in ET.iterparse(epg_file, events=("end",)):
+            if target_tag is None or elem.tag == target_tag:
+                yield elem
+
+
 
 # --- 路径配置 ---
 # 自动计算项目根目录，让路径在任何地方运行都正确
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OUT_DIR = os.path.join(PROJECT_ROOT, "out")
+
+# 允许直接运行 python scripts/epg_getcher.py，同时兼容 GitHub Actions 的 PYTHONPATH。
+if os.path.basename(sys.path[0]) == "scripts":
+    sys.path.insert(0, PROJECT_ROOT)
+
+# 导入我们需要的 m3u 解析工具
+from utils.m3u_parse import parse_m3u
 
 # EPG 源地址
 # EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
@@ -25,25 +62,45 @@ EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # 定义输入和输出文件路径
 PLAYLIST_PATH = os.path.join(OUT_DIR, "MergedCleanPlaylist.m3u8")
-TMP_EPG_PATH = os.path.join(OUT_DIR, "epg_temp.xml")
 FINAL_EPG_PATH = os.path.join(OUT_DIR, "DrewLive3.xml")
 
 
 def download_epg():
     """
-    下载 EPG 文件到临时位置。
+    下载 EPG 内容，并按返回格式流式解析。
+
+    支持 EPG_URL 返回以下格式：
+    1. gzip 二进制（.gz 或文件头 1f 8b）
+    2. 普通 XML 文本
+    3. URL 重定向后仍是 XML 文本
+    4. 错误页面/非 XML 文本（明确失败，避免后续按 XML 解析崩溃）
     """
     print(f"📥  Downloading EPG from {EPG_URL}...")
     try:
-        response = requests.get(EPG_URL, timeout=20)
+        response = requests.get(EPG_URL, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
         response.raise_for_status()
         os.makedirs(OUT_DIR, exist_ok=True)
-        with open(TMP_EPG_PATH, "wb") as f:
-            f.write(response.content)
-        print("✅ EPG downloaded successfully.")
-        return True
+
+        raw_content = response.content
+        print(f"ℹ️  Raw EPG bytes: {len(raw_content)} bytes, Content-Type: {response.headers.get('content-type', 'n/a')}")
+
+        if is_gzip_bytes(raw_content):
+            print("ℹ️  Detected gzip EPG, streaming decompression during parsing...")
+        elif looks_like_xml(raw_content):
+            print("ℹ️  Detected plain XML EPG, streaming parsing...")
+        else:
+            preview = raw_content[:500].decode("utf-8", errors="replace")
+            print(f"❌ EPG response is not gzipped XML or XML text. Response preview:\n{preview}")
+            return None
+
+        print("✅ EPG downloaded successfully; parsing without writing a huge decompressed temp file.")
+        return raw_content
     except requests.exceptions.RequestException as e:
         print(f"❌ EPG download failed: {e}")
+        return False
+    except (OSError, UnicodeDecodeError, gzip.BadGzipFile, ET.ParseError) as e:
+        print(f"❌ EPG processing failed: {e}")
+        traceback.print_exc()
         return False
 
 def get_channel_data_from_playlist():
@@ -76,12 +133,12 @@ def get_channel_data_from_playlist():
 
     return playlist_id_to_title, playlist_title_to_id
 
-def clean_and_compress_epg():
+def clean_and_compress_epg(raw_content: bytes):
     """
     【核心重构】使用两步处理法，健壮地筛选并简化 EPG。
-    1. 快速扫描 EPG 源文件，建立 `epg_id -> epg_name` 的完整地图。
+    1. 从 EPG_URL 原始内容流式扫描，建立 `epg_id -> epg_name` 的完整地图。
     2. 根据播放列表和 EPG 地图，建立一个 `epg_id -> final_title` 的主映射。
-    3. 再次扫描 EPG 源文件，使用主映射来生成高度简化的新 EPG。
+    3. 再次流式扫描 EPG 内容，使用主映射来生成高度简化的新 EPG。
     """
     playlist_id_to_title, playlist_title_to_id = get_channel_data_from_playlist()
     if not playlist_id_to_title:
@@ -95,15 +152,13 @@ def clean_and_compress_epg():
     print("🔍 Pass 1: Scanning EPG to map original channel IDs to names...")
     epg_id_to_name_map = {}
     try:
-        with open(TMP_EPG_PATH, 'rb') as f:
-            for _, elem in ET.iterparse(f, events=('end',)):
-                if elem.tag == 'channel':
-                    channel_id = elem.get('id')
-                    display_name_node = elem.find('display-name')
-                    if channel_id and display_name_node is not None and display_name_node.text:
-                        epg_id_to_name_map[channel_id] = display_name_node.text
-                    # 清理元素以释放内存，
-                    elem.clear()
+        for elem in iter_epg_elements(raw_content, 'channel'):
+            channel_id = elem.get('id')
+            display_name_node = elem.find('display-name')
+            if channel_id and display_name_node is not None and display_name_node.text:
+                epg_id_to_name_map[channel_id] = display_name_node.text
+            # 清理元素以释放内存
+            elem.clear()
 
     except Exception as e:
         print(f"❌ An error occurred during Pass 1 (EPG scan): {e}")
@@ -148,35 +203,33 @@ def clean_and_compress_epg():
     programme_count = 0
 
     try:
-        with open(TMP_EPG_PATH, 'rb') as f:
-            for _, elem in ET.iterparse(f, events=('end',)):
-                if elem.tag == 'programme':
-                    original_channel_id = elem.get('channel')
-                    # 如果节目对应的频道在主映射中
-                    if original_channel_id in master_map:
-                        target_title = master_map[original_channel_id]
+        for elem in iter_epg_elements(raw_content, 'programme'):
+            original_channel_id = elem.get('channel')
+            # 如果节目对应的频道在主映射中
+            if original_channel_id in master_map:
+                target_title = master_map[original_channel_id]
 
-                        # 创建简化的 programme 节点
-                        new_attrib = {
-                            'channel': target_title,
-                            'start': elem.get('start', ''),
-                            'stop': elem.get('stop', ''),
-                        }
-                        new_programme = ET.Element('programme', attrib=new_attrib)
+                # 创建简化的 programme 节点
+                new_attrib = {
+                    'channel': target_title,
+                    'start': elem.get('start', ''),
+                    'stop': elem.get('stop', ''),
+                }
+                new_programme = ET.Element('programme', attrib=new_attrib)
 
-                        # 只复制 title 子节点
-                        title_node = elem.find('title')
-                        if title_node is not None and title_node.text:
-                            ET.SubElement(new_programme, 'title', {'lang': 'eng'}).text = title_node.text
+                # 只复制 title 子节点
+                title_node = elem.find('title')
+                if title_node is not None and title_node.text:
+                    ET.SubElement(new_programme, 'title', {'lang': 'eng'}).text = title_node.text
 
-                        new_root.append(new_programme)
-                        programme_count += 1
-                    elem.clear()  # 关键！释放内存
-                # 复制根节点的属性
-                elif elem.tag == 'tv':
-                    if 'date' in elem.attrib:
-                        new_root.set('date', elem.get('date'))
-                    elem.clear()  # 关键！释放内存
+                new_root.append(new_programme)
+                programme_count += 1
+            elem.clear()  # 关键！释放内存
+        # 复制根节点的属性
+        for elem in iter_epg_elements(raw_content, 'tv'):
+            if 'date' in elem.attrib:
+                new_root.set('date', elem.get('date'))
+            elem.clear()  # 关键！释放内存
 
 
         print(f"ℹ️ Kept {channel_count} channels and {programme_count} programmes (simplified and remapped).")
@@ -192,9 +245,6 @@ def clean_and_compress_epg():
         print(f"✅ EPG cleaning and simplification complete. Saved to {FINAL_EPG_PATH}")
         return True
 
-    except FileNotFoundError:
-        print(f"❌ Temporary EPG file not found: {TMP_EPG_PATH}.")
-        return False
     except ET.ParseError as e:
         print(f"❌ Failed to parse XML from EPG file: {e}")
         return False
@@ -202,21 +252,25 @@ def clean_and_compress_epg():
         print(f"❌ An unexpected error occurred during EPG cleaning: {e}")
         traceback.print_exc()
         return False
+
 def main():
     """主执行函数"""
     print("🚀 Starting EPG processing...")
-    if not download_epg():
-        print(f"⚠️ EPG download failed. Will try to use the last downloaded version at {TMP_EPG_PATH}")
-
-    if not os.path.exists(TMP_EPG_PATH):
-        print(f"❌ No EPG file found at {TMP_EPG_PATH}. Cannot proceed.")
+    raw_content = download_epg()
+    if raw_content is None or raw_content is False:
+        print("❌ EPG download failed or returned invalid content. Cannot proceed.")
         sys.exit(1)
 
-    if not clean_and_compress_epg():
-        print("❌ EPG processing failed. Please check the logs above.")
+    try:
+        if not clean_and_compress_epg(raw_content):
+            print("❌ EPG processing failed. Please check the logs above.")
+            sys.exit(1)
+    except (OSError, UnicodeDecodeError, gzip.BadGzipFile, ET.ParseError) as e:
+        print(f"❌ EPG processing failed: {e}")
+        traceback.print_exc()
         sys.exit(1)
 
-    print(f"✅ EPG processing finished. Temporary file {TMP_EPG_PATH} is kept as a fallback.")
+    print(f"✅ EPG processing finished. Final EPG saved to {FINAL_EPG_PATH}.")
 
 if __name__ == "__main__":
     # merge_playlists.main(URL_CHECK=False)
