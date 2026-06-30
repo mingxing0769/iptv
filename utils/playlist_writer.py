@@ -24,9 +24,9 @@ def process_and_normalize_channels(accessible_channels, official_names, official
     for tvg_name, tvg_id, tvg_logo, group_title, title, headers, url in tqdm(accessible_channels,
                                                                              desc="Processing & Unifying"):
         # 检查是否为 NSFW 内容
-        if is_nsfw(group_title, title):
-            filtered_count += 1
-            continue
+        # if is_nsfw(group_title, title):
+        #    filtered_count += 1
+        #    continue
 
         # channels.txt 过滤：获取正式名
         if CHANNELS_TXT_FILTER:
