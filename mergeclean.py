@@ -10,11 +10,16 @@ from utils.filter_keywords import Indicators_key, Category_Key, Nsfw_Key
 from config.sources_urls import playlist_urls
 from utils.network import fetch_playlist_content, is_url_accessible
 from utils.m3u_parse import parse_m3u
+from utils.channel_filter import load_channels_txt, get_official_name, get_missing_channels
 
 # --- 配置区 ---
 EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml"
 # EPG_URL="http://epg.51zmt.top:8000/e.xml"
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
+
+# 是否根据 channels.txt 进行频道筛选（仅保留 channels.txt 中的频道及其别名）
+CHANNELS_TXT_FILTER = True
+CHANNELS_TXT_PATH = "channels.txt"
 
 # 是否对频道进行筛选, 根据utils.filter_keywords.Category_Key
 CategoryFilter = True
@@ -31,21 +36,6 @@ def is_nsfw(group_title, title):
     nsfw_keywords = Nsfw_Key
     text_to_check = f"{group_title} {title}".lower()
     return any(keyword in text_to_check for keyword in nsfw_keywords)
-
-
-def normalize_title(title):
-    """
-    精确匹配替换
-    :param title: 文本
-    :return: 文本
-    """
-    indicators = Indicators_key
-    normalized = title
-    for indicator in indicators:
-        normalized = re.sub(indicator, '', normalized, flags=re.IGNORECASE)
-    normalized = re.sub(r'[\s\-_|(\[\]]+$', '', normalized).strip()
-    normalized = ' '.join(normalized.split())
-    return normalized if normalized else title
 
 
 def check_urls_concurrently(channels_to_check):
@@ -88,13 +78,13 @@ def check_urls_concurrently(channels_to_check):
     return accessible_channels
 
 
-def process_and_normalize_channels(accessible_channels):
+def process_and_normalize_channels(accessible_channels, official_names, official_to_aliases, alias_to_official, official_lower_to_original):
     """
     对频道列表进行规范化、去重和统一化处理。
     - 过滤 NSFW 内容和非指定分类。
-    - 根据关键字 进行分类过滤
+    - 根据 channels.txt 过滤频道（仅保留 channels.txt 中的频道及其别名）。
+    - 使用 channels.txt 中的正式名作为最终的 title 和 tvg-name。
     - 过滤 url 完全重复的条目。
-    - 规范化频道标题。
     - 统一同名频道的 TVG 信息。
     """
     print("\n🔍 Starting data normalization, de-duplication, and unification...")
@@ -103,6 +93,7 @@ def process_and_normalize_channels(accessible_channels):
     master_tvg_info = {}
     final_channels = []
     filtered_count = 0
+    processed_official_names = set()
 
     for tvg_name, tvg_id, tvg_logo, group_title, title, headers, url in tqdm(accessible_channels,
                                                                              desc="Processing & Unifying"):
@@ -110,6 +101,23 @@ def process_and_normalize_channels(accessible_channels):
         if is_nsfw(group_title, title):
             filtered_count += 1
             continue
+
+        # channels.txt 过滤：获取正式名
+        if CHANNELS_TXT_FILTER:
+            is_match, official_name_lower = get_official_name(title, official_names, official_to_aliases, alias_to_official)
+            if not is_match:
+                filtered_count += 1
+                continue
+            # 获取原始正式名
+            official_title = official_lower_to_original.get(official_name_lower, official_name_lower)
+            processed_official_names.add(official_name_lower)
+        else:
+            # 如果不启用 channels.txt 过滤，则使用原始 title
+            official_title = title
+            # 为了缺失频道统计，尝试提取可能的 official_name_lower
+            is_match, official_name_lower = get_official_name(title, official_names, official_to_aliases, alias_to_official)
+            if is_match:
+                processed_official_names.add(official_name_lower)
 
         # 分类过滤
         if CategoryFilter:
@@ -125,26 +133,25 @@ def process_and_normalize_channels(accessible_channels):
             continue
         processed_urls.add(url)
 
-        # 规范化标题
-        # normalized_title = normalize_title(title.strip())
-        key = title.lower()
+        key = official_title.lower()
 
-        # 检查并统一 TVG 信息  将tvg_name = title 以符合节目单显示逻辑  保留tvg_id 以对节目单进行筛选
+        # 检查并统一 TVG 信息
         if key not in master_tvg_info:
             master_tvg_info[key] = (tvg_logo, group_title)
 
-        master_tvg_logo, master_group_title= master_tvg_info[key]
+        master_tvg_logo, master_group_title = master_tvg_info[key]
 
         # 使用统一后的信息构建最终的频道数据
+        # 使用 official_title 作为 title 和 tvg-name
         unified_channel = (
-           title, tvg_id, master_tvg_logo, master_group_title, title, headers, url
+           official_title, tvg_id, master_tvg_logo, master_group_title, official_title, headers, url
         )
         final_channels.append(unified_channel)
 
     if filtered_count > 0:
-        print(f"🚫 Filtered out {filtered_count} channels based on keywords.")
+        print(f"🚫 Filtered out {filtered_count} channels based on filters.")
     print(f"✅ Kept {len(final_channels)} channels after processing.")
-    return final_channels
+    return final_channels, processed_official_names
 
 
 def write_merged_playlist(final_channels_to_write):
@@ -193,6 +200,18 @@ def main():
     start_time = datetime.now()
     print(f"🚀 Starting playlist merge at {start_time.strftime('%Y-%m-%d %H:%M:%S')}...")
 
+    # Load channels.txt if filtering is enabled
+    official_names = set()
+    official_to_aliases = {}
+    alias_to_official = {}
+    official_lower_to_original = {}
+    if CHANNELS_TXT_FILTER:
+        print(f"📂 Loading allowed channels from {CHANNELS_TXT_PATH}...")
+        official_names, official_to_aliases, alias_to_official, official_lower_to_original = load_channels_txt(CHANNELS_TXT_PATH)
+        print(f"✅ Loaded {len(official_names)} official channels and {len(alias_to_official)} aliases.")
+    else:
+        print("⚠️ CHANNELS_TXT_FILTER is False, skipping channels.txt filter.")
+
     all_channels = []
     for url in playlist_urls:
         content = fetch_playlist_content(url)
@@ -205,8 +224,18 @@ def main():
         all_channels = check_urls_concurrently(all_channels)
 
     # --- 优化步骤：只处理可访问的频道 ---
-    processed_channels = process_and_normalize_channels(all_channels)
+    processed_channels, processed_official_names = process_and_normalize_channels(all_channels, official_names, official_to_aliases, alias_to_official, official_lower_to_original)
     write_merged_playlist(processed_channels)
+
+    # 检查缺失的频道
+    if CHANNELS_TXT_FILTER and official_names:
+        missing_channels = get_missing_channels(processed_official_names, official_names)
+        if missing_channels:
+            print(f"\n⚠️ Missing channels from {CHANNELS_TXT_PATH} (not found in sources): {len(missing_channels)} channels.")
+            print(f"   Missing: {', '.join(missing_channels[:20])}{'...' if len(missing_channels) > 20 else ''}")
+            print("   💡 Consider adding new sources or expanding aliases in channels.txt to cover these channels.")
+        else:
+            print(f"\n✅ All {len(official_names)} channels from {CHANNELS_TXT_PATH} found in sources.")
 
     end_time = datetime.now()
     print(f"\n✨ Merging complete at {end_time.strftime('%Y-%m-%d %H:%M:%S')}.")
@@ -215,15 +244,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
-
-
