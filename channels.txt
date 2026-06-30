@@ -1,0 +1,93 @@
+#频道信息,每行为一个频道,行第一个为正式名,其它为别名 以#开头的行会跳过。
+CCTV1,CCTV-1
+CCTV2,CCTV-2
+CCTV3,CCTV-3
+CCTV4,CCTV-4,CCTV-4K (1080p)
+CCTV5,CCTV-5
+CCTV5+,CCTV-5+,CCTV-5+ (576i)
+CCTV6,CCTV-6
+CCTV7,CCTV-7
+CCTV8,CCTV-8,CCTV-8K (1080p)
+CCTV9,CCTV-9,CCTV-9 (576i),CCTV-9 (720p),CCTV-9 (1080p),CCTV9 (576i)
+CCTV10,CCTV-10,CCTV-10 (576i),CCTV-10 (720p),CCTV-10 (1080p)
+CCTV11,CCTV-11,CCTV-11 (576i),CCTV-11 (720p),CCTV-11 (1080p)
+CCTV12,CCTV-12,CCTV-12 (576i),CCTV-12 (720p),CCTV-12 (1080p)
+CCTV13,CCTV-13,CCTV-13 (576i),CCTV-13 (720p),CCTV-13 (1080p),CCTV新闻,CCTV13 (1080p)
+CCTV14,CCTV-14,CCTV-14 (576i),CCTV-14 (720p),CCTV-14 (1080p)
+CCTV15,CCTV-15,CCTV-15 (576i),CCTV-15 (720p),CCTV-15 (1080p)
+CCTV16,CCTV-16,CCTV-16 (576i),CCTV-16 (720p),CCTV-16 (1080p)
+CCTV17,CCTV-17,CCTV-17 (576i),CCTV-17 (720p),CCTV-17 (1080p)
+CCTV4K,CCTV-4K,CCTV-4K (576i),CCTV-4K (720p),CCTV-4K (1080p),CCTV4K (1080p)
+CCTV8K,CCTV-8K,CCTV-8K (576i),CCTV-8K (720p),CCTV-8K (1080p),CCTV8K (1080p)
+CCTV央视台球
+CCTV第一剧场
+CCTV女性时尚
+
+#凤凰中文,凤凰中文 (720p)
+#凤凰资讯,凤凰资讯 (720p),凤凰资讯 (1080p)
+#凤凰香港,凤凰香港 (720p)
+
+#RTHK TV 31,RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],RTHK TV 31 (港台電視31) (360p) [Geo-blocked],RTHK TV 31 (1080p)
+#RTHK TV 32,RTHK TV 32 (港台電視32) (1080p) [Geo-blocked],RTHK TV 32 (港台電視32) (360p) [Geo-blocked],RTHK TV 32 (1080p)
+#RTHK TV 33,RTHK TV 33 (港台電視33) (1080p) [Geo-blocked],RTHK TV 33 (1080p)
+#RTHK TV 34,RTHK TV 34 (港台電視34) (1080p) [Geo-blocked],RTHK TV 34 (1080p)
+#RTHK TV 35,RTHK TV 35 (港台電視35) (1080p) [Geo-blocked],RTHK TV 35 (1080p)
+#RTHK TV 36,RTHK TV 36 (港台電視36) (1080p) [Geo-blocked],RTHK TV 36 (1080p)
+
+
+ESPN
+ESPN2
+ESPNU,ESPN U
+ESPN Deportes, ESPN Deportes (360p), ESPN Deportes (720p), ESPN Deportes (1080p)
+
+
+F1, F1 Channel (720p), F1 Channel (1080p),F1 Channel (1080p) [Geo-blocked],F1 (720p),F1 (1080p)
+
+FloRacing,FloRacing 24/7 (1080p),FloRacing (720p),FloRacing (1080p)
+
+FOX Sports,Fox Sports (720p),Fox Sports (1080p),Fox Sports (720p) [Geo-blocked],Fox Sports (1080p) [Geo-blocked]
+FS1,Fox Sports 1,Fox Sports 1 (1280p),FS1 (1280p)
+FS2,Fox Sports 2,Fox Sports 2 (720p) [Not 24/7],Fox Sports 2 (1080p) [Not 24/7],FS2 (720p)
+FS3,Fox Sports 3 Latin America (1080p)
+Fox News, Fox News Channel (720p), Fox News Channel (1080p),Fox News Channel (720p) [Not 24/7],Fox News Channel (1080p) [Not 24/7],Fox News (720p)
+
+ABC News, ABC News (720p), ABC News (1080p),ABC News (Live) [Geo-blocked],ABC News (720p),ABC News Live (1080p) [Geo-blocked]
+BBC News, BBC News (720p), BBC News (1080p),BBC News Europe (1080p)
+
+
+BBC One,BBC One London (1080p) [Geo-blocked],BBC One (1080p)
+BBC Two, BBC Two (1080p) [Geo-blocked], BBC Two HD (1080p) [Geo-Blocked],BBC Two (1080p)
+BBC Three,BBC Three HD (720p),BBC Three HD (1080p) [Geo-blocked],BBC Three/CBBC (1080p) [Geo-Blocked]
+BBC Four,BBC Four HD (1080p) [Geo-blocked],BBC Four UK HD,BBC Four/CBeebies (1080p) [Geo-Blocked]
+#BBC UHD 1
+#BBC UHD 2
+#BBC UHD 3
+#BBC UHD 4
+#BBC UHD 5
+
+beIN SPORTS Xtra, beIN SPORTS Xtra (1080p)
+beIN Sports XTRA en Espanol,beIN Sports XTRA en Espanol (1080p)
+beIN SPORTS Xtra en Español,beIN SPORTS Xtra en Español (1080p)
+beIN SPORTS USA, beIN SPORTS USA (1080p)
+beIN SPORTS NBA
+beIN Sports AFC
+beIN Sports AFC 1
+beIN Sports AFC 2
+beIN Sports AFC 3
+
+Sportnet,Sportsnet (East), Sportsnet West
+Sportsnet 360, Sportsnet One
+Sportsnet Ontario
+Sportsnet Pacific
+Sportsnet Pittsburgh
+TSN1,TSN1 (1080p) [Not 24/7],TSN1 (1080p)
+TSN2,TSN2 (1080p) [Not 24/7],TSN2 (1080p)
+TSN3,TSN3 (1080p) [Not 24/7],TSN3 (1080p)
+TSN4,TSN4 (1080p) [Not 24/7], TSN4 (720p) [Not 24/7],TSN4 (720p)
+TSN5,TSN5 (1080p) [Not 24/7], TSN5 (720p) [Not 24/7],TSN5 (1080p)
+
+Sky Sports
+Sky Sports Premier League,Sky Sports Premier League
+Sky Sports F1,Sky Sports F1 HD
+Sky Sports Mix,Sky Sports Main Event
+Sky Sports Football

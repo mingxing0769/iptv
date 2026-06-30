@@ -12,7 +12,7 @@ from utils.network import fetch_playlist_content, is_url_accessible
 from utils.m3u_parse import parse_m3u
 
 # --- 配置区 ---
-EPG_URL = "https://tvpass.org/epg.xml"
+EPG_URL = "https://raw.githubusercontent.com/mingxing0769/iptv/main/out/DrewLive3.xml"
 # EPG_URL="http://epg.51zmt.top:8000/e.xml"
 OUTPUT_FILE = "out/MergedCleanPlaylist.m3u8"
 
@@ -168,12 +168,11 @@ def write_merged_playlist(final_channels_to_write):
 
         extinf_parts = ['#EXTINF:-1']
         if tvg_id: extinf_parts.append(f'tvg-id="{tvg_id}"')
-            
-        if tvg_name: 
+        if tvg_name:
             extinf_parts.append(f'tvg-name="{tvg_name}"')
         else:
             extinf_parts.append(f'tvg-name="{title}"')
-            
+
         if tvg_logo: extinf_parts.append(f'tvg-logo="{tvg_logo}"')
         if group: extinf_parts.append(f'group-title="{group}"')
 
@@ -216,10 +215,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
 
 
 
