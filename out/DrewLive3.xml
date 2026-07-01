@@ -66,8 +66,11 @@
   <channel id="beIN SPORTS Xtra en Español">
     <display-name>beIN SPORTS Xtra en Español</display-name>
   </channel>
-  <programme channel="CCTV4" start="20260629013000 +0000" stop="20260629032500 +0000">
-    <title lang="eng">Passion</title>
+  <programme channel="CCTV4" start="20260630000000 +0000" stop="20260630004500 +0000">
+    <title lang="eng">Il commissario Rex</title>
+  </programme>
+  <programme channel="CCTV4" start="20260630004500 +0000" stop="20260630040000 +0000">
+    <title lang="eng">RAI News</title>
   </programme>
   <programme channel="BBC News" start="20260629000000 +0000" stop="20260629003000 +0000">
     <title lang="eng">BBC News</title>
@@ -2769,72 +2772,6 @@
   <programme channel="Sportsnet 360" start="20260703040000 +0000" stop="20260703060000 +0000">
     <title lang="eng">TNA iMPACT!</title>
   </programme>
-  <programme channel="ABC News" start="20260629000000 +0000" stop="20260629040000 +0000">
-    <title lang="eng">Program ne ABC</title>
-  </programme>
-  <programme channel="ABC News" start="20260629040000 +0000" stop="20260629050000 +0000">
-    <title lang="eng">Program ne ABC</title>
-  </programme>
-  <programme channel="ABC News" start="20260629050000 +0000" stop="20260629060000 +0000">
-    <title lang="eng">Mirmengjes me Bashkim Hoxhn, Emision</title>
-  </programme>
-  <programme channel="ABC News" start="20260629060000 +0000" stop="20260629080000 +0000">
-    <title lang="eng">Abc-Ja E Mengjesit</title>
-  </programme>
-  <programme channel="ABC News" start="20260629080000 +0000" stop="20260629090000 +0000">
-    <title lang="eng">Breaking News</title>
-  </programme>
-  <programme channel="ABC News" start="20260629090000 +0000" stop="20260629100000 +0000">
-    <title lang="eng">Shqiperia Sot</title>
-  </programme>
-  <programme channel="ABC News" start="20260629100000 +0000" stop="20260629110000 +0000">
-    <title lang="eng">Edicion lajmesh</title>
-  </programme>
-  <programme channel="ABC News" start="20260629110000 +0000" stop="20260629120000 +0000">
-    <title lang="eng">Tirana Live</title>
-  </programme>
-  <programme channel="ABC News" start="20260629120000 +0000" stop="20260629123000 +0000">
-    <title lang="eng">Money Report, Emision</title>
-  </programme>
-  <programme channel="ABC News" start="20260629123000 +0000" stop="20260629130000 +0000">
-    <title lang="eng">Sport Center</title>
-  </programme>
-  <programme channel="ABC News" start="20260629130000 +0000" stop="20260629140000 +0000">
-    <title lang="eng">Edicion Informativ</title>
-  </programme>
-  <programme channel="ABC News" start="20260629140000 +0000" stop="20260629150000 +0000">
-    <title lang="eng">Faqja 4</title>
-  </programme>
-  <programme channel="ABC News" start="20260629150000 +0000" stop="20260629160000 +0000">
-    <title lang="eng">Ballkan Update</title>
-  </programme>
-  <programme channel="ABC News" start="20260629160000 +0000" stop="20260629170000 +0000">
-    <title lang="eng">Tirana Live</title>
-  </programme>
-  <programme channel="ABC News" start="20260629170000 +0000" stop="20260629180000 +0000">
-    <title lang="eng">Edicioni qendror informativ</title>
-  </programme>
-  <programme channel="ABC News" start="20260629180000 +0000" stop="20260629200000 +0000">
-    <title lang="eng">Futboll no Soccer</title>
-  </programme>
-  <programme channel="ABC News" start="20260629200000 +0000" stop="20260629210000 +0000">
-    <title lang="eng">War Report</title>
-  </programme>
-  <programme channel="ABC News" start="20260629210000 +0000" stop="20260629220000 +0000">
-    <title lang="eng">Ora e fundit, Emision</title>
-  </programme>
-  <programme channel="ABC News" start="20260629220000 +0000" stop="20260630000000 +0000">
-    <title lang="eng">Futboll no Soccer</title>
-  </programme>
-  <programme channel="ABC News" start="20260630000000 +0000" stop="20260630010000 +0000">
-    <title lang="eng">Ballkan Update</title>
-  </programme>
-  <programme channel="ABC News" start="20260630010000 +0000" stop="20260630020000 +0000">
-    <title lang="eng">Edicioni qendror informativ</title>
-  </programme>
-  <programme channel="ABC News" start="20260630020000 +0000" stop="20260630030000 +0000">
-    <title lang="eng">Faqja 4</title>
-  </programme>
   <programme channel="ABC News" start="20260630030000 +0000" stop="20260630050000 +0000">
     <title lang="eng">Futboll no Soccer</title>
   </programme>
@@ -3012,113 +2949,89 @@
   <programme channel="ABC News" start="20260702210000 +0000" stop="20260702220000 +0000">
     <title lang="eng">Ora e fundit, Emision</title>
   </programme>
-  <programme channel="ABC News" start="20260702220000 +0000" stop="20260702230000 +0000">
-    <title lang="eng">Pas mesnate, Emision</title>
-  </programme>
-  <programme channel="ABC News" start="20260702230000 +0000" stop="20260703000000 +0000">
-    <title lang="eng">Real Story</title>
+  <programme channel="ABC News" start="20260702220000 +0000" stop="20260703000000 +0000">
+    <title lang="eng">Futboll no Soccer</title>
   </programme>
   <programme channel="ABC News" start="20260703000000 +0000" stop="20260703010000 +0000">
     <title lang="eng">Ballkan Update</title>
   </programme>
   <programme channel="ABC News" start="20260703010000 +0000" stop="20260703020000 +0000">
-    <title lang="eng">Edicion lajmesh</title>
+    <title lang="eng">Edicioni qendror informativ</title>
   </programme>
   <programme channel="ABC News" start="20260703020000 +0000" stop="20260703030000 +0000">
     <title lang="eng">Faqja 4</title>
   </programme>
-  <programme channel="ABC News" start="20260703030000 +0000" stop="20260703040000 +0000">
-    <title lang="eng">War Report</title>
+  <programme channel="ABC News" start="20260703030000 +0000" stop="20260703050000 +0000">
+    <title lang="eng">Futboll no Soccer</title>
   </programme>
-  <programme channel="ABC News" start="20260703040000 +0000" stop="20260703050000 +0000">
-    <title lang="eng">Real Story</title>
+  <programme channel="ABC News" start="20260703050000 +0000" stop="20260703060000 +0000">
+    <title lang="eng">Mirmengjes me Bashkim Hoxhn, Emision</title>
   </programme>
-  <programme channel="BBC One" start="20260629034500 +0000" stop="20260629040000 +0000">
-    <title lang="eng">Newsday</title>
+  <programme channel="ABC News" start="20260703060000 +0000" stop="20260703080000 +0000">
+    <title lang="eng">Abc-Ja E Mengjesit</title>
   </programme>
-  <programme channel="BBC One" start="20260629040000 +0000" stop="20260629043000 +0000">
-    <title lang="eng">BBC News</title>
+  <programme channel="ABC News" start="20260703080000 +0000" stop="20260703090000 +0000">
+    <title lang="eng">Breaking News</title>
   </programme>
-  <programme channel="BBC One" start="20260629043000 +0000" stop="20260629050000 +0000">
-    <title lang="eng">Business Today</title>
+  <programme channel="ABC News" start="20260703090000 +0000" stop="20260703100000 +0000">
+    <title lang="eng">Shqiperia Sot</title>
   </programme>
-  <programme channel="BBC One" start="20260629050000 +0000" stop="20260629083000 +0000">
-    <title lang="eng">Breakfast</title>
+  <programme channel="ABC News" start="20260703100000 +0000" stop="20260703110000 +0000">
+    <title lang="eng">Edicion lajmesh</title>
   </programme>
-  <programme channel="BBC One" start="20260629083000 +0000" stop="20260629094500 +0000">
-    <title lang="eng">Morning Live</title>
+  <programme channel="ABC News" start="20260703110000 +0000" stop="20260703120000 +0000">
+    <title lang="eng">Tirana Live</title>
   </programme>
-  <programme channel="BBC One" start="20260629094500 +0000" stop="20260629101500 +0000">
-    <title lang="eng">Fraud Squad</title>
+  <programme channel="ABC News" start="20260703120000 +0000" stop="20260703123000 +0000">
+    <title lang="eng">Money Report, Emision</title>
   </programme>
-  <programme channel="BBC One" start="20260629101500 +0000" stop="20260629111500 +0000">
-    <title lang="eng">Homes Under the Hammer</title>
+  <programme channel="ABC News" start="20260703123000 +0000" stop="20260703130000 +0000">
+    <title lang="eng">Sport Center</title>
   </programme>
-  <programme channel="BBC One" start="20260629111500 +0000" stop="20260629120000 +0000">
-    <title lang="eng">Bargain Hunt</title>
+  <programme channel="ABC News" start="20260703130000 +0000" stop="20260703140000 +0000">
+    <title lang="eng">Edicion Informativ</title>
   </programme>
-  <programme channel="BBC One" start="20260629120000 +0000" stop="20260629123500 +0000">
-    <title lang="eng">BBC News at One</title>
+  <programme channel="ABC News" start="20260703140000 +0000" stop="20260703150000 +0000">
+    <title lang="eng">Faqja 4</title>
   </programme>
-  <programme channel="BBC One" start="20260629123500 +0000" stop="20260629124500 +0000">
-    <title lang="eng">BBC London</title>
+  <programme channel="ABC News" start="20260703150000 +0000" stop="20260703160000 +0000">
+    <title lang="eng">Ballkan Update</title>
   </programme>
-  <programme channel="BBC One" start="20260629124500 +0000" stop="20260629130000 +0000">
-    <title lang="eng">BBC News at One</title>
+  <programme channel="ABC News" start="20260703160000 +0000" stop="20260703170000 +0000">
+    <title lang="eng">Tirana Live</title>
   </programme>
-  <programme channel="BBC One" start="20260629130000 +0000" stop="20260629170000 +0000">
-    <title lang="eng">Live: Wimbledon 2026: Day 1</title>
+  <programme channel="ABC News" start="20260703170000 +0000" stop="20260703180000 +0000">
+    <title lang="eng">Edicioni qendror informativ</title>
   </programme>
-  <programme channel="BBC One" start="20260629170000 +0000" stop="20260629173000 +0000">
-    <title lang="eng">BBC News at Six</title>
+  <programme channel="ABC News" start="20260703180000 +0000" stop="20260703190000 +0000">
+    <title lang="eng">Futboll no Soccer</title>
   </programme>
-  <programme channel="BBC One" start="20260629173000 +0000" stop="20260629180000 +0000">
-    <title lang="eng">BBC London</title>
+  <programme channel="ABC News" start="20260703190000 +0000" stop="20260703210000 +0000">
+    <title lang="eng">Bardha Zi</title>
   </programme>
-  <programme channel="BBC One" start="20260629180000 +0000" stop="20260629193000 +0000">
-    <title lang="eng">Live: Wimbledon 2026: Day 1</title>
+  <programme channel="ABC News" start="20260703210000 +0000" stop="20260703220000 +0000">
+    <title lang="eng">Ora e fundit, Emision</title>
   </programme>
-  <programme channel="BBC One" start="20260629193000 +0000" stop="20260629195500 +0000">
-    <title lang="eng">BBC News at Ten</title>
+  <programme channel="ABC News" start="20260703220000 +0000" stop="20260703230000 +0000">
+    <title lang="eng">Ora e fundit, Emision</title>
   </programme>
-  <programme channel="BBC One" start="20260629195500 +0000" stop="20260629200000 +0000">
-    <title lang="eng">BBC London</title>
+  <programme channel="ABC News" start="20260703230000 +0000" stop="20260704000000 +0000">
+    <title lang="eng">Sheshi i Dollarit, Reportazh</title>
   </programme>
-  <programme channel="BBC One" start="20260629200000 +0000" stop="20260629230000 +0000">
-    <title lang="eng">Live: MOTD FIFA World Cup 2026: Round of 32: Germany v Paraguay</title>
+  <programme channel="ABC News" start="20260704000000 +0000" stop="20260704010000 +0000">
+    <title lang="eng">Ballkan Update</title>
   </programme>
-  <programme channel="BBC One" start="20260629230000 +0000" stop="20260630003000 +0000">
-    <title lang="eng">Mrs Brown's Boys D'Movie</title>
+  <programme channel="ABC News" start="20260704010000 +0000" stop="20260704020000 +0000">
+    <title lang="eng">Edicioni qendror informativ</title>
   </programme>
-  <programme channel="BBC One" start="20260630003000 +0000" stop="20260630003500 +0000">
-    <title lang="eng">Weather for the Week Ahead</title>
+  <programme channel="ABC News" start="20260704020000 +0000" stop="20260704030000 +0000">
+    <title lang="eng">Faqja 4</title>
   </programme>
-  <programme channel="BBC One" start="20260630003500 +0000" stop="20260630010000 +0000">
-    <title lang="eng">Joins BBC News</title>
+  <programme channel="ABC News" start="20260704030000 +0000" stop="20260704040000 +0000">
+    <title lang="eng">Tirana Live</title>
   </programme>
-  <programme channel="BBC One" start="20260630010000 +0000" stop="20260630013000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC One" start="20260630013000 +0000" stop="20260630014500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC One" start="20260630014500 +0000" stop="20260630020000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC One" start="20260630020000 +0000" stop="20260630023000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC One" start="20260630023000 +0000" stop="20260630024500 +0000">
-    <title lang="eng">Business Today</title>
-  </programme>
-  <programme channel="BBC One" start="20260630024500 +0000" stop="20260630030000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC One" start="20260630030000 +0000" stop="20260630033000 +0000">
-    <title lang="eng">Newsday</title>
-  </programme>
-  <programme channel="BBC One" start="20260630033000 +0000" stop="20260630034500 +0000">
-    <title lang="eng">Business Today</title>
+  <programme channel="ABC News" start="20260704040000 +0000" stop="20260704050000 +0000">
+    <title lang="eng">Sheshi i Dollarit, Reportazh</title>
   </programme>
   <programme channel="BBC One" start="20260630034500 +0000" stop="20260630040000 +0000">
     <title lang="eng">Newsday</title>
@@ -3153,16 +3066,19 @@
   <programme channel="BBC One" start="20260630124500 +0000" stop="20260630130000 +0000">
     <title lang="eng">BBC News at One</title>
   </programme>
-  <programme channel="BBC One" start="20260630130000 +0000" stop="20260630170000 +0000">
+  <programme channel="BBC One" start="20260630130000 +0000" stop="20260630160000 +0000">
     <title lang="eng">Live: Wimbledon 2026: Day 2</title>
   </programme>
-  <programme channel="BBC One" start="20260630170000 +0000" stop="20260630173000 +0000">
+  <programme channel="BBC One" start="20260630160000 +0000" stop="20260630161500 +0000">
     <title lang="eng">BBC News at Six</title>
   </programme>
-  <programme channel="BBC One" start="20260630173000 +0000" stop="20260630180000 +0000">
+  <programme channel="BBC One" start="20260630161500 +0000" stop="20260630163000 +0000">
     <title lang="eng">BBC London</title>
   </programme>
-  <programme channel="BBC One" start="20260630180000 +0000" stop="20260630210000 +0000">
+  <programme channel="BBC One" start="20260630163000 +0000" stop="20260630193000 +0000">
+    <title lang="eng">Live: MOTD FIFA World Cup 2026: Round of 32: Côte d'Ivoire v Norway</title>
+  </programme>
+  <programme channel="BBC One" start="20260630193000 +0000" stop="20260630210000 +0000">
     <title lang="eng">Live: Wimbledon 2026: Day 2</title>
   </programme>
   <programme channel="BBC One" start="20260630210000 +0000" stop="20260630213000 +0000">
@@ -3172,7 +3088,7 @@
     <title lang="eng">BBC London</title>
   </programme>
   <programme channel="BBC One" start="20260630214000 +0000" stop="20260630232500 +0000">
-    <title lang="eng">Marry Me</title>
+    <title lang="eng">Me Before You</title>
   </programme>
   <programme channel="BBC One" start="20260630232500 +0000" stop="20260630233000 +0000">
     <title lang="eng">Weather for the Week Ahead</title>
@@ -3240,40 +3156,40 @@
   <programme channel="BBC One" start="20260701124500 +0000" stop="20260701130000 +0000">
     <title lang="eng">BBC News at One</title>
   </programme>
-  <programme channel="BBC One" start="20260701130000 +0000" stop="20260701170000 +0000">
+  <programme channel="BBC One" start="20260701130000 +0000" stop="20260701150000 +0000">
     <title lang="eng">Live: Wimbledon 2026: Day 3</title>
   </programme>
-  <programme channel="BBC One" start="20260701170000 +0000" stop="20260701173000 +0000">
+  <programme channel="BBC One" start="20260701150000 +0000" stop="20260701183000 +0000">
+    <title lang="eng">Live: MOTD FIFA World Cup 2026: Round of 32: England v Congo DR</title>
+  </programme>
+  <programme channel="BBC One" start="20260701183000 +0000" stop="20260701184500 +0000">
     <title lang="eng">BBC News at Six</title>
   </programme>
-  <programme channel="BBC One" start="20260701173000 +0000" stop="20260701180000 +0000">
+  <programme channel="BBC One" start="20260701184500 +0000" stop="20260701190000 +0000">
     <title lang="eng">BBC London</title>
   </programme>
-  <programme channel="BBC One" start="20260701180000 +0000" stop="20260701210000 +0000">
+  <programme channel="BBC One" start="20260701190000 +0000" stop="20260701210000 +0000">
     <title lang="eng">Live: Wimbledon 2026: Day 3</title>
   </programme>
   <programme channel="BBC One" start="20260701210000 +0000" stop="20260701213000 +0000">
     <title lang="eng">BBC News at Ten</title>
   </programme>
-  <programme channel="BBC One" start="20260701213000 +0000" stop="20260701214000 +0000">
+  <programme channel="BBC One" start="20260701213000 +0000" stop="20260701214500 +0000">
     <title lang="eng">BBC London</title>
   </programme>
-  <programme channel="BBC One" start="20260701214000 +0000" stop="20260701232500 +0000">
-    <title lang="eng">Me Before You</title>
+  <programme channel="BBC One" start="20260701214500 +0000" stop="20260701232000 +0000">
+    <title lang="eng">Blink Twice</title>
   </programme>
-  <programme channel="BBC One" start="20260701232500 +0000" stop="20260701233000 +0000">
+  <programme channel="BBC One" start="20260701232000 +0000" stop="20260701235000 +0000">
+    <title lang="eng">Would I Lie to You?</title>
+  </programme>
+  <programme channel="BBC One" start="20260701235000 +0000" stop="20260702021000 +0000">
+    <title lang="eng">Live: MOTD FIFA World Cup 2026: Round of 32: USA v Bosnia and Herzegovina</title>
+  </programme>
+  <programme channel="BBC One" start="20260702021000 +0000" stop="20260702021500 +0000">
     <title lang="eng">Weather for the Week Ahead</title>
   </programme>
-  <programme channel="BBC One" start="20260701233000 +0000" stop="20260702000000 +0000">
-    <title lang="eng">Newscast</title>
-  </programme>
-  <programme channel="BBC One" start="20260702000000 +0000" stop="20260702021500 +0000">
-    <title lang="eng">BBC One(lang=)</title>
-  </programme>
-  <programme channel="BBC One" start="20260702021500 +0000" stop="20260702022000 +0000">
-    <title lang="eng">Weather for the Week Ahead</title>
-  </programme>
-  <programme channel="BBC One" start="20260702022000 +0000" stop="20260702023000 +0000">
+  <programme channel="BBC One" start="20260702021500 +0000" stop="20260702023000 +0000">
     <title lang="eng">Joins BBC News</title>
   </programme>
   <programme channel="BBC One" start="20260702023000 +0000" stop="20260702024500 +0000">
@@ -3330,38 +3246,29 @@
   <programme channel="BBC One" start="20260702173000 +0000" stop="20260702180000 +0000">
     <title lang="eng">BBC London</title>
   </programme>
-  <programme channel="BBC One" start="20260702180000 +0000" stop="20260702210000 +0000">
-    <title lang="eng">Live: Wimbledon 2026: Day 4</title>
+  <programme channel="BBC One" start="20260702180000 +0000" stop="20260702183000 +0000">
+    <title lang="eng">EastEnders</title>
   </programme>
-  <programme channel="BBC One" start="20260702210000 +0000" stop="20260702213000 +0000">
+  <programme channel="BBC One" start="20260702183000 +0000" stop="20260702211500 +0000">
+    <title lang="eng">Live: MOTD FIFA World Cup 2026: Round of 32: Spain v Austria</title>
+  </programme>
+  <programme channel="BBC One" start="20260702211500 +0000" stop="20260702220000 +0000">
     <title lang="eng">BBC News at Ten</title>
   </programme>
-  <programme channel="BBC One" start="20260702213000 +0000" stop="20260702214000 +0000">
-    <title lang="eng">BBC London</title>
+  <programme channel="BBC One" start="20260702220000 +0000" stop="20260702223000 +0000">
+    <title lang="eng">How Are You? It's Alan (Partridge)</title>
   </programme>
-  <programme channel="BBC One" start="20260702214000 +0000" stop="20260702231500 +0000">
-    <title lang="eng">Blink Twice</title>
-  </programme>
-  <programme channel="BBC One" start="20260702231500 +0000" stop="20260702232000 +0000">
-    <title lang="eng">Weather for the Week Ahead</title>
-  </programme>
-  <programme channel="BBC One" start="20260702232000 +0000" stop="20260702233000 +0000">
-    <title lang="eng">Joins BBC News</title>
-  </programme>
-  <programme channel="BBC One" start="20260702233000 +0000" stop="20260703000000 +0000">
-    <title lang="eng">Newscast</title>
-  </programme>
-  <programme channel="BBC One" start="20260703000000 +0000" stop="20260703003000 +0000">
-    <title lang="eng">BBC News</title>
-  </programme>
-  <programme channel="BBC One" start="20260703003000 +0000" stop="20260703010000 +0000">
-    <title lang="eng">The Media Show</title>
+  <programme channel="BBC One" start="20260702223000 +0000" stop="20260703010000 +0000">
+    <title lang="eng">Live: MOTD FIFA World Cup 2026: Round of 32: Portugal v Croatia</title>
   </programme>
   <programme channel="BBC One" start="20260703010000 +0000" stop="20260703013000 +0000">
     <title lang="eng">Newsday</title>
   </programme>
-  <programme channel="BBC One" start="20260703013000 +0000" stop="20260703014500 +0000">
-    <title lang="eng">Business Today</title>
+  <programme channel="BBC One" start="20260703013000 +0000" stop="20260703013500 +0000">
+    <title lang="eng">Weather for the Week Ahead</title>
+  </programme>
+  <programme channel="BBC One" start="20260703013500 +0000" stop="20260703014500 +0000">
+    <title lang="eng">Joins BBC News</title>
   </programme>
   <programme channel="BBC One" start="20260703014500 +0000" stop="20260703020000 +0000">
     <title lang="eng">Newsday</title>
@@ -3372,85 +3279,94 @@
   <programme channel="BBC One" start="20260703023000 +0000" stop="20260703024500 +0000">
     <title lang="eng">Business Today</title>
   </programme>
-  <programme channel="BBC One" start="20260703024500 +0000" stop="20260703030000 +0000">
+  <programme channel="BBC One" start="20260703024500 +0000" stop="20260703025000 +0000">
     <title lang="eng">Newsday</title>
   </programme>
-  <programme channel="BBC One" start="20260703030000 +0000" stop="20260703033000 +0000">
-    <title lang="eng">Newsday</title>
+  <programme channel="BBC One" start="20260703025000 +0000" stop="20260703051500 +0000">
+    <title lang="eng">Live: MOTD FIFA World Cup 2026: Round of 32: Switzerland v Algeria</title>
   </programme>
-  <programme channel="BBC One" start="20260703033000 +0000" stop="20260703034500 +0000">
-    <title lang="eng">Business Today</title>
+  <programme channel="BBC One" start="20260703051500 +0000" stop="20260703083000 +0000">
+    <title lang="eng">Breakfast</title>
   </programme>
-  <programme channel="BBC One" start="20260703034500 +0000" stop="20260703040000 +0000">
-    <title lang="eng">Newsday</title>
+  <programme channel="BBC One" start="20260703083000 +0000" stop="20260703094500 +0000">
+    <title lang="eng">Morning Live</title>
   </programme>
-  <programme channel="BBC One" start="20260703040000 +0000" stop="20260703043000 +0000">
+  <programme channel="BBC One" start="20260703094500 +0000" stop="20260703101500 +0000">
+    <title lang="eng">Fraud Squad</title>
+  </programme>
+  <programme channel="BBC One" start="20260703101500 +0000" stop="20260703111500 +0000">
+    <title lang="eng">Homes Under the Hammer</title>
+  </programme>
+  <programme channel="BBC One" start="20260703111500 +0000" stop="20260703120000 +0000">
+    <title lang="eng">Bargain Hunt</title>
+  </programme>
+  <programme channel="BBC One" start="20260703120000 +0000" stop="20260703123500 +0000">
+    <title lang="eng">BBC News at One</title>
+  </programme>
+  <programme channel="BBC One" start="20260703123500 +0000" stop="20260703124500 +0000">
+    <title lang="eng">BBC London</title>
+  </programme>
+  <programme channel="BBC One" start="20260703124500 +0000" stop="20260703130000 +0000">
+    <title lang="eng">BBC News at One</title>
+  </programme>
+  <programme channel="BBC One" start="20260703130000 +0000" stop="20260703163000 +0000">
+    <title lang="eng">Live: Wimbledon 2026: Day 5</title>
+  </programme>
+  <programme channel="BBC One" start="20260703163000 +0000" stop="20260703170000 +0000">
+    <title lang="eng">BBC News at Six</title>
+  </programme>
+  <programme channel="BBC One" start="20260703170000 +0000" stop="20260703173000 +0000">
+    <title lang="eng">BBC London</title>
+  </programme>
+  <programme channel="BBC One" start="20260703173000 +0000" stop="20260703203000 +0000">
+    <title lang="eng">Live: MOTD FIFA World Cup 2026: Round of 32: Australia v Egypt</title>
+  </programme>
+  <programme channel="BBC One" start="20260703203000 +0000" stop="20260703210000 +0000">
+    <title lang="eng">How Are You? It's Alan (Partridge)</title>
+  </programme>
+  <programme channel="BBC One" start="20260703210000 +0000" stop="20260703213000 +0000">
+    <title lang="eng">BBC News at Ten</title>
+  </programme>
+  <programme channel="BBC One" start="20260703213000 +0000" stop="20260703214000 +0000">
+    <title lang="eng">BBC London</title>
+  </programme>
+  <programme channel="BBC One" start="20260703214000 +0000" stop="20260703232500 +0000">
+    <title lang="eng">Marry Me</title>
+  </programme>
+  <programme channel="BBC One" start="20260703232500 +0000" stop="20260703233000 +0000">
+    <title lang="eng">Weather for the Week Ahead</title>
+  </programme>
+  <programme channel="BBC One" start="20260703233000 +0000" stop="20260704000000 +0000">
+    <title lang="eng">Talking Business</title>
+  </programme>
+  <programme channel="BBC One" start="20260704000000 +0000" stop="20260704003000 +0000">
     <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="BBC Two" start="20260629024000 +0000" stop="20260629050000 +0000">
-    <title lang="eng">This Is BBC TWO</title>
+  <programme channel="BBC One" start="20260704003000 +0000" stop="20260704010000 +0000">
+    <title lang="eng">Tech Now</title>
   </programme>
-  <programme channel="BBC Two" start="20260629050000 +0000" stop="20260629054500 +0000">
-    <title lang="eng">Garden Rescue</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629054500 +0000" stop="20260629063000 +0000">
-    <title lang="eng">The Travelling Auctioneers</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629063000 +0000" stop="20260629073000 +0000">
-    <title lang="eng">Tiger Island</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629073000 +0000" stop="20260629080000 +0000">
-    <title lang="eng">See Hear</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629080000 +0000" stop="20260629084500 +0000">
+  <programme channel="BBC One" start="20260704010000 +0000" stop="20260704013000 +0000">
     <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="BBC Two" start="20260629084500 +0000" stop="20260629093000 +0000">
-    <title lang="eng">Politics Live</title>
+  <programme channel="BBC One" start="20260704013000 +0000" stop="20260704020000 +0000">
+    <title lang="eng">China's Greatest Treasures</title>
   </programme>
-  <programme channel="BBC Two" start="20260629093000 +0000" stop="20260629140000 +0000">
-    <title lang="eng">Live: Wimbledon 2026: Day 1</title>
+  <programme channel="BBC One" start="20260704020000 +0000" stop="20260704023000 +0000">
+    <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="BBC Two" start="20260629140000 +0000" stop="20260629180000 +0000">
-    <title lang="eng">Live: Wimbledon 2026: Day 1</title>
+  <programme channel="BBC One" start="20260704023000 +0000" stop="20260704030000 +0000">
+    <title lang="eng">Talking Movies</title>
   </programme>
-  <programme channel="BBC Two" start="20260629180000 +0000" stop="20260629183000 +0000">
-    <title lang="eng">Villages by the Sea</title>
+  <programme channel="BBC One" start="20260704030000 +0000" stop="20260704033000 +0000">
+    <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="BBC Two" start="20260629183000 +0000" stop="20260629190000 +0000">
-    <title lang="eng">EastEnders</title>
+  <programme channel="BBC One" start="20260704033000 +0000" stop="20260704040000 +0000">
+    <title lang="eng">The Media Show</title>
   </programme>
-  <programme channel="BBC Two" start="20260629190000 +0000" stop="20260629193000 +0000">
-    <title lang="eng">EastEnders</title>
+  <programme channel="BBC One" start="20260704040000 +0000" stop="20260704043000 +0000">
+    <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="BBC Two" start="20260629193000 +0000" stop="20260629210000 +0000">
-    <title lang="eng">Live: Wimbledon 2026: Day 1</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629210000 +0000" stop="20260629213000 +0000">
-    <title lang="eng">Mortimer and Whitehouse: Gone Fishing</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629213000 +0000" stop="20260629215800 +0000">
-    <title lang="eng">Newsnight</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629215800 +0000" stop="20260629220000 +0000">
-    <title lang="eng">BBC Weather</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629220000 +0000" stop="20260629230500 +0000">
-    <title lang="eng">Today at Wimbledon</title>
-  </programme>
-  <programme channel="BBC Two" start="20260629230500 +0000" stop="20260630000500 +0000">
-    <title lang="eng">Today at the Test</title>
-  </programme>
-  <programme channel="BBC Two" start="20260630000500 +0000" stop="20260630003500 +0000">
-    <title lang="eng">See Hear</title>
-  </programme>
-  <programme channel="BBC Two" start="20260630003500 +0000" stop="20260630013000 +0000">
-    <title lang="eng">Countryfile</title>
-  </programme>
-  <programme channel="BBC Two" start="20260630013000 +0000" stop="20260630023000 +0000">
-    <title lang="eng">Springwatch</title>
-  </programme>
-  <programme channel="BBC Two" start="20260630023000 +0000" stop="20260630053000 +0000">
+  <programme channel="BBC Two" start="20260630022500 +0000" stop="20260630053000 +0000">
     <title lang="eng">This Is BBC TWO</title>
   </programme>
   <programme channel="BBC Two" start="20260630053000 +0000" stop="20260630063000 +0000">
@@ -3468,10 +3384,10 @@
   <programme channel="BBC Two" start="20260630080000 +0000" stop="20260630091500 +0000">
     <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="BBC Two" start="20260630091500 +0000" stop="20260630100000 +0000">
+  <programme channel="BBC Two" start="20260630091500 +0000" stop="20260630100500 +0000">
     <title lang="eng">Politics Live</title>
   </programme>
-  <programme channel="BBC Two" start="20260630100000 +0000" stop="20260630140000 +0000">
+  <programme channel="BBC Two" start="20260630100500 +0000" stop="20260630140000 +0000">
     <title lang="eng">Live: Wimbledon 2026: Day 2</title>
   </programme>
   <programme channel="BBC Two" start="20260630140000 +0000" stop="20260630180000 +0000">
@@ -3546,20 +3462,23 @@
   <programme channel="BBC Two" start="20260701140000 +0000" stop="20260701180000 +0000">
     <title lang="eng">Live: Wimbledon 2026: Day 3</title>
   </programme>
-  <programme channel="BBC Two" start="20260701180000 +0000" stop="20260701183000 +0000">
+  <programme channel="BBC Two" start="20260701180000 +0000" stop="20260701190000 +0000">
+    <title lang="eng">Live: Wimbledon 2026: Day 3</title>
+  </programme>
+  <programme channel="BBC Two" start="20260701190000 +0000" stop="20260701193000 +0000">
     <title lang="eng">Villages by the Sea</title>
   </programme>
-  <programme channel="BBC Two" start="20260701183000 +0000" stop="20260701190000 +0000">
-    <title lang="eng">EastEnders</title>
-  </programme>
-  <programme channel="BBC Two" start="20260701190000 +0000" stop="20260701200000 +0000">
-    <title lang="eng">Celebrity Antiques Road Trip</title>
-  </programme>
-  <programme channel="BBC Two" start="20260701200000 +0000" stop="20260701210000 +0000">
+  <programme channel="BBC Two" start="20260701193000 +0000" stop="20260701200000 +0000">
     <title lang="eng">Saving Lives at Sea</title>
   </programme>
-  <programme channel="BBC Two" start="20260701210000 +0000" stop="20260701213000 +0000">
+  <programme channel="BBC Two" start="20260701200000 +0000" stop="20260701203000 +0000">
+    <title lang="eng">EastEnders</title>
+  </programme>
+  <programme channel="BBC Two" start="20260701203000 +0000" stop="20260701210000 +0000">
     <title lang="eng">Mortimer and Whitehouse: Gone Fishing</title>
+  </programme>
+  <programme channel="BBC Two" start="20260701210000 +0000" stop="20260701213000 +0000">
+    <title lang="eng">Scams &amp; Scandals</title>
   </programme>
   <programme channel="BBC Two" start="20260701213000 +0000" stop="20260701215800 +0000">
     <title lang="eng">Newsnight</title>
@@ -3612,20 +3531,11 @@
   <programme channel="BBC Two" start="20260702140000 +0000" stop="20260702180000 +0000">
     <title lang="eng">Live: Wimbledon 2026: Day 4</title>
   </programme>
-  <programme channel="BBC Two" start="20260702180000 +0000" stop="20260702183000 +0000">
-    <title lang="eng">Grand Tours of Scotland's Lochs</title>
-  </programme>
-  <programme channel="BBC Two" start="20260702183000 +0000" stop="20260702190000 +0000">
-    <title lang="eng">EastEnders</title>
-  </programme>
-  <programme channel="BBC Two" start="20260702190000 +0000" stop="20260702200000 +0000">
-    <title lang="eng">The Repair Shop</title>
-  </programme>
-  <programme channel="BBC Two" start="20260702200000 +0000" stop="20260702210000 +0000">
-    <title lang="eng">Who Do You Think You Are?</title>
+  <programme channel="BBC Two" start="20260702180000 +0000" stop="20260702210000 +0000">
+    <title lang="eng">Live: Wimbledon 2026: Day 4</title>
   </programme>
   <programme channel="BBC Two" start="20260702210000 +0000" stop="20260702213000 +0000">
-    <title lang="eng">Would I Lie to You?</title>
+    <title lang="eng">Inside No. 9</title>
   </programme>
   <programme channel="BBC Two" start="20260702213000 +0000" stop="20260702215800 +0000">
     <title lang="eng">Newsnight</title>
@@ -3648,113 +3558,62 @@
   <programme channel="BBC Two" start="20260703020000 +0000" stop="20260703030000 +0000">
     <title lang="eng">Question Time</title>
   </programme>
-  <programme channel="BBC Two" start="20260703030000 +0000" stop="20260703053000 +0000">
+  <programme channel="BBC Two" start="20260703030000 +0000" stop="20260703050000 +0000">
     <title lang="eng">This Is BBC TWO</title>
   </programme>
-  <programme channel="CCTV9" start="20260629050000 +0200" stop="20260629053000 +0200">
-    <title lang="eng">Humanities and Geography</title>
+  <programme channel="BBC Two" start="20260703050000 +0000" stop="20260703051500 +0000">
+    <title lang="eng">Breakfast</title>
   </programme>
-  <programme channel="CCTV9" start="20260629053000 +0200" stop="20260629060000 +0200">
-    <title lang="eng">Living China</title>
+  <programme channel="BBC Two" start="20260703051500 +0000" stop="20260703053000 +0000">
+    <title lang="eng">The A to Z of TV Gardening</title>
   </programme>
-  <programme channel="CCTV9" start="20260629060000 +0200" stop="20260629070000 +0200">
-    <title lang="eng">Special Edition</title>
+  <programme channel="BBC Two" start="20260703053000 +0000" stop="20260703061500 +0000">
+    <title lang="eng">The Travelling Auctioneers</title>
   </programme>
-  <programme channel="CCTV9" start="20260629070000 +0200" stop="20260629073000 +0200">
-    <title lang="eng">Journeys and Discoveries</title>
+  <programme channel="BBC Two" start="20260703061500 +0000" stop="20260703070000 +0000">
+    <title lang="eng">Garden Rescue</title>
   </programme>
-  <programme channel="CCTV9" start="20260629073000 +0200" stop="20260629080000 +0200">
-    <title lang="eng">History in the Frame</title>
+  <programme channel="BBC Two" start="20260703070000 +0000" stop="20260703080000 +0000">
+    <title lang="eng">Marcus Wareing Simply Provence</title>
   </programme>
-  <programme channel="CCTV9" start="20260629080000 +0200" stop="20260629090000 +0200">
-    <title lang="eng">Best Eats</title>
+  <programme channel="BBC Two" start="20260703080000 +0000" stop="20260703092000 +0000">
+    <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="CCTV9" start="20260629090000 +0200" stop="20260629093000 +0200">
-    <title lang="eng">Youthful China</title>
+  <programme channel="BBC Two" start="20260703092000 +0000" stop="20260703095000 +0000">
+    <title lang="eng">Political Thinking with Nick Robinson</title>
   </programme>
-  <programme channel="CCTV9" start="20260629093000 +0200" stop="20260629100000 +0200">
-    <title lang="eng">Pixel Collage</title>
+  <programme channel="BBC Two" start="20260703095000 +0000" stop="20260703100000 +0000">
+    <title lang="eng">Lifeline</title>
   </programme>
-  <programme channel="CCTV9" start="20260629100000 +0200" stop="20260629110000 +0200">
-    <title lang="eng">Today’s Top Pick</title>
+  <programme channel="BBC Two" start="20260703100000 +0000" stop="20260703140000 +0000">
+    <title lang="eng">Live: Wimbledon 2026: Day 5</title>
   </programme>
-  <programme channel="CCTV9" start="20260629110000 +0200" stop="20260629113000 +0200">
-    <title lang="eng">Humanities and Geography</title>
+  <programme channel="BBC Two" start="20260703140000 +0000" stop="20260703180000 +0000">
+    <title lang="eng">Live: Wimbledon 2026: Day 5</title>
   </programme>
-  <programme channel="CCTV9" start="20260629113000 +0200" stop="20260629120000 +0200">
-    <title lang="eng">Living China</title>
+  <programme channel="BBC Two" start="20260703180000 +0000" stop="20260703210000 +0000">
+    <title lang="eng">Live: Wimbledon 2026: Day 5</title>
   </programme>
-  <programme channel="CCTV9" start="20260629120000 +0200" stop="20260629130000 +0200">
-    <title lang="eng">Special Edition</title>
+  <programme channel="BBC Two" start="20260703210000 +0000" stop="20260703213000 +0000">
+    <title lang="eng">QI</title>
   </programme>
-  <programme channel="CCTV9" start="20260629130000 +0200" stop="20260629133000 +0200">
-    <title lang="eng">Journeys and Discoveries</title>
+  <programme channel="BBC Two" start="20260703213000 +0000" stop="20260703215800 +0000">
+    <title lang="eng">Newsnight</title>
   </programme>
-  <programme channel="CCTV9" start="20260629133000 +0200" stop="20260629140000 +0200">
-    <title lang="eng">History in the Frame</title>
+  <programme channel="BBC Two" start="20260703215800 +0000" stop="20260703220000 +0000">
+    <title lang="eng">BBC Weather</title>
   </programme>
-  <programme channel="CCTV9" start="20260629140000 +0200" stop="20260629150000 +0200">
-    <title lang="eng">Best Eats</title>
+  <programme channel="BBC Two" start="20260703220000 +0000" stop="20260703230000 +0000">
+    <title lang="eng">Today at Wimbledon</title>
   </programme>
-  <programme channel="CCTV9" start="20260629150000 +0200" stop="20260629153000 +0200">
-    <title lang="eng">Youthful China</title>
+  <programme channel="BBC Two" start="20260703230000 +0000" stop="20260704011000 +0000">
+    <title lang="eng">Licorice Pizza</title>
   </programme>
-  <programme channel="CCTV9" start="20260629153000 +0200" stop="20260629160000 +0200">
-    <title lang="eng">Pixel Collage</title>
+  <programme channel="BBC Two" start="20260704011000 +0000" stop="20260704021000 +0000">
+    <title lang="eng">Reported Missing</title>
   </programme>
-  <programme channel="CCTV9" start="20260629160000 +0200" stop="20260629170000 +0200">
-    <title lang="eng">Today’s Top Pick</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629170000 +0200" stop="20260629173000 +0200">
-    <title lang="eng">Humanities and Geography</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629173000 +0200" stop="20260629180000 +0200">
-    <title lang="eng">Living China</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629180000 +0200" stop="20260629190000 +0200">
-    <title lang="eng">Special Edition</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629190000 +0200" stop="20260629193000 +0200">
-    <title lang="eng">Journeys and Discoveries</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629193000 +0200" stop="20260629200000 +0200">
-    <title lang="eng">History in the Frame</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629200000 +0200" stop="20260629210000 +0200">
-    <title lang="eng">Best Eats</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629210000 +0200" stop="20260629213000 +0200">
-    <title lang="eng">Youthful China</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629213000 +0200" stop="20260629220000 +0200">
-    <title lang="eng">Pixel Collage</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629220000 +0200" stop="20260629230000 +0200">
-    <title lang="eng">Today’s Top Pick</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629230000 +0200" stop="20260629233000 +0200">
-    <title lang="eng">Humanities and Geography</title>
-  </programme>
-  <programme channel="CCTV9" start="20260629233000 +0200" stop="20260630010000 +0200">
-    <title lang="eng">Living China</title>
-  </programme>
-  <programme channel="CCTV9" start="20260630010000 +0200" stop="20260630013000 +0200">
-    <title lang="eng">Journeys and Discoveries</title>
-  </programme>
-  <programme channel="CCTV9" start="20260630013000 +0200" stop="20260630020000 +0200">
-    <title lang="eng">History in the Frame</title>
-  </programme>
-  <programme channel="CCTV9" start="20260630020000 +0200" stop="20260630030000 +0200">
-    <title lang="eng">Best Eats</title>
-  </programme>
-  <programme channel="CCTV9" start="20260630030000 +0200" stop="20260630033000 +0200">
-    <title lang="eng">Youthful China</title>
-  </programme>
-  <programme channel="CCTV9" start="20260630033000 +0200" stop="20260630040000 +0200">
-    <title lang="eng">Pixel Collage</title>
-  </programme>
-  <programme channel="CCTV9" start="20260630040000 +0200" stop="20260630180000 +0200">
-    <title lang="eng">Today’s Top Pick</title>
+  <programme channel="BBC Two" start="20260704021000 +0000" stop="20260704051000 +0000">
+    <title lang="eng">This Is BBC TWO</title>
   </programme>
   <programme channel="CCTV9" start="20260630180000 +0200" stop="20260630190000 +0200">
     <title lang="eng">Special Edition</title>
@@ -3991,6 +3850,111 @@
     <title lang="eng">Humanities and Geography</title>
   </programme>
   <programme channel="CCTV9" start="20260702233000 +0200" stop="20260703010000 +0200">
+    <title lang="eng">Living China</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703010000 +0200" stop="20260703013000 +0200">
+    <title lang="eng">Journeys and Discoveries</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703013000 +0200" stop="20260703020000 +0200">
+    <title lang="eng">History in the Frame</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703020000 +0200" stop="20260703030000 +0200">
+    <title lang="eng">Best Eats</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703030000 +0200" stop="20260703033000 +0200">
+    <title lang="eng">Youthful China</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703033000 +0200" stop="20260703040000 +0200">
+    <title lang="eng">Pixel Collage</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703040000 +0200" stop="20260703050000 +0200">
+    <title lang="eng">Today’s Top Pick</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703050000 +0200" stop="20260703053000 +0200">
+    <title lang="eng">Humanities and Geography</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703053000 +0200" stop="20260703060000 +0200">
+    <title lang="eng">Living China</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703060000 +0200" stop="20260703070000 +0200">
+    <title lang="eng">Special Edition</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703070000 +0200" stop="20260703073000 +0200">
+    <title lang="eng">Journeys and Discoveries</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703073000 +0200" stop="20260703080000 +0200">
+    <title lang="eng">History in the Frame</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703080000 +0200" stop="20260703090000 +0200">
+    <title lang="eng">Best Eats</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703090000 +0200" stop="20260703093000 +0200">
+    <title lang="eng">Youthful China</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703093000 +0200" stop="20260703100000 +0200">
+    <title lang="eng">Pixel Collage</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703100000 +0200" stop="20260703110000 +0200">
+    <title lang="eng">Today’s Top Pick</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703110000 +0200" stop="20260703113000 +0200">
+    <title lang="eng">Humanities and Geography</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703113000 +0200" stop="20260703120000 +0200">
+    <title lang="eng">Living China</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703120000 +0200" stop="20260703130000 +0200">
+    <title lang="eng">Special Edition</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703130000 +0200" stop="20260703133000 +0200">
+    <title lang="eng">Journeys and Discoveries</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703133000 +0200" stop="20260703140000 +0200">
+    <title lang="eng">History in the Frame</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703140000 +0200" stop="20260703150000 +0200">
+    <title lang="eng">Best Eats</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703150000 +0200" stop="20260703153000 +0200">
+    <title lang="eng">Youthful China</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703153000 +0200" stop="20260703160000 +0200">
+    <title lang="eng">Pixel Collage</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703160000 +0200" stop="20260703170000 +0200">
+    <title lang="eng">Today’s Top Pick</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703170000 +0200" stop="20260703173000 +0200">
+    <title lang="eng">Humanities and Geography</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703173000 +0200" stop="20260703180000 +0200">
+    <title lang="eng">Living China</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703180000 +0200" stop="20260703190000 +0200">
+    <title lang="eng">Special Edition</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703190000 +0200" stop="20260703193000 +0200">
+    <title lang="eng">Journeys and Discoveries</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703193000 +0200" stop="20260703200000 +0200">
+    <title lang="eng">History in the Frame</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703200000 +0200" stop="20260703210000 +0200">
+    <title lang="eng">Best Eats</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703210000 +0200" stop="20260703213000 +0200">
+    <title lang="eng">Youthful China</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703213000 +0200" stop="20260703220000 +0200">
+    <title lang="eng">Pixel Collage</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703220000 +0200" stop="20260703230000 +0200">
+    <title lang="eng">Today’s Top Pick</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703230000 +0200" stop="20260703233000 +0200">
+    <title lang="eng">Humanities and Geography</title>
+  </programme>
+  <programme channel="CCTV9" start="20260703233000 +0200" stop="20260704010000 +0200">
     <title lang="eng">Living China</title>
   </programme>
   <programme channel="Sky Sports Premier League" start="20260630000000 +0000" stop="20260630020000 +0000">
@@ -6636,120 +6600,6 @@
   <programme channel="FOX Sports" start="20260703233000 +0000" stop="20260704000000 +0000">
     <title lang="eng">The Herd With Colin Cowherd</title>
   </programme>
-  <programme channel="Sky Sports Premier League" start="20260629000000 +0000" stop="20260629020000 +0000">
-    <title lang="eng">PL Retro: Arsenal v Man Utd 1997</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629020000 +0000" stop="20260629021500 +0000">
-    <title lang="eng">PL Greatest: L'Pool/Blackpool 2010</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629021500 +0000" stop="20260629023000 +0000">
-    <title lang="eng">PL Greatest: Bolton/Chelsea 2005</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629023000 +0000" stop="20260629024500 +0000">
-    <title lang="eng">PL Greatest Games:Spurs/Arsenal'04</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629024500 +0000" stop="20260629030000 +0000">
-    <title lang="eng">PL Greatest:A Villa/B'Ham City '08</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629030000 +0000" stop="20260629040000 +0000">
-    <title lang="eng">Best Premier League Goals 07/08</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629040000 +0000" stop="20260629043000 +0000">
-    <title lang="eng">Best PL Goals: M City v Liverpool</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629043000 +0000" stop="20260629050000 +0000">
-    <title lang="eng">Best PL Goals: Chelsea v Arsenal</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629050000 +0000" stop="20260629051500 +0000">
-    <title lang="eng">PL Greatest Games: Char v WHam '01</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629051500 +0000" stop="20260629053000 +0000">
-    <title lang="eng">PL Greatest Games: WHam v ManU '16</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629053000 +0000" stop="20260629054500 +0000">
-    <title lang="eng">PL Greatest Games:M City/L'Pool 15</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629054500 +0000" stop="20260629060000 +0000">
-    <title lang="eng">PL Greatest Games:M City/L'Pool 13</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629060000 +0000" stop="20260629070000 +0000">
-    <title lang="eng">Premier League Review</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629070000 +0000" stop="20260629080000 +0000">
-    <title lang="eng">Premier League Review</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629080000 +0000" stop="20260629083000 +0000">
-    <title lang="eng">FNF: Liverpool v Bournemouth Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629083000 +0000" stop="20260629090000 +0000">
-    <title lang="eng">PL: Sunderland v West Ham Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629090000 +0000" stop="20260629093000 +0000">
-    <title lang="eng">PL: Brighton v Fulham Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629093000 +0000" stop="20260629100000 +0000">
-    <title lang="eng">PL: Spurs v Burnley Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629100000 +0000" stop="20260629103000 +0000">
-    <title lang="eng">SNF: Wolves v Man City Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629103000 +0000" stop="20260629110000 +0000">
-    <title lang="eng">PL: Nott'm Forest v Brentford Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629110000 +0000" stop="20260629113000 +0000">
-    <title lang="eng">PL: Chelsea v Crystal Palace Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629113000 +0000" stop="20260629120000 +0000">
-    <title lang="eng">PL: Man Utd v Arsenal Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629120000 +0000" stop="20260629123000 +0000">
-    <title lang="eng">MNF: Leeds Utd v Everton Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629123000 +0000" stop="20260629130000 +0000">
-    <title lang="eng">FNF: West Ham v Chelsea</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629130000 +0000" stop="20260629133000 +0000">
-    <title lang="eng">PL: Burnley v Sunderland Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629133000 +0000" stop="20260629140000 +0000">
-    <title lang="eng">PL: Bournemouth v Wolves Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629140000 +0000" stop="20260629143000 +0000">
-    <title lang="eng">PL: Brentford v Aston Villa Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629143000 +0000" stop="20260629150000 +0000">
-    <title lang="eng">SNF: Arsenal v Leeds Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629150000 +0000" stop="20260629153000 +0000">
-    <title lang="eng">PL: Everton v Brighton Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629153000 +0000" stop="20260629160000 +0000">
-    <title lang="eng">PL: C. Palace v Nott'm Forest Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629160000 +0000" stop="20260629163000 +0000">
-    <title lang="eng">PL: Fulham v Man Utd Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629163000 +0000" stop="20260629170000 +0000">
-    <title lang="eng">MNF: Newcastle v Liverpool Hlts</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629170000 +0000" stop="20260629190000 +0000">
-    <title lang="eng">Premier League Season Review</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629190000 +0000" stop="20260629193000 +0000">
-    <title lang="eng">Premier League Netbusters</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629193000 +0000" stop="20260629200000 +0000">
-    <title lang="eng">Premier League Netbusters</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629200000 +0000" stop="20260629210000 +0000">
-    <title lang="eng">Premier League Review</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629210000 +0000" stop="20260629220000 +0000">
-    <title lang="eng">Premier League Review</title>
-  </programme>
-  <programme channel="Sky Sports Premier League" start="20260629220000 +0000" stop="20260630000000 +0000">
-    <title lang="eng">Premier League Years 2020-2021</title>
-  </programme>
   <programme channel="Sky Sports Premier League" start="20260630000000 +0000" stop="20260630020000 +0000">
     <title lang="eng">PL Retro: Man Utd v Arsenal 2002</title>
   </programme>
@@ -7101,52 +6951,127 @@
   <programme channel="Sky Sports Premier League" start="20260702220000 +0000" stop="20260703000000 +0000">
     <title lang="eng">Premier League Years 2023-2024</title>
   </programme>
-  <programme channel="BBC One" start="20260629050000 +0000" stop="20260629083000 +0000">
-    <title lang="eng">Breakfast</title>
+  <programme channel="Sky Sports Premier League" start="20260703000000 +0000" stop="20260703020000 +0000">
+    <title lang="eng">PL Retro: Manchester City v QPR</title>
   </programme>
-  <programme channel="BBC One" start="20260629083000 +0000" stop="20260629094500 +0000">
-    <title lang="eng">Morning Live</title>
+  <programme channel="Sky Sports Premier League" start="20260703020000 +0000" stop="20260703021500 +0000">
+    <title lang="eng">PL Greatest: Spurs v United '96</title>
   </programme>
-  <programme channel="BBC One" start="20260629094500 +0000" stop="20260629101500 +0000">
-    <title lang="eng">Fraud Squad</title>
+  <programme channel="Sky Sports Premier League" start="20260703021500 +0000" stop="20260703023000 +0000">
+    <title lang="eng">PL Greatest Games:Spurs v ManU '01</title>
   </programme>
-  <programme channel="BBC One" start="20260629101500 +0000" stop="20260629111500 +0000">
-    <title lang="eng">Homes Under the Hammer</title>
+  <programme channel="Sky Sports Premier League" start="20260703023000 +0000" stop="20260703024500 +0000">
+    <title lang="eng">PL Greatest: United v Spurs '12</title>
   </programme>
-  <programme channel="BBC One" start="20260629111500 +0000" stop="20260629120000 +0000">
-    <title lang="eng">Bargain Hunt</title>
+  <programme channel="Sky Sports Premier League" start="20260703024500 +0000" stop="20260703030000 +0000">
+    <title lang="eng">PL Greatest: Spurs v United '17</title>
   </programme>
-  <programme channel="BBC One" start="20260629120000 +0000" stop="20260629130000 +0000">
-    <title lang="eng">BBC News at One including BBC London News</title>
+  <programme channel="Sky Sports Premier League" start="20260703030000 +0000" stop="20260703040000 +0000">
+    <title lang="eng">Best Premier League Goals 11/12</title>
   </programme>
-  <programme channel="BBC One" start="20260629130000 +0000" stop="20260629170000 +0000">
-    <title lang="eng">Wimbledon 2026</title>
+  <programme channel="Sky Sports Premier League" start="20260703040000 +0000" stop="20260703050000 +0000">
+    <title lang="eng">The Best PL Goals: Solo Goals</title>
   </programme>
-  <programme channel="BBC One" start="20260629170000 +0000" stop="20260629173000 +0000">
-    <title lang="eng">BBC News</title>
+  <programme channel="Sky Sports Premier League" start="20260703050000 +0000" stop="20260703051500 +0000">
+    <title lang="eng">PL Greatest Games:Arsenal/Spurs 08</title>
   </programme>
-  <programme channel="BBC One" start="20260629173000 +0000" stop="20260629180000 +0000">
-    <title lang="eng">BBC London News</title>
+  <programme channel="Sky Sports Premier League" start="20260703051500 +0000" stop="20260703053000 +0000">
+    <title lang="eng">PL Greatest: Man U/Arsenal '98</title>
   </programme>
-  <programme channel="BBC One" start="20260629180000 +0000" stop="20260629193000 +0000">
-    <title lang="eng">Wimbledon 2026</title>
+  <programme channel="Sky Sports Premier League" start="20260703053000 +0000" stop="20260703054500 +0000">
+    <title lang="eng">PL Greatest: Man Utd/Everton 2012</title>
   </programme>
-  <programme channel="BBC One" start="20260629193000 +0000" stop="20260629195500 +0000">
-    <title lang="eng">BBC News and Weather</title>
+  <programme channel="Sky Sports Premier League" start="20260703054500 +0000" stop="20260703060000 +0000">
+    <title lang="eng">PL Greatest Games:Newc/Leics '97</title>
   </programme>
-  <programme channel="BBC One" start="20260629195500 +0000" stop="20260629200000 +0000">
-    <title lang="eng">BBC London News</title>
+  <programme channel="Sky Sports Premier League" start="20260703060000 +0000" stop="20260703070000 +0000">
+    <title lang="eng">Premier League Review</title>
   </programme>
-  <programme channel="BBC One" start="20260629200000 +0000" stop="20260629230000 +0000">
-    <title lang="eng">MOTD Live: Germany v  Paraguay</title>
+  <programme channel="Sky Sports Premier League" start="20260703070000 +0000" stop="20260703080000 +0000">
+    <title lang="eng">Premier League Review</title>
   </programme>
-  <programme channel="BBC One" start="20260629230000 +0000" stop="20260630003000 +0000">
-    <title lang="eng">Mrs Brown's Boys D'Movie</title>
+  <programme channel="Sky Sports Premier League" start="20260703080000 +0000" stop="20260703083000 +0000">
+    <title lang="eng">FNF: Leeds v West Ham Hlts</title>
   </programme>
-  <programme channel="BBC One" start="20260630003000 +0000" stop="20260630003500 +0000">
+  <programme channel="Sky Sports Premier League" start="20260703083000 +0000" stop="20260703090000 +0000">
+    <title lang="eng">PL: Chelsea v Sunderland Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703090000 +0000" stop="20260703093000 +0000">
+    <title lang="eng">PL: Newcastle v Fulham Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703093000 +0000" stop="20260703100000 +0000">
+    <title lang="eng">SNF: Man Utd v Brighton Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703100000 +0000" stop="20260703103000 +0000">
+    <title lang="eng">PL: Wolves v Burnley Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703103000 +0000" stop="20260703110000 +0000">
+    <title lang="eng">PL: Bournemouth v N. Forest Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703110000 +0000" stop="20260703113000 +0000">
+    <title lang="eng">PL: Aston Villa v Man City Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703113000 +0000" stop="20260703120000 +0000">
+    <title lang="eng">PL: Arsenal v Crystal Palace Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703120000 +0000" stop="20260703123000 +0000">
+    <title lang="eng">PL: Everton v Spurs Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703123000 +0000" stop="20260703130000 +0000">
+    <title lang="eng">PL: Nott'm Forest v Man Utd Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703130000 +0000" stop="20260703133000 +0000">
+    <title lang="eng">PL: Burnley v Arsenal Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703133000 +0000" stop="20260703140000 +0000">
+    <title lang="eng">PL: C. Palace v Brentford Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703140000 +0000" stop="20260703143000 +0000">
+    <title lang="eng">PL: Brighton v Leeds Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703143000 +0000" stop="20260703150000 +0000">
+    <title lang="eng">PL: Fulham v Wolves Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703150000 +0000" stop="20260703153000 +0000">
+    <title lang="eng">SNF: Spurs v Chelsea Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703153000 +0000" stop="20260703160000 +0000">
+    <title lang="eng">PL: West Ham v Newcastle Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703160000 +0000" stop="20260703163000 +0000">
+    <title lang="eng">PL: Man City v Bournemouth Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703163000 +0000" stop="20260703170000 +0000">
+    <title lang="eng">MNF: Sunderland v Everton Hlts</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703170000 +0000" stop="20260703180000 +0000">
+    <title lang="eng">Premier League Goals of The Season</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703180000 +0000" stop="20260703183000 +0000">
+    <title lang="eng">PL Stories: Diogo Jota</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703183000 +0000" stop="20260703190000 +0000">
+    <title lang="eng">Transfer 360: Michael Carrick</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703190000 +0000" stop="20260703193000 +0000">
+    <title lang="eng">Premier League Netbusters</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703193000 +0000" stop="20260703200000 +0000">
+    <title lang="eng">Premier League Netbusters</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703200000 +0000" stop="20260703210000 +0000">
+    <title lang="eng">Premier League Review</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703210000 +0000" stop="20260703220000 +0000">
+    <title lang="eng">Premier League Review</title>
+  </programme>
+  <programme channel="Sky Sports Premier League" start="20260703220000 +0000" stop="20260704000000 +0000">
+    <title lang="eng">Premier League Years 2024-2025</title>
+  </programme>
+  <programme channel="BBC One" start="20260630011000 +0000" stop="20260630011500 +0000">
     <title lang="eng">Weather for the Week Ahead</title>
   </programme>
-  <programme channel="BBC One" start="20260630003500 +0000" stop="20260630050000 +0000">
+  <programme channel="BBC One" start="20260630011500 +0000" stop="20260630050000 +0000">
     <title lang="eng">BBC News</title>
   </programme>
   <programme channel="BBC One" start="20260630050000 +0000" stop="20260630083000 +0000">
@@ -7287,155 +7212,59 @@
   <programme channel="BBC One" start="20260702220000 +0000" stop="20260702223000 +0000">
     <title lang="eng">How Are You? It's Alan (Partridge)</title>
   </programme>
-  <programme channel="BBC One" start="20260702223000 +0000" stop="20260703013000 +0000">
+  <programme channel="BBC One" start="20260702223000 +0000" stop="20260703011500 +0000">
     <title lang="eng">MOTD Live: Portugal v Croatia</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629050000 +0000" stop="20260629070000 +0000">
-    <title lang="eng">Championship Retro</title>
+  <programme channel="BBC One" start="20260703011500 +0000" stop="20260703012000 +0000">
+    <title lang="eng">Weather for the Week Ahead</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629070000 +0000" stop="20260629071500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703012000 +0000" stop="20260703025000 +0000">
+    <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629071500 +0000" stop="20260629073000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703025000 +0000" stop="20260703051500 +0000">
+    <title lang="eng">MOTD Live: Switzerland v Algeria</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629073000 +0000" stop="20260629074500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703051500 +0000" stop="20260703083000 +0000">
+    <title lang="eng">Breakfast</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629074500 +0000" stop="20260629080000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703083000 +0000" stop="20260703094500 +0000">
+    <title lang="eng">Morning Live</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629080000 +0000" stop="20260629081500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703094500 +0000" stop="20260703101500 +0000">
+    <title lang="eng">Fraud Squad</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629081500 +0000" stop="20260629083000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703101500 +0000" stop="20260703111500 +0000">
+    <title lang="eng">Homes Under the Hammer</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629083000 +0000" stop="20260629084500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703111500 +0000" stop="20260703120000 +0000">
+    <title lang="eng">Bargain Hunt</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629084500 +0000" stop="20260629090000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703120000 +0000" stop="20260703130000 +0000">
+    <title lang="eng">BBC News at One including BBC London News</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629090000 +0000" stop="20260629100000 +0000">
-    <title lang="eng">EFL Cup Final 17</title>
+  <programme channel="BBC One" start="20260703130000 +0000" stop="20260703163000 +0000">
+    <title lang="eng">Wimbledon 2026</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629100000 +0000" stop="20260629110000 +0000">
-    <title lang="eng">SPFL Special: Celtic's Invincibles</title>
+  <programme channel="BBC One" start="20260703163000 +0000" stop="20260703170000 +0000">
+    <title lang="eng">BBC News</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629110000 +0000" stop="20260629120000 +0000">
-    <title lang="eng">EFL</title>
+  <programme channel="BBC One" start="20260703170000 +0000" stop="20260703173000 +0000">
+    <title lang="eng">BBC London News</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629120000 +0000" stop="20260629130000 +0000">
-    <title lang="eng">EFL Highlights</title>
+  <programme channel="BBC One" start="20260703173000 +0000" stop="20260703203000 +0000">
+    <title lang="eng">MOTD Live: Australia v Egypt</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629130000 +0000" stop="20260629140000 +0000">
-    <title lang="eng">EFL Highlights</title>
+  <programme channel="BBC One" start="20260703203000 +0000" stop="20260703210000 +0000">
+    <title lang="eng">How Are You? It's Alan (Partridge)</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629140000 +0000" stop="20260629141500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703210000 +0000" stop="20260703213000 +0000">
+    <title lang="eng">BBC News and Weather</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629141500 +0000" stop="20260629143000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="BBC One" start="20260703213000 +0000" stop="20260703214000 +0000">
+    <title lang="eng">BBC London News</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260629143000 +0000" stop="20260629144500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629144500 +0000" stop="20260629150000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629150000 +0000" stop="20260629170000 +0000">
-    <title lang="eng">Championship Retro</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629170000 +0000" stop="20260629180000 +0000">
-    <title lang="eng">Henrik Larsson: 20 Years On</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629180000 +0000" stop="20260629183000 +0000">
-    <title lang="eng">SPFL</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629183000 +0000" stop="20260629190000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629190000 +0000" stop="20260629191500 +0000">
-    <title lang="eng">SPFL Highlights</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629191500 +0000" stop="20260629193000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629193000 +0000" stop="20260629194500 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629194500 +0000" stop="20260629200000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629200000 +0000" stop="20260629201500 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629201500 +0000" stop="20260629203000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629203000 +0000" stop="20260629204500 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629204500 +0000" stop="20260629210000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629210000 +0000" stop="20260629211500 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629211500 +0000" stop="20260629213000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629213000 +0000" stop="20260629214500 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629214500 +0000" stop="20260629220000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629220000 +0000" stop="20260629221500 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629221500 +0000" stop="20260629223000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629223000 +0000" stop="20260629230000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260629230000 +0000" stop="20260630010000 +0000">
-    <title lang="eng">Championship Retro</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630010000 +0000" stop="20260630011500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630011500 +0000" stop="20260630013000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630013000 +0000" stop="20260630014500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630014500 +0000" stop="20260630020000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630020000 +0000" stop="20260630021500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630021500 +0000" stop="20260630023000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630023000 +0000" stop="20260630024500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630024500 +0000" stop="20260630030000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630030000 +0000" stop="20260630040000 +0000">
-    <title lang="eng">EFL Cup Retro</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630040000 +0000" stop="20260630043000 +0000">
-    <title lang="eng">EFL Cup Highlights</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260630043000 +0000" stop="20260630050000 +0000">
-    <title lang="eng">EFL Trophy Football</title>
+  <programme channel="BBC One" start="20260703214000 +0000" stop="20260703232500 +0000">
+    <title lang="eng">Marry Me</title>
   </programme>
   <programme channel="Sky Sports Football" start="20260630050000 +0000" stop="20260630070000 +0000">
     <title lang="eng">Retro League One</title>
@@ -7566,89 +7395,62 @@
   <programme channel="Sky Sports Football" start="20260701043000 +0000" stop="20260701050000 +0000">
     <title lang="eng">EFL Trophy Football</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701050000 +0000" stop="20260701074500 +0000">
-    <title lang="eng">EFL Cup Retro</title>
+  <programme channel="Sky Sports Football" start="20260701050000 +0000" stop="20260701060000 +0000">
+    <title lang="eng">World Cup Report</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701074500 +0000" stop="20260701080000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701060000 +0000" stop="20260701070000 +0000">
+    <title lang="eng">World Cup Breakfast</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701080000 +0000" stop="20260701081500 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701070000 +0000" stop="20260701080000 +0000">
+    <title lang="eng">World Cup Breakfast</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701081500 +0000" stop="20260701083000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701083000 +0000" stop="20260701084500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701084500 +0000" stop="20260701090000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701080000 +0000" stop="20260701090000 +0000">
+    <title lang="eng">World Cup Breakfast</title>
   </programme>
   <programme channel="Sky Sports Football" start="20260701090000 +0000" stop="20260701100000 +0000">
-    <title lang="eng">Championship Season Review</title>
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701100000 +0000" stop="20260701101500 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701100000 +0000" stop="20260701110000 +0000">
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701101500 +0000" stop="20260701103000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701110000 +0000" stop="20260701120000 +0000">
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701103000 +0000" stop="20260701104500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701120000 +0000" stop="20260701130000 +0000">
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701104500 +0000" stop="20260701110000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701130000 +0000" stop="20260701140000 +0000">
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701110000 +0000" stop="20260701130000 +0000">
-    <title lang="eng">EFL Cup Retro</title>
+  <programme channel="Sky Sports Football" start="20260701140000 +0000" stop="20260701150000 +0000">
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701130000 +0000" stop="20260701133000 +0000">
-    <title lang="eng">Dundee United - Champions 83</title>
+  <programme channel="Sky Sports Football" start="20260701150000 +0000" stop="20260701160000 +0000">
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701133000 +0000" stop="20260701140000 +0000">
-    <title lang="eng">John Robertson: Hammer of Hibs</title>
+  <programme channel="Sky Sports Football" start="20260701160000 +0000" stop="20260701170000 +0000">
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701140000 +0000" stop="20260701143000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701170000 +0000" stop="20260701180000 +0000">
+    <title lang="eng">World Cup Matchday</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701143000 +0000" stop="20260701144500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701180000 +0000" stop="20260701190000 +0000">
+    <title lang="eng">World Cup Report</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701144500 +0000" stop="20260701150000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701150000 +0000" stop="20260701163000 +0000">
-    <title lang="eng">Championship Season Review</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701163000 +0000" stop="20260701164500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701164500 +0000" stop="20260701170000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701170000 +0000" stop="20260701194500 +0000">
-    <title lang="eng">EFL Cup Retro</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701194500 +0000" stop="20260701200000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701190000 +0000" stop="20260701200000 +0000">
+    <title lang="eng">World Cup Report</title>
   </programme>
   <programme channel="Sky Sports Football" start="20260701200000 +0000" stop="20260701203000 +0000">
-    <title lang="eng">SPFL Greatest Games</title>
+    <title lang="eng">World Cup Report</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701203000 +0000" stop="20260701204500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701203000 +0000" stop="20260701210000 +0000">
+    <title lang="eng">World Cup Report</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701204500 +0000" stop="20260701210000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701210000 +0000" stop="20260701220000 +0000">
+    <title lang="eng">World Cup Report</title>
   </programme>
-  <programme channel="Sky Sports Football" start="20260701210000 +0000" stop="20260701223000 +0000">
-    <title lang="eng">Championship Season Review</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701223000 +0000" stop="20260701224500 +0000">
-    <title lang="eng">EFL Greatest Games</title>
-  </programme>
-  <programme channel="Sky Sports Football" start="20260701224500 +0000" stop="20260701230000 +0000">
-    <title lang="eng">EFL Greatest Games</title>
+  <programme channel="Sky Sports Football" start="20260701220000 +0000" stop="20260701230000 +0000">
+    <title lang="eng">World Cup Report</title>
   </programme>
   <programme channel="Sky Sports Football" start="20260701230000 +0000" stop="20260702010000 +0000">
     <title lang="eng">Retro League One</title>
@@ -7799,6 +7601,123 @@
   </programme>
   <programme channel="Sky Sports Football" start="20260703044500 +0000" stop="20260703050000 +0000">
     <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703050000 +0000" stop="20260703070000 +0000">
+    <title lang="eng">EFL Cup Retro</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703070000 +0000" stop="20260703073000 +0000">
+    <title lang="eng">SPFL</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703073000 +0000" stop="20260703080000 +0000">
+    <title lang="eng">SPFL</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703080000 +0000" stop="20260703081500 +0000">
+    <title lang="eng">SPFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703081500 +0000" stop="20260703083000 +0000">
+    <title lang="eng">SPFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703083000 +0000" stop="20260703084500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703084500 +0000" stop="20260703090000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703090000 +0000" stop="20260703100000 +0000">
+    <title lang="eng">Championship Season Review</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703100000 +0000" stop="20260703103000 +0000">
+    <title lang="eng">SPFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703103000 +0000" stop="20260703104500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703104500 +0000" stop="20260703110000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703110000 +0000" stop="20260703130000 +0000">
+    <title lang="eng">EFL Cup Retro</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703130000 +0000" stop="20260703140000 +0000">
+    <title lang="eng">1983: When Aberdeen Ruled Europe</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703140000 +0000" stop="20260703143000 +0000">
+    <title lang="eng">SPFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703143000 +0000" stop="20260703144500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703144500 +0000" stop="20260703150000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703150000 +0000" stop="20260703163000 +0000">
+    <title lang="eng">EFL</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703163000 +0000" stop="20260703164500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703164500 +0000" stop="20260703170000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703170000 +0000" stop="20260703194500 +0000">
+    <title lang="eng">Championship Retro</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703194500 +0000" stop="20260703200000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703200000 +0000" stop="20260703203000 +0000">
+    <title lang="eng">SPFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703203000 +0000" stop="20260703204500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703204500 +0000" stop="20260703210000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703210000 +0000" stop="20260703220000 +0000">
+    <title lang="eng">EFL Cup Highlights</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703220000 +0000" stop="20260703223000 +0000">
+    <title lang="eng">SPFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703223000 +0000" stop="20260703224500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703224500 +0000" stop="20260703230000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260703230000 +0000" stop="20260704010000 +0000">
+    <title lang="eng">Championship Retro</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704010000 +0000" stop="20260704011500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704011500 +0000" stop="20260704013000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704013000 +0000" stop="20260704014500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704014500 +0000" stop="20260704020000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704020000 +0000" stop="20260704023000 +0000">
+    <title lang="eng">SPFL Highlights</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704023000 +0000" stop="20260704024500 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704024500 +0000" stop="20260704030000 +0000">
+    <title lang="eng">EFL Greatest Games</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704030000 +0000" stop="20260704040000 +0000">
+    <title lang="eng">EFL Cup Highlights</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704040000 +0000" stop="20260704043000 +0000">
+    <title lang="eng">EFL Cup Highlights</title>
+  </programme>
+  <programme channel="Sky Sports Football" start="20260704043000 +0000" stop="20260704050000 +0000">
+    <title lang="eng">The Story of Frank Soo</title>
   </programme>
   <programme channel="FS1" start="20260629040000 +0000" stop="20260629060000 +0000">
     <title lang="eng">FIFA World Cup 2026</title>
