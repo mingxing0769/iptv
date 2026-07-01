@@ -96,4 +96,5 @@ playlist_urls = [
 "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u",
 "https://raw.githubusercontent.com/ziizidavid/Iptvjoes/main/IPTV.m3u",
 "https://raw.githubusercontent.com/a65101855/iptv/main/iptv.m3u",
+"https://raw.githubusercontent.com/onlylove2023/iptv/main/IPTV.m3u",
 ]
