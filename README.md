@@ -27,6 +27,8 @@
 
 ### 播放列表
 ```
+https://raw.githubusercontent.com/mingxing0769/iptv/refs/heads/main/out/MergedCleanPlaylist.m3u8
+
 https://raw.githubusercontent.com/mingxing0769/iptv/refs/heads/main/out/MergedCleanPlaylist_no_tvg_id.m3u8
 ```
 
