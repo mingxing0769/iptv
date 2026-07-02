@@ -100,4 +100,5 @@ playlist_urls = [
 "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u",
 "https://raw.githubusercontent.com/isw866/iptv/main/iptv4.m3u",
 "https://raw.githubusercontent.com/francio87/SmartIPTV-IT/main/iptv-it.m3u",
+"https://raw.githubusercontent.com/illbnm/iptv/Files/IPTV.m3u",
 ]
